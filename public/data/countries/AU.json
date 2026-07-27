@@ -1,0 +1,789 @@
+{
+  "iso2": "AU",
+  "iso3": "AUS",
+  "country_name": "Australia",
+  "flag": "🇦🇺",
+  "region": "Oceania",
+  "coordinates": {
+    "lat": -25.2744,
+    "lon": 133.7751
+  },
+  "updated_at": "2026-07-24T22:00:48+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "interest rates",
+    "petrol prices",
+    "cost of living"
+  ],
+  "top_news": {
+    "headline": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
+    "summary": "Australians worry about rising interest rates and petrol prices surpassing $2 per litre amid economic pressures.",
+    "why_it_matters": "Reflects everyday financial stress and public concern over cost of living.",
+    "source_name": "The Guardian",
+    "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenZEc2ROTmRUWEd3ck1qa3VCOE1QcGN1X0dKZEE2Xy0wWEFDVlo2REtiQWxLSFBXcE9UR0pLaHY1S1NHSmJpT1o4SGFnS1drXzdzaVNaMmxlZkItQUcxT3VFYXJnLVBNc2VpMExFaXpJYnN5aXlOeDhJUnAyb2E1SnRmQUdoX1BiQzl5ekN5bTU4Mm1GNWdaZWlKd18tbTNzRkJncnBJMmthSTN3amtXT25aTC1fQkZwRHROb0dMWGRjNlE?oc=5",
+    "published_at": "Fri, 24 Jul 2026 15:01:00 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Heater Safety Warning for Australian Winter",
+    "platform": "reddit",
+    "explanation": "A Redditor shares a relatable story about heater dangers during a cold winter without central heating, sparking safety awareness and humor.",
+    "why_people_are_sharing_it": "Relatable winter struggles and unexpected heater mishaps resonate widely.",
+    "tone": "funny",
+    "local_context": "Australian winters can be unexpectedly cold, especially in high rises without heating.",
+    "source_url": "https://www.reddit.com/r/australia/comments/1v57ocf/be_careful_with_heaters_this_winter/",
+    "media_url": "https://www.reddit.com/r/australia/comments/1v57ocf/be_careful_with_heaters_this_winter/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=en-AU&gl=AU&ceid=AU:en",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre - The Guardian",
+          "score": 5,
+          "reasons": [
+            "boost_milestone_signal",
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Commonwealth Games 2026: men’s gymnastics team final, first swimming golds – live - The Guardian",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Qantas leaves Melbourne waiting for non-stop London flights - AFR",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Evening Wrap: ASX 200 slumps as oil price surge threatens cost of living, higher interest rates, and company profits - Market Index",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "The half-empty hall: why Gen X broke Australian politics - Pearls and Irritations",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Woman allegedly makes antisemitic comments at Bondi attack site - ABC News & Headlines – Australian Broadcasting Corporation",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump's new Australian tariffs reveal complex truths, experts say as government urges repeal - SBS",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Albanese trips down escalator at ALP conference - Sky News Australia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Christian Brothers abuse victims to get ‘full’ compensation in backdown after controversial property sales - The Guardian",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘Building the plane while it’s flying’: How the government rewrote the story of the Suburban Rail Loop - The Age",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Teacher pay dispute to drag on as negotiations stall in wake of strike - The Age",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The former opposition leader, the alleged branch stacking and the silent nuns - SMH.com.au",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hanson podcast resurfaces amid DV storm - News.com.au",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tens of thousands flee fires in France as blazes merge outside Madrid - ABC News & Headlines – Australian Broadcasting Corporation",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bali bans two Dutch men alleged to have hosted discriminatory run club - ABC News & Headlines – Australian Broadcasting Corporation",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "RIMPAC 2026 SINKEX Highlights Expanding Allied Anti-Ship Capabilities - navalnews.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘Hacker’ strikes ‘deal’ with Origin to halt leak - The Australian",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Codex 5.3 Production Workflow: When to Use It Over Claude for Complex Refactoring - SitePoint",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Blizzard fire World Of Warcraft developer over use of forbidden magicks to insta-kill bosses for regular players during dungeon run - Rock Paper Shotgun",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Police officer shot while responding to call on the Fraser Coast - ABC News & Headlines – Australian Broadcasting Corporation",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "australia",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=AU",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "status": "disabled",
+        "message": "disabled for countries where language wiki is too global"
+      },
+      "filters": [
+        {
+          "title": "Resident Evil Official Trailer (4K)",
+          "score": 11,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:Popular global entertainment franchise trailer, strong internet culture relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "JENNIE - Less than a Lover (Official Music Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular K-pop artist's official video, strong internet and cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers: Doomsday Official Trailer",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Major global entertainment franchise, strong internet and pop culture relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "SIDEMEN MECCHA CHAMELEON - Sidemen React Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular YouTube group with strong internet culture presence."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "KATSEYE \"Animal\" Official MV Teaser 2",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:K-pop related content with strong internet culture relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avatar: Seven Havens Official Teaser (Paramount+ SDCC 2026)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular franchise with strong fanbase and cultural relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Heater Safety Warning for Australian Winter",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:Generic safety advice, not a strong cultural or internet fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Tyler1 Challenged Me - Ludwig's Reaction Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular streamer and internet personality content, strong internet culture relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PSA: Statutory Declarations Valid as Sick Certificates via myGov",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Useful public service announcement with local cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Reginald Chard, Australia's Last Kokoda Veteran, Dies at 102",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Significant historical figure in Australia, culturally important but somewhat niche."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Starting Over Using Only Robux in Keyboard Escape (Roblox Gameplay)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content with niche but notable internet culture relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Animal by KATSEYE (Official Music Release)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music release by a known artist, moderate internet culture relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Weekend Plans Discussion Thread (Australia)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic community event thread, mild local interest but not a strong culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Pauline Hanson’s Domestic Violence Comments Analysis",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political commentary, somewhat generic news headline."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Socceroos Star Cristian Volpato Allegedly Tests Positive for Cocaine",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Celebrity news but generic headline, limited cultural signal beyond news."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ADÉLA - Ain’t In LA (Official Music Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Four Corners withdraws episodes by sacked reporter due to accuracy concerns",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Qantas tests new ultra long-range Airbus in 17,000km direct flight from France to Melbourne",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Pauline Hanson says domestic violence prevents police from dealing with ‘real crime’ in unearthed interview",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "2026 Census: When it is, how to complete it and who must take part",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Any other Origin customers had fraudulent transactions yet?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Kyle Chalmers praises Gina Rinehart over bonuses amid warning to not thank billionaire",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "80 year old woman locked her keys in the gym late at night. Left in the cold.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Conspiracy theories about the AusAlert test spreading online",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Billions of dollars are failing to lift production of AUKUS submarines",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mutation rate estimate and population genomic analysis reveals decline of koalas prior to human arrival",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Worker dead, another injured as truck rolls over vehicle at Queensland mine",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Driver boasted of drink driving, weeks before killing 12-year-old girl",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Chinese diplomats leave Labor conference in Adelaide after requesting Taiwan representatives be ejected",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PM hits out at One Nation and 'attention-seeking culture wars'",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "New 7/11 Cashier Seems Happy in Job",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Barely a news headline, very generic and low cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Maldon Goth Fest",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "2026 Commonwealth Games Day 1 - Australia has won six gold medals, two silver medals, and five bronze medals",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_recurring_hype"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "US to slap Australia with 12.5 pc tariff from later today",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "SBS reportedly locks down 2030 World Cup rights",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "boat",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "rebel",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "opus 5",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "mutv",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "charles leclerc oscar piastri clash",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ken hinkley",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "commonwealth games results",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "jaylen brown",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "real madrid",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "club friendlies",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre - The Guardian",
+        "source_name": "The Guardian",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPenZEc2ROTmRUWEd3ck1qa3VCOE1QcGN1X0dKZEE2Xy0wWEFDVlo2REtiQWxLSFBXcE9UR0pLaHY1S1NHSmJpT1o4SGFnS1drXzdzaVNaMmxlZkItQUcxT3VFYXJnLVBNc2VpMExFaXpJYnN5aXlOeDhJUnAyb2E1SnRmQUdoX1BiQzl5ekN5bTU4Mm1GNWdaZWlKd18tbTNzRkJncnBJMmthSTN3amtXT25aTC1fQkZwRHROb0dMWGRjNlE?oc=5",
+        "published_at": "Fri, 24 Jul 2026 15:01:00 GMT",
+        "snippet": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre The Guardian Drivers urged not to panic-buy as fuel price hikes nowhere near record high ABC News & Headlines – Australian Broadcasting Corporation Motorists to face volatile fuel prices as war ramps up The Canberra Times Not a 'one off spike': Why higher petrol prices are set to return SBS Rates and fuel outlook darkens for Australians The New Daily",
+        "short_explanation": "Rising interest rates and petrol prices strain Australian household budgets and daily expenses."
+      },
+      {
+        "title": "Commonwealth Games 2026: men’s gymnastics team final, first swimming golds – live - The Guardian",
+        "source_name": "The Guardian",
+        "source_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOanBta21ZbVExaVlCTDlWcFZyNFlGeTYxUnctNnpBNXpHQkw2bTZvOUZiMkhUUHZXY2ZLb0ZpNDF2UnZieDhOZ1B6WTJRUi12eXp5OFhOQWR6eDVNc2hWdE9aS0RMOWxwbHQwckhVREZBdS1UdEJMZ2tkM2VKZm1vQmJuMldXeWNIamNsMHpBTXh4RmFnT3pKaGp3ZzhESW1TZG1za2hQVkhjQ3cwdUd3WDZoMXlKai1mQWYtbzVrM0Z5ZlRXTlA0LTlUVVNFLUNB?oc=5",
+        "published_at": "Fri, 24 Jul 2026 09:09:00 GMT",
+        "snippet": "Commonwealth Games 2026: men’s gymnastics team final, first swimming golds – live The Guardian England gymnast Gabriel Langton suffers nasty fall in Commonwealth Games final The Guardian Gabriel Langton in a sickening fall during commonwealth gymnastics The Telegraph Commonwealth Games 2026 LIVE: Glasgow - live text updates, scores, results, medal table BBC Sublime Scot relieved to hoist host nation's first gold The Canberra Times",
+        "short_explanation": "Commonwealth Games showcase Australian athletes' performance and national pride in sports."
+      },
+      {
+        "title": "Qantas leaves Melbourne waiting for non-stop London flights - AFR",
+        "source_name": "AFR",
+        "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORGpNMUlTWUlvT2Itb1oxVWUxdjZiVmpDVHpyMkN1M3BEQ0RiYmNUcXNDR1FCanc2LXdrMHloU3R1Z2NrRnM0VElvRHVrTFZKNHZ3SFZrR2FXTlN4bGRXem1GRHpDaFptaWVtbVNkeGc3cFRlZzlXREdKYWlxalZZTk9LbjRYNFl1UHFLd0gxbkpfUUdNdnNDUTN0MWJ4b0hQWmtpcFpTSjhNNl94QnFZamlNYnhEZw?oc=5",
+        "published_at": "Fri, 24 Jul 2026 07:14:00 GMT",
+        "snippet": "Qantas leaves Melbourne waiting for non-stop London flights AFR Qantas tests new ultra long-range Airbus in 17,000km direct flight from France to Melbourne The Guardian ‘No-brainer’: Qantas commits to Sunrise despite fuel costs The Australian Qantas plane designated for non-stop UK flight to land in Melbourne SMH.com.au Watch 9News Latest Stories - Season 2026 - Historic touchdown for Qantas 9now.com.au",
+        "short_explanation": "Qantas delays direct Melbourne-London flights, affecting travel convenience and business links."
+      },
+      {
+        "title": "Evening Wrap: ASX 200 slumps as oil price surge threatens cost of living, higher interest rates, and company profits - Market Index",
+        "source_name": "Market Index",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVmcwSGxfMy1LaVA3RVdaaWNSdm8zV2dQNHdCajU4OUFtS0VxemZjN09WZUtucGtmeFd3ekRQNlVSa3VwOFZmRDB6a1ZzeDRHVDNNTGZvMXlERHMxNkgzbFByVWV5TUxqR3Y1LURRZktHRV9relJtN0lpUlJya0VJZmQxNEF1YUJaenlGdFloZ2NyMGRscF9EdHRRX2VnUXZ2UzhZaFRSTEpNWUU?oc=5",
+        "published_at": "Fri, 24 Jul 2026 07:19:21 GMT",
+        "snippet": "Evening Wrap: ASX 200 slumps as oil price surge threatens cost of living, higher interest rates, and company profits Market Index VIDEO: Friday Finance with David Chau ABC News & Headlines – Australian Broadcasting Corporation ASX falls; oil tops $US100 mark; Cochlear reveals US import win AFR Aussie tech giants fall as Wall Street’s AI jitters hit home The Australian Sharemarket endures worst session in five weeks as oil surges SMH.com.au",
+        "short_explanation": "ASX 200 drops as oil price rise threatens living costs, interest rates, and profits."
+      },
+      {
+        "title": "The half-empty hall: why Gen X broke Australian politics - Pearls and Irritations",
+        "source_name": "Pearls and Irritations",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenJVZWhTNnpOZHBqaDc4Y0N0UUp0OU03aFBOdkxGSkN1NmZDdHFGRHhpZVA0OVJHMGtMbXUwLXdRbU5CazNWSk1CYzZSandDb2xzNFZhUWlsMFVvZGEzZ2xPRVpEN2hiWHV6V2RYS0swWlNocHRLNnQ4d0hVVnNHNXd0OW84LW9DWVd1VnhKalJCeENrZzdseQ?oc=5",
+        "published_at": "Thu, 23 Jul 2026 14:52:30 GMT",
+        "snippet": "The half-empty hall: why Gen X broke Australian politics Pearls and Irritations It’s not about Hanson – it’s about what she represents to disillusioned voters The Australian One Nation’s travelling circus The Saturday Paper Media scrutiny can take many forms. Pauline Hanson’s past few weeks have shown how quickly it can backfire The Conversation Labor's smugness about Pauline is about to get them into deep trouble The Canberra Times",
+        "short_explanation": "Gen X voter disillusionment impacts Australian politics and party dynamics."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Resident Evil Official Trailer (4K)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Sony Pictures Entertainment)",
+        "score_label": "trending #8",
+        "rank_score": 930,
+        "published_at": "2026-07-23T13:00:24Z",
+        "source_url": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+        "external_url": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+        "context": "Sony Pictures Entertainment. 𝙽𝚘 𝚜𝚠𝚎𝚊𝚝.\n \nFrom the mind of Zach Cregger, director of Weapons and Barbarian. Watch the official trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil\n\nhttps://www.instagram.com/residentevil/\nhttps://twitter.com/ResidentEvil\nhttps://www.facebook.com/ResidentEvilMovie\nhttps://www.tiktok.com/@resident.evil.movie\n\nFrom the mind of visionary filmmake",
+        "short_explanation": "Official trailer for Resident Evil movie, popular for its horror and action fans in Australia."
+      },
+      {
+        "title": "JENNIE - Less than a Lover (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (JennieRubyJaneVEVO)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T04:00:05Z",
+        "source_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "external_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "context": "JennieRubyJaneVEVO. Official music video for “Less than a Lover” by JENNIE out now: https://jennie.lnk.to/LessthanaLover\n\nFollow JENNIE -\nInstagram: https://www.instagram.com/jennierubyjane\nTikTok: https://www.tiktok.com/@jennierubyjane\nTwitter: https://twitter.com/jennierubyjane\nhttps://jenn.ie\n\nFollow JENNIE HQ -\nInstagram: https://www.instagram.com/jennie_hq\nTikTok: https://www.tiktok.com/@jenn",
+        "short_explanation": "Music video by Jennie, a K-pop star popular among Australian youth and global fans."
+      },
+      {
+        "title": "Avengers: Doomsday Official Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Entertainment)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-20T13:00:20Z",
+        "source_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "external_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "context": "Marvel Entertainment. Doomsday arrives December 18th.\n \nExperience Avengers: Doomsday on bigger, brighter, & more immersive screens. Tickets are now on sale exclusively for Infinity Vision certified theaters: fandango.com/avengersdoomsday \n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stre",
+        "short_explanation": "Trailer for Avengers: Doomsday, a major Marvel superhero film eagerly awaited in Australia."
+      },
+      {
+        "title": "SIDEMEN MECCHA CHAMELEON - Sidemen React Video",
+        "platform": "youtube",
+        "source_label": "YouTube trending (MoreSidemen)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-23T19:30:23Z",
+        "source_url": "https://www.youtube.com/watch?v=xJfIfwLHdNg",
+        "external_url": "https://www.youtube.com/watch?v=xJfIfwLHdNg",
+        "context": "MoreSidemen. 🎥 Watch Side+ FREE with 3-Day Free Trial: https://SidePlus.com\n🍗: Order food NOW at: https://www.eatsides.com/\n🍹: XIX Vodka: https://www.xixvodka.com/\n👉🏻: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts 👈🏻\n👕: Sidemen Clothing: https://www.sidemenclothing.com\n📸: Sidemen Instagram: http://www.instagram.com/Sidemen\n🐤: Sidemen Twitter: http://www.twitter.com/Sidemen",
+        "short_explanation": "Sidemen react video, popular British YouTubers with a growing Australian fanbase."
+      },
+      {
+        "title": "KATSEYE \"Animal\" Official MV Teaser 2",
+        "platform": "youtube",
+        "source_label": "YouTube trending (HYBE LABELS)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-22T16:00:00Z",
+        "source_url": "https://www.youtube.com/watch?v=z7eGToy4MWk",
+        "external_url": "https://www.youtube.com/watch?v=z7eGToy4MWk",
+        "context": "HYBE LABELS. KATSEYE (캣츠아이) \"Animal\" Official MV Teaser 2\nJULY 23 9PM PT | JULY 24 12AM ET\n\nPre-save KATSEYE’s new single Animal: https://KATSEYE.lnk.to/Animal \nPre-order KATSEYE's Third EP ‘WILD’: https://KATSEYE.lnk.to/WILD \nShop KATSEYE: https://KATSEYE.lnk.to/Shop\n\nFollow KATSEYE\nInstagram: https://www.instagram.com/katseyeworld/    \nTikTok: https://www.tiktok.com/@katseyeworld   \nTwitter: htt",
+        "short_explanation": "Teaser for KATSEYE's new K-pop single, reflecting Australia's interest in Korean pop culture."
+      },
+      {
+        "title": "Heater Safety Warning for Australian Winter",
+        "platform": "reddit",
+        "source_label": "r/australia",
+        "score_label": "r/australia hot #6",
+        "rank_score": 950,
+        "published_at": "2026-07-24T10:36:30+00:00",
+        "source_url": "https://www.reddit.com/r/australia/comments/1v57ocf/be_careful_with_heaters_this_winter/",
+        "external_url": "https://www.reddit.com/r/australia/comments/1v57ocf/be_careful_with_heaters_this_winter/",
+        "context": "So.. I live in a high rise apartment, and they’ve chosen this winter to do maintenance on the HVAC system, so no heat. It’s fucking freezing up here. I have (had) a small desk heater that I use to heat up the room I’m using. Occasionally while cooking dinner, going to the bathroom, etc, I’ll leave it on unattended for a couple of minutes max. While watching a movie the other night, suddenly the ro",
+        "short_explanation": "Warning about heater safety during cold Australian winters to prevent accidents and fires."
+      },
+      {
+        "title": "PSA: Statutory Declarations Valid as Sick Certificates via myGov",
+        "platform": "reddit",
+        "source_label": "r/australia",
+        "score_label": "r/australia hot #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T10:58:02+00:00",
+        "source_url": "https://www.reddit.com/r/australia/comments/1v582tk/psa_a_stat_dec_is_as_valid_as_a_sick_cert_and_can/",
+        "external_url": "https://www.reddit.com/r/australia/comments/1v582tk/psa_a_stat_dec_is_as_valid_as_a_sick_cert_and_can/",
+        "context": "If you're sick and don't want to/can't get into the doctors fair work explicitly state that statutory declarations are a valid proof of illness. You can create one in a couple of minutes for free using the myGov site. submitted by /u/rsandio [link] [comments]",
+        "short_explanation": "Notice that statutory declarations can replace sick certificates via myGov, easing illness proof."
+      },
+      {
+        "title": "Reginald Chard, Australia's Last Kokoda Veteran, Dies at 102",
+        "platform": "reddit",
+        "source_label": "r/australia",
+        "score_label": "r/australia hot #5",
+        "rank_score": 960,
+        "published_at": "2026-07-24T07:27:27+00:00",
+        "source_url": "https://www.reddit.com/r/australia/comments/1v54c4s/reginald_chard_australias_last_surviving_kokoda/",
+        "external_url": "https://www.reddit.com/r/australia/comments/1v54c4s/reginald_chard_australias_last_surviving_kokoda/",
+        "context": "submitted by /u/Expensive-Horse5538 [link] [comments]",
+        "short_explanation": "Death of Reginald Chard, last Australian Kokoda veteran, marking end of a historic era."
+      }
+    ]
+  }
+}

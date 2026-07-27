@@ -1,0 +1,790 @@
+{
+  "iso2": "ZA",
+  "iso3": "ZAF",
+  "country_name": "South Africa",
+  "flag": "🇿🇦",
+  "region": "Africa",
+  "coordinates": {
+    "lat": -30.5595,
+    "lon": 22.9375
+  },
+  "updated_at": "2026-07-24T22:06:38+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "Public Investment Corporation",
+    "David Masondo",
+    "pension funds"
+  ],
+  "top_news": {
+    "headline": "Chairman of South Africa’s R3 trillion asset manager quits",
+    "summary": "David Masondo resigns as chair of South Africa’s Public Investment Corporation amid leadership crisis.",
+    "why_it_matters": "Signals political interference risks in managing massive public pension funds.",
+    "source_name": "businesstech.co.za",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTVDZnVVUnpHXzdwR0NiZk92VkFOQlo1eDhHejRCcTVycVNGZGppdmFhb3dsRVJBVWFUNHkwYUZUVV9kMVVEbkZUQVFPMkxGaUpSZXhGZ3Vic1h4Q2FOQkVvSGd6WmRXSFBpWGwyTlNxRm1mWEhSSnE3UjN2SmdzNVh5MENNLU1Tcy1nRzBSd1VpOHFCcjlXSEtqcGFYWDJNRjNyVFVzVF8?oc=5",
+    "published_at": "Fri, 24 Jul 2026 07:08:11 GMT",
+    "confidence": 0.85
+  },
+  "meme": {
+    "title": "South Africa Sets Guinness World Record for Most Supercars in One Area",
+    "platform": "reddit",
+    "explanation": "South Africans celebrated a flashy record by gathering an unusually large number of luxury supercars together, showing local car culture pride.",
+    "why_people_are_sharing_it": "It's a surprising, extravagant display of wealth and car enthusiasm unique to South Africa.",
+    "tone": "wholesome",
+    "local_context": "South Africa has a vibrant car enthusiast community and growing luxury culture.",
+    "source_url": "https://www.reddit.com/r/southafrica/comments/1v1qeb3/guinness_world_record/",
+    "media_url": "https://www.reddit.com/r/southafrica/comments/1v1qeb3/guinness_world_record/",
+    "confidence": 0.85
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=en-ZA&gl=ZA&ceid=ZA:en",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Milestone as Zim joins BRICS Bank - Herald.co.zw",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Rand becomes world’s worst performer of the day after Sarb holds rates - Moneyweb",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Cold, windy weekend expected in parts of KZN - eNCA",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Chairman of South Africa’s R3 trillion asset manager quits - businesstech.co.za",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Dis-Chem founder Ivan Saltzman quits board - News24",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Nicole Johnson granted R100 000 bail on wedding anniversary after three years in prison - IOL",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Good news about looming shutdown in South Africa - businesstech.co.za",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Relief fades for migrant Zimbabweans fleeing South Africa - eNCA",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ramaphosa unveils national rescue plan to deal with water crisis - eNCA",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "US imposes new 12% tariff on South African exports - EWN",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Severe weather hope for South Africa - businesstech.co.za",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Clock is ticking, change SASSA gold card or risk payment disruption - eNCA",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Pick n Pay chairman gets a new job - businesstech.co.za",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PowerBall and PowerBall Xtra results: Friday, 24 July 2026 [WATCH] - The Citizen",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Massive PlayStation network outage in South Africa - mygaming.co.za",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Acer South Africa adds up to R3000 worth of free stuff to laptop orders - htxt.co.za",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "South Africa's President Cyril Ramaphosa wins bid to temporarily halt impeachment inquiry over 'Farmgate' - BBC",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Popular KZN sangoma arrested for orchestrating murder of ANCYL member and two metro officers - IOL",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tshwane factory employer, employees arrested for contravening immigration laws - eNCA",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "MK Party MPLs accused of unethical conduct in KwaZulu-Natal legislature - IOL",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "southafrica",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=ZA",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "status": "disabled",
+        "message": "disabled for countries where language wiki is too global"
+      },
+      "filters": [
+        {
+          "title": "Ama Hem Hem - Popular South African Song by Thatohatsi, Sjava & ShaunMusiq",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "penalize_bare_person_name_title",
+            "ai:This is a music track by well-known South African artists, representing a cultural product rather than a generic headline."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "South Africa Sets Guinness World Record for Most Supercars in One Area",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "penalize_bare_person_name_title",
+            "ai:This is a notable local event with cultural interest and internet fixation potential."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Fuck All Xenophobes! - Viral Anti-Xenophobia Statement in South Africa",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Strong cultural and social message trending on Reddit, reflecting local internet discourse."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "My Suspicions About Spur Sauce Confirmed - Local Food Culture Discussion",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Locally relevant food culture topic with internet discussion potential."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Do We Not Teach Our Children to Cough Properly Anymore? - Hygiene Concern in South Africa",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Locally relevant social commentary with cultural resonance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers: Doomsday | Official Trailer",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global blockbuster trailer, not specific to South African culture or internet fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "It's Not Even That Bad, My Gosh. - Typical South African Meal Post",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Mildly interesting local cultural content but somewhat generic."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Starting Over Using ONLY ROBUX In Keyboard Escape - Roblox Gameplay Video",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic gaming content, not specific to South African culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "DA Paid Dubai-Based Consultancy Over R7.7 Million to Run Its GNU Operation",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political news headline, generic and not a cultural internet fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ramaphosa Wins High Court Bid to Block Parliament’s Impeachment Inquiry",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political news headline, important but generic."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "EA SPORTS FC 27 | Official Reveal Trailer",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global gaming release trailer, not specific to South African culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "We Built GARAGES in Our STATUES! (Minecraft)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic gaming content, not culturally specific."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "I Need Pointers in Improving My Social Skills - Personal Story",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Personal post, generic and not a cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Clayface | Official Trailer",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global entertainment trailer, not specific to South African culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Everything I Google, Comes To Life in GTA 5!",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sminofu - eMachobeni (Official Audio)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "A leopard at Kruger National Park uses a tree for cover before launching a perfectly timed ambush on an unsuspecting buck.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "To all the Bakkie Drivers in this country…",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Albon to visit South Africa as Williams expands fan outreach",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "24F - Feeling completely stuck in my career. Overqualified, underqualified, underpaid, and wondering if I should give up on my dream.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "You ain't slick, Auntie.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Blare necessity: Vuvuzelas save livestock from prowling lions, research finds",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vuvuzela Tribute in the WC Half Time Show",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PSA: South African ID blocked at 16 (born overseas) - what I learned about Home Affairs process",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cape Town approves Equinix data centre without knowing water and power needs",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Getting tired of American tourists",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bad news for South African passport holders",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Looking for the artist",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Thinking of moving to SA - give me the good, amazing, bad, and ugly",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Are You Correctly Registered to Vote? - South African Voter Registration Reminder",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic public service announcement, less of a cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "What Is On at Almost All South African Theatres in One Spot",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic entertainment listing, low cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Luqale sakudlala",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Simi Kanje",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Spoiler By Zapiro",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The SA women’s hockey team worked hard and it paid off - we qualified for the 2026 FIH World Cup. Now we’re facing one last hurdle: funding.",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "zimbabweans fleeing south africa",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "powerball and powerball plus results",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "eintracht braunschweig vs southampton",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "al hilal saudi club",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "galatasaray",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ford ranger everest recall sa",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "sony server issues",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "bruno fernandes",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "rugby sevens",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "hollywood spina zonke",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Milestone as Zim joins BRICS Bank - Herald.co.zw",
+        "source_name": "Herald.co.zw",
+        "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YelFjNENrX0hpYzI2Sy1HcURNUGhfMDhtMW42VUZQOHFoQmpoT0lZeEpHWmZlRnNGekQxY1hhenRqOXRsYnNCeWtFamRiZmU3TEx3X1dhQmVrSnVRZE1vM3ZSU2hxRlRHOUoxOEUwZkZwTXM?oc=5",
+        "published_at": "Thu, 23 Jul 2026 22:13:16 GMT",
+        "snippet": "Milestone as Zim joins BRICS Bank Herald.co.zw What Zimbabwe’s BRICS bank membership really means NewsDay Zimbabwe After a two-year wait, the BRICS New Development Bank gains a new African member Business Insider Africa",
+        "short_explanation": "Zimbabwe joins BRICS Bank, signaling stronger African economic cooperation and development opportunities."
+      },
+      {
+        "title": "Rand becomes world’s worst performer of the day after Sarb holds rates - Moneyweb",
+        "source_name": "Moneyweb",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUlp6TTBpVXBadlhtZm9GQjFBZ1N0NFplLVA4ajFsdjRxRVRhazZwOEo3VWJlb2VsNkw2T1RUcUdyY0ZteUV1dDRYaVVvS1htb0ljcWk4NHlWeXFHcFRhdTVtRG1Fc0dMMEt6NWgzTnNpVzR0cVl5ZE5LcklMbDVWVFY1NDRDZzNBZ3p4ZmFQV0VKQjctejFwQ3VQUHNhSUNfR0FYMC1uVDZ2X2tuRkpz?oc=5",
+        "published_at": "Fri, 24 Jul 2026 02:06:29 GMT",
+        "snippet": "Rand becomes world’s worst performer of the day after Sarb holds rates Moneyweb The shock South Africa really didn’t need businesstech.co.za Rand hits weakest level in two months eNCA Divided MPC holds rates for now, but sees upside risks to inflation Daily Maverick Citi drops rand bet after Reserve Bank ‘contradicted its previous position’ News24",
+        "short_explanation": "South African rand weakens after central bank keeps interest rates unchanged, worrying investors."
+      },
+      {
+        "title": "Cold, windy weekend expected in parts of KZN - eNCA",
+        "source_name": "eNCA",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVEl4bkxqUDZCN0tkU29QdER5a3AwME9rdkJvaGlTU2xoY0xYNkxlY3ZDSmo1QXN1MEVMU0lmWDRubS02alBCOTZsOFE3TVZuR1hFcXZQMUxpbkhrNjdZM2JjYXdTSzVkcEVNNWEyQlZSdXdoNGQ4UGdZTUhUOEdlaQ?oc=5",
+        "published_at": "Fri, 24 Jul 2026 15:40:27 GMT",
+        "snippet": "Cold, windy weekend expected in parts of KZN eNCA Snowfall possible in South Africa and Lesotho on Thursday Snow Report Southern Africa Saturday’s weather: Fire danger warning as cold morning grips provinces The Citizen Today's weather: Cold front brings rain to Western and Southern regions of SA IOL SAWS warns of a cold front later this week South African Government News Agency",
+        "short_explanation": "Cold, windy weather expected in KwaZulu-Natal, affecting daily life and safety precautions."
+      },
+      {
+        "title": "Chairman of South Africa’s R3 trillion asset manager quits - businesstech.co.za",
+        "source_name": "businesstech.co.za",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSTVDZnVVUnpHXzdwR0NiZk92VkFOQlo1eDhHejRCcTVycVNGZGppdmFhb3dsRVJBVWFUNHkwYUZUVV9kMVVEbkZUQVFPMkxGaUpSZXhGZ3Vic1h4Q2FOQkVvSGd6WmRXSFBpWGwyTlNxRm1mWEhSSnE3UjN2SmdzNVh5MENNLU1Tcy1nRzBSd1VpOHFCcjlXSEtqcGFYWDJNRjNyVFVzVF8?oc=5",
+        "published_at": "Fri, 24 Jul 2026 07:08:11 GMT",
+        "snippet": "Chairman of South Africa’s R3 trillion asset manager quits businesstech.co.za Company managing over R3 trillion in South African pension funds in deep trouble businesstech.co.za Masondo's PIC exit leaves state-owned entity leaderless - Expert eNCA Godongwana accepts resignation of PIC Board Chair David Masondo EWN Editorial: Political interference will hurt PIC Mail & Guardian",
+        "short_explanation": "Chairman of South Africa’s major pension fund manager resigns amid political and financial concerns."
+      },
+      {
+        "title": "Dis-Chem founder Ivan Saltzman quits board - News24",
+        "source_name": "News24",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTIyVlk3TWxYckJVd193V2l3NVNKZHk3LTNaaVZYSWR3X0wybFVlRVVGVUlxMDh4RkdFbDNFckZRVDFRQzRYTlRSeEtrOTVEQUZ2anpfZ215ZEJ0WGxoQldlOHNhZUFFVElpVWtXMDA5cjlucFN4V1lzaDVZWWdiM0c3eVduazZJT20zajhlVG53WkdvMWVvWGJDUjFJbnc?oc=5",
+        "published_at": "Fri, 24 Jul 2026 17:58:07 GMT",
+        "snippet": "Dis-Chem founder Ivan Saltzman quits board News24 End of an era for Dis-Chem’s billionaire founder businesstech.co.za Dis-Chem founders’ son quits board Moneyweb End of an era for Dis-Chem businesstech.co.za",
+        "short_explanation": "Founder of Dis-Chem pharmacy chain leaves board, marking a leadership change in major retailer."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Ama Hem Hem - Popular South African Song by Thatohatsi, Sjava & ShaunMusiq",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Thatohatsi - Topic)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-09T10:03:58Z",
+        "source_url": "https://www.youtube.com/watch?v=rPmZucO77sg",
+        "external_url": "https://www.youtube.com/watch?v=rPmZucO77sg",
+        "context": "Thatohatsi - Topic. Provided to YouTube by The Orchard Enterprises\n\nAma hem hem · Thatohatsi · Sjava · ShaunMusiq\n\nAma hem hem\n\n℗ 2026 Kgaday Pty Ltd\n\nReleased on: 2026-07-10\n\nProducer: Shaunmusiq\nAuthor: Thatohatsi\nAuthor: Sjava\nNon Lyric Author: ShaunMusiq\nMusic Publisher: SONY MUSIC Publishing\n\nAuto-generated by YouTube.",
+        "short_explanation": "Popular South African song blending local artists' styles, reflecting modern music culture."
+      },
+      {
+        "title": "South Africa Sets Guinness World Record for Most Supercars in One Area",
+        "platform": "reddit",
+        "source_label": "r/southafrica",
+        "score_label": "r/southafrica hot #24",
+        "rank_score": 770,
+        "published_at": "2026-07-20T16:29:47+00:00",
+        "source_url": "https://www.reddit.com/r/southafrica/comments/1v1qeb3/guinness_world_record/",
+        "external_url": "https://www.reddit.com/r/southafrica/comments/1v1qeb3/guinness_world_record/",
+        "context": "Supercar Rhino run and Ferris Cars set a Guinness World Record on Sunday for South Africa for the most amount of supercars/hyper cars in one area. Were any of Y’all able to see any of the cars 👀👀👀 submitted by /u/BuyCalm5668 [link] [comments]",
+        "short_explanation": "South Africa broke record gathering most supercars in one place, showing car enthusiasm."
+      },
+      {
+        "title": "Fuck All Xenophobes! - Viral Anti-Xenophobia Statement in South Africa",
+        "platform": "reddit",
+        "source_label": "r/southafrica",
+        "score_label": "r/southafrica hot #1",
+        "rank_score": 1000,
+        "published_at": "2026-06-25T04:29:29+00:00",
+        "source_url": "https://www.reddit.com/r/southafrica/comments/1uezygz/fuck_all_xenophobes/",
+        "external_url": "https://www.reddit.com/r/southafrica/comments/1uezygz/fuck_all_xenophobes/",
+        "context": "submitted by /u/Beyond_the_one [link] [comments]",
+        "short_explanation": "Viral statement opposing xenophobia, highlighting local social tensions and calls for unity."
+      },
+      {
+        "title": "My Suspicions About Spur Sauce Confirmed - Local Food Culture Discussion",
+        "platform": "reddit",
+        "source_label": "r/southafrica",
+        "score_label": "r/southafrica hot #7",
+        "rank_score": 940,
+        "published_at": "2026-07-23T06:34:38+00:00",
+        "source_url": "https://www.reddit.com/r/southafrica/comments/1v45te1/my_suspicions_about_spur_sauce_confirmed/",
+        "external_url": "https://www.reddit.com/r/southafrica/comments/1v45te1/my_suspicions_about_spur_sauce_confirmed/",
+        "context": "I've always wondered why the Spur chip sauce tastes so much better at the restaurant than the supermarket version. The other day I went to my local spur to buy the sauce directly from them and while I was out I quickly stopped in at the supermarket with the bottle in my hand. I found the supermarket version on the rack and compared. The ingredient list is different. (the supermarket version listin",
+        "short_explanation": "Discussion reveals Spur restaurant sauce differs from supermarket version, sparking food debate."
+      },
+      {
+        "title": "Do We Not Teach Our Children to Cough Properly Anymore? - Hygiene Concern in South Africa",
+        "platform": "reddit",
+        "source_label": "r/southafrica",
+        "score_label": "r/southafrica hot #9",
+        "rank_score": 920,
+        "published_at": "2026-07-23T08:37:57+00:00",
+        "source_url": "https://www.reddit.com/r/southafrica/comments/1v47zkq/do_we_not_learn_our_children_not_to_cough_in/",
+        "external_url": "https://www.reddit.com/r/southafrica/comments/1v47zkq/do_we_not_learn_our_children_not_to_cough_in/",
+        "context": "I work in a biltong shop and three times, just this week, mothers came in the shop with their children to get biltong where while was busy with packing the biltong, their kids coughed in my face... No hand infront of their mouths or elbows, no reprimand from the parent, nothing, just letting them cough right in my face. It's extremely unsanitary, guys. Can we please start teaching your children to",
+        "short_explanation": "Concern over poor coughing hygiene among children, stressing public health awareness."
+      },
+      {
+        "title": "Avengers: Doomsday | Official Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Entertainment)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-20T13:00:20Z",
+        "source_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "external_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "context": "Marvel Entertainment. Doomsday arrives December 18th.\n \nExperience Avengers: Doomsday on bigger, brighter, & more immersive screens. Tickets are now on sale exclusively for Infinity Vision certified theaters: fandango.com/avengersdoomsday \n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stre",
+        "short_explanation": "Marvel's Avengers: Doomsday trailer released, exciting South African fans of global franchise."
+      },
+      {
+        "title": "It's Not Even That Bad, My Gosh. - Typical South African Meal Post",
+        "platform": "reddit",
+        "source_label": "r/southafrica",
+        "score_label": "r/southafrica hot #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T21:14:52+00:00",
+        "source_url": "https://www.reddit.com/r/southafrica/comments/1v5oaqs/its_not_even_that_bad_my_gosh/",
+        "external_url": "https://www.reddit.com/r/southafrica/comments/1v5oaqs/its_not_even_that_bad_my_gosh/",
+        "context": "Just posting this here because this is a usual South African meal. submitted by /u/AceOfSpades_4 [link] [comments]",
+        "short_explanation": "Post showing typical South African meal, sharing everyday local food culture."
+      },
+      {
+        "title": "Starting Over Using ONLY ROBUX In Keyboard Escape - Roblox Gameplay Video",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Foltyn)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T05:20:47Z",
+        "source_url": "https://www.youtube.com/watch?v=AYJkq-UlkYM",
+        "external_url": "https://www.youtube.com/watch?v=AYJkq-UlkYM",
+        "context": "Foltyn. Today I started over as a noob with only robux in roblox keyboard escape. Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#",
+        "short_explanation": "Roblox gameplay video featuring starting over with only Robux, popular among youth gamers."
+      }
+    ]
+  }
+}

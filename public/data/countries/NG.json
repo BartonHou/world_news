@@ -1,0 +1,792 @@
+{
+  "iso2": "NG",
+  "iso3": "NGA",
+  "country_name": "Nigeria",
+  "flag": "🇳🇬",
+  "region": "Africa",
+  "coordinates": {
+    "lat": 9.082,
+    "lon": 8.6753
+  },
+  "updated_at": "2026-07-24T22:07:53+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "forced labor",
+    "U.S. tariffs",
+    "Nigerian exports"
+  ],
+  "top_news": {
+    "headline": "U.S. Imposes New 12.5% Tariff On Nigerian Exports Over Forced Labour",
+    "summary": "U.S. adds 12.5% tariff on Nigerian goods citing forced labor concerns, impacting trade relations.",
+    "why_it_matters": "Highlights global scrutiny of Nigeria's labor practices and economic consequences.",
+    "source_name": "Sahara Reporters",
+    "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZC13N01NalNsRG5KWmxnLU1hRlozZFhxMmFZR0ZqS096STdITjQ5Z0pQSk00dGtHYXhGXzc2ZGZtUXlwYS1xZHdRVkZCX3BfR0ZxQTR3UlBxeVZVaW5GTzVGMkpqWE55aU8wZDRVc1BIR3lBZ1M0R0Vab2RmNVl4LUVGQXc1bTFVYlcwZnpMU3BrU0lEeVFjZnEta3poZVlLOGc?oc=5",
+    "published_at": "Fri, 24 Jul 2026 17:23:31 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Why Northern Nigeria Is Underrepresented in Global Perceptions",
+    "platform": "reddit",
+    "explanation": "Despite political dominance, Northern Nigeria is less recognized internationally compared to Yoruba and Igbo cultures.",
+    "why_people_are_sharing_it": "Highlights surprising cultural invisibility despite political power.",
+    "tone": "political",
+    "local_context": "Northern Nigeria's elite dominate politics but lack global cultural visibility.",
+    "source_url": "https://www.reddit.com/r/Nigeria/comments/1v5bhuy/why_does_the_north_have_such_a_minimal_presence/",
+    "media_url": "https://www.reddit.com/r/Nigeria/comments/1v5bhuy/why_does_the_north_have_such_a_minimal_presence/",
+    "confidence": 0.85
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=en-NG&gl=NG&ceid=NG:en",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "U.S. Imposes New 12.5% Tariff On Nigerian Exports Over Forced Labour - Sahara Reporters",
+          "score": 4,
+          "reasons": [
+            "boost_civil_liberties_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Dangote raises $2.5b in private equity placement - The Guardian Nigeria News",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Higher fuel, transport, food prices loom as crude oil hits $100 - Vanguard News",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "EU to pay ‘very big price’ for Google fine, says Trump - Punch Newspapers",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Oyo school kidnap suspects sentenced: Court sentence three pipo to life imprisonment afta dem plead guilty to terrorism charges - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Nigeria's Tinubu approves army expansion to 12 divisions with 28,000 new recruits - Reuters",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Osun shuts newly inaugurated flyover over structural defects - TheCable",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Obasanjo fabricated allegations against me to favour his kinsman in 2027, says Atiku - TheCable",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "VIDEO: Nigerian Police Officer Tells UK Returnee, ‘If You Were Igbo, I Would Have Detained You,’ During Alleged Bribe Demand - Sahara Reporters",
+          "score": 0,
+          "reasons": [
+            "penalize_generic_crime_or_disaster",
+            "boost_culture_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Six UN secretary-general candidates face televised debate Thursday - Punch Newspapers",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "U.S. sanctions financial networks linked to Muslim Brotherhood over alleged Hamas support - The Nation Newspaper",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "UN declares 2027-2036 decade for strengthening global peace - Peoples Gazette Nigeria",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "President Cyril Ramaphosa impeachement judgement: South African court stop process to impeach President Ramaphosa impeachement ova phala phala scandal - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Fidson Healthcare Limited (FIDSON.ng) HY2026 Interim Report - AfricanFinancials",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "How to automate RSS feeds with Make.com, Gemini AI, Google Sheets - Tribune Online",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Top 6 phones for photography and videography - Vanguard News",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "VIDEO: Otti Rejects Uzodimma's Claim Of South-East Governors' Endorsement Of Tinubu For 2027 - Channels Television",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Suspension of NURTW activities unconstitutional, Osun ALGON tells Adeleke - The Guardian Nigeria News",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Presidency berates Atiku for hiring international lobbyist against Tinubu - Businessday NG",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "IG orders police to shoot anyone carrying illegal firearms - Vanguard News",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "Nigeria",
+            "status": 200,
+            "items_kept": 24
+          }
+        ],
+        "items_kept": 24
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=NG",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "status": "disabled",
+        "message": "disabled for countries where language wiki is too global"
+      },
+      "filters": [
+        {
+          "title": "Avengers: Doomsday Official Trailer",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Strong global pop culture signal with Marvel branding and anticipation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Asake - MCBH (Official Music Video)",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Nigerian music video with strong cultural resonance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avatar: Seven Havens Official Teaser",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Highly anticipated global entertainment franchise with cultural impact."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Davido, NO11 - Gimme Dat Ting (Official Video)",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Nigerian music video with strong cultural resonance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Why Northern Nigeria Is Underrepresented in Global Perceptions",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Insightful cultural discussion about Nigerian regional stereotypes."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Why Are South-South Nigerian States Included in Biafra?",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Relevant political and cultural discussion about Nigerian regional identities."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Japa Migration: Costs and Destinations for Nigerians",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Reflects a significant social trend about emigration among Nigerians."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Controversy Over Ethnic Tensions in Nigeria's Ondo State",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Reflects ongoing ethnic and social discourse relevant to Nigerian internet culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Applying for a Nigerian Passport as a Nigerian American",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "ai:The title is too opaque and reads like a personal help request rather than a cultural or internet trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PES 21 Gameplay: Argentina vs Spain with Commentary",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content with some niche appeal but not a broad cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Managing Real Madrid with New Transfers - Gaming Content",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content with niche appeal, not a broad cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "An XI for 2030 🇳🇬 🇳🇬 🇳🇬 🇳🇬 that you can try to qualify with",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Young Nigerians: Why aren’t more of us running for local office?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Every stop came with different conversations, different personalities, and always a good experience. This time brought the chance to meet and speak with the woman in charge. 🙋🏿‍♀️",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "See prices without feeling embarrassed at the till in african shops",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Insigntful new content from a Northern Nigeria scholar 👋🏿The \"saving\" of a Northern Nigeria village woman by \"civilized\" city people https://youtu.be/-ENi8oFI5q4?is=arn4Ed67jMiJ6lTk",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Piercing baby’s ears",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dating for Nigerians home and abroad made easy",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "A few observations",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Processing Digital Birth Attestation Affidavit",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "I long for the day when our society will stop being so foolish",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "These are the buffet spots in Lagos that are worth your money",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "EXCLUSIVE: Dangote Targets $100 Billion Empire With Oil and Fertilizers",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "How Documentaries About Africa Are Made",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic documentary discussion, somewhat opaque without more context."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Seeking Advice on Coming Out to Family",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Personal story, somewhat opaque and not a broad cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "BB Lifestyle",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Job Listings in Nigeria: Remote, On-Site, and Hybrid Opportunities",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic job listing post, not a cultural or internet trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Interesting stuff from UNICORN group.",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Title too vague and generic, no clear cultural significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tease Me",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "For when next someone messes with you.",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Title too vague and opaque, no clear cultural or internet trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "odyssey movie",
+          "score": 2,
+          "reasons": [
+            "boost_culture_signal",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "🔴 Football Fans Can't Miss This! | eFootball PES 2021 | LIVE Simulation - PRS SOUL",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "diomande",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "inec recruitment requirements 2026",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "yan diomandé",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "bc",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "southampton",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "🎬The Revenge Begins..🔥HIGH SCHOOL WACKO SEASON 2 – OFFICIAL TRAILER!",
+          "score": -2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports",
+            "penalize_recurring_hype"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Stars Builders Academy, Ijebu Ode, new season Kit",
+          "score": -2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports",
+            "penalize_recurring_hype"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "al-nassr fc",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "cristiano ronaldo",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "inter milan",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "galatasaray fc",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "MEGATHREAD: r/Nigeria market",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "U.S. Imposes New 12.5% Tariff On Nigerian Exports Over Forced Labour - Sahara Reporters",
+        "source_name": "Sahara Reporters",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZC13N01NalNsRG5KWmxnLU1hRlozZFhxMmFZR0ZqS096STdITjQ5Z0pQSk00dGtHYXhGXzc2ZGZtUXlwYS1xZHdRVkZCX3BfR0ZxQTR3UlBxeVZVaW5GTzVGMkpqWE55aU8wZDRVc1BIR3lBZ1M0R0Vab2RmNVl4LUVGQXc1bTFVYlcwZnpMU3BrU0lEeVFjZnEta3poZVlLOGc?oc=5",
+        "published_at": "Fri, 24 Jul 2026 17:23:31 GMT",
+        "snippet": "U.S. Imposes New 12.5% Tariff On Nigerian Exports Over Forced Labour Sahara Reporters US imposes 12.5% tariff on Nigerian imports over forced labour claims Punch Newspapers ‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs Al Jazeera Nigeria Affected As US Imposes New Tariffs On 60 Countries (FULL LIST) Channels Television Two US small businesses sue Trump administration over fresh round of tariffs – US politics live The Guardian",
+        "short_explanation": "US adds 12.5% tariff on Nigerian goods over forced labor concerns, affecting exports."
+      },
+      {
+        "title": "Dangote raises $2.5b in private equity placement - The Guardian Nigeria News",
+        "source_name": "The Guardian Nigeria News",
+        "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XZURwdVNOd0xtTHVKTUM3dUFZYmdUOEQwMHd3N1V0OVpGenVyVGR4aFlJSmNPOUJiMmlseHV1aE01WlY2YVVjM0c2c2FpT09JZDBPZ1BHa1pVNkJNc1Q2RFpfdUxrOGkzSzdxS2ZjX0J3eDJJSlpjdEdfckxUUQ?oc=5",
+        "published_at": "Fri, 24 Jul 2026 04:00:00 GMT",
+        "snippet": "Dangote raises $2.5b in private equity placement The Guardian Nigeria News Dangote secures record $2.5bn investment to expand Lagos refinery Financial Times Africa’s richest man officially pulls off a $2.5 billion feat now hailed as the continent’s largest private capital placement Business Insider Africa Dangote Refinery raises $2.5 billion in Africa’s largest private equity placement Premium Times Nigeria Dangote Refinery raises Africa’s largest private capital ahead IPO Businessday NG",
+        "short_explanation": "Dangote secures $2.5 billion investment to expand Nigeria's largest oil refinery."
+      },
+      {
+        "title": "Higher fuel, transport, food prices loom as crude oil hits $100 - Vanguard News",
+        "source_name": "Vanguard News",
+        "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2thdGxlWkRBU3RpRjhhQXQ5VXlhUExnUm9JMTMxMTZnMDlsVzdIMXlCYzJWSEE0dzFjVjdxV2dGR1E4b3pHNlh5RFpfOENRYS1fUlVzMHhXTGR1T09PQ04xSTN5enBuZHc0aUI1SmJXQlNMNnVHeEd6VENIdVFFcTRybm4xRDRURnVUV1RyNTBjT25ZOHZwUDBfWjVDQdIBowFBVV95cUxOdUtjbGhFTzgxMVdkT1lzYW9EbFpHQ3lidFNSb3gzQ1Q3WXJVU2hCVkF0MlgxOFMyMk5VRnZONE1sZ2g3d3hzYXU4dWJobjItcUNKd0lUVFNEZDJ0SXJ3LWhUbG03SFh5cFRmbHgyUVR1Z19DUnJiZ3dFTjgtTU5VYnFnUWlLVl9FdzM0QWpzM29LdF9HY2M0clNjMHNDQzlyZGVZ?oc=5",
+        "published_at": "Fri, 24 Jul 2026 05:26:45 GMT",
+        "snippet": "Higher fuel, transport, food prices loom as crude oil hits $100 Vanguard News July 23, 2026 — Oil tops $100 a barrel, Houthi attack in Red Sea marks new escalation CNN Oil Prices Waver as Gulf Ship Traffic Falls to Lowest Level in Months The New York Times Oil price hits $100/barrel after attacks on vessels in Red Sea TheCable Oil Rallies Near $100 Per Barrel Amid Fresh Middle East Strikes Channels Television",
+        "short_explanation": "Oil price hits $100, raising fuel, transport, and food costs across Nigeria."
+      },
+      {
+        "title": "EU to pay ‘very big price’ for Google fine, says Trump - Punch Newspapers",
+        "source_name": "Punch Newspapers",
+        "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16R1FGR1Rxbmt6U3ZDQ0ZTc19QblB0VkxIX0s2U2toQUt1QVJmbWFITjBFQzBrek5rVmZHNmUzUTgtdzdNZlZGRnF3d040aUV1ZC1Od2tsOFZEN2dkV0sySmlOMTBMOWdDT0dDcVVjTXhxclBvV2dPYWFveDI?oc=5",
+        "published_at": "Fri, 24 Jul 2026 18:24:32 GMT",
+        "snippet": "EU to pay ‘very big price’ for Google fine, says Trump Punch Newspapers See more headlines and perspectives on Google News",
+        "short_explanation": "Trump warns EU of consequences after Google fined, reflecting global tech tensions."
+      },
+      {
+        "title": "Oyo school kidnap suspects sentenced: Court sentence three pipo to life imprisonment afta dem plead guilty to terrorism charges - BBC",
+        "source_name": "BBC",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wd1lveFdmZnlsTUI1QVZmcURiQXBYMEJ1Nkw1R21uQVVSaW8tLVBNTV9sUnp2c3lIb1NRbXFqQmZKMThFRzlNMEw2anRVS1BKTFdlTUtwTTkwcU1i0gFiQVVfeXFMTkdRZkhObGRoRnY4dU5EMTM1SjFRNDZSX2g2WnAyd3RvenlzM3NTTS1SbjZJMEp3TzlNT1JpZ3JWT3VJdGxWdVYyWFRyeW9NUWlJbW1GeERkeGMwc0dOLU5YQ0E?oc=5",
+        "published_at": "Thu, 23 Jul 2026 17:09:07 GMT",
+        "snippet": "Oyo school kidnap suspects sentenced: Court sentence three pipo to life imprisonment afta dem plead guilty to terrorism charges BBC Court Sentences Suspects In Oriire Abduction To Life Imprisonment Channels Television Abuja court sentences three to life for Oyo pupils’ abduction Punch Newspapers Three suspected terrorists linked to Oyo school abduction plead guilty to terrorism charges Premium Times Nigeria DSS seeks stiffer penalties for convicted abductors of Oriire teachers, pupils The Guardian Nigeria News",
+        "short_explanation": "Three suspects get life sentences for kidnapping Oyo schoolchildren, showing justice efforts."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Avengers: Doomsday Official Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Entertainment)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-20T13:00:20Z",
+        "source_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "external_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "context": "Marvel Entertainment. Doomsday arrives December 18th.\n \nExperience Avengers: Doomsday on bigger, brighter, & more immersive screens. Tickets are now on sale exclusively for Infinity Vision certified theaters: fandango.com/avengersdoomsday \n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stre",
+        "short_explanation": "New Avengers movie trailer excites Nigerian Marvel fans anticipating December release."
+      },
+      {
+        "title": "Asake - MCBH (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (AsakeVEVO)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-10T15:00:26Z",
+        "source_url": "https://www.youtube.com/watch?v=TIRkQPe77J0",
+        "external_url": "https://www.youtube.com/watch?v=TIRkQPe77J0",
+        "context": "AsakeVEVO. Listen to the album “M$NEY\". Out Now!\nStream: https://music.empi.re/money\n\n\n\n#Asake #MONEY  #GIRANRepublic\n\n\n\nOfficial Video by Asake - \"MCBH\" © 2026 GIRAN Republic / EMPIRE",
+        "short_explanation": "Asake's new music video 'MCBH' popular among Nigerian youth for its catchy Afrobeat sound."
+      },
+      {
+        "title": "Avatar: Seven Havens Official Teaser",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Avatar Legends)",
+        "score_label": "trending #8",
+        "rank_score": 930,
+        "published_at": "2026-07-23T21:01:45Z",
+        "source_url": "https://www.youtube.com/watch?v=RvksPficuOU",
+        "external_url": "https://www.youtube.com/watch?v=RvksPficuOU",
+        "context": "Avatar Legends. Avatar: Seven Havens premieres October 9 only on Paramount+.\n\nAvatar: Seven Havens is an all-new series from creators Michael Dante DiMartino and Bryan Konietzko. Set in a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. In this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both huma",
+        "short_explanation": "Avatar: Seven Havens teaser promotes new series popular with Nigerian animation fans."
+      },
+      {
+        "title": "Davido, NO11 - Gimme Dat Ting (Official Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (DavidoVEVO)",
+        "score_label": "trending #10",
+        "rank_score": 910,
+        "published_at": "2026-07-17T16:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=AdAB6oyq_II",
+        "external_url": "https://www.youtube.com/watch?v=AdAB6oyq_II",
+        "context": "DavidoVEVO. Davido, NO11 - Gimme Dat Ting (Official Video)\n\nListen to ‘Gimme Dat Ting’ here: https://davido.lnk.to/NO11GimmeDatTing\nPre-save ‘Oriadé’ here: https://Davido.lnk.to/OriadePreOrder \n\n———\n\nFollow Davido:\nInstagram: https://www.instagram.com/davido/?hl=en\nTikTok: https://www.tiktok.com/@davido?lang=en\nTwitter: https://x.com/davido\nFacebook: https://www.facebook.com/davidoofficial2\n\n#Davi",
+        "short_explanation": "Davido's new song 'Gimme Dat Ting' draws attention from Nigerian music lovers."
+      },
+      {
+        "title": "Why Northern Nigeria Is Underrepresented in Global Perceptions",
+        "platform": "reddit",
+        "source_label": "r/Nigeria",
+        "score_label": "r/Nigeria hot #6",
+        "rank_score": 950,
+        "published_at": "2026-07-24T13:30:59+00:00",
+        "source_url": "https://www.reddit.com/r/Nigeria/comments/1v5bhuy/why_does_the_north_have_such_a_minimal_presence/",
+        "external_url": "https://www.reddit.com/r/Nigeria/comments/1v5bhuy/why_does_the_north_have_such_a_minimal_presence/",
+        "context": "Most Nigerians are northerners, and if one were to look at the politics and economics of Nigeria in an unbiased manner, one would concede that it is northerners that are in charge- the Hausa Fulani elite to be specific. Yet abroad the stereotype folks have of a Nigerian is more likely to be influenced by Yorubas and Igbos. Why is that? submitted by /u/Excellent-Menu-8784 [link] [comments]",
+        "short_explanation": "Discussion on Northern Nigeria's underrepresentation despite political and economic dominance."
+      },
+      {
+        "title": "Why Are South-South Nigerian States Included in Biafra?",
+        "platform": "reddit",
+        "source_label": "r/Nigeria",
+        "score_label": "r/Nigeria hot #9",
+        "rank_score": 920,
+        "published_at": "2026-07-24T18:01:36+00:00",
+        "source_url": "https://www.reddit.com/r/Nigeria/comments/1v5iy0l/why_are_states_in_the_southsouthnigerdelta_akwa/",
+        "external_url": "https://www.reddit.com/r/Nigeria/comments/1v5iy0l/why_are_states_in_the_southsouthnigerdelta_akwa/",
+        "context": "When Ojukwu declared biafra, he only added them because of the colonial borders drawn that lumped other minorities under the eastern region. Why are people in these states still being lumped under the same identity? There are over 132 languages in this region, under biafran rule, I'm assuming Igbo would be the first language and english would be the second, what then happens to the rest? Is Biafra",
+        "short_explanation": "Debate on South-South Nigerian states' inclusion in Biafra and ethnic identity issues."
+      },
+      {
+        "title": "Japa Migration: Costs and Destinations for Nigerians",
+        "platform": "reddit",
+        "source_label": "r/Nigeria",
+        "score_label": "r/Nigeria hot #11",
+        "rank_score": 900,
+        "published_at": "2026-07-24T15:31:52+00:00",
+        "source_url": "https://www.reddit.com/r/Nigeria/comments/1v5epqy/those_who_japa_how_much_did_it_cost_you_and_what/",
+        "external_url": "https://www.reddit.com/r/Nigeria/comments/1v5epqy/those_who_japa_how_much_did_it_cost_you_and_what/",
+        "context": "Hello my pipu, lately we have been trying to leave and the USA was my top option in the past but uncle Dona has banned us, that option is off the table, we are looking for a country where we can go to and at least put our future kids in a better position in life. My options are Spain, Netherlands, Germany and Denmark, I'd really like to know what the budget for couples would look like to move. I a",
+        "short_explanation": "Nigerians discuss migration costs and destinations amid US travel restrictions."
+      },
+      {
+        "title": "Controversy Over Ethnic Tensions in Nigeria's Ondo State",
+        "platform": "reddit",
+        "source_label": "r/Nigeria",
+        "score_label": "r/Nigeria hot #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T12:05:38+00:00",
+        "source_url": "https://www.reddit.com/r/Nigeria/comments/1v59h8k/this_happened_in_ondo_to_a_person_of_yoruba/",
+        "external_url": "https://www.reddit.com/r/Nigeria/comments/1v59h8k/this_happened_in_ondo_to_a_person_of_yoruba/",
+        "context": "submitted by /u/Rumpelstiltskin98 [link] [comments]",
+        "short_explanation": "Unclear local trend."
+      }
+    ]
+  }
+}

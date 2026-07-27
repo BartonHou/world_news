@@ -1,0 +1,874 @@
+{
+  "iso2": "AR",
+  "iso3": "ARG",
+  "country_name": "Argentina",
+  "flag": "🇦🇷",
+  "region": "South America",
+  "coordinates": {
+    "lat": -38.4161,
+    "lon": -63.6167
+  },
+  "updated_at": "2026-07-24T21:59:32+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "dollar accounts",
+    "salary payments",
+    "currency instability"
+  ],
+  "top_news": {
+    "headline": "Llegan las cuentas sueldo en dólares: cómo funcionarán y qué costo tendrá para los clientes bancarios - Clarin.com",
+    "summary": "Argentina introduces dollar-denominated salary accounts amid currency instability and inflation concerns.",
+    "why_it_matters": "Reflects public anxiety over peso devaluation and dollarization trends in daily life.",
+    "source_name": "Clarin.com",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1ppT2hXRmRSZEM3cUhWX1ZQTTUzS2ItSmtQTXVnZnJGYXpxSlVlclJqYTJKNmY4LU9mazIxS25RMDJFWXVEaDllRHB6MUQ2RjN3NEZFaFIycHd2SDYwaVNlZDZDeDNTS25tRlFmQWhkMVlDenRQMjFfa2hKLVRrczVUc0hRMkpFYXBnWnJHRktFRkFuc0xTczNkNkxIVzF2SGMycGNXTWxkVzJodVlEMkY1SFlQQ2c?oc=5",
+    "published_at": "Fri, 24 Jul 2026 13:52:58 GMT",
+    "confidence": 0.85
+  },
+  "meme": {
+    "title": "Bangladeshi Fans' Deep Connection to Argentina's Football Legacy",
+    "platform": "reddit",
+    "explanation": "Bangladesh's love for Argentina's football, especially Maradona, shows how sports heroes can create unexpected global bonds.",
+    "why_people_are_sharing_it": "It's surprising and heartwarming to see a distant country passionately support Argentina.",
+    "tone": "wholesome",
+    "local_context": "Argentina's football culture influences far beyond Latin America.",
+    "source_url": "https://www.reddit.com/r/argentina/comments/1v5b5o4/the_revolution_had_just_been_televised_my_journey/",
+    "media_url": "https://www.reddit.com/r/argentina/comments/1v5b5o4/the_revolution_had_just_been_televised_my_journey/",
+    "confidence": 0.85
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=es-419&gl=AR&ceid=AR:es-419",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "El dólar oficial alcanzó su mayor valor nominal del año - La Nación",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Apple evalúa cambiar para siempre la forma de comprar un iPhone - La Nación",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "El vocero de Milei dijo que “es una posibilidad” que el dólar llegue a $1800 en los próximos meses - La Nación",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Llegan las cuentas sueldo en dólares: cómo funcionarán y qué costo tendrá para los clientes bancarios - Clarin.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "La alianza política entre Milei y Trump determinó que EEUU imponga el arancel más bajo a las exportaciones que recibe de la Argentina - Infobae",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Empleados de comercio cobrarán aumento salarial en tres tramos, un bono y una suma fija - Rosario3",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El Gobierno envió al Congreso el proyecto de “inocencia fiscal 2” para sacar los dólares del colchón - La Nación",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Colapinto explica su accidente en Hungría: \"No fue un buen día\" - Motorsport.com Latinoamérica | F1, MotoGP, Nascar, Rally",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "AMSAFE rechazó la oferta salarial y anunció medidas de fuerza. Denuncian pérdida de poder adquisitivo «superior al 30% - ReconquistaHOY",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Elecciones 2027: la Casa Rosada apuesta a competir con candidatos propios en 14 provincias y analiza acuerdos con seis gobernadores - TN",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "A un mes del doble terremoto, Venezuela enfrenta una tragedia sin final - La Nación",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Habló la familia del ingeniero argentino asesinado a puñaladas en España - Infobae",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Alarma en una zona turística de Francia por el peor incendio forestal en 50 años: 110.000 evacuados y 100 casas destruidas - Clarin.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Video: el momento en que tuvieron que evacuar a todo un pueblo de España por el avance de los incendios - TN",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El riesgo país salta por encima de los 440 puntos y acumula su mayor alza semanal en tres meses - Ambito",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El Banco Central realizó una fuerte compra de dólares y supera los USD 13.000 millones en 2026 - Infobae",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Una nueva y peligrosa fase de la guerra está rompiendo todas las restricciones del mercado petrolero - CNN en Español",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "WhatsApp bloquea cuentas: claves para evitar la suspensión - Lmneuquen.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Javier Milei y sus medidas, en vivo: el proyecto de “inocencia fiscal 2″ y las propuestas en el Congreso - La Nación",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El presidente del Episcopado habló sobre la eventual visita del papa León XIV: la duración de su estadía y la posible escala en Córdoba - TN",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "argentina",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=AR",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/es.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 1000,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Bangladeshi Fans' Deep Connection to Argentina's Football Legacy",
+          "score": 11,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:This title reveals a unique cultural connection between Bangladesh and Argentina through football fandom, highlighting a meaningful story beyond typical news or generic content."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Dibu Martinez: The Wall of Argentina's National Team",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Celebrates a key Argentine football figure with strong cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Angela Leiva & Eugenia Quevedo - Mejores Enemigas (Live Performance)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular music video by notable Argentine artists, relevant to local culture and trending."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "EA SPORTS FC 27 Official Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular global football video game reveal, relevant to football culture in Argentina."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Why Argentina's Passion and Unity Inspire Envy Worldwide",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Expresses a strong cultural pride narrative that resonates beyond local news."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Argentine Nickname for Quarter Pounder with Cheese Explained",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Interesting cultural tidbit but somewhat niche and meme-like; moderately relevant."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Doppelgangers Imitate Our Voice? (YouTube Trend)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Typical YouTube content creator video, not a strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Tus Ojos No Mienten (Live) by Q' Lokura",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music video, but less known artist and generic title."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Resident Evil: Noche Cero Trailer 2 (Spanish Latin America)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular franchise trailer, but global and generic entertainment content."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Surviving the Worst Snowstorm in Brookhaven on Roblox",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Typical gaming content, not a strong cultural or trend signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Candu Domínguez - Que Vuelva Él",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music video by a known artist, but generic title and less cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Resident Evil: Noche Cero Official Trailer (Dubbed)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Duplicate of #10, generic entertainment content."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Pretending to be Baby Godzilla in Minecraft Chunk",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Typical gaming content, not a strong cultural or trend signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Scaloni, sin descanso: le vallaron la casa en Pujato y sale a cada rato a saludar a los fanáticos",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Romeo Santos - Que Se Mueran | Letra",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "No puedo con la culpa",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cuando sos fanático de las milanesas",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Standing with you, Argentina 🇦🇷❤️",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Acompáñenme a llevar un año sin marihuana",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Fuertes nevadas obligan a una tropilla de guanacos a bajar hasta la ruta - San Juan",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Messi DBZ - Theatrical version",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "No pude con la manija",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Amigos Son Los Amigos",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vengo a sumarme a la campaña",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ustedes que piensan? Tenemos Messi para rato...",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Toborochi",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El argentino nace donde quiere",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nunca es mal momento para revivir esta imagen",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Daily Questions and Meetups Thread",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic community thread title, lacks cultural specificity or trend significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Viernes de Purga",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Te queremos dibu te queremos :3!",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Bare personal expression, lacks context or cultural significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lionel Messi Poster",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Odisea",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Rodri Hernández",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Piña",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too opaque and generic, no clear cultural or trend relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Anya Taylor-Joy At 2026 World Cup Final.",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "About the World Cup Finals",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Marc Cucurella",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Karim Adeyemi",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ferran Torres",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lamine Yamal",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "union",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "superliga",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "roro",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "spider-man: brand new day",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "gasto",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Copa Mundial de Fútbol de 2026",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_routine_sports",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "torneo argentino",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ricardo caruso lombardi",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "la falda",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "futbol argentino hoy",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "luiz inácio lula da silva",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La Odisea (película de 2026)",
+          "score": -4,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "penalize_hard_news_spillover",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "El dólar oficial alcanzó su mayor valor nominal del año - La Nación",
+        "source_name": "La Nación",
+        "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOXpZMnNzVUZwcXZuRFVQeElNeGJRYkJwYVZFTTQ2WjF0cmhFTEZWU2RvVGI2ZEV2OHhIQ0J1UUdZV3ZlcGlrd0ZrUEtSNU01MU9EMTRuOEp6MWtmX0VkQlFRMm5WYUtWUXZSSXdRd2I3WEN6djVLeHBMSldzWS1CTlQzb09kYl9BLUk1bG1xQmNjM2NJUy1VRjVXTy01ZERLc3Atay1RNVBLckVKOEc5SzBJTTUxVVlISGRYQkZjMUtzazRuVEtvMm1RU3VvcmRPUEktczR3?oc=5",
+        "published_at": "Fri, 24 Jul 2026 18:44:00 GMT",
+        "snippet": "El dólar oficial alcanzó su mayor valor nominal del año La Nación El dólar avanzó a $1.520 y el Banco Central cerró la semana con una fuerte compra de reservas Clarin.com El dólar oficial cerró en $ 1.520 y marcó un nuevo récord histórico El Destape El dólar oficial registró su mayor suba semanal en más de un mes y cerró en un nuevo récord nominal Ambito Dólar hoy en vivo: a cuánto se operaron todas las cotizaciones minuto a minuto este viernes 24 de julio Infobae",
+        "short_explanation": "The official dollar price hit a yearly high, impacting inflation and savings in Argentina."
+      },
+      {
+        "title": "Apple evalúa cambiar para siempre la forma de comprar un iPhone - La Nación",
+        "source_name": "La Nación",
+        "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSlNmRmlmeHpOWTlrUHJLTlZ3RmVuOGZqQ2lzdjlDQ29URDFuRXJfQWlIN0RtbTB6UnpzV010QjJTT0JzWXltNnc1M0kzU0pyM0lyRUs0cHNJWE1md2I2TzRrMTZGTUxUTm5yQ1RvQ3p6c0Yzd1d0THY0UjRFM1Joc1UyVlBnWDBaeUstYXQ2VEJNMFVad1luYUdFRzNfemJzRGFQaWlmUmYwVzYtekFfVXlDOGVRZw?oc=5",
+        "published_at": "Fri, 24 Jul 2026 17:58:00 GMT",
+        "snippet": "Apple evalúa cambiar para siempre la forma de comprar un iPhone La Nación Apple prepara un cambio histórico en el iPhone: ya no busca que lo compres, sino que lo alquiles Clarin.com Apple podría desactivar las aplicaciones de los iPhone financiados si el dueño se retrasa en sus pagos Infobae Apple cambia el juego: el iPhone entra en la era del alquiler Punto Biz La tecnología se ha vuelto tan cara que Apple ha recuperado una idea inquietante: alquilar los iPhone, iPad y Mac Xataka",
+        "short_explanation": "Apple may shift to renting iPhones, changing how Argentines buy expensive tech devices."
+      },
+      {
+        "title": "El vocero de Milei dijo que “es una posibilidad” que el dólar llegue a $1800 en los próximos meses - La Nación",
+        "source_name": "La Nación",
+        "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdVZfbzl6SWt0TzVwdlZ1RUxCTmMtLUVjTDYtWVgxMlJkRHk5ckNlTE10dE5RTVNLRXV4TXNENFo1bXU2Nl8tbkxRcUdCWXVlQVVnMDVjdEJacHRsMzRNbFI4dmVEbEJyU3VTVUF6bzJ3ekZ0V04tTi1SV3VvaEZLOU1kVlZpWmszSXcxa3liQ1VQLXNDN3gxR1RLazNLOFBCbUVaSVUzaExGSHd0NllkeVFEVGVka2NuODNhd2JBd29CMUR0UTZEbzA5by1QMEJTTmVvZDl6WlZhSEFMbmc?oc=5",
+        "published_at": "Fri, 24 Jul 2026 13:02:00 GMT",
+        "snippet": "El vocero de Milei dijo que “es una posibilidad” que el dólar llegue a $1800 en los próximos meses La Nación El vocero presidencial reconoció que “es una posibilidad” que el dólar llegue a $1800 en unos meses Página|12 El Gobierno abrió la puerta a un dólar de $1.800 y reavivó la pelea por el atraso cambiario Perfil El vocero Ravier confirmó las sospechas del mercado que se vuelca al dólar futuro La Política Online \"Es posible que el dólar llegue a $ 1.800 en los próximos meses”, dijo Adrián Ravier Cadena 3 Argentina",
+        "short_explanation": "Milei's spokesperson suggests the dollar could reach 1800 pesos, worrying locals about inflation."
+      },
+      {
+        "title": "Llegan las cuentas sueldo en dólares: cómo funcionarán y qué costo tendrá para los clientes bancarios - Clarin.com",
+        "source_name": "Clarin.com",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOS1ppT2hXRmRSZEM3cUhWX1ZQTTUzS2ItSmtQTXVnZnJGYXpxSlVlclJqYTJKNmY4LU9mazIxS25RMDJFWXVEaDllRHB6MUQ2RjN3NEZFaFIycHd2SDYwaVNlZDZDeDNTS25tRlFmQWhkMVlDenRQMjFfa2hKLVRrczVUc0hRMkpFYXBnWnJHRktFRkFuc0xTczNkNkxIVzF2SGMycGNXTWxkVzJodVlEMkY1SFlQQ2c?oc=5",
+        "published_at": "Fri, 24 Jul 2026 13:52:58 GMT",
+        "snippet": "Llegan las cuentas sueldo en dólares: cómo funcionarán y qué costo tendrá para los clientes bancarios Clarin.com BCRA habilita cuenta sueldo en dólares gratuita: qué cambia para empleados y empresas Bloomberg Línea Habilitan pago de sueldos en dólares: ¿cómo funcionará en los bancos argentinos? Radiocanal Cuentas sueldo en dólares: el BCRA reglamentó el pago de salarios en divisas Filo News Desesperados por divisas: Caputo pide a empresas que paguen salarios en dólares El Destape",
+        "short_explanation": "Banks now offer dollar salary accounts, affecting how Argentines receive and manage wages."
+      },
+      {
+        "title": "La alianza política entre Milei y Trump determinó que EEUU imponga el arancel más bajo a las exportaciones que recibe de la Argentina - Infobae",
+        "source_name": "Infobae",
+        "source_url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOVW1iQ21YWnJUNE5GQU4xa2xBeTJyeWJudmZ1SXBzamtMNktOUDdWWURIZV9GLWFwQlFOZkJ0czRQRnJrYndWQTh2VkhzNEFTY3VMWGdRWjJ0cGtMLVFSb00xR19mYW5VU0xvNlpBUXlQaHRqbHJJTWh0REdlSlgydHZRNHBMSXQwaHBHV0NXTkMzazNLUW9aMzJET2k2ZzlNSzRLRlhEdmwwd2t4TEN1OWIxdkw4Q0owTTlYaXdTY0Y4U2xGeTQtX3VjN3BGOHNBN2ZHdURabVNVZ0owUk40NElfWWt6MHQ0blRIX2lWbFM0c2NnTkhFT0JJWmdqVFJwT0Q5UUVOQjBxZ9IBpAJBVV95cUxOVmJoUGlJRTFyVU4zb2lHWTd2d2NkeXpsWUM4SlpCRklaYTlnbjNpc04tQm5PdlhaQ1FCUUFKam1PWVVFNUZVNmRocW9EQ2Q1MXZCbDlESmlRendkcWtycG00TXlxOUcwTFZUUW0xU2k0a3NWUkNnT0s0bkFQWTY5NXE2eUJnRTF5ZGxPSmhrb09QUVVMblJ1UGpWcHFSZ2R5Y0g2eUcwS3J4TTJ2S0lrRUhWRE1KVkdoUFBUT3V4Z0dMRmhwN0JSQmdHTHhVTFgycU0zTWZMRFhld2o4MUhKNHZDd3ZpcFYwbmlYYnRmRHJqYkJfZm9rYnBwOUpJMjByZllFdHR3QTFBNkNDai1OQlhxakMzSnR3VEhfZjVocnRnMmtM?oc=5",
+        "published_at": "Fri, 24 Jul 2026 19:42:06 GMT",
+        "snippet": "La alianza política entre Milei y Trump determinó que EEUU imponga el arancel más bajo a las exportaciones que recibe de la Argentina Infobae Guerra Comercial: Trump impone aranceles de entre 10 y 12,5 por ciento a 60 economías Página|12 El triunfo silencioso de China en la guerra arancelaria La Nación Hay 18 países de América Latina y el Caribe entre los afectados por los nuevos aranceles de EE.UU. CNN en Español De Brasil a Japón: la ola de rechazo global a los nuevos aranceles de Donald Trump Ambito",
+        "short_explanation": "Milei-Trump ties led to lowest US tariffs on Argentine exports, influencing trade benefits."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Bangladeshi Fans' Deep Connection to Argentina's Football Legacy",
+        "platform": "reddit",
+        "source_label": "r/argentina",
+        "score_label": "r/argentina hot #9",
+        "rank_score": 920,
+        "published_at": "2026-07-24T13:17:28+00:00",
+        "source_url": "https://www.reddit.com/r/argentina/comments/1v5b5o4/the_revolution_had_just_been_televised_my_journey/",
+        "external_url": "https://www.reddit.com/r/argentina/comments/1v5b5o4/the_revolution_had_just_been_televised_my_journey/",
+        "context": "Hi everyone. This is gonna be a long post. I’m sure many of you have noticed Bangladesh supports Argentina at the World Cup and other tournaments. To help explain that connection, I wanted to start by sharing with you a beautiful chapter from Bangladesh's best footballing book, talking about how and why a young nation fell in love with Diego Armando Maradona, and by extension, Argentina. It's call",
+        "short_explanation": "Bangladesh supports Argentina's football due to admiration for Maradona's legendary impact."
+      },
+      {
+        "title": "Dibu Martinez: The Wall of Argentina's National Team",
+        "platform": "reddit",
+        "source_label": "r/argentina",
+        "score_label": "r/argentina hot #7",
+        "rank_score": 940,
+        "published_at": "2026-07-24T16:24:43+00:00",
+        "source_url": "https://www.reddit.com/r/argentina/comments/1v5g6t7/dibu_martinez_el_muro_de_la_seleccion_argentina/",
+        "external_url": "https://www.reddit.com/r/argentina/comments/1v5g6t7/dibu_martinez_el_muro_de_la_seleccion_argentina/",
+        "context": "Cuando te digan por que Argentina no se comio una goleada recordales a este mostruo. El dibu... el Dibuuuu. Fenomeno, cargoso... un tipo que le atajo todo a un tal Lamine Yamal, lo bombardearon a pelotazos y la atajo hasta con la chota. Mil gracias Dibu de un humilde argentino random que me demostro que hay que pelearla hasta el final. submitted by /u/CartoonistShort8707 [link] [comments]",
+        "short_explanation": "Dibu Martinez is Argentina's goalkeeper praised for heroic saves in national football matches."
+      },
+      {
+        "title": "Angela Leiva & Eugenia Quevedo - Mejores Enemigas (Live Performance)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (AngelaLeivaVEVO)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T00:00:07Z",
+        "source_url": "https://www.youtube.com/watch?v=u36Q_vz_zj8",
+        "external_url": "https://www.youtube.com/watch?v=u36Q_vz_zj8",
+        "context": "AngelaLeivaVEVO. Music video by Angela Leiva, Eugenia Quevedo performing Mejores Enemigas (En Vivo).© 2026 UMG Recordings, Inc.",
+        "short_explanation": "Angela Leiva and Eugenia Quevedo perform a popular live Argentine music duet."
+      },
+      {
+        "title": "EA SPORTS FC 27 Official Reveal Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (EA SPORTS FC)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-23T15:57:07Z",
+        "source_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "external_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "context": "EA SPORTS FC. Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600\n\nStep into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay: https://x.ea.com/89601\n\nLearn more about FC 27 Gameplay, Career, FUT, and",
+        "short_explanation": "EA SPORTS FC 27 is a new football video game eagerly awaited by Argentine gamers."
+      },
+      {
+        "title": "Why Argentina's Passion and Unity Inspire Envy Worldwide",
+        "platform": "reddit",
+        "source_label": "r/argentina",
+        "score_label": "r/argentina hot #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T20:49:39+00:00",
+        "source_url": "https://www.reddit.com/r/argentina/comments/1v5nm1e/the_reason_they_hate_us/",
+        "external_url": "https://www.reddit.com/r/argentina/comments/1v5nm1e/the_reason_they_hate_us/",
+        "context": "Big empires hate watching how we are happy and united despite having a shit economy and a lot of problems being a third world country, meanwhile they, being 1st world countries can't get the love and passion we have. Even losing the WC, our celebrations overshadows those of others Gloria a nuestra bella Argentina🇦🇷 submitted by /u/-eSe- [link] [comments]",
+        "short_explanation": "Argentines pride themselves on unity and passion despite economic struggles."
+      },
+      {
+        "title": "Argentine Nickname for Quarter Pounder with Cheese Explained",
+        "platform": "reddit",
+        "source_label": "r/argentina",
+        "score_label": "r/argentina hot #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T15:25:36+00:00",
+        "source_url": "https://www.reddit.com/r/argentina/comments/1v5ejjj/samuel_sabes_cómo_llaman_a_la_cuarto_de_libra_con/",
+        "external_url": "https://www.reddit.com/r/argentina/comments/1v5ejjj/samuel_sabes_cómo_llaman_a_la_cuarto_de_libra_con/",
+        "context": "Hola. Quizás me conozcan por el meme de Django y Star Wars . Tiren ideas si quieren que haga más. submitted by /u/WonderShemale [link] [comments]",
+        "short_explanation": "Argentines have a unique nickname for the Quarter Pounder with Cheese burger."
+      },
+      {
+        "title": "Doppelgangers Imitate Our Voice? (YouTube Trend)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (RobleisJAJA)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-23T21:00:22Z",
+        "source_url": "https://www.youtube.com/watch?v=VycaDcWUuqo",
+        "external_url": "https://www.youtube.com/watch?v=VycaDcWUuqo",
+        "context": "RobleisJAJA. MI TIENDA 🧢 ► https://rbls.com.ar\n🔴 DIRECTOS DIARIOS EN: https://www.youtube.com/@RobleisIUTU/\nLike y Sub ayuda muchoo♥\n\nseguime en las redes rey\n► Instagram:  https://instagram.com/robleis\n► Twitter:  https://twitter.com/robleis01\n\nSuscribete y activa la campanita 🔔 para que estés enterado de cuando subo videos :D\n\nContacto/Business: contacto@robleis.com.ar",
+        "short_explanation": "Unclear local trend."
+      },
+      {
+        "title": "Tus Ojos No Mienten (Live) by Q' Lokura",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Q' Lokura - Topic)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-23T23:03:43Z",
+        "source_url": "https://www.youtube.com/watch?v=N1OjwBeO-4M",
+        "external_url": "https://www.youtube.com/watch?v=N1OjwBeO-4M",
+        "context": "Q' Lokura - Topic. Provided to YouTube by The Orchard Enterprises\n\nTus Ojos No Mienten (En Vivo) · Q' Lokura · Facundo Herrera\n\nTus Ojos No Mienten\n\n℗ 2026 Q'Lokura\n\nReleased on: 2026-07-23\n\nProducer: Ivan Scavuzzo\nProducer: Facundo Escobares\n\nAuto-generated by YouTube.",
+        "short_explanation": "Q' Lokura performs the live song 'Tus Ojos No Mienten,' popular in Argentina."
+      }
+    ]
+  }
+}

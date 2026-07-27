@@ -1,0 +1,894 @@
+{
+  "iso2": "DE",
+  "iso3": "DEU",
+  "country_name": "Germany",
+  "flag": "🇩🇪",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 51.1657,
+    "lon": 10.4515
+  },
+  "updated_at": "2026-07-24T21:52:42+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "wildfires",
+    "EU aid",
+    "climate crisis"
+  ],
+  "top_news": {
+    "headline": "Waldbrände in Frankreich und Spanien: EU sends firefighting planes, thousands evacuated",
+    "summary": "Severe wildfires in neighboring France and Spain prompt EU aid and mass evacuations, raising regional climate concerns.",
+    "why_it_matters": "Highlights cross-border climate crisis impacting Germany's neighbors and EU cooperation.",
+    "source_name": "Deutschlandfunk",
+    "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaE0xbHJDdGVtR2RremY2UGl4R1kzMktsR2FSWXl1dktyUWhkaERLeHBpdDc2eXN0WUF2SE9kN1RtcVR1R18xVlNOekhWa3Ridk8tMllaNlZ0WHFBcENidFNIZzVvaVJ1Z005SVNTWmpwaUhyQ0x2NkxvbFI1V2JxbXcwZjJGSnF3R05FTkE1Si1DMjdfTkJUdk9wSUgyaXJOZnF5dA?oc=5",
+    "published_at": "Fri, 24 Jul 2026 21:21:56 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Controversial Danger Dan Song Climbs to Top Ten Charts",
+    "platform": "reddit",
+    "explanation": "A politically charged song by Danger Dan sparked debate but gained popularity, reflecting Germany's culture of critical music.",
+    "why_people_are_sharing_it": "It's a mix of controversy and catchy critique that resonates with listeners.",
+    "tone": "political",
+    "local_context": "German music often blends social critique with mainstream appeal.",
+    "source_url": "https://www.reddit.com/r/de/comments/1v5o7nz/nach_kontroverse_mit_zdf_umstrittener_song_von/",
+    "media_url": "https://www.reddit.com/r/de/comments/1v5o7nz/nach_kontroverse_mit_zdf_umstrittener_song_von/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=de&gl=DE&ceid=DE:de",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Waldbrände - Frankreich und Spanien bringen zehntausende Menschen in Sicherheit - EU schickt Löschflugzeuge - Deutschlandfunk",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Wer mit wem in Magdeburg?: Das sagt der Koalitionsrechner zur Wahl in Sachsen-Anhalt - n-tv.de",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Merz wechselt CDU-Personal aus: ++ Das sagt Thorsten Frei zu seiner neuen Aufgabe ++ - WELT",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Deutsche Bahn watscht Dunja Hayali für ZDF-Doku ab - BILD",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Der italienische Strand: Allgemeingut oder Luxusgut? - FAZ",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Trump droht nach Google-Strafe der EU mit neuen Zöllen - tagesschau.de",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Klagen von mehreren Bundesstaaten: Paramount stoppt vorerst Milliardenübernahme - T-Online",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Batterie-Legende: Batteriehersteller Varta stellt Insolvenzantrag - WELT",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "„Wir müssen annehmen, dass die KI den Weg ins Internet und den Angriff eigenständig entwickelt hat“ - FAZ",
+          "score": 0,
+          "reasons": [
+            "penalize_generic_crime_or_disaster",
+            "boost_culture_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Neuen faltbaren Smartphones von Samsung: Flip8, Fold8, Fold8 Ultra - fotointern.ch",
+          "score": 0,
+          "reasons": [
+            "boost_milestone_signal",
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Merz und Verkehrsminister Schnieder „Der heutige Tag ist ein doppeltes Desaster für den Kanzler“ - Tagesspiegel",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Internationaler Strafgerichtshof - Chefankläger Khan wird abgesetzt - tagesschau.de",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Von Ukraine-Hasserin zur Reumütigen: Loomer erlebt Luftangriff in Kiew und räumt fünf Jahre Propaganda ein - Frankfurter Rundschau",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "„Sie werden so hart getroffen“: Trump schickt gefürchteten „Knochen“-Bomber Richtung Iran - Merkur",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nach tödlichem Messerangriff in Regensburg: Motiv unklar - Bankangestellter wohl Zufallsopfer - tvaktuell.com",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Aufnahmeprogramm: Verfassungsgericht fordert Einzelfallprüfung bei geflüchteten Afghanen - DIE ZEIT",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bürger bezahlen Sturheit teuer: Mit den neuen Zöllen setzt Trump endgültig die Midterms aufs Spiel - n-tv.de",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "„Er hasst uns“ – Russen in Angst wegen neuem Ukraine-Oberbefehlshaber - Frankfurter Rundschau",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "„Russisches Amazon“ in Putins Heimatstadt brennt Ukraine trifft acht von 20 Logistikzentren – kein Ende in Sicht - Tagesspiegel",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gute Nachrichten für Galaxy-Watch-Nutzer: Diese Uhren erhalten jetzt länger Updates - Netzwelt",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "de",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=DE",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/de.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 999,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Ebenezer (2026) German Trailer Featuring Johnny Depp & Ian McKellen",
+          "score": 10,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:Clear movie trailer title with notable actors; culturally relevant entertainment content."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Gzuz x Sido x JBS - 'Seite an Seite' Music Collaboration",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular German rap artists collaboration; strong native internet culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "JENNIE - 'Less than a Lover' Official Music Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular K-pop artist Jennie; strong global and internet culture relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Minecraft Mob Battle Challenge by BastiGHG",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular gaming content creator and Minecraft challenge; strong native internet culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "EA SPORTS FC 27 Official Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular global gaming franchise; relevant to gaming culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "200 BPM at Wirt Squad = -500€ Challenge with Mert, Maus, Danny, Isa & Co.",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Likely a popular YouTube challenge or streamer content; native internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Controversial Danger Dan Song Climbs to Top Ten Charts",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music controversy with chart success; notable cultural story."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "SHINDY - HIS & HERS Official Music Release",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular German rapper Shindy; relevant music culture content."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Katherina Reiche Plans Major Renewable Energy Changes",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political news headline; somewhat generic but relevant to German energy policy."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Court Ruling: Commute Time Counts as Work Time, Millions Could Benefit",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Important legal news but generic headline."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Lidl Expands Recall: Frozen Berries Contaminated with Norovirus",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic consumer safety news; not a cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Non-German Prisoner Share Rises to 45% in German Prisons",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Sociopolitical statistic; generic news."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Concerns Over Psychotherapy Availability in Germany",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic health policy news."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gorch Fock Wins US Regatta 'Five Sister Trophy' Against Sister Ships",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Niche maritime sports news; limited cultural impact."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "BUTTER TSUNAMI ZERSTÖRT ALLES in GTA 5!",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Knapp 600 Euro für 9 Quadratmeter, Schimmel inklusive | Ein neues Mietmodell breitet sich in deutschen Großstädten aus: Wohnungen werden in kleinste Kammern zerschnitten, die dann gezielt an Menschen aus dem Ausland vermietet werden",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Verkehr auf Autobahnen: Hohe Spritpreise bremsen Autofahrer kaum",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "DFB: Jürgen Klopp wird Bundestrainer",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tod nach Fesselung in Bauchlage: Was geschah beim Polizeieinsatz in Duisburg?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "„Zehn Kassen reichen“: Wofür der künftige Gesundheitsminister Linnemann steht",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Schlappe für Bundesregierung: Karlsruhe betrachtet pauschale Ablehnung von Visa für Afghanen als Verstoß gegen Willkürverbot",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mobilfunker o2 beschließt Abbau von jeder sechsten Stelle",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lidl-Konzern stoppt E-Dienstwagen: Warum die Schwarz-Gruppe wieder auf Verbrenner setzt",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wehrdienst: Ex-General Klaus Naumann erwartet allgemeine Dienstpflicht",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Messenger-Interoperabilität: Threema lehnt Vernetzung mit Whatsapp ab",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Friedrich Merz und der Kabinettsumbau: Wie der Kanzler den Neustart verstolpert",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Regierungsumbau: CDU-Politiker Fritz Güntzler will nicht Verkehrsminister werden",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "AfD-Verbotsanhörung im Thüringer Landtag: Hape Kerkeling, Maaßen und Lawrow eingeladen",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Spaltung von Polens rechtskonservativer PiS",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Geplante Kabinettsumbildung: Merz entlässt Verkehrsminister Patrick Schnieder",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Karlsruhe – Sturz aus Regionalzug: Amtsgericht bestätigt Ablehnung des Haftbefehls",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jürgen Klopp as New Transport Minister? (Satirical Political Post)",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opaque and likely satirical; not a genuine cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "CDU Politician's Quote 'Do What You Can' Backfires",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic political news headline without strong cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "EBENEZER | Offizieller Trailer (Film 2026) - Johnny Depp, Ian McKellen, Rupert Grint, Sam Claflin",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_generic_tragedy"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "MUCCO - Tonight (Official Video)",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_generic_tragedy"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Spezial:Suche",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nina Warken",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "25. juli",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "beyonce",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "blade runner 2099",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "liv süchting",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "josé mourinho",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Die Odyssee (2026)",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Passagier 23 – Verschwunden auf hoher See",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Werner Enke",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_hard_news_spillover",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jacobi-Vermutung",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "swr nachtcafe",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "jennifer grey",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "un sicherheitsrat",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "marcos llorente",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "yeni parti",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Carsten Linnemann",
+          "score": -4,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tod am Rennsteig – Haus der Toten",
+          "score": -4,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "penalize_hard_news_spillover",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Waldbrände - Frankreich und Spanien bringen zehntausende Menschen in Sicherheit - EU schickt Löschflugzeuge - Deutschlandfunk",
+        "source_name": "Deutschlandfunk",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaE0xbHJDdGVtR2RremY2UGl4R1kzMktsR2FSWXl1dktyUWhkaERLeHBpdDc2eXN0WUF2SE9kN1RtcVR1R18xVlNOekhWa3Ridk8tMllaNlZ0WHFBcENidFNIZzVvaVJ1Z005SVNTWmpwaUhyQ0x2NkxvbFI1V2JxbXcwZjJGSnF3R05FTkE1Si1DMjdfTkJUdk9wSUgyaXJOZnF5dA?oc=5",
+        "published_at": "Fri, 24 Jul 2026 21:21:56 GMT",
+        "snippet": "Waldbrände - Frankreich und Spanien bringen zehntausende Menschen in Sicherheit - EU schickt Löschflugzeuge Deutschlandfunk Weitere Schlagzeilen und Meinungen in Google News",
+        "short_explanation": "EU aids France and Spain with firefighting planes during severe wildfires threatening many lives."
+      },
+      {
+        "title": "Wer mit wem in Magdeburg?: Das sagt der Koalitionsrechner zur Wahl in Sachsen-Anhalt - n-tv.de",
+        "source_name": "n-tv.de",
+        "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOend6WnRPd0ZFd09DaUV5TW05THo3UjJGMzlPdFVncHhOTXVMdzlHZmlCcFo4VEJpM1U2a2VVWUc3VmFKZjRFbTNBMW96MXZWZUZYNDRSX0s5VjVKRm9wcTJhTGttZExkWmFfRUFYLU5ZckRaN1ZHREwwOUxVTVNjRWZoZFJNNU84VmFWMVk4M0o3QVBOekdWNTRxWUZIdS1WMDdv?oc=5",
+        "published_at": "Fri, 24 Jul 2026 09:29:07 GMT",
+        "snippet": "Wer mit wem in Magdeburg?: Das sagt der Koalitionsrechner zur Wahl in Sachsen-Anhalt n-tv.de Landtagswahl 2026: Gegen AfD-Mehrheit – Kampagne ruft zu taktischem Wählen in Sachsen-Anhalt auf WELT Entscheidung des Landeswahlausschusses: Diese Parteien stehen bei der Landtagswahl auf dem Wahlzettel MDR.de Umfrage sieht Zitterpartie für SPD: AfD liegt in Sachsen-Anhalt mit 41 Prozent deutlich vorn Tagesspiegel Landtagswahl in Sachsen-Anhalt: SPD knallt auf 5 Prozent runter taz.de",
+        "short_explanation": "Saxony-Anhalt election results impact coalition talks and efforts to prevent AfD majority."
+      },
+      {
+        "title": "Merz wechselt CDU-Personal aus: ++ Das sagt Thorsten Frei zu seiner neuen Aufgabe ++ - WELT",
+        "source_name": "WELT",
+        "source_url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQ3RUYVEzNmpiZFNVMzJJaWZjWW5TaUNlUkpCRWEwZURXWkN0TWVXRzlpNFNWWE8yanhVRExLOHhKMFY5NVNHODM5NVJwNjFEbTluWnRWMkt0VUdwbXdBc1RteUwyMk1kUlF3Q2oyNUhxNDFjTlE2NjhPaW0tLVJXS0hsSmVERUVOR0ZPQWVDMGhCZzM5ajhNUjk0NmxDX1ZDUFlMaXp1bnZvQ21oa3dpa3pLS1BMUFNlaFVnVHp2bVA0cTNVU1dJMUw5ZDZGb1R5bkNrdjFTLTF5b3k3aEhiRnlNUlVpS0Yxc1E?oc=5",
+        "published_at": "Fri, 24 Jul 2026 08:02:00 GMT",
+        "snippet": "Merz wechselt CDU-Personal aus: ++ Das sagt Thorsten Frei zu seiner neuen Aufgabe ++ WELT Was der Fall Spahn offenlegt: Wenn deutschen Politikern das Gewissen abhanden kommt WELT Thorsten Frei: Designierter CDU/CSU-Fraktionschef freut sich auf seinen neuen Job Spiegel Kanzleramtschef Frei soll neuer Fraktionsvorsitzender der Union werden tagesschau.de Katholisches Büro zu Leihmutterschaft: Gibt kein Recht auf ein Kind katholisch.de",
+        "short_explanation": "CDU leader Merz reshuffles party personnel, signaling strategic changes in German politics."
+      },
+      {
+        "title": "Deutsche Bahn watscht Dunja Hayali für ZDF-Doku ab - BILD",
+        "source_name": "BILD",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOakRnZTM4aWc5XzlQOXR4THlYWWd4OWd3UWRJRXc2cnM0TWlUbEJrXzNLMVNUSmNUR3dMYmlvRkEzcVpfR00yZGtTRlA5dTI0TVhnNzhRQTI4dkp6QU1JQnJwaGllWjR3endoTVRaQkUwWkNOc1p4QWk1Ny1HcjNCc2U4aV9oUlBRdm9ObUpSMEZrcjhlcmx6dUJTZTFjNE5GSkxkRUh0RXVmNUdOTGJRQg?oc=5",
+        "published_at": "Fri, 24 Jul 2026 08:47:00 GMT",
+        "snippet": "Deutsche Bahn watscht Dunja Hayali für ZDF-Doku ab BILD Deutsche Bahn wirft Hayali handwerkliche Fehler vor – „Sorgfältig recherchiert“, kontert der Sender WELT Das Chaos bei der Deutschen Bahn macht auch Dunja Hayali sprachlos FAZ \"Absurd\": Was bei der Bahn-Modernisierung schiefläuft ZDFheute \"In hohem Maße unseriös\": ZDF ändert Doku von Dunja Hayali nach Kritik T-Online",
+        "short_explanation": "Deutsche Bahn criticizes journalist Hayali's documentary on its failures, sparking media debate."
+      },
+      {
+        "title": "Der italienische Strand: Allgemeingut oder Luxusgut? - FAZ",
+        "source_name": "FAZ",
+        "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcklJeFgzNUxXVm1iNWZnZzFVY2FIOERGb3cxLXNHZTdfdGROOG5uWE9paFF5ZnhXYTlscjJ2TUluQmRpNk5GcTlSR3RpZ3lNZ2NrUmVJM0s3Z1VsYkZrZ1ItMkZqd1ZTcXlYdmVtTHN4Y1l3RVlxRUFNcXdhVHkwSzEtOEtPV1BJNXJWT2t6bjVLTWRlOXNiZEI0dnNDRWd1Zno2WDdheEtSN3oxRlE?oc=5",
+        "published_at": "Fri, 24 Jul 2026 17:55:01 GMT",
+        "snippet": "Der italienische Strand: Allgemeingut oder Luxusgut? FAZ In Apulien eskaliert der Lido-Streit: Wie viel Proviant ist erlaubt? Merkur  Kampf um Italiens Strände stol.it Picknick-Verbot an Italiens Stränden sorgt für Streit Falstaff An diesen italienischen Stränden darf man kein Essen mehr mitnehmen MSN",
+        "short_explanation": "Dispute over public access versus exclusivity at Italian beaches affects tourism and locals."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Ebenezer (2026) German Trailer Featuring Johnny Depp & Ian McKellen",
+        "platform": "youtube",
+        "source_label": "YouTube trending (KinoCheck)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-24T08:09:06Z",
+        "source_url": "https://www.youtube.com/watch?v=o3aFQJgjEfw",
+        "external_url": "https://www.youtube.com/watch?v=o3aFQJgjEfw",
+        "context": "KinoCheck. Offizieller \"Ebenezer: Eine Weihnachtsgeschichte\" Trailer Deutsch German 2026 | Abonnieren ➤ https://abo.yt/kc | (OT: Ebenezer) Movie Trailer | Kino: 12 Nov 2026 | Filminfos https://KinoCheck.de/film/aas/ebenezer-2026?utm_source=youtube&utm_medium=description\nEbenezer Scrooge begibt sich auf eine übernatürliche Reise, um sich seiner Vergangenheit, Gegenwart und Zukunft zu stellen und fü",
+        "short_explanation": "Upcoming German film with Johnny Depp retelling Ebenezer Scrooge's supernatural Christmas journey."
+      },
+      {
+        "title": "Gzuz x Sido x JBS - 'Seite an Seite' Music Collaboration",
+        "platform": "youtube",
+        "source_label": "YouTube trending (GZUZ)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-23T22:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=AyRc0DQau7Q",
+        "external_url": "https://www.youtube.com/watch?v=AyRc0DQau7Q",
+        "context": "GZUZ. Gzuz Europa Tour 2026 Tickets ► https://linktr.ee/gzuz187_official\n„Seite an Seite“ hier streamen ► https://umg.lnk.to/SeiteanSeite/\nGzuz abonnieren ► http://ytb.li/Gzuz\nGzuz folgen ► https://www.instagram.com/gzuz187_official/ \n\nSido folgen ► https://www.instagram.com/shawnstein/ \nJBS folgen ► https://www.instagram.com/jbsssssssssssss/\n\n“Seite an Seite“ produced by The Cratez & Lukas Menzin",
+        "short_explanation": "Popular German rappers Gzuz, Sido, and JBS release new collaboration 'Seite an Seite'."
+      },
+      {
+        "title": "JENNIE - 'Less than a Lover' Official Music Video",
+        "platform": "youtube",
+        "source_label": "YouTube trending (JennieRubyJaneVEVO)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T04:00:05Z",
+        "source_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "external_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "context": "JennieRubyJaneVEVO. Official music video for “Less than a Lover” by JENNIE out now: https://jennie.lnk.to/LessthanaLover\n\nFollow JENNIE -\nInstagram: https://www.instagram.com/jennierubyjane\nTikTok: https://www.tiktok.com/@jennierubyjane\nTwitter: https://twitter.com/jennierubyjane\nhttps://jenn.ie\n\nFollow JENNIE HQ -\nInstagram: https://www.instagram.com/jennie_hq\nTikTok: https://www.tiktok.com/@jenn",
+        "short_explanation": "Music video by Jennie, a global K-pop star, gaining attention in Germany."
+      },
+      {
+        "title": "Minecraft Mob Battle Challenge by BastiGHG",
+        "platform": "youtube",
+        "source_label": "YouTube trending (BastiGHG)",
+        "score_label": "trending #6",
+        "rank_score": 950,
+        "published_at": "2026-07-24T15:02:38Z",
+        "source_url": "https://www.youtube.com/watch?v=tVWvx0lmfv4",
+        "external_url": "https://www.youtube.com/watch?v=tVWvx0lmfv4",
+        "context": "BastiGHG. JETZT VORBESTELLEN🍦 ► https://bastighg.shop/ ZICKZACK V5 🐍 (Code: BastiGHG)► https://store.badlion.net/shop/BastiGHG SEI LIVE DABEI ► https://www.twitch.tv/bastighg 2. KANAL ► youtube.com/@bastian  3. KANAL ► https://www.youtube.com/@BastiGHGClips\n\nMerle ►  https://www.youtube.com/@merleperle \nHugo ► https://www.youtube.com/@LetsHugo \nGambo ► https://www.youtube.com/@notGambo \nnooreax ►",
+        "short_explanation": "German YouTuber BastiGHG hosts Minecraft Mob Battle gaming challenge popular locally."
+      },
+      {
+        "title": "EA SPORTS FC 27 Official Reveal Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (EA SPORTS FC)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-23T15:57:07Z",
+        "source_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "external_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "context": "EA SPORTS FC. Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600\n\nStep into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay: https://x.ea.com/89601\n\nLearn more about FC 27 Gameplay, Career, FUT, and",
+        "short_explanation": "EA SPORTS FC 27 football video game launches with new gameplay innovations."
+      },
+      {
+        "title": "Controversial Danger Dan Song Climbs to Top Ten Charts",
+        "platform": "reddit",
+        "source_label": "r/de",
+        "score_label": "r/de hot #6",
+        "rank_score": 950,
+        "published_at": "2026-07-24T21:11:45+00:00",
+        "source_url": "https://www.reddit.com/r/de/comments/1v5o7nz/nach_kontroverse_mit_zdf_umstrittener_song_von/",
+        "external_url": "https://www.reddit.com/r/de/comments/1v5o7nz/nach_kontroverse_mit_zdf_umstrittener_song_von/",
+        "context": "submitted by /u/silvrnox [link] [comments]",
+        "short_explanation": "Danger Dan's controversial song reaches Germany's top ten music charts."
+      },
+      {
+        "title": "Katherina Reiche Plans Major Renewable Energy Changes",
+        "platform": "reddit",
+        "source_label": "r/de",
+        "score_label": "r/de hot #2",
+        "rank_score": 990,
+        "published_at": "2026-07-24T10:22:15+00:00",
+        "source_url": "https://www.reddit.com/r/de/comments/1v57erm/katherina_reiche_die_eonministerin_die/",
+        "external_url": "https://www.reddit.com/r/de/comments/1v57erm/katherina_reiche_die_eonministerin_die/",
+        "context": "submitted by /u/GirasoleDE [link] [comments]",
+        "short_explanation": "Politician Katherina Reiche proposes significant reforms in Germany's renewable energy sector."
+      },
+      {
+        "title": "Court Ruling: Commute Time Counts as Work Time, Millions Could Benefit",
+        "platform": "reddit",
+        "source_label": "r/de",
+        "score_label": "r/de hot #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T15:07:41+00:00",
+        "source_url": "https://www.reddit.com/r/de/comments/1v5e25x/arbeitsweg_ist_arbeitszeit_nach_gerichtsurteil/",
+        "external_url": "https://www.reddit.com/r/de/comments/1v5e25x/arbeitsweg_ist_arbeitszeit_nach_gerichtsurteil/",
+        "context": "submitted by /u/Bismalden [link] [comments]",
+        "short_explanation": "Court rules commute time counts as work, potentially benefiting millions of German workers."
+      }
+    ]
+  }
+}

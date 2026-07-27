@@ -1,0 +1,704 @@
+{
+  "iso2": "CN",
+  "iso3": "CHN",
+  "country_name": "China",
+  "flag": "🇨🇳",
+  "region": "East Asia",
+  "coordinates": {
+    "lat": 35.8617,
+    "lon": 104.1954
+  },
+  "updated_at": "2026-07-24T21:55:38+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "Fields Medal",
+    "Wang Hong",
+    "social mobility"
+  ],
+  "top_news": {
+    "headline": "Chinese mathematician Wang Hong wins Fields Medal, challenging stereotypes about social mobility",
+    "summary": "Wang Hong's Fields Medal win sparks debate on meritocracy and social barriers in China.",
+    "why_it_matters": "Highlights Chinese society's evolving views on talent and opportunity.",
+    "source_name": "chinanews.com.cn",
+    "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16bF9hd1U4UlFfSHJoQXJzbjV5YkoxOFduODJIUldYVW9ncDB2a1NaQmhIRW51YW5YODNnNzZYMEUzSkNpN1F2TUNVQ0pJUWhQUktGc1Fod0M3ZFNHWXdibGJ6VnBwX1V4?oc=5",
+    "published_at": "Fri, 24 Jul 2026 13:54:31 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Biggest Culture Shocks After Living in China or Learning Chinese",
+    "platform": "reddit",
+    "explanation": "Foreigners find Chinese personal questions like salary or marital status surprisingly direct and intrusive compared to their home cultures.",
+    "why_people_are_sharing_it": "Relatable stories highlight cultural differences in social norms and communication styles.",
+    "tone": "wholesome",
+    "local_context": "Chinese social norms favor open personal questions among acquaintances.",
+    "source_url": "https://www.reddit.com/r/China/comments/1v50hxd/whats_your_biggest_culture_shock_after_living_in/",
+    "media_url": "https://www.reddit.com/r/China/comments/1v50hxd/whats_your_biggest_culture_shock_after_living_in/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=zh-CN&gl=CN&ceid=CN:zh-Hans",
+      "items_seen": 26,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "桂林中学老师：菲尔兹奖获得者王虹敢于追求目标不服输 - chinanews.com.cn",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "外交部介绍斯洛伐克总统访华有关安排 - 中国网",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "特朗普称美方正与伊朗谈判 不排除加大军事打击 - 第一财经",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "菲律宾船只在中国黄岩岛海域侵权挑衅，外交部、中国海警局回应 - 中国科技网",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "江苏公安落实“三位一体”防溺水机制，入夏以来劝阻野泳戏水2000余起 - 紫牛新闻",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "“义乌发展经验”，习近平总书记曾用12个字阐释精髓 - 央视网",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "公安部最新通报：中美执法部门在禁毒、遣返追逃、打击电诈等领域取得诸多可视化成果 - 京报网",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "王毅会见俄外长：维护二战胜利成果，绝不允许日本重新武装 - 凤凰网",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "广东水利防汛防台风应急响应提升至Ⅲ级 - 第一财经",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "APEC数智赋能高级别对话在蓉开幕 李乐成施小琳等致辞 - 四川新闻",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "孟加拉国议长担任代理总统 - 中国网",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "欧盟、澳大利亚、新西兰、新加坡、南非发声，回应美国加征关税 - 京报网",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "智慧共享，合作共赢 国际观察：人工智能合作赋能构建周边命运共同体 - 新华报业网",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "揭秘中国全力追赶美国AI芯片的攻坚内幕 - 华尔街日报中文网",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "欧洲央行首席经济学家Lane将9月视为利率走向的下一个关键时刻 - 东方财富",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "字母表资本开支超449亿美元致自由现金流首负 美股七巨头单日蒸发近8000亿美元 - 观点网",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "上半年演出市场稳步增长，“演出+文旅”联动成常态 - finance.sina.com.cn",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "日本连续4天出现“酷暑日” 追平历史纪录 - chinanews.com.cn",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "美国导弹从南到北袭击伊朗，中国推动巴基斯坦重启美伊谈判 - RFI",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "铁拐李曹国舅动漫形象被批太丑，票房爆火后被黑造型，到底动了谁的蛋糕 - 中华网",
+          "score": -4,
+          "reasons": [
+            "drop_press_release_like"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "China",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "status": "error",
+        "message": "400 Client Error: Bad Request for url: https://www.googleapis.com/youtube/v3/videos?part=snippet&chart=mostPopular&regionCode=CN&maxResults=10&key=AIzaSyC0LHklrQ1dWOo-4RIxr7xFO7lGzUGi0zM"
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "status": "error",
+        "message": "400 Client Error: Bad Request for url: https://trends.google.com/trending/rss?geo=CN"
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/zh.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 1000,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Hong Kong Booksellers Raided Over Emily Feng’s Controversial Book",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:The title is somewhat news-headline style and specific to a book and author; it lacks broader cultural or internet fixation appeal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Biggest Culture Shocks After Living in China or Learning Chinese",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This is a relatable and engaging cultural discussion that resonates with internet users interested in cross-cultural experiences."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Drinking Baijiu: A Cultural Experience and Social Custom in China",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This personal story about baijiu drinking customs offers cultural insight and internet appeal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Vintage Photos of Guangdong from 1979 by an Irish-American Filmmaker",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This candidate offers a nostalgic and culturally interesting glimpse into China’s past, appealing to internet users interested in history and culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Study Finds China Ranks Third Globally in Narcissism Traits",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This research finding is somewhat intriguing and could spark cultural discussion online."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "What Chinese Women Value in Relationships with Foreigners",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This topic invites cultural exchange and personal stories, fitting internet discussion trends."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Traveling to China: Where to Find Vinyl Records and Japanese Music",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This reflects a cultural and music interest that fits internet niche communities."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Chinese Labs' Latest Product? Roleplay",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The title is vague and somewhat opaque; without more context, it is unclear if this is a cultural trend or just a news snippet."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "China’s Fifth J-36 Prototype Shows Advanced Sixth-Generation Fighter Design",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Military tech news is informative but not a native internet culture signal or trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Opinion: Why the US is Losing Chinese AI Talent",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opinion piece on talent migration is informative but not a native culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Germany Deports Uyghur Man to China, Raising Human Rights Concerns",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Important news but more geopolitical and human rights focused than cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Where to Find Seals in China?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A niche travel/nature query, somewhat generic and not a culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "China unveils Truck-Mounted Electromagnetic Aircraft Catapult plus containerized Vertical Launching System on a cargo ship [video]",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Taiwan Condemns Chinese Research Vessel Entering Its EEZ",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This is a geopolitical news headline, not a cultural or internet trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Kimi and Xi (Podcast Discussion)",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Title is too opaque and vague without context; unclear cultural relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "China adds 14 European firms to export control list in tit-for-tat over EU's Russia sanctions",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Chinese massage",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "China may be building a new type of attack submarine, satellite imagery suggests \"minimized sail.\"",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "China Prepares for Multiple Typhoons After Bavi and Maysak",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Weather news is generic and not a cultural or internet trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Looking to Buy Local Tianjin Soap Online",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A personal shopping query, very generic and not a cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "China: The Roots of Madness (1967)",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "奧德賽 (電影)",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "金特務：本色回歸",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "王虹 (數學家)",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "China fires back at Trump administration claims that its AI companies steal U.S. tech",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "US not getting enough critical minerals from China, Greer says as Xi-Trump meeting looms",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "謝賢",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "鬼謎東宮",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "狄波拉",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "菲尔兹奖",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "阿茲海默症",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Fields Medal win: Wang Hong, Deng Yu are first Chinese nationals to score top maths honour",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_generic_query",
+            "boost_milestone_signal"
+          ],
+          "passed": false,
+          "kept": false
+        },
+        {
+          "title": "Studying in China Megathread - FH2026",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "桂林中学老师：菲尔兹奖获得者王虹敢于追求目标不服输 - chinanews.com.cn",
+        "source_name": "chinanews.com.cn",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16bF9hd1U4UlFfSHJoQXJzbjV5YkoxOFduODJIUldYVW9ncDB2a1NaQmhIRW51YW5YODNnNzZYMEUzSkNpN1F2TUNVQ0pJUWhQUktGc1Fod0M3ZFNHWXdibGJ6VnBwX1V4?oc=5",
+        "published_at": "Fri, 24 Jul 2026 13:54:31 GMT",
+        "snippet": "桂林中学老师：菲尔兹奖获得者王虹敢于追求目标不服输 chinanews.com.cn 北大校友王虹、邓煜荣获菲尔兹奖 北京大学新闻网 王虹斩获菲尔兹奖，“寒门难出贵子” 的论调该歇了？ 观察者 这样的大好消息突降，中国人应该高兴还是着急？ finance.sina.com.cn 获得全球最高奖项的中国数学家，生活中反差大得让人惊掉下巴 凤凰网",
+        "short_explanation": "Chinese mathematician Wang Hong won Fields Medal, inspiring pride and challenging social stereotypes."
+      },
+      {
+        "title": "外交部介绍斯洛伐克总统访华有关安排 - 中国网",
+        "source_name": "中国网",
+        "source_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ybHVnczEtOUxQY1JmT0pUbFM3aDFiMTVETzktSUc5WEFTbFJFZXNpcXBVdm5KZUZfTkpDLWdrQ2VBRy11TWhaakotVk15RUE3ZTJPLThkWU5tbTFfZGF1VWtNSFF0MVNUU09lczVkVQ?oc=5",
+        "published_at": "Fri, 24 Jul 2026 16:59:00 GMT",
+        "snippet": "外交部介绍斯洛伐克总统访华有关安排 中国网 外交部：中方愿同斯洛伐克拓展各领域交流合作 finance.sina.com.cn 下周前瞻：美联储议息；秘鲁新总统就职 china.caixin.com 佩列格里尼，将访华 京报网 2026年7月24日外交部发言人林剑主持例行记者会 中华人民共和国驻慕尼黑总领事馆",
+        "short_explanation": "Slovak president's visit to China aims to strengthen diplomatic and economic ties."
+      },
+      {
+        "title": "特朗普称美方正与伊朗谈判 不排除加大军事打击 - 第一财经",
+        "source_name": "第一财经",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tN21ZLXFCRGl6a3EySHBMaFFIQWdaWWRoNWtMblBRakdhVlgxWlItUjBndTEzc0M5Tm5ZYVU4aGZmYzd0cThZM1ZOb2FYZ0thb1hr?oc=5",
+        "published_at": "Fri, 24 Jul 2026 20:01:51 GMT",
+        "snippet": "特朗普称美方正与伊朗谈判 不排除加大军事打击 第一财经 特朗普威胁重启对伊朗的大规模作战行动，伊朗、胡塞武装回应：已做好应战准备 finance.sina.com.cn 美威胁发动空前打击 伊朗、胡塞武装：已做好应战准备 中国日报网 美国总统为何盯上了伊朗“镐山”核设施？ 央视网 特朗普称“接近”决定发动“大规模攻击”，伊朗被曝为军事升级做准备、尤其地面入侵 华尔街见闻",
+        "short_explanation": "Trump warns of possible military action against Iran amid tense negotiations."
+      },
+      {
+        "title": "菲律宾船只在中国黄岩岛海域侵权挑衅，外交部、中国海警局回应 - 中国科技网",
+        "source_name": "中国科技网",
+        "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zNk9EYmFocFZ5VV9XenBoMkhSZmlWZXRfSUprSHdHWm1ZV1hMbUhvRzluZV93QmxueU9YUl94WkI3NVZHRDEwRk0wRkNkTURXQTFJcEpTU1QtSVJTaGZZbkhyZmZOWm5DR09XRERMZDE?oc=5",
+        "published_at": "Fri, 24 Jul 2026 08:55:06 GMT",
+        "snippet": "菲律宾船只在中国黄岩岛海域侵权挑衅，外交部、中国海警局回应 中国科技网 中美频繁高层互动，菲律宾好自为之 新浪新闻_手机新浪网 外交部：菲方应立即停止侵权挑衅和炒作 中国日报网 菲多艘船只侵闯中国黄岩岛管辖海域，现场画面公布 观察者 仁爱礁上的“烂军舰”一条“晾衣绳”暴露的菲律宾式焦虑 手机网易网",
+        "short_explanation": "China condemns Philippine ships' intrusion in disputed Huangyan Island waters."
+      },
+      {
+        "title": "江苏公安落实“三位一体”防溺水机制，入夏以来劝阻野泳戏水2000余起 - 紫牛新闻",
+        "source_name": "紫牛新闻",
+        "source_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iTEhEOTJkb0h3LWpLQ0ZCRF9WUlY2VVgzczJCWHhuV1ZkQ3hZTFJKbWZ5NkE5bzU5a01MOTktZXZ5T044VEZKbGwxRE9mV21MakdTbWt1RlU5NmNzdWhMcE1WQzVlTVAx?oc=5",
+        "published_at": "Fri, 24 Jul 2026 13:25:00 GMT",
+        "snippet": "江苏公安落实“三位一体”防溺水机制，入夏以来劝阻野泳戏水2000余起 紫牛新闻 江西防溺水警示发布 新浪网 从泳池到河道、从线下到云端，萍乡公安织密夏日防溺水“安全网” 凤凰网江西 警惕！暑期儿童意外伤害高发 如何防溺水？这份安全指南请收好↓ 央视网 珍爱生命 预防溺水——龙眠街道王墩社区开展暑期防溺水安全教育活动 中华网",
+        "short_explanation": "Jiangsu police enforce anti-drowning measures, stopping over 2000 risky swims this summer."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Hong Kong Booksellers Raided Over Emily Feng’s Controversial Book",
+        "platform": "reddit",
+        "source_label": "r/China",
+        "score_label": "r/China hot #11",
+        "rank_score": 900,
+        "published_at": "2026-07-23T20:34:05+00:00",
+        "source_url": "https://www.reddit.com/r/China/comments/1v4pv1y/hong_kong_booksellers_raided_arrested_for_selling/",
+        "external_url": "https://www.reddit.com/r/China/comments/1v4pv1y/hong_kong_booksellers_raided_arrested_for_selling/",
+        "context": "submitted by /u/agenbite_lee [link] [comments]",
+        "short_explanation": "Authorities raided Hong Kong booksellers over a politically sensitive book by Emily Feng."
+      },
+      {
+        "title": "Biggest Culture Shocks After Living in China or Learning Chinese",
+        "platform": "reddit",
+        "source_label": "r/China",
+        "score_label": "r/China hot #6",
+        "rank_score": 950,
+        "published_at": "2026-07-24T04:07:11+00:00",
+        "source_url": "https://www.reddit.com/r/China/comments/1v50hxd/whats_your_biggest_culture_shock_after_living_in/",
+        "external_url": "https://www.reddit.com/r/China/comments/1v50hxd/whats_your_biggest_culture_shock_after_living_in/",
+        "context": "This isn't about grammar or pronunciation, just a casual chat. What's your biggest culture shock after living in China or learning Chinese? I'll go first. Some of my students who live in China told me they've been asked things like \"How much do you make every month?\" or \"Are you married?\" and other questions that feel pretty personal. They were caught off guard at first. Have you guys run into any",
+        "short_explanation": "Locals often ask personal questions, surprising foreigners living or learning Chinese in China."
+      },
+      {
+        "title": "Drinking Baijiu: A Cultural Experience and Social Custom in China",
+        "platform": "reddit",
+        "source_label": "r/China",
+        "score_label": "r/China hot #9",
+        "rank_score": 920,
+        "published_at": "2026-07-23T20:01:08+00:00",
+        "source_url": "https://www.reddit.com/r/China/comments/1v4oy9c/drinking_baijiu_culture_question/",
+        "external_url": "https://www.reddit.com/r/China/comments/1v4oy9c/drinking_baijiu_culture_question/",
+        "context": "I (43m American )was invited to go drink baijiu with a girl (33F with kid) I’ve been talking to the last couple of months. We both proceeded to drink a lot, and went back to the hotel. She went to put her child to sleep (who was staying with her aunt), and I fell asleep. The aunt scolded me the next day because she said it’s custom for Chinese women to drink when comfortable with you to open up. D",
+        "short_explanation": "Drinking baijiu is a social custom to build trust and openness in China."
+      },
+      {
+        "title": "Vintage Photos of Guangdong from 1979 by an Irish-American Filmmaker",
+        "platform": "reddit",
+        "source_label": "r/China",
+        "score_label": "r/China hot #2",
+        "rank_score": 990,
+        "published_at": "2026-07-22T08:10:11+00:00",
+        "source_url": "https://www.reddit.com/r/China/comments/1v39ptn/my_grandpas_photos_of_guangdong_1979/",
+        "external_url": "https://www.reddit.com/r/China/comments/1v39ptn/my_grandpas_photos_of_guangdong_1979/",
+        "context": "My grandpa (1925-2009) was born in Ireland and moved to the United States, where he became an actor and filmmaker. From the 1960s-1980s he travelled all over the world for various documentary film projects. I am not sure exactly what brought him to China, but I found a lot of interesting photos from a trip in 1979. After some reverse Google Image searches, it seems he visited the Museum of the For",
+        "short_explanation": "Rare 1979 photos show Guangdong's history through an Irish-American filmmaker's lens."
+      },
+      {
+        "title": "Study Finds China Ranks Third Globally in Narcissism Traits",
+        "platform": "reddit",
+        "source_label": "r/China",
+        "score_label": "r/China hot #8",
+        "rank_score": 930,
+        "published_at": "2026-07-23T15:52:18+00:00",
+        "source_url": "https://www.reddit.com/r/China/comments/1v4hu73/research_show_china_ranks_third_in_global_overall/",
+        "external_url": "https://www.reddit.com/r/China/comments/1v4hu73/research_show_china_ranks_third_in_global_overall/",
+        "context": "submitted by /u/hiimsubclavian [link] [comments]",
+        "short_explanation": "Study ranks China third worldwide for narcissistic personality traits among its population."
+      },
+      {
+        "title": "What Chinese Women Value in Relationships with Foreigners",
+        "platform": "reddit",
+        "source_label": "r/China",
+        "score_label": "r/China hot #12",
+        "rank_score": 890,
+        "published_at": "2026-07-24T20:55:14+00:00",
+        "source_url": "https://www.reddit.com/r/China/comments/1v5nrej/relationship_with_a_chinese_girl/",
+        "external_url": "https://www.reddit.com/r/China/comments/1v5nrej/relationship_with_a_chinese_girl/",
+        "context": "I want to hear from Chinese women what's important to you in a relationship with a foreigner. when you are in a foreign country submitted by /u/z3taO [link] [comments]",
+        "short_explanation": "Chinese women share values important in relationships with foreign partners abroad."
+      },
+      {
+        "title": "Traveling to China: Where to Find Vinyl Records and Japanese Music",
+        "platform": "reddit",
+        "source_label": "r/China",
+        "score_label": "r/China hot #22",
+        "rank_score": 790,
+        "published_at": "2026-07-23T18:03:07+00:00",
+        "source_url": "https://www.reddit.com/r/China/comments/1v4lkly/traviling_to_china_any_vinyls/",
+        "external_url": "https://www.reddit.com/r/China/comments/1v4lkly/traviling_to_china_any_vinyls/",
+        "context": "As the title suggests, I’m traveling to China for a month in September. I’d be interested to hear about your experiences for instance, which cities are worth visiting and where to find good Chinese vinyl records. I’d also like to know what the chances are of discovering music by Japanese artists while I’m there. submitted by /u/Striking-Meal550 [link] [comments]",
+        "short_explanation": "Travelers seek Chinese vinyl and Japanese music in major Chinese cities."
+      },
+      {
+        "title": "Chinese Labs' Latest Product? Roleplay",
+        "platform": "reddit",
+        "source_label": "r/China",
+        "score_label": "r/China hot #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T21:19:37+00:00",
+        "source_url": "https://www.reddit.com/r/China/comments/1v5of8u/chinese_labs_latest_product_roleplay/",
+        "external_url": "https://www.reddit.com/r/China/comments/1v5of8u/chinese_labs_latest_product_roleplay/",
+        "context": "submitted by /u/ChinaTalkOfficial [link] [comments]",
+        "short_explanation": "Unclear local trend."
+      }
+    ]
+  }
+}

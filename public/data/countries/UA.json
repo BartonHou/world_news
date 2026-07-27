@@ -1,0 +1,852 @@
+{
+  "iso2": "UA",
+  "iso3": "UKR",
+  "country_name": "Ukraine",
+  "flag": "🇺🇦",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 48.3794,
+    "lon": 31.1656
+  },
+  "updated_at": "2026-07-24T22:02:56+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "ракетний удар",
+    "Київщина",
+    "виставка зброї"
+  ],
+  "top_news": {
+    "headline": "Ракетний обстріл Київщини під час виставки зброї: що відомо про жертви, перші версії та реакція",
+    "summary": "Російський ракетний удар по виставці зброї на Київщині спричинив жертви та оголошення Дня жалоби.",
+    "why_it_matters": "Показує безпосередній вплив війни на цивільне життя і настрій в Україні.",
+    "source_name": "ТСН",
+    "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa1lzNXFQaUVWQlg3bUU5aklObXYwMFNPVlZhRW1ZcjBRUWtWbjdFUG16NV9OVzdROEs3V21oREFKdnZ2OGJlTjhCcUpoSm10aEprSjhVakpTT3JfV2pHR0VJQ2ZNVDNvak9tSzI2Mks3RjNrSTVXSkpQMEpDZUFEMkZDcXoxLUp3cDRqenNvTWtYdFl6VHoxNVIxaU1zV2pEd3k0d0dLSUxXZ1N3YmJIemgtRDgtU25kZ2hrbnEwbV9GQllSTUpyYV8teDk2SjRHNWRUVlBNZXRaT3BORHlWcWdSUjZlQVFrRk5rTURyY9IB9AFBVV95cUxOUE5hcnFzRFJ5NUJBN0pnV3pLWDFtZjZfVmVIdnI0TEdmdFJGbGRJd05URkdaeldlM3ZwR2U0bmozX0wzeHk5aEp6NmxyWkFZenh1c1psSEVvdGZtUEpFOXRuTHk4dXJ2dXl4Z3A0OUtZR0IycXJueDBRS3RhVUtmTk1CNmJ5OV9KR2g4dmdpeTA0MzNRb2h3eWVnVWpLMW1zSW10SUphTndTNWYtUUlRNnpUMTdXTU1jMXN4Wk9QY1hUS3d6SXVsSEgtUkczdFJjVzg2TUIzMUtiblNmblNaaVd6eTgxWFN6YVNNckRYR3FQRGVf?oc=5",
+    "published_at": "Fri, 24 Jul 2026 21:12:42 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Russian Cities and Wildberries Facility in Saint Petersburg Burn Amid War",
+    "platform": "reddit",
+    "explanation": "Wildberries, a major Russian e-commerce hub, caught fire amid ongoing conflict, symbolizing economic and civilian disruption in Russia.",
+    "why_people_are_sharing_it": "It highlights war's impact on Russian civilian infrastructure, fueling Ukrainian morale online.",
+    "tone": "political",
+    "local_context": "Wildberries is Russia's largest online retailer; its damage resonates locally.",
+    "source_url": "https://www.reddit.com/r/ukraine/comments/1v5ffl8/russians_started_this_war_in_full_confidence_that/",
+    "media_url": "https://www.reddit.com/r/ukraine/comments/1v5ffl8/russians_started_this_war_in_full_confidence_that/",
+    "confidence": 0.9
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=uk&gl=UA&ceid=UA:uk",
+      "items_seen": 29,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Ракетний обстріл Київщини під час виставки зброї: що відомо про жертви, перші версії та реакція — усі подробиці - ТСН",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Розвідка Естонії розповіла про вплив на економіку Росії успішних ударів ЗСУ - Європейська правда",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Більше ППО і менше «зайвої бюрократії»: Драпатий визначив свої пріоритети на посаді головкома ЗСУ - nv.ua",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Росія вдарила КАБом по цвинтарю в Запоріжжі: фото моторошних наслідків - ТСН",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Латвія викликала російського дипломата через удар по почесному консульству у Слов'янську - Європейська правда",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ракети вже напоготові: Зеленський попередив про російську атаку - УНІАН",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Зеленський зробив заяву щодо перемир'я з Росією - Korrespondent.net",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "«Укрзалізниця»: російський дрон вдарив по пасажирському поїзду на Дніпропетровщині - Радіо Свобода",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Росія перекриває життєво важливий для України коридор: у Politico розповіли про наслідки - УНІАН",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Хусити змусили танкер на шляху до Азії розвернутися й обігнути Африку - Економічна правда",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Пожежа охопила курорт у Франції: з півострова евакуюють усіх людей - Korrespondent.net",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Які країни та чому блокували 21-й пакет санкцій та чим поступилися друзі України - Європейська правда",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Товари з Росії потрапили під нові мита Трампа - Korrespondent.net",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Нове покоління Kia Sportage помітили на шпигунських фото - Korrespondent.net",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Toyota оновила позашляховик Sequoia - Korrespondent.net",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Aston Martin випустить ювілейну серію Vanquish до свого 25-річчя - Korrespondent.net",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Британські експерти назвали найкращі компактні кросовери 2026 року: ТОП-3 моделей (Фото) - MMR.net.ua",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Google дозволив авторизацію в акаунт через селфі-відео - Укрінформ - актуальні новини України та світу",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Galaxy Watch 9 і Ultra 2 отримуватимуть оновлення Wear OS до 2031 року - LIGA.net",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "На Марсі відбуваються загадкові землетруси, яким нема пояснення, - вчені - УНІАН",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "ukraine",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=UA",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/uk.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 996,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Russian Cities and Wildberries Facility in Saint Petersburg Burn Amid War",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The title provides a vivid narrative about the war's impact on Russian cities and a notable logistics hub, making it a culturally relevant and emotionally charged trend for global awareness."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Wildberries Logistics Hub in Saint Petersburg Engulfed in Fire",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Details a significant event tied to the ongoing conflict, relevant to the Ukraine context and global culture map."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Drone Strike Destroys Wildberries Warehouse in St. Petersburg",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A specific and impactful event related to the conflict, providing a strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Russians Cry as Ukraine Strikes More Wildberries Warehouses",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Emotionally charged and culturally significant content related to the conflict."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ukrainian Yak-52 Crew Shoots Down Russian Shaheds Over Odesa",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Specific military event tied to the Ukraine conflict, culturally significant."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ukraine Shows Western Militaries How Modern War is Fought",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Insightful and culturally significant narrative about Ukraine's military evolution."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gorlytsi (Song by SKYLERR)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The title is a single word in Ukrainian meaning 'turtledoves,' which is a music track title. It's somewhat generic without broader cultural context."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "VLADA K & FIÏNKA - Там, де музика (Official Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music video title in Ukrainian; culturally relevant but niche without additional context."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Anna Trincher - Margarita (Official Music Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music video title; culturally relevant but generic as a trend candidate."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Smoke signals from St. Petersburg today.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "DARK-SOUND & 🥀🖤ТРОЯНДА ЧОРНА | Нова українська пісня 2026 ХІТ❤️‍🔥🥀🖤",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dutch-supplied Ruta Block 1 low-cost cruise missile heading to its target in Russia during one of the recent Ukrainian attacks. Published 24.07.2026",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ukraine strikes Wildberries warehouses four times in one week",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ukraine to Expand Drone Range to 4,000 Km and Up to 10,000 Next Year, Zelenskyy Says",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dobropillia sector: Russian forces attempted a very rare large-scale tank assault, reportedly repelled following loss οf 9 tanks, 2 armored vehicles, 3 \"Grad\" MLRS systems, & 23+ infantrymen. Reported by Ukrainian Border Guard Regiment \"Phoenix\", July 24, 2026",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "MAGYAR: Those berries sure are wild",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Video shows that Ukrainian drones hit two Wildberries warehouses in different locations in St. Petersburg this morning",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Rheinmetall deliveres new artillery shells to Ukraine",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Some additional drone footage. FP-1 strike drone punches through thick columns of black smoke to deliver another hit on the burning Wildberries logistics hub near St. Petersburg. 24 July 2026",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Russian Air Defense Forced to Engage Its Own Su-57",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ukrainian drone strike in St. Petersburg this morning.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "More footage from the Ukrainian drone strike in St. Petersburg this morning.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Russian Mechanized Assault Failes! Ten Tanks, x2 BM-21 Grads Destroyed",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wildberries phone notifications be like",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The fires in the Wildberries facility have turned into another “volcanic eruption”. The spectacle can be seen from large parts of Saint Petersburg, Russia. 24 July 2026",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Goooood morning, St. Petersburg!",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too generic and vague; it reads like a casual greeting without clear cultural or trending significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Using Cheats in New Drawing Hide and Seek Game",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content with niche appeal; not strongly connected to broader cultural trends."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Reaction and Analysis of Avengers: Doomsday Trailer",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Reaction video to a movie trailer; generic entertainment content."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Avengers: Doomsday Official Trailer",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A global entertainment headline unrelated specifically to Ukraine; generic movie promotion."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Can Kenji & Kaze Save Nori? (Brawl Stars Animation)",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming animation unrelated to Ukraine or broader cultural trends."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ISW: Russia has taken just 81 km² of Ukraine this year—while claiming 2,226. Russian officials continue exaggerating Russian battlefield successes to construct a false reality that appears to be shaping Putin’s understanding of the situation.",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "EA SPORTS FC 27 Official Reveal Trailer",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic global gaming content unrelated to Ukraine culture or trends."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bunker Underground! Adventures in Paris - RUST Gameplay",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content unrelated to Ukraine or global cultural trends."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wildberries Targets",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Драпатий Михайло Васильович",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Сирський Олександр Станіславович",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Федоров Михайло Альбертович",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Одіссея (фільм, 2026)",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Скибюк Ігор Анатолійович",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Су-57",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Головна сторінка",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "командувач національної гвардії україни",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "реал мадрид",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "галатасарай – монца",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "opus 5",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "право і справедливість",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "вибухи",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "микола шапаренко",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Спеціальна:Пошук",
+          "score": -1,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "A mockery of Russian air defenses as Ukrainian combat drones flew over St. Petersburg in front of Russian fighter jets during the attack",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_generic_tragedy",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "михайло васильович драпатий",
+          "score": -2,
+          "reasons": [
+            "penalize_thin_context"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "поїзд",
+          "score": -2,
+          "reasons": [
+            "penalize_thin_context"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "штурм",
+          "score": -2,
+          "reasons": [
+            "penalize_thin_context"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Ракетний обстріл Київщини під час виставки зброї: що відомо про жертви, перші версії та реакція — усі подробиці - ТСН",
+        "source_name": "ТСН",
+        "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPa1lzNXFQaUVWQlg3bUU5aklObXYwMFNPVlZhRW1ZcjBRUWtWbjdFUG16NV9OVzdROEs3V21oREFKdnZ2OGJlTjhCcUpoSm10aEprSjhVakpTT3JfV2pHR0VJQ2ZNVDNvak9tSzI2Mks3RjNrSTVXSkpQMEpDZUFEMkZDcXoxLUp3cDRqenNvTWtYdFl6VHoxNVIxaU1zV2pEd3k0d0dLSUxXZ1N3YmJIemgtRDgtU25kZ2hrbnEwbV9GQllSTUpyYV8teDk2SjRHNWRUVlBNZXRaT3BORHlWcWdSUjZlQVFrRk5rTURyY9IB9AFBVV95cUxOUE5hcnFzRFJ5NUJBN0pnV3pLWDFtZjZfVmVIdnI0TEdmdFJGbGRJd05URkdaeldlM3ZwR2U0bmozX0wzeHk5aEp6NmxyWkFZenh1c1psSEVvdGZtUEpFOXRuTHk4dXJ2dXl4Z3A0OUtZR0IycXJueDBRS3RhVUtmTk1CNmJ5OV9KR2g4dmdpeTA0MzNRb2h3eWVnVWpLMW1zSW10SUphTndTNWYtUUlRNnpUMTdXTU1jMXN4Wk9QY1hUS3d6SXVsSEgtUkczdFJjVzg2TUIzMUtiblNmblNaaVd6eTgxWFN6YVNNckRYR3FQRGVf?oc=5",
+        "published_at": "Fri, 24 Jul 2026 21:12:42 GMT",
+        "snippet": "Ракетний обстріл Київщини під час виставки зброї: що відомо про жертви, перші версії та реакція — усі подробиці ТСН РФ знала, куди бити: спливли нові подробиці удару по виставці на Київщині ТСН На Київщині 25 липня оголосили Днем жалоби після російської атаки Українська правда Від російського ракетного удару загинула комунікаційниця Валентина Савіцька detector.media На Київщині завершили рятувальні роботи після ракетної атаки рф: у ДСНС показали наслідки Rubryka",
+        "short_explanation": "Russian missile strike hit Kyiv region during weapons expo, causing casualties and local mourning."
+      },
+      {
+        "title": "Розвідка Естонії розповіла про вплив на економіку Росії успішних ударів ЗСУ - Європейська правда",
+        "source_name": "Європейська правда",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fLWFaTEFNU0NrandZRVh0eDZ1TG0zT3hlZlJHaGY3UXpjMVB0Q2VhZExRUmxQZGFaaHZscTA5ZmRkVXdta1pnM3VZN3UxLXVBQWFFdUZiTnE1bUlmeUlJRlBiMWJlOGZ0dFBn?oc=5",
+        "published_at": "Fri, 24 Jul 2026 13:08:39 GMT",
+        "snippet": "Розвідка Естонії розповіла про вплив на економіку Росії успішних ударів ЗСУ Європейська правда Атака дронів на рф та Крим: вибухи лунали в Санкт-Петербурзі, Кірові та Сімферополі Rubryka Склади подвійного призначення: як удари по Wildberries створюють тиск на Путіна в росії АрміяInform У Росії заявили про атаку дронів та ураження складів Wildberries Українська правда Як удари по складах Wildberries змінюють настрої у Росії, — The Economist Texty.org.ua",
+        "short_explanation": "Estonian intelligence reports Ukrainian strikes harming Russia's economy, increasing pressure on Kremlin."
+      },
+      {
+        "title": "Більше ППО і менше «зайвої бюрократії»: Драпатий визначив свої пріоритети на посаді головкома ЗСУ - nv.ua",
+        "source_name": "nv.ua",
+        "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOWttNjBZZnhnXzYzOUFiLVQxV2VXckZkN3lwWDkzV2dzN2I5R0gzN1JWb1RxMTRxUjduMXJXQUIwRXlhSXNLY0Y5NlRZd20wc0dqem05cE04NVdOQ24tZWg2ejdJYWpTVHVwQlc3TFFzckhfc2lSSkFmYnlYcWN0Nk1XejR1QzJidWVoMTg4ckpNOU9SRXJpb1F1MkZPMTVJeUJTQmVQZm5yNlRSWHU0WVRnMFV1VTA0LVNaM2t3UjJjZHBUcDU4MmdCMWtrQ0FzZzBkSEdtQWUteGJpVVk0ZVVTYWY3eUFX0gHXAUFVX3lxTE5MM1FfM0NYNVZUaTRkU050UGtvMHY2UWtrcWZveUNZZ1ViMWtoRnh6VmkzTXFxWG0yRi1na1N3RWE0MkJXYXd6ZEhZSlkwWG90eDEtX2ZVaTRzekU2UnF3LWI1NjdlUVlNT09kNVJJeGE4ejhTeW9vc01zalBkVlYzVkRPbXZFcTRudXpfTXV6OU1MYm9NX2JFSjJZNFFEVmNrQkYtY2xzTGdQNFlabVR3NllOcmhlTjZxWDBkWTJfd3YxTTVzaGZZNFdvVGxENnB1a3YtTjZN?oc=5",
+        "published_at": "Fri, 24 Jul 2026 20:25:22 GMT",
+        "snippet": "Більше ППО і менше «зайвої бюрократії»: Драпатий визначив свої пріоритети на посаді головкома ЗСУ nv.ua «Точно буде багато звільняти». Драпатий очищатиме керівний склад ЗСУ від людей Сирського: чого чекати — оглядачка Radio NV nv.ua Сирський передав повноваження головнокомандувача ЗСУ Драпатому Суспільне | Новини Україна фокусується на технологічній перевазі у війні і розраховує на підтримку США – Євгеній Хмара Міністерство оборони України ППО, дрони та менше бюрократії: Михайло Драпатий окреслив пріоритети на посаді Головнокомандувача ЗСУ АрміяInform",
+        "short_explanation": "New Ukrainian military chief prioritizes air defense and reducing bureaucracy for better war efforts."
+      },
+      {
+        "title": "Росія вдарила КАБом по цвинтарю в Запоріжжі: фото моторошних наслідків - ТСН",
+        "source_name": "ТСН",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQelFtYVRuRmU0MENxNmFvVHhvLXhFNUx4UmZNTUs2c0tzVkRqektybnIwbmFRN2FKUnAyRXppTGEzUjc4VnR6LW5Nak9iaXBZZFJHendRUnVFWFFkek1abnlES01RUVZUNUtlYkt4UjZUNnFVUHpkMnJXckM4bl81YS1oeUZ1b1NBV0EwN1FqNnM5V1F5amVDcUlYbFFGM0ZjQm9aMzNNWGpwVnFmX182cA?oc=5",
+        "published_at": "Fri, 24 Jul 2026 15:11:13 GMT",
+        "snippet": "Росія вдарила КАБом по цвинтарю в Запоріжжі: фото моторошних наслідків ТСН Війська РФ обстріляли Запоріжжя 24 липня: є постраждалі Суспільне | Новини В Запоріжжі внаслідок ворожої атаки пошкоджено торговельний центр LB.ua Росіяни вдарили КАБами по Запоріжжю: постраждали 4 людини, одна бомба влучили у цвинтар Українська правда Ворог за добу завдав 1001 удар по Запорізькій області - один загиблий, 34 поранених Укрінформ - актуальні новини України та світу",
+        "short_explanation": "Russian bomb attack damaged Zaporizhzhia cemetery, injuring civilians and causing local outrage."
+      },
+      {
+        "title": "Латвія викликала російського дипломата через удар по почесному консульству у Слов'янську - Європейська правда",
+        "source_name": "Європейська правда",
+        "source_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81ZVVxVHYtOHh5MEZDM0ZlY1E1ZHpOYXdIZ3M3WjBrMElIdGRiOVE0Q2NneU9iNE9oWHJLWHNZT3o1U0MyMUJlNWl3UjYtM2MtdVRwY0hqNWVveTJYVjMzZHp2WVBLVWJuWGp3?oc=5",
+        "published_at": "Fri, 24 Jul 2026 18:39:28 GMT",
+        "snippet": "Латвія викликала російського дипломата через удар по почесному консульству у Слов'янську Європейська правда Фон дер Ляєн відреагувала на удари по Київській області та Слов’янську: Росія програє війну і атакує мирних жителів nv.ua ОВА: сьогодні російська авіація двічі атакувала Слов’янськ – поранені 15 людей Радіо Свобода ЄС викличе посла Росії через обстріли України і погрожує новими санкціями LB.ua «Я ліг на асфальт поряд із чоловіком». Що розказали жителі Слов'янська про другий авіаудар по місту 24 липня Суспільне | Новини",
+        "short_explanation": "Latvia summoned Russian diplomat over attack on honorary consulate in Sloviansk amid ongoing war."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Russian Cities and Wildberries Facility in Saint Petersburg Burn Amid War",
+        "platform": "reddit",
+        "source_label": "r/ukraine",
+        "score_label": "r/ukraine hot #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T15:58:04+00:00",
+        "source_url": "https://www.reddit.com/r/ukraine/comments/1v5ffl8/russians_started_this_war_in_full_confidence_that/",
+        "external_url": "https://www.reddit.com/r/ukraine/comments/1v5ffl8/russians_started_this_war_in_full_confidence_that/",
+        "context": "source: https://bsky.app/profile/tendar.bsky.social/post/3mrea4a2t2c2g submitted by /u/neonpurplestar [link] [comments]",
+        "short_explanation": "Fire damaged Wildberries facility in Saint Petersburg amid war, disrupting Russian logistics."
+      },
+      {
+        "title": "Wildberries Logistics Hub in Saint Petersburg Engulfed in Fire",
+        "platform": "reddit",
+        "source_label": "r/ukraine",
+        "score_label": "r/ukraine hot #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T15:56:50+00:00",
+        "source_url": "https://www.reddit.com/r/ukraine/comments/1v5fedm/the_main_warehouses_of_the_wildberries_logistics/",
+        "external_url": "https://www.reddit.com/r/ukraine/comments/1v5fedm/the_main_warehouses_of_the_wildberries_logistics/",
+        "context": "source: https://bsky.app/profile/tendar.bsky.social/post/3mreot6v4js2e submitted by /u/neonpurplestar [link] [comments]",
+        "short_explanation": "Wildberries logistics hub in Saint Petersburg caught fire, impacting supply chains during conflict."
+      },
+      {
+        "title": "Drone Strike Destroys Wildberries Warehouse in St. Petersburg",
+        "platform": "reddit",
+        "source_label": "r/ukraine",
+        "score_label": "r/ukraine hot #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T20:48:32+00:00",
+        "source_url": "https://www.reddit.com/r/ukraine/comments/1v5nkxt/closeup_view_of_one_of_wildberries_largest/",
+        "external_url": "https://www.reddit.com/r/ukraine/comments/1v5nkxt/closeup_view_of_one_of_wildberries_largest/",
+        "context": "source: https://bsky.app/profile/specialkhersoncat.bsky.social/post/3mreqnimids2n submitted by /u/neonpurplestar [link] [comments]",
+        "short_explanation": "Ukrainian drone strike destroyed Wildberries warehouse in St. Petersburg, hitting Russian infrastructure."
+      },
+      {
+        "title": "Russians Cry as Ukraine Strikes More Wildberries Warehouses",
+        "platform": "reddit",
+        "source_label": "r/ukraine",
+        "score_label": "r/ukraine hot #7",
+        "rank_score": 940,
+        "published_at": "2026-07-24T14:03:29+00:00",
+        "source_url": "https://www.reddit.com/r/ukraine/comments/1v5cblj/ukrainians_have_you_no_empathy_russians_cry_on/",
+        "external_url": "https://www.reddit.com/r/ukraine/comments/1v5cblj/ukrainians_have_you_no_empathy_russians_cry_on/",
+        "context": "submitted by /u/According-Gear-8217 [link] [comments]",
+        "short_explanation": "Ukrainian strikes on Wildberries warehouses cause distress among Russians, symbolizing war impact."
+      },
+      {
+        "title": "Ukrainian Yak-52 Crew Shoots Down Russian Shaheds Over Odesa",
+        "platform": "reddit",
+        "source_label": "r/ukraine",
+        "score_label": "r/ukraine hot #8",
+        "rank_score": 930,
+        "published_at": "2026-07-24T15:11:16+00:00",
+        "source_url": "https://www.reddit.com/r/ukraine/comments/1v5e5j1/ukrainan_yak52_crew_shot_down_russian_shaheds/",
+        "external_url": "https://www.reddit.com/r/ukraine/comments/1v5e5j1/ukrainan_yak52_crew_shot_down_russian_shaheds/",
+        "context": "submitted by /u/GermanDronePilot [link] [comments]",
+        "short_explanation": "Ukrainian Yak-52 crew shot down Russian Shahed drones over Odesa, defending airspace."
+      },
+      {
+        "title": "Gorlytsi (Song by SKYLERR)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (SKYLERR - Topic)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-21T10:00:18Z",
+        "source_url": "https://www.youtube.com/watch?v=_GVVkuun_-c",
+        "external_url": "https://www.youtube.com/watch?v=_GVVkuun_-c",
+        "context": "SKYLERR - Topic. Provided to YouTube by The Orchard Enterprises\n\nГорлиці · SKYLERR · Дмитро Баскаков · Валерія Кудрявець · Євген Пронін\n\nГорлиці\n\n℗ 2026 NPRC MUSIC\n\nReleased on: 2026-07-22\n\nProducer, Music Arranger: RUNSTAR\nMastering Engineer: Стас Чорний\nMusic Publisher: NPRC MUSIC\n\nAuto-generated by YouTube.",
+        "short_explanation": "Song 'Gorlytsi' by SKYLERR, a cultural music piece popular in Ukraine."
+      },
+      {
+        "title": "VLADA K & FIÏNKA - Там, де музика (Official Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (VLADA K)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-23T07:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=zT9UPot9uaE",
+        "external_url": "https://www.youtube.com/watch?v=zT9UPot9uaE",
+        "context": "VLADA K. Слухай пісню «Там, де музика» на всіх платформах: https://enko.lnk.to/TAMDEMUZYKA \n \nЗнімай під звук в TikTok: https://vt.tiktok.com/ZS9rr942HkqAF-oNeGg/\n \n«Там, де музика» – це пісня, натхненна давньою легендою про народження перших мелодій. За цією історією, музика з’явилася високо в горах, де дзюркіт джерел став голосом скрипки, спів птахів – мелодією сопілки, а грім – звучанням трембі",
+        "short_explanation": "Song 'Там, де музика' by VLADA K & FIÏNKA inspired by legend of music's origin."
+      },
+      {
+        "title": "Anna Trincher - Margarita (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Анна Трінчер)",
+        "score_label": "trending #7",
+        "rank_score": 940,
+        "published_at": "2026-07-15T07:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=gAXU1Bvxngg",
+        "external_url": "https://www.youtube.com/watch?v=gAXU1Bvxngg",
+        "context": "Анна Трінчер. ПАЛАЦ СПОРТУ \n20.11.2026\nhttps://bit.ly/44v2sp4\n\n\n“Маргарита” вже на всіх музичних платформах: \n\nApple Music: hhttps://apple.co/4f45BCc\nSpotify: https://bit.ly/3T0v1rS\nYouTube Music: https://bit.ly/4yr9CII\n\nПам'ятаєте, як ви скаржилися мені, що в плейлистах не вистачає драйвових українських треків, під які хочеться відкрити вікна в машині й мчати за місто? Я все пам’ятаю. І я почула",
+        "short_explanation": "Anna Trincher's 'Margarita' is a popular Ukrainian energetic music track."
+      }
+    ]
+  }
+}

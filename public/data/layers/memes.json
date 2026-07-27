@@ -1,0 +1,205 @@
+{
+  "updated_at": "2026-07-24T22:21:56+00:00",
+  "countries": [
+    {
+      "iso2": "US",
+      "country_name": "United States",
+      "title": "Why Do Americans Use Cardinal Directions So Often?",
+      "tone": "funny",
+      "explanation": "Americans frequently use north, south, east, west in directions, which seems unusual to outsiders who expect left/right instead.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/AskAnAmerican/comments/1v52pvc/how_do_americans_always_seem_to_know_which_way_is/",
+      "media_url": "https://www.reddit.com/r/AskAnAmerican/comments/1v52pvc/how_do_americans_always_seem_to_know_which_way_is/"
+    },
+    {
+      "iso2": "CA",
+      "country_name": "Canada",
+      "title": "Reddit's /r/Canada Paywall Experiment",
+      "tone": "political",
+      "explanation": "r/Canada temporarily bans paywalled news links to improve discussion quality and accessibility.",
+      "confidence": 0.85,
+      "source_url": "https://www.reddit.com/r/canada/comments/1u1bgcz/a_paywall_experiment_in_rcanada/",
+      "media_url": "https://www.reddit.com/r/canada/comments/1u1bgcz/a_paywall_experiment_in_rcanada/"
+    },
+    {
+      "iso2": "GB",
+      "country_name": "United Kingdom",
+      "title": "Record 165 Migrants Arrive in UK on Mega Dinghy",
+      "tone": "political",
+      "explanation": "A single dinghy carrying 165 migrants is shocking due to its size and the risks involved, highlighting ongoing migration issues.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/unitedkingdom/comments/1v5n7f4/mega_dinghy_carries_record_165_migrants_to_uk/",
+      "media_url": "https://www.reddit.com/r/unitedkingdom/comments/1v5n7f4/mega_dinghy_carries_record_165_migrants_to_uk/"
+    },
+    {
+      "iso2": "FR",
+      "country_name": "France",
+      "title": "Les fangames SONIC ep2 - Creating the Perfect 2D Sonic",
+      "tone": "wholesome",
+      "explanation": "A popular French YouTuber explores fan-made Sonic games, blending nostalgia with quirky indie creativity.",
+      "confidence": 0.8,
+      "source_url": "https://www.youtube.com/watch?v=RmXSLV2mo-k",
+      "media_url": "https://www.youtube.com/watch?v=RmXSLV2mo-k"
+    },
+    {
+      "iso2": "DE",
+      "country_name": "Germany",
+      "title": "Controversial Danger Dan Song Climbs to Top Ten Charts",
+      "tone": "political",
+      "explanation": "A politically charged song by Danger Dan sparked debate but gained popularity, reflecting Germany's culture of critical music.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/de/comments/1v5o7nz/nach_kontroverse_mit_zdf_umstrittener_song_von/",
+      "media_url": "https://www.reddit.com/r/de/comments/1v5o7nz/nach_kontroverse_mit_zdf_umstrittener_song_von/"
+    },
+    {
+      "iso2": "JP",
+      "country_name": "Japan",
+      "title": "New Mobile Suit Gundam RG Alex Zero Announced for 2027 with Director Kenji Kamiyama",
+      "tone": "wholesome",
+      "explanation": "A new Gundam model kit with a famous director's involvement excites fans, blending nostalgia with fresh creative vision.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/newsokur/comments/1v4t2do/新作機動戦士ガンダムrg/",
+      "media_url": "https://www.reddit.com/r/newsokur/comments/1v4t2do/新作機動戦士ガンダムrg/"
+    },
+    {
+      "iso2": "KR",
+      "country_name": "South Korea",
+      "title": "Is Korean Work Life Really This Tough? (Personal Experience)",
+      "tone": "sad",
+      "explanation": "A foreign-educated Korean shares struggles adapting to strict, hierarchical Korean startup culture causing stress and mental health issues.",
+      "confidence": 0.85,
+      "source_url": "https://www.reddit.com/r/hanguk/comments/1v5cj2x/한국_직장생활_원래_이렇게_힘든_거임/",
+      "media_url": "https://www.reddit.com/r/hanguk/comments/1v5cj2x/한국_직장생활_원래_이렇게_힘든_거임/"
+    },
+    {
+      "iso2": "CN",
+      "country_name": "China",
+      "title": "Biggest Culture Shocks After Living in China or Learning Chinese",
+      "tone": "wholesome",
+      "explanation": "Foreigners find Chinese personal questions like salary or marital status surprisingly direct and intrusive compared to their home cultures.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/China/comments/1v50hxd/whats_your_biggest_culture_shock_after_living_in/",
+      "media_url": "https://www.reddit.com/r/China/comments/1v50hxd/whats_your_biggest_culture_shock_after_living_in/"
+    },
+    {
+      "iso2": "IN",
+      "country_name": "India",
+      "title": "Indian Govt Orders GitHub to Block Jack Dorsey's Bitchat App Amid Protests",
+      "tone": "political",
+      "explanation": "India blocking a social app by Twitter's founder during protests highlights digital censorship and control over dissent online.",
+      "confidence": 0.85,
+      "source_url": "https://www.reddit.com/r/india/comments/1v56z4s/indian_govt_orders_github_to_block_jack_dorseys/",
+      "media_url": "https://www.reddit.com/r/india/comments/1v56z4s/indian_govt_orders_github_to_block_jack_dorseys/"
+    },
+    {
+      "iso2": "BR",
+      "country_name": "Brazil",
+      "title": "Dado Dolabella Sues Globo Over Alleged Past Abuse Claims",
+      "tone": "political",
+      "explanation": "Brazilian actor Dado Dolabella suing Globo for revisiting old abuse allegations highlights ongoing celebrity-media conflicts.",
+      "confidence": 0.7,
+      "source_url": "https://www.reddit.com/r/brasil/comments/1v5fgis/dado_dolabella_processa_globo_por_relembrar/",
+      "media_url": "https://www.reddit.com/r/brasil/comments/1v5fgis/dado_dolabella_processa_globo_por_relembrar/"
+    },
+    {
+      "iso2": "MX",
+      "country_name": "Mexico",
+      "title": "Tang Shrinkflation: Now 1L Instead of 2L at Same Price",
+      "tone": "angry",
+      "explanation": "Tang juice powder now sells half the volume for the same price, a classic 'shrinkflation' frustrating consumers.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/mexico/comments/1v513l1/el_tang_ahora_rinde_1l_en_vez_de_2l_y_cuesta_lo/",
+      "media_url": "https://www.reddit.com/r/mexico/comments/1v513l1/el_tang_ahora_rinde_1l_en_vez_de_2l_y_cuesta_lo/"
+    },
+    {
+      "iso2": "AR",
+      "country_name": "Argentina",
+      "title": "Bangladeshi Fans' Deep Connection to Argentina's Football Legacy",
+      "tone": "wholesome",
+      "explanation": "Bangladesh's love for Argentina's football, especially Maradona, shows how sports heroes can create unexpected global bonds.",
+      "confidence": 0.85,
+      "source_url": "https://www.reddit.com/r/argentina/comments/1v5b5o4/the_revolution_had_just_been_televised_my_journey/",
+      "media_url": "https://www.reddit.com/r/argentina/comments/1v5b5o4/the_revolution_had_just_been_televised_my_journey/"
+    },
+    {
+      "iso2": "AU",
+      "country_name": "Australia",
+      "title": "Heater Safety Warning for Australian Winter",
+      "tone": "funny",
+      "explanation": "A Redditor shares a relatable story about heater dangers during a cold winter without central heating, sparking safety awareness and humor.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/australia/comments/1v57ocf/be_careful_with_heaters_this_winter/",
+      "media_url": "https://www.reddit.com/r/australia/comments/1v57ocf/be_careful_with_heaters_this_winter/"
+    },
+    {
+      "iso2": "RU",
+      "country_name": "Russia",
+      "title": "First Date Etiquette with a Russian Girl",
+      "tone": "wholesome",
+      "explanation": "A Reddit post humorously explores Russian dating norms, like whether bringing flowers on a first date is expected.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/AskARussian/comments/1v3mj48/first_date_with_russian_girl/",
+      "media_url": "https://www.reddit.com/r/AskARussian/comments/1v3mj48/first_date_with_russian_girl/"
+    },
+    {
+      "iso2": "UA",
+      "country_name": "Ukraine",
+      "title": "Russian Cities and Wildberries Facility in Saint Petersburg Burn Amid War",
+      "tone": "political",
+      "explanation": "Wildberries, a major Russian e-commerce hub, caught fire amid ongoing conflict, symbolizing economic and civilian disruption in Russia.",
+      "confidence": 0.9,
+      "source_url": "https://www.reddit.com/r/ukraine/comments/1v5ffl8/russians_started_this_war_in_full_confidence_that/",
+      "media_url": "https://www.reddit.com/r/ukraine/comments/1v5ffl8/russians_started_this_war_in_full_confidence_that/"
+    },
+    {
+      "iso2": "TR",
+      "country_name": "Turkey",
+      "title": "Growing Demand for Change Surpasses Current Politics: Call for United Struggle in Istanbul",
+      "tone": "political",
+      "explanation": "Turkish Redditors discuss rising public frustration with politics and calls for unified social activism in Istanbul.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/Turkey/comments/1v5jdlk/toplumda_filizlenen_değişim_talebi_mevcut/",
+      "media_url": "https://www.reddit.com/r/Turkey/comments/1v5jdlk/toplumda_filizlenen_değişim_talebi_mevcut/"
+    },
+    {
+      "iso2": "ID",
+      "country_name": "Indonesia",
+      "title": "Controversy Around 'Boti Hunter' Bogor's Most Vocal Member Allegedly LGBT",
+      "tone": "chaotic",
+      "explanation": "A vocal community critic's alleged LGBT identity sparked debate on consistency and acceptance in conservative Bogor.",
+      "confidence": 0.85,
+      "source_url": "https://www.reddit.com/r/indonesia/comments/1v5c3mb/plot_twist_sosok_paling_keras_di_boti_hunter/",
+      "media_url": "https://www.reddit.com/r/indonesia/comments/1v5c3mb/plot_twist_sosok_paling_keras_di_boti_hunter/"
+    },
+    {
+      "iso2": "PH",
+      "country_name": "Philippines",
+      "title": "Jollibee Featured in KATSEYE's Latest Music Video",
+      "tone": "wholesome",
+      "explanation": "Jollibee, a beloved Filipino fast-food icon, appears in a global girl group's music video, sparking national pride and surprise.",
+      "confidence": 0.9,
+      "source_url": "https://www.reddit.com/r/Philippines/comments/1v54n5o/omg_jollibee_was_featured_in_katseyes_latest/",
+      "media_url": "https://www.reddit.com/r/Philippines/comments/1v54n5o/omg_jollibee_was_featured_in_katseyes_latest/"
+    },
+    {
+      "iso2": "ZA",
+      "country_name": "South Africa",
+      "title": "South Africa Sets Guinness World Record for Most Supercars in One Area",
+      "tone": "wholesome",
+      "explanation": "South Africans celebrated a flashy record by gathering an unusually large number of luxury supercars together, showing local car culture pride.",
+      "confidence": 0.85,
+      "source_url": "https://www.reddit.com/r/southafrica/comments/1v1qeb3/guinness_world_record/",
+      "media_url": "https://www.reddit.com/r/southafrica/comments/1v1qeb3/guinness_world_record/"
+    },
+    {
+      "iso2": "NG",
+      "country_name": "Nigeria",
+      "title": "Why Northern Nigeria Is Underrepresented in Global Perceptions",
+      "tone": "political",
+      "explanation": "Despite political dominance, Northern Nigeria is less recognized internationally compared to Yoruba and Igbo cultures.",
+      "confidence": 0.85,
+      "source_url": "https://www.reddit.com/r/Nigeria/comments/1v5bhuy/why_does_the_north_have_such_a_minimal_presence/",
+      "media_url": "https://www.reddit.com/r/Nigeria/comments/1v5bhuy/why_does_the_north_have_such_a_minimal_presence/"
+    }
+  ]
+}

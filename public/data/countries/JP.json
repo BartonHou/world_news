@@ -1,0 +1,987 @@
+{
+  "iso2": "JP",
+  "iso3": "JPN",
+  "country_name": "Japan",
+  "flag": "🇯🇵",
+  "region": "East Asia",
+  "coordinates": {
+    "lat": 36.2048,
+    "lon": 138.2529
+  },
+  "updated_at": "2026-07-24T22:21:07+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "immigration policy",
+    "permanent residency",
+    "pension contributions"
+  ],
+  "top_news": {
+    "headline": "外国人の永住許可、「厚生年金30年水準」要求 入管庁が厳格化案 - 朝日新聞",
+    "summary": "Japan plans stricter permanent residency rules, requiring foreign applicants to meet high pension contribution levels.",
+    "why_it_matters": "Reflects Japan's tightening immigration amid labor shortages and social welfare concerns.",
+    "source_name": "朝日新聞",
+    "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93RGhFaHRCSjBaSXpjRE1DR1hVbkhvWXBOVzB5LXVHWkdsYU1JWGF5SndKSk04RUhobDRFRjBIeS11ZGx1WVlYYVNtTnpSbVFtNFV6aHN6Z1ZoRmcwY1NJdHJuNHliN00?oc=5",
+    "published_at": "Fri, 24 Jul 2026 10:04:00 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "New Mobile Suit Gundam RG Alex Zero Announced for 2027 with Director Kenji Kamiyama",
+    "platform": "reddit",
+    "explanation": "A new Gundam model kit with a famous director's involvement excites fans, blending nostalgia with fresh creative vision.",
+    "why_people_are_sharing_it": "Gundam fans celebrate a beloved franchise's new chapter with a top director attached.",
+    "tone": "wholesome",
+    "local_context": "Gundam is a cultural icon in Japan's anime and model kit community.",
+    "source_url": "https://www.reddit.com/r/newsokur/comments/1v4t2do/新作機動戦士ガンダムrg/",
+    "media_url": "https://www.reddit.com/r/newsokur/comments/1v4t2do/新作機動戦士ガンダムrg/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=ja&gl=JP&ceid=JP:ja",
+      "items_seen": 30,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "下越や佐渡で大雨、新発田市の国道7号が一時通行止め 1時間雨量100ミリの所も 雨雲レーダー付き - 新潟日報",
+          "score": 4,
+          "reasons": [
+            "boost_milestone_signal",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "コメの民間在庫量 243万トン 6月末時点で過去最大に - NHKニュース",
+          "score": 3,
+          "reasons": [
+            "boost_daily_life_signal",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "更迭されたウクライナ前国防相、復帰を要求　ほかの役職は受け入れないと - BBC",
+          "score": 2,
+          "reasons": [
+            "boost_unusual_geopolitics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "トランプ政権、新たな関税を発動　強制労働対策が不十分として60の国・地域に - BBC",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "外国人の永住許可、「厚生年金30年水準」要求 入管庁が厳格化案 - 朝日新聞",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "今日7月25日(土)の天気予報 西日本や東海は猛暑が続く 関東は天気急変に要注意 - ウェザーニュース",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "【速報】軽乗用車は大破… 踏切で列車と車が衝突 車内から救助された73歳女性は心肺停止 JR高山線 - TBS NEWS DIG",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "【速報】水質悪化で北海道根室市のほぼ全域断水 - 47NEWS",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "米軍がオマーン湾でＬＰＧタンカー攻撃、乗組員2人死亡＝ファルス通信 - ロイター",
+          "score": 1,
+          "reasons": [
+            "penalize_generic_crime_or_disaster",
+            "boost_culture_signal",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "トランプ氏、イランは合意の準備整わず 協議は継続 - ロイター",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "米国株式市場＝まちまち、ＡＩ投資巡る懸念でナスダック続落 - ロイター",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "（朝）米国市場は3指数揃って下落　中東情勢緊迫化による原油高が意識され売り優勢の展開 - マネクリ",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "日経平均大引け 反落 1811円安の6万4611円 - 日本経済新聞",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "「Farming Simulator 26」，大型トラクター2台と，それらに対応する巨大耕耘機を追加 - 4Gamer.net",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Windows 11にCopilotキーを無効化する設定が登場へ。テスト版で「何もしない」項目が追加 - GAZLOG",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "維新・吉村氏、「同日選目指す」宣言 副首都法付帯決議に反し - 毎日新聞",
+          "score": -2,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "福岡県議会の中尾副議長が議員辞職、疑惑は否定「誰一人信じていただけなかった」 - 読売新聞",
+          "score": -2,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "改正国民投票法が成立 与党、改憲発議目指す：時事ドットコム - 時事ドットコム",
+          "score": -2,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "「帰ってきてくれてよかった、生きていてほしかった」遺体は嶺臣ちゃんと判明 父親が胸中を語る 鹿児島・霧島市 - Yahoo!ニュース",
+          "score": -2,
+          "reasons": [
+            "penalize_generic_crime_or_disaster",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "【レバノンで死亡】日本赤軍・岡本公三容疑者（78）、実現しなかった〈身柄引き渡し交渉〉の内幕（文春オンライン） - Yahoo!ニュース",
+          "score": -2,
+          "reasons": [
+            "penalize_generic_crime_or_disaster",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "newsokur",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=JP",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/ja.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 999,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Snow Man Performs 'Good Time' on THE FIRST TAKE",
+          "score": 11,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "boost_local_signal",
+            "ai:Snow Man is a popular idol group and THE FIRST TAKE is a well-known YouTube channel capturing unique live performances, making this a strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "New Resident Evil Movie Trailer - Nationwide Release October 9",
+          "score": 11,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "boost_local_signal",
+            "ai:The title is a promotional movie trailer for a popular global franchise 'Resident Evil'. It is a clear cultural signal with international recognition, though the original title is somewhat long and formal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "M!LK - You!Joy!Parade! Dance Practice",
+          "score": 11,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "boost_local_signal",
+            "ai:This is a music/dance video from a known Japanese pop group M!LK, which is a native internet culture signal in Japan."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Minecraft Challenge: 100 Consecutive Ball Catches by Nichijo Group",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:A gaming challenge video from a popular Japanese YouTube group, reflecting native internet culture and gaming trends."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Minecraft: Draining 1 Million Buckets of Water from Ocean Monument Challenge",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:A gaming challenge video with a strong native internet culture appeal in Japan."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Nijisanji Koshien 2026 - Virtual YouTuber Baseball Tournament Highlights",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:A popular Vtuber event in Japan, a strong native internet culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "k4sen Creates Quiz Facility for Memento Vanitas in VCR RUST",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:A gaming streamer video with a unique title and native internet culture appeal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "New Mobile Suit Gundam RG Alex Zero Announced for 2027 with Director Kenji Kamiyama",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:Popular anime franchise news with notable director, strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "CUTIE STREET - 'Error404♡' Official Music Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:A music video from a Japanese pop act, representing native internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hey! Say! JUMP - DEAR MY LOVER Official Live Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:Popular idol group music video, relevant to Japanese pop culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "中国で「偽ドラえもん」が観光名所に！どら焼き店でもカフェでも平気でパクリ…あぁ、藤子・F・不二雄先生が泣いている【自分たちが著作権侵害を犯しているという意識は薄い】",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "「副首都」採決折り合わず 野党「同時選禁止」要求―延長国会、大詰め攻防激化 ― ２４日の参院国対委員長らの会談で採決に応じるか協議",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "陸自情報部隊が「愛国心」など調査か 国内有識者ら対象に個人情報収集 数千人分、シビリアンコントロール逸脱も｜熊本日日新聞社",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "浅田真央さん旧ドメイン「アフィサイトに」と販売、批判受けたGMO 「表現は改修した」「ドメインは共有資産」【「お名前.com」】",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "「株高でも豊かさを実感できない理由はこれだ！」12年間伸び悩む、家計をめぐる“ある数値”とは？ 気鋭のエコノミストが指摘《サナエノミクスの闇》― 12年間伸び悩む家計消費",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "日本、財政健全化を棚上げし370兆円投資へ…「高市流の積極財政」が始動 ―「ついに、25年守った言葉を消した」金利上昇で成長投資の効果が薄れる恐れ",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "高市首相 中傷動画報道で秘書による陳述書を国会に提出「私の声に似ているとは思うが、確証を持てないと言わざるを得ない」「動画の作成を依頼したり、謝意を伝えたりするようなメールなどを送ったとの指摘も受けているが、記録は見つからず、記憶もない」",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics",
+            "boost_milestone_signal",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "NHK党・立花被告の保釈、地裁認めず 準抗告を棄却 竹内元県議に対する名誉毀損の罪で起訴 ― 被告側が不服として１０日に準抗告していた",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tokyo University-Educated Politician Questions Japan's Imperial Succession History",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:This is a news headline about political and historical debate, which is generic and less of a native internet culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Debate on Fairness Between Office Work and Telework in Japan",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:A generic news/discussion topic about work style fairness, not a strong cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "New Law Passed to Decentralize Tokyo's Concentration",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:Generic political news headline, less cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "JENNIE - Less than a Lover (Official Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Japanese Self-Defense Forces Collecting Sensitive Personal Data on University Professors",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:This is a serious news topic about surveillance, quite opaque and generic for a culture map."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wildfires Rage in Southern Europe, Tens of Thousands Evacuated",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:Generic international news, not a Japanese cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Declining Cabinet Approval Ratings Amid Political Priorities Debate in Japan",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:Generic political news headline, not a strong cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "川端かなこ",
+          "score": 3,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_local_signal",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "「働いて×5」では？…支持率急落の高市首相「睡眠不足」「家事多忙」SNSでアピールのトンチンカン ―「睡眠不足」=「自己管理できない人」「計画性のない人」の意味",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "高市首相は今の天皇や上皇が嫌で嫌でならない 保守派のホンネは天皇制「崇拝」ではなく「衰退」― 唐突に養子案を持ち込んだ",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "「サナエトークン」巡る首相秘書陳述全文 「一度も説明受けず」【陳述書で関与を全否定】",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "マムダニNY市長、ネタニヤフ首相の「拘束」断念 「権限ない」【「ニューヨーク市に来ることを歓迎しない」】",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "高市首相の「寝てない」アピールは昔から 過去には「プリンターの故障」で寝不足報告も ― 2021年 目を赤く腫らした状態で",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "《女性皇族の尊厳を無視するような皇室典範改正が進む中…》高市首相、宮中晩餐会での“厚顔無恥”愛子さまに近づきハイテンションで会話、小泉進次郎夫妻と30分ほど取り囲む ―“皇室を敬っているとは思えない”",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "首相側、中傷動画作成関与を否定 衆院予算委に陳述書提出 ― 秘書「やりとりの詳細は記憶していない」",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "「チルドレンは拍手要員」党首討論の自民“高市首相大応援団”で思い出した野党トップの言葉 ―「最後の見せ場」はどんな展開になるのか",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "サッカー日本代表、大岩剛氏の監督就任決定 森保一監督が半年間続投 ― 若い世代の底上げを図りながら３０年Ｗ杯に向かう",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "平木理化",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_local_signal",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "山田五郎",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_local_signal",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ディズニーランド",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "nhkスペシャル",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "アストンマーティン・amr26",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "内閣 改造",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "十勝毎日新聞",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "anan",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "山形市 天気",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "花乃まりあ",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_bio_context",
+            "boost_local_signal",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "父親",
+          "score": -1,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "今井春花",
+          "score": -1,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "三山凌輝",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_bio_context",
+            "penalize_bare_person_name_title",
+            "boost_local_signal",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "趣里",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_bio_context",
+            "penalize_bare_person_name_title",
+            "boost_local_signal",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "大岩剛",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_bio_context",
+            "penalize_bare_person_name_title",
+            "boost_local_signal",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "上坂樹里",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_bio_context",
+            "penalize_bare_person_name_title",
+            "boost_local_signal",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "政権",
+          "score": -3,
+          "reasons": [
+            "penalize_hard_news_spillover",
+            "penalize_bare_person_name_title",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Reddit初心者向け質問スレ ＆ 雑談スレ (Question & Discussion) - 7月, 2026",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate",
+            "boost_milestone_signal",
+            "boost_local_signal"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "下越や佐渡で大雨、新発田市の国道7号が一時通行止め 1時間雨量100ミリの所も 雨雲レーダー付き - 新潟日報",
+        "source_name": "新潟日報",
+        "source_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54SE5WaDQ3aXJseFAyNlNXYVBYWFVwUEdjMjVJaUh0SHU3cm41aExtSDJnT0l2OUNia0dOQWdxVkxjOFBTSUd3THllckhXcDhaa2Fhd3pITmJLR0pvdUE?oc=5",
+        "published_at": "Fri, 24 Jul 2026 12:40:00 GMT",
+        "snippet": "下越や佐渡で大雨、新発田市の国道7号が一時通行止め 1時間雨量100ミリの所も 雨雲レーダー付き 新潟日報 新潟県で1時間に約100mmの猛烈な雨 気象防災速報・記録的短時間大雨 ウェザーニュース 【速報】新潟県で1時間に約100ミリの猛烈な雨 「記録的短時間大雨」発表(気象予報士 日直主任 2026年07月24日) tenki.jp 下越では25日明け方まで土砂災害に厳重に警戒 1時間に最大50ミリの雨が降るおそれ（24日午後7時7分発表）《新潟》 au Webポータル 新潟 新発田市付近と聖籠町付近で記録的な大雨 災害の危険迫る NHKニュース",
+        "short_explanation": "Niigata faces record heavy rain causing road closures and landslide warnings, impacting daily life."
+      },
+      {
+        "title": "コメの民間在庫量 243万トン 6月末時点で過去最大に - NHKニュース",
+        "source_name": "NHKニュース",
+        "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBWU2ZTUXZCTUFJSVdKLUVJUXRaUlVVS2JmZEF5c19lbG5FY0hvNzFTVFRiZF9mUjhOS1hKem5zVDhlWlJFOGZpSnJrc1NwaHdWazBfQ2NDYjhuNHJtbTlz?oc=5",
+        "published_at": "Fri, 24 Jul 2026 20:06:26 GMT",
+        "snippet": "コメの民間在庫量 243万トン 6月末時点で過去最大に NHKニュース ＜ニッポンの米＞備蓄米買い戻し、秋にも時期・量判断 ２６年産の作柄踏まえ 日本農業新聞 新米の値段は5キロ3000円台に下落 広島県内のスーパーで販売始まる 中国新聞デジタル ５キロ平均価格 ４週連続下げ ３３７３円 福井新聞社 ２６年県産米「内金２万円厳しい状況」 ＪＡ県５連会長会見：日刊県民福井Web 中日新聞Web",
+        "short_explanation": "Japan's private rice stockpiles hit record high, affecting prices and farmers' income."
+      },
+      {
+        "title": "更迭されたウクライナ前国防相、復帰を要求　ほかの役職は受け入れないと - BBC",
+        "source_name": "BBC",
+        "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4yQ29feXR2cHBaSENwME5YYlc1RDJDamlhOWpFdUVvdFBVUEwwcHRUZ05GM2ZDZldTOEFhRm9GU0VtY2FrcGRsdW56clFQYjREc2pjbTlIa21nWl9lbk840gFkQVVfeXFMUG51Rmo5MWV5TF9hOTFVSEJicURfNFNhTXg5ckk5aVhhZ1dObW5wZ1htN0QwRm41WUtHbTNGYXlWUUhIZmRoYTJuUVhTNW5VZkNpazBqTXd6WEYtOGtuaVZfSHV0Mw?oc=5",
+        "published_at": "Fri, 24 Jul 2026 05:58:22 GMT",
+        "snippet": "更迭されたウクライナ前国防相、復帰を要求 ほかの役職は受け入れないと BBC ゼレンスキー氏、ロシアの新たなミサイル攻撃を警告 48時間以内の可能性（ロイター） Yahoo!ニュース プーチン露大統領の失脚は先送りか 国防相の更迭巡るウクライナ国内の混乱で Forbes JAPAN ウクライナの兵器メーカーが明かす、ドローン作戦成功の影にあったフェドロフ前国防相の「前代未聞の組織改革」 Business Insider Japan シルスキー軍総司令官の解任を求めるデモ参加者ら＝18日、ウクライナ・キーウ（AP＝共同） - 【ウクライナ軍総司令官解任】改革の象徴更迭、裏目に デモやまず「両成敗」 - 写真・画像(1/4) 西日本新聞me",
+        "short_explanation": "Ukraine's former defense minister demands reinstatement amid political turmoil and military reforms."
+      },
+      {
+        "title": "トランプ政権、新たな関税を発動　強制労働対策が不十分として60の国・地域に - BBC",
+        "source_name": "BBC",
+        "source_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5LTVhnWVB3clowR0gzNXhjSVhONzlFdElCcDZ2R01Bc0N6ZWRsTkxRVURraVpLNEhLRWI0V3J1Tzl4X3RlOWNranJXeHIyaWhlaHVMbW1URXZiNGlJbTJB0gFkQVVfeXFMTlVaUkJONXdQa1FVWWhLbnFrcXhPeG1rUmZzazhZVnFLMTdwS2tSUmdzUkp5WHp2VkdHX0UxSkhKd19DLTRfYVhQUk5aUm5aN2hpaTRONmc2N3lIUFRZNVJONlhpbA?oc=5",
+        "published_at": "Fri, 24 Jul 2026 03:45:38 GMT",
+        "snippet": "トランプ政権、新たな関税を発動 強制労働対策が不十分として60の国・地域に BBC トランプ新関税、発動日に法廷闘争入り 米企業が徴収停止求め提訴 日本経済新聞 毎小ニュース：国際 アメリカ新関税 日本に12．5 毎日新聞 「世界の製造業にとって大きな打撃だ」米トランプ政権“新関税”に経済界から懸念の声 経団連夏季フォーラム Yahoo!ニュース 【速報】米企業２社は、通商法３０１条に基づく関税が違憲だとして米国際貿易裁判所に提訴した 時事ドットコム",
+        "short_explanation": "Trump administration imposes new tariffs over forced labor concerns, affecting global trade including Japan."
+      },
+      {
+        "title": "外国人の永住許可、「厚生年金30年水準」要求 入管庁が厳格化案 - 朝日新聞",
+        "source_name": "朝日新聞",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93RGhFaHRCSjBaSXpjRE1DR1hVbkhvWXBOVzB5LXVHWkdsYU1JWGF5SndKSk04RUhobDRFRjBIeS11ZGx1WVlYYVNtTnpSbVFtNFV6aHN6Z1ZoRmcwY1NJdHJuNHliN00?oc=5",
+        "published_at": "Fri, 24 Jul 2026 10:04:00 GMT",
+        "snippet": "外国人の永住許可、「厚生年金30年水準」要求 入管庁が厳格化案 朝日新聞 外国人の永住許可、「厚生年金30年水準」要求 入管庁が厳格化案（朝日新聞） Yahoo!ニュース 外国人の永住許可要件を厳格化、「日本人の平均上回る年収水準」新指針に明記へ 読売新聞 事業に欠かせぬ貴重な戦力 総量規制、全国で人材奪い合い ＜外国人政策、量から質へ 山陰経済への影響（１） 山陰中央新報デジタル 外国人の永住許可要件 厳格化案 Yahoo!ニュース",
+        "short_explanation": "Japan plans stricter permanent residency rules requiring high pension contributions, impacting foreign workers."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Snow Man Performs 'Good Time' on THE FIRST TAKE",
+        "platform": "youtube",
+        "source_label": "YouTube trending (THE FIRST TAKE)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T13:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=JofSrfFV4Kw",
+        "external_url": "https://www.youtube.com/watch?v=JofSrfFV4Kw",
+        "context": "THE FIRST TAKE. 「THE FIRST TAKE」は、一発撮りのパフォーマンスを鮮明に切り取るYouTubeチャンネル。\n\n第690回は、幅広い世代から愛されるアイドルグループSnow Manが初登場。\n披露するのは、何気ない瞬間の幸せこそがプレミアムなんだという想いが込められた、彼らの精神性を象徴したような楽曲「グッタイム」。\nSnow Manが持つハッピーでポジティブな空気感と共に、「THE FIRST TAKE」だけのコーラスを入れたスペシャルアレンジにて一発撮り披露。\n\nSTREAMING & DOWNLOAD：https://snowman.lnk.to/goodtime\n\n\n■Snow Man OFFICIAL\nOfficial HP: https://mentrecording.jp/snowman/\nX: https://x.com/SN__20200122",
+        "short_explanation": "Snow Man, a popular idol group, performs a special one-take song on a famous YouTube channel."
+      },
+      {
+        "title": "New Resident Evil Movie Trailer - Nationwide Release October 9",
+        "platform": "youtube",
+        "source_label": "YouTube trending (ソニー・ピクチャーズ 映画)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-23T13:00:17Z",
+        "source_url": "https://www.youtube.com/watch?v=9IyFmf6xR5k",
+        "external_url": "https://www.youtube.com/watch?v=9IyFmf6xR5k",
+        "context": "ソニー・ピクチャーズ 映画. 映画『バイオハザード』\n10月9日(金)全国の映画館で公開\n\n《現代ホラー界の鬼才》ザック・クレッガー監督が放つサバイバルホラー\n悪夢の新時代が、幕を開ける──\n\n◼️ストーリー：\n医療品の配送を請け負った男ブライアン（オースティン・エイブラムス）は、己の命運をかけた一夜に地獄のような事態に見舞われ、壮絶なサバイバルを余儀なくされる──\n\n◼️スタッフ＆キャスト\n監督：ザック・クレッガー\n脚本：ザック・クレッガー、シェイ・ハッテン\n製作：ロバート・クルツァー、ザック・クレッガー、ロイ・リー、ミリ・ユーン、カーター・スワン、アサド・キジルバッシュ\nエグゼクティヴ・プロデューサー：オリヴァー・ベルベン、ヴィクター・ハディダ、リチャード・ライト、ロバート・ベルナッチ\n出演：オースティン・エイブラムス、ザック・チェリー、カーリー・レイス、ポール・ウォルター・ハウザー",
+        "short_explanation": "New Resident Evil horror movie releasing nationwide in Japan on October 9, exciting fans."
+      },
+      {
+        "title": "M!LK - You!Joy!Parade! Dance Practice",
+        "platform": "youtube",
+        "source_label": "YouTube trending (M!LK)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T12:00:25Z",
+        "source_url": "https://www.youtube.com/watch?v=81CpK8nCvFw",
+        "external_url": "https://www.youtube.com/watch?v=81CpK8nCvFw",
+        "context": "M!LK. 「You!Joy!Parade!」2026.7.17 Release.\nDownload&Streaming\nhttps://milk.lnk.to/YouJoyParade\n\nMusic Video\nhttps://youtu.be/3C0EOqt7sqA\n\n＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊＊\n\n★「しおざきわんだーらんど(塩﨑太智)」\nDownload&Streaming\nhttps://MILK.lnk.to/ShiozakiWonderland\n\nMusic Video\nhttps://youtu.be/kcXKLaLNqww\n\nDance Practice Movie\nhttps://youtu.be/lYWFDKop744\n\n★「真・運命 (曽野舜太&山中柔太朗)」\nDownload&Streaming\nhttps://milk.lnk.to/M",
+        "short_explanation": "M!LK, a Japanese boy band, shares dance practice for their new song You!Joy!Parade!."
+      },
+      {
+        "title": "Minecraft Challenge: 100 Consecutive Ball Catches by Nichijo Group",
+        "platform": "youtube",
+        "source_label": "YouTube trending (日常組)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T08:00:05Z",
+        "source_url": "https://www.youtube.com/watch?v=sYM5DQT_R4Y",
+        "external_url": "https://www.youtube.com/watch?v=sYM5DQT_R4Y",
+        "context": "日常組. 面白かったら高評価してやって下さい！\n\n俺たち日常組の公式サイトが出来ました!→https://nichijo.world\nチャンネル登録→http://goo.gl/XZDlX0\nfollow me!→https://twitter.com/Nichijo_Gumi\n\n日常メンバー\nぺいんと:https://www.youtube.com/channel/UC_qzqv92T-tY9wMnLndGYSQ\nしにがみ:https://www.youtube.com/user/kouzakihikaru\nクロノア:https://www.youtube.com/user/KuronekoNoa121\nトラゾー:https://www.youtube.com/user/torazo52nips79\n\n~感謝~\n◇曲\nH/MIX GALLERY様\nhttp://www.hmix.net/",
+        "short_explanation": "Nichijo Group attempts 100 consecutive ball catches in Minecraft, entertaining gaming fans."
+      },
+      {
+        "title": "Minecraft: Draining 1 Million Buckets of Water from Ocean Monument Challenge",
+        "platform": "youtube",
+        "source_label": "YouTube trending (ドズル社)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-24T09:15:06Z",
+        "source_url": "https://www.youtube.com/watch?v=YoSVQaMSnMg",
+        "external_url": "https://www.youtube.com/watch?v=YoSVQaMSnMg",
+        "context": "ドズル社. いつものように大富豪おじいちゃんから呼び出されたドズル社メンバー。目の前には一面の青い海！サンゴ礁と海底神殿が共存した珍しい景色を観光地化するため、水抜きの依頼を受けることに。大富豪カンパニー製の特殊なアイテムを駆使して全ての水を抜き、美しい景色を見ることはできるのか！？\n\n▼大富豪おじいちゃんシリーズの再生リストはこちら！\nhttps://www.youtube.com/playlist?list=PL1dRlq-oq6-gc_-X-LTwu1BELffwrSiLr\n\n▼ドズル社メンバーのチャンネルはこちら\n🦍ドズル\nhttps://www.youtube.com/channel/UCcHiyP5BmBzbIW61W_tio7Q\n\n🍆ぼんじゅうる\nhttps://www.youtube.com/channel/UC7fNaSMYW29jHQmYZgZ5rkA\n\n🍌おんりー\nh",
+        "short_explanation": "Minecraft players drain 1 million buckets of water from Ocean Monument in a challenge video."
+      },
+      {
+        "title": "New Mobile Suit Gundam RG Alex Zero Announced for 2027 with Director Kenji Kamiyama",
+        "platform": "reddit",
+        "source_label": "r/newsokur",
+        "score_label": "r/newsokur hot #10",
+        "rank_score": 910,
+        "published_at": "2026-07-23T22:34:38+00:00",
+        "source_url": "https://www.reddit.com/r/newsokur/comments/1v4t2do/新作機動戦士ガンダムrg/",
+        "external_url": "https://www.reddit.com/r/newsokur/comments/1v4t2do/新作機動戦士ガンダムrg/",
+        "context": "submitted by /u/poverty_e [link] [comments]",
+        "short_explanation": "New Mobile Suit Gundam RG Alex Zero model announced for 2027, directed by Kenji Kamiyama."
+      },
+      {
+        "title": "中国で「偽ドラえもん」が観光名所に！どら焼き店でもカフェでも平気でパクリ…あぁ、藤子・F・不二雄先生が泣いている【自分たちが著作権侵害を犯しているという意識は薄い】",
+        "platform": "reddit",
+        "source_label": "r/newsokur",
+        "score_label": "r/newsokur hot #13",
+        "rank_score": 880,
+        "published_at": "2026-07-23T11:27:21+00:00",
+        "source_url": "https://www.reddit.com/r/newsokur/comments/1v4b5rd/中国で偽ドラえもんが観光名所にどら焼き店でもカフェでも平気でパクリあぁ藤子f不二雄先生が泣いている自/",
+        "external_url": "https://www.reddit.com/r/newsokur/comments/1v4b5rd/中国で偽ドラえもんが観光名所にどら焼き店でもカフェでも平気でパクリあぁ藤子f不二雄先生が泣いている自/",
+        "context": "submitted by /u/poverty_e [link] [comments]",
+        "short_explanation": "Fake Doraemon statues and cafes in China cause copyright concerns among Japanese fans."
+      },
+      {
+        "title": "「副首都」採決折り合わず 野党「同時選禁止」要求―延長国会、大詰め攻防激化 ― ２４日の参院国対委員長らの会談で採決に応じるか協議",
+        "platform": "reddit",
+        "source_label": "r/newsokur",
+        "score_label": "r/newsokur hot #15",
+        "rank_score": 860,
+        "published_at": "2026-07-23T13:42:31+00:00",
+        "source_url": "https://www.reddit.com/r/newsokur/comments/1v4eb02/副首都採決折り合わず_野党同時選禁止要求延長国会大詰め攻防激化/",
+        "external_url": "https://www.reddit.com/r/newsokur/comments/1v4eb02/副首都採決折り合わず_野党同時選禁止要求延長国会大詰め攻防激化/",
+        "context": "submitted by /u/substitution-Post-01 [link] [comments]",
+        "short_explanation": "Japanese opposition demands ban on simultaneous elections, stalling capital relocation vote."
+      }
+    ]
+  }
+}

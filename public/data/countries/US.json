@@ -1,0 +1,797 @@
+{
+  "iso2": "US",
+  "iso3": "USA",
+  "country_name": "United States",
+  "flag": "🇺🇸",
+  "region": "North America",
+  "coordinates": {
+    "lat": 39.8283,
+    "lon": -98.5795
+  },
+  "updated_at": "2026-07-24T21:48:56+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "Iran conflict",
+    "Trump administration",
+    "military escalation"
+  ],
+  "top_news": {
+    "headline": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes - The New York Times",
+    "summary": "Trump considers escalating military strikes on Iran amid ongoing conflict and complex diplomatic talks.",
+    "why_it_matters": "Highlights US internal debate on Iran war's future and its global geopolitical impact.",
+    "source_name": "The New York Times",
+    "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNekVNZHhVQkF4WWRNNm84S0JDZWJ1U3ZJRl85dFBtdV9DNlFSZGhtTGxIZll4aWRMZDVGd3JFX0hfWFR2SEwxUlVLOXR6NlNrQ3RPOUpBbm1qZERuVG1VM0FyY0NKNFZvZGtwV3VjU3BBSE5IeDV6dEpYYnYybnM3Zg?oc=5",
+    "published_at": "Fri, 24 Jul 2026 21:14:58 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Why Do Americans Use Cardinal Directions So Often?",
+    "platform": "reddit",
+    "explanation": "Americans frequently use north, south, east, west in directions, which seems unusual to outsiders who expect left/right instead.",
+    "why_people_are_sharing_it": "It's a quirky cultural habit that puzzles and amuses non-Americans.",
+    "tone": "funny",
+    "local_context": "Common in US navigation and law enforcement language.",
+    "source_url": "https://www.reddit.com/r/AskAnAmerican/comments/1v52pvc/how_do_americans_always_seem_to_know_which_way_is/",
+    "media_url": "https://www.reddit.com/r/AskAnAmerican/comments/1v52pvc/how_do_americans_always_seem_to_know_which_way_is/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Dem panel taps South Carolina to hold first 2028 presidential primary - Axios",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Why Trump is facing his biggest danger from rising oil prices since the war began - Politico",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes - The New York Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs - Al Jazeera",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Europe wildfires latest: More than 130,000 evacuated across France and Spain - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Canada celebrates new bridge to US during tariff troubles with Trump - AP News",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Knives are out for Vance in the GOP. His allies say it’s a coordinated ‘op.’ - The Washington Post",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cyclospora outbreak linked to shredded lettuce expands to 9 states, including Illinois - WGN-TV",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Why Trump may be undermining his own Saudi nuclear deal - vox.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "No basic services and nowhere to go: How these Venezuelans are living a month after the earthquakes - NBC News",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ICC chief prosecutor removed from post over sexual misconduct allegations - AP News",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ship insurers restrict war coverage for Saudi Arabian cargoes in Red Sea - Financial Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump says the US will investigate EU trade practices, claiming the bloc unfairly fined tech giants - AP News",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack - CNBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others - CNBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Meta just created a moderation nightmare for its smart glasses - The Verge",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump to deliver ‘unifying yet vicious’ remarks at press dinner months after shooting incident, White House says - NBC News",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "No bodycam footage in fatal Madison police shooting, because the department doesn’t require cameras - NBC News",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Live updates: Colt Gray, Georgia school shooter, pleads guilty and victims deliver emotional statements in court - CNN",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "AskAnAmerican",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=US",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "status": "disabled",
+        "message": "disabled for countries where language wiki is too global"
+      },
+      "filters": [
+        {
+          "title": "Resident Evil Official Trailer (2026 Movie)",
+          "score": 11,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:A major global entertainment franchise with a new movie trailer, clear cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ebenezer Official Trailer (2026 Movie) Featuring Johnny Depp",
+          "score": 10,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:Movie trailer with well-known actors and a twist on a classic story; culturally interesting but less global impact than Resident Evil."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avatar: Seven Havens Official Teaser (Paramount+ 2026)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Part of a globally popular franchise with new series announcement, strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Why Do Americans Use Cardinal Directions So Often?",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Interesting cultural insight question popular on Reddit, showing a native cultural habit."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Starting Over Using Only Robux in Keyboard Escape (Roblox Gameplay)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content related to Roblox, a popular global game platform; niche but culturally relevant."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "What Does It Mean That Argentinian Fans Made Eagle Fans Look Like Mennonites?",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Intriguing cultural sports fan comparison, niche but interesting for cultural mapping."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Moneybagg Yo - I See Why (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular artist music video, culturally relevant in music trends."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Typical Summer AC Temperature Settings in American Homes?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A generic question about American lifestyle; mildly interesting but not a strong culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Is Buying a House in Your Late 20s Uncommon in the US?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Common lifestyle question, somewhat generic and localized."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Animal by KATSEYE (Official Music Release)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music title is generic; artist may be niche, so limited global cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tomato Beer? (Reddit Discussion on Recipe and Flavor)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A niche food/beverage curiosity, somewhat generic but interesting culturally."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Are Sports or Club Activities Important to American Students?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic cultural question, common topic without strong trend signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "We Found Another Crazy Car Racing Game (YouTube Gaming Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic gaming video title, no unique cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "What Features from Other Countries Do You Wish American Houses Had?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic cultural curiosity question, common on Reddit."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Do You Eat Chicken Tenders with White Gravy? (Regional US Food Question)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Regional food habit question, somewhat niche and generic."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "We Built A Zoo (Smosh Games YouTube Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic gaming/entertainment video title, no strong cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "What is the Doritos “COOL AMERICAN” flavour?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "JENNIE - Less than a Lover (Official Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Do traditional nomadic people still exist in America?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "How much does a pizza cost in the U.S.?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "What great foods haven't become widespread outside you region?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tap water or bottled in the US, is tap water fine everywhere?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "What’s the smallest town you’ve ever been to?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hawaiians, how often do you visit the other islands than the one you live on?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "For Americans into electronic music what's your take on Daft Punk legacy ?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Has going to the movies become less popular in the US too?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "What is the routine of American students at school, and do they go straight home after school?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Why aren't e-bikes more popular in U.S. suburbs?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "If your cities aren't walkable, where do you go for a run?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Is country music still popular in the USA?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "How are Americans so muscular and fit?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The purest American English?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "burger king kids meal paw patrol",
+          "score": 4,
+          "reasons": [
+            "boost_culture_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Been By Now",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "dow jones industrial average",
+          "score": 1,
+          "reasons": [
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "morgan wallen been by now",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "acting attorney general todd blanche",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "costco washington email lawsuit settlement",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "yan diomande",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "bahrain news",
+          "score": -4,
+          "reasons": [
+            "penalize_hard_news_spillover",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "supreme leader",
+          "score": -4,
+          "reasons": [
+            "penalize_hard_news_spillover",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "trump falls",
+          "score": -5,
+          "reasons": [
+            "penalize_routine_politics",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "jordan devey",
+          "score": -6,
+          "reasons": [
+            "penalize_generic_tragedy",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "No current events or politics.",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        },
+        {
+          "title": "Do you need planning permission to build or renovate a house in the US? Who enforces planning, and is it different if you are within city limits? What are the rules for older buildings, the equivalent of listed buildings in the UK?",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Dem panel taps South Carolina to hold first 2028 presidential primary - Axios",
+        "source_name": "Axios",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWDN1c3NJYklpd3lSa2NaMHpkM0ZJMllsUVJrZjlQWENBMnFVVU5YTjFSaUttU1EwUjcyRG14QkRWZGNNTlNaS3Z1WU9nQ2UzS0xHc2g5SzlyX3FVSkd4UmpJUXdRRm5CYV9EeEVlYnVsZ3NvUGFXbXVvRV9NckVJMDI4anV2LVdHSWxj?oc=5",
+        "published_at": "Fri, 24 Jul 2026 20:46:17 GMT",
+        "snippet": "Dem panel taps South Carolina to hold first 2028 presidential primary Axios Democrats reshape their primary calendar: From the Politics Desk NBC News Democrats select South Carolina for their first 2028 presidential nominating contest PBS Dems pick South Carolina to lead 2028 primary calendar Politico South Carolina picked by DNC panel to hold Democrats’ first 2028 presidential primary CNN",
+        "short_explanation": "South Carolina chosen for first 2028 Democratic primary, shaping presidential nomination process."
+      },
+      {
+        "title": "Why Trump is facing his biggest danger from rising oil prices since the war began - Politico",
+        "source_name": "Politico",
+        "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1YMEs4LXVIMjIzYV9DaEZoUEYyaHZTT2dma0x5YVdUU3hGQTVSSGZMbk5IZVhkTU9sbzlDeVgtamx0UFpRVDVlRVRLUWVtbTlFdElBRkptb3N5Mm91RUo0NTdlU2hYM0lLUnV4VG95NWJZeVgxMlhJc3dRbw?oc=5",
+        "published_at": "Fri, 24 Jul 2026 14:00:00 GMT",
+        "snippet": "Why Trump is facing his biggest danger from rising oil prices since the war began Politico Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On The New York Times A dangerous new phase of war is breaking all the oil market’s constraints CNN Relax, $100 Oil Is No Sweat for Stocks—But There Is a Panic Point, and Four Other Things to Know Today Barron's Saudi Arabia takes center stage as oil hits $100 and the Iran war escalates amid Houthi attacks and nuclear expansion Fortune",
+        "short_explanation": "Rising oil prices threaten Trump's political standing amid ongoing Middle East conflicts."
+      },
+      {
+        "title": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable - CNET",
+        "source_name": "CNET",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0RiMV9FWWNlcnkxVENVbDh3T284aUhhOW9odDR6V0N0b2hSU1lWdHFqRTBUY3U0aGlpVlE1cUI2a2FUSmgwWGpfdEM5MUp0dm5FZEluaHNhTXNZdzhIVTlHYlhzWU1nMjZLZGxicjd1N3Fudzh5VEItR3lCQjVHVDJKaFozUnJpamZMZmdSbnBXWDE4ZEdTcEw4YnpyaFZ5LV9DNlpvSmVxalFERE1VQg?oc=5",
+        "published_at": "Fri, 24 Jul 2026 20:02:41 GMT",
+        "snippet": "My Galaxy Z Fold 8 Ongoing Review Living With Samsung’s Passport Foldable CNET Samsung Galaxy Z Fold8 Ultra, Fold8 and Flip8: Foldables, Perfected for Every Way of Living Samsung Global Newsroom Samsung Galaxy Z Fold 8 Ultra vs. Z Fold 7: Improved Battery, Screen and a Higher Price CNET The fight for the future of foldable phones is here NBC News I'm Just Glad Samsung's Price Hikes Weren't Worse Engadget",
+        "short_explanation": "Review of Samsung Galaxy Z Fold 8 highlights innovation in foldable smartphone technology."
+      },
+      {
+        "title": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes - The New York Times",
+        "source_name": "The New York Times",
+        "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNekVNZHhVQkF4WWRNNm84S0JDZWJ1U3ZJRl85dFBtdV9DNlFSZGhtTGxIZll4aWRMZDVGd3JFX0hfWFR2SEwxUlVLOXR6NlNrQ3RPOUpBbm1qZERuVG1VM0FyY0NKNFZvZGtwV3VjU3BBSE5IeDV6dEpYYnYybnM3Zg?oc=5",
+        "published_at": "Fri, 24 Jul 2026 21:14:58 GMT",
+        "snippet": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes The New York Times Live updates: Trump mulls escalation in Iran but says Tehran is getting ‘more serious’ in talks CNN Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks CNBC Trump threatens a major escalation in Iran after 13 straight nights of strikes NPR Trump Is Losing Patience Over an Iran War With No Clear End in Sight WSJ",
+        "short_explanation": "Trump debates escalating military strikes on Iran amid tense international relations."
+      },
+      {
+        "title": "‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs - Al Jazeera",
+        "source_name": "Al Jazeera",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVFBrcFVYYzJodDNEWUI3bjNpU2F0OEVFbmdyZGJOT2g0VGhnRUxoenRaVzladXhIMkphVFlaYm41amdzVzBIYW41eU1FSFY2aU9OU2I2dFFzM01BQXI0UlhDOWhaRlJkMk9OcWN0ZU9zN2dCWFB6Z2JDbjZ0Z3MtQzBCcGw1ZGhMVXFiYnJYTmVkTHh1WXc2aUdzYmFVNmJwN3Z2cmwzZTZaYXpmUXlWVzVn0gG3AUFVX3lxTE81TUNJeUhQdmc3X01Vc0ZXWUxCWDNiTzVMUzFuNUlRMjhSMS1zdlpNenJYcnJKMGFyT3pSOFhKX3dVeXQ4REpPWlJwaU1uSHdXTE1yYzhDWkhkdl9BUm54YUpOTDZDVEd4b1o1N1RiZ1I1VU5jR3MzQlR0QktCNlNsUE56VXBRUnJINEZ0RWxNNm1LZDhJWnpyTFVOcXRGaV9SWFJPdThwT2ROa0t6VXNHUThqNk1ybw?oc=5",
+        "published_at": "Fri, 24 Jul 2026 16:32:54 GMT",
+        "snippet": "‘Extremely disappointing’: US trade partners respond to Trump’s new tariffs Al Jazeera Metals, seeds, live primates: Trump tariff blow softened by extensive carve-outs Politico U.S. sets new tariffs at 10% to 12.5% on 60 trade partners NBC News Trump's replacement tariffs continue to put pressure on U.S. economy NPR How do the new Trump tariffs differ from what the Supreme Court struck down? WBAL-TV",
+        "short_explanation": "US trade partners criticize Trump's new tariffs impacting global economic relations."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Resident Evil Official Trailer (2026 Movie)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Sony Pictures Entertainment)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-23T13:00:24Z",
+        "source_url": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+        "external_url": "https://www.youtube.com/watch?v=mNd1gb19A-c",
+        "context": "Sony Pictures Entertainment. 𝙽𝚘 𝚜𝚠𝚎𝚊𝚝.\n \nFrom the mind of Zach Cregger, director of Weapons and Barbarian. Watch the official trailer for Resident Evil. Filmed for IMAX – in theatres 9.18. #ResidentEvil\n\nhttps://www.instagram.com/residentevil/\nhttps://twitter.com/ResidentEvil\nhttps://www.facebook.com/ResidentEvilMovie\nhttps://www.tiktok.com/@resident.evil.movie\n\nFrom the mind of visionary filmmake",
+        "short_explanation": "Official trailer for a 2026 Resident Evil movie, popular for its horror and action fans."
+      },
+      {
+        "title": "Ebenezer Official Trailer (2026 Movie) Featuring Johnny Depp",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Paramount Pictures)",
+        "score_label": "trending #8",
+        "rank_score": 930,
+        "published_at": "2026-07-23T23:44:46Z",
+        "source_url": "https://www.youtube.com/watch?v=A7lyvgnDuDE",
+        "external_url": "https://www.youtube.com/watch?v=A7lyvgnDuDE",
+        "context": "Paramount Pictures. Bah! Humbug! Watch the new trailer for #EbenezerMovie starring Johnny Depp. Only in theatres November 13.\n\nThis November, Johnny Depp is Ebenezer Scrooge. The name you know, the story you don’t. From Ti West, EBENEZER also stars Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Arthur Conti, Ellie Bamber, Henry Lloyd-Hughes, Charlie Murphy, with Tramell Tillman and I",
+        "short_explanation": "Trailer for Ebenezer, a 2026 movie retelling Scrooge's story starring Johnny Depp."
+      },
+      {
+        "title": "Avatar: Seven Havens Official Teaser (Paramount+ 2026)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Avatar Legends)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-23T21:01:45Z",
+        "source_url": "https://www.youtube.com/watch?v=RvksPficuOU",
+        "external_url": "https://www.youtube.com/watch?v=RvksPficuOU",
+        "context": "Avatar Legends. Avatar: Seven Havens premieres October 9 only on Paramount+.\n\nAvatar: Seven Havens is an all-new series from creators Michael Dante DiMartino and Bryan Konietzko. Set in a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. In this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both huma",
+        "short_explanation": "Teaser for Avatar: Seven Havens, a new 2026 series continuing the Avatar saga on Paramount+."
+      },
+      {
+        "title": "Why Do Americans Use Cardinal Directions So Often?",
+        "platform": "reddit",
+        "source_label": "r/AskAnAmerican",
+        "score_label": "r/AskAnAmerican hot #2",
+        "rank_score": 990,
+        "published_at": "2026-07-24T06:00:07+00:00",
+        "source_url": "https://www.reddit.com/r/AskAnAmerican/comments/1v52pvc/how_do_americans_always_seem_to_know_which_way_is/",
+        "external_url": "https://www.reddit.com/r/AskAnAmerican/comments/1v52pvc/how_do_americans_always_seem_to_know_which_way_is/",
+        "context": "In movies, TV shows, real law enforcement footages, and even YouTube videos, I often hear people say things like \"head north,\" \"go east on I-95,\" or \"the suspect is traveling westbound.\" It also seems like a lot of Americans casually give directions using the cardinal directions instead of saying left or right. How do people actually know which direction they're facing at any given moment? Is this",
+        "short_explanation": "Americans use cardinal directions often for precise navigation and law enforcement clarity."
+      },
+      {
+        "title": "Starting Over Using Only Robux in Keyboard Escape (Roblox Gameplay)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Foltyn)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T05:20:47Z",
+        "source_url": "https://www.youtube.com/watch?v=AYJkq-UlkYM",
+        "external_url": "https://www.youtube.com/watch?v=AYJkq-UlkYM",
+        "context": "Foltyn. Today I started over as a noob with only robux in roblox keyboard escape. Make sure you watch the whole video to find out what happens.\n\nMerch: https://foltyn.shop/\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCRkuUgtDAL4XSU5jB40J_wA/join\n\n--Socials--\n\nDiscord: https://discord.gg/hqwZhrkqRr\n\nRoblox Group: https://www.roblox.com/groups/11775558/Foltyns-Family#",
+        "short_explanation": "Roblox gameplay video starting fresh using only Robux currency in the Keyboard Escape game."
+      },
+      {
+        "title": "What Does It Mean That Argentinian Fans Made Eagle Fans Look Like Mennonites?",
+        "platform": "reddit",
+        "source_label": "r/AskAnAmerican",
+        "score_label": "r/AskAnAmerican hot #7",
+        "rank_score": 940,
+        "published_at": "2026-07-24T07:54:12+00:00",
+        "source_url": "https://www.reddit.com/r/AskAnAmerican/comments/1v54t05/i_saw_a_video_saying_argentinian_fans_made_eagle/",
+        "external_url": "https://www.reddit.com/r/AskAnAmerican/comments/1v54t05/i_saw_a_video_saying_argentinian_fans_made_eagle/",
+        "context": "Hi guys, I saw a video of an American saying fans from Argentina made Eagle fans look like Mennonite’s. I don’t have much context about fans from american football teams. Can you explain the meaning? Do different team fans are known for different reasons? Thank you submitted by /u/GretelNoHans [link] [comments]",
+        "short_explanation": "Unclear local trend."
+      },
+      {
+        "title": "Moneybagg Yo - I See Why (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (MoneybaggYoVEVO)",
+        "score_label": "trending #7",
+        "rank_score": 940,
+        "published_at": "2026-07-24T17:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=YNwmYliuUfE",
+        "external_url": "https://www.youtube.com/watch?v=YNwmYliuUfE",
+        "context": "MoneybaggYoVEVO. Stream \"I See Why\" on All Platforms: https://moneybaggyo.lnk.to/ISeeWhy\n\nFollow Moneybagg Yo:\nhttps://www.instagram.com/moneybaggyo/\nhttps://www.tiktok.com/@moneybaggyo\nhttps://x.com/MoneyBaggYo\n\n#MoneybaggYo #ISeeWhy\n\n\nMusic video by Moneybagg Yo performing I See Why.© 2026 CMG/N-Less/Interscope Records",
+        "short_explanation": "Official music video for Moneybagg Yo's song 'I See Why,' popular in hip-hop culture."
+      },
+      {
+        "title": "Typical Summer AC Temperature Settings in American Homes?",
+        "platform": "reddit",
+        "source_label": "r/AskAnAmerican",
+        "score_label": "r/AskAnAmerican hot #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T11:47:15+00:00",
+        "source_url": "https://www.reddit.com/r/AskAnAmerican/comments/1v592k8/what_temperature_do_you_keep_your_houses_ac_set/",
+        "external_url": "https://www.reddit.com/r/AskAnAmerican/comments/1v592k8/what_temperature_do_you_keep_your_houses_ac_set/",
+        "context": "Hello, I’m a Japanese Reddit user. In Japan, one of the common warnings you see in guidebooks when traveling to the U.S. in the summer is: “In regions of the U.S. with intense summer heat (the West, Southwest, and South), the air conditioning is very strong, so it’s a good idea to bring a light jacket.” I’ve traveled to the U.S. in the summer about twice myself, and I do recall that the air condit",
+        "short_explanation": "Discussion about typical strong summer AC settings in American homes for heat comfort."
+      }
+    ]
+  }
+}

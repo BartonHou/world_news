@@ -1,0 +1,71 @@
+name: Refresh data and deploy to Pages
+
+on:
+  # Regenerate country cards on a schedule (UTC). Trends move over hours, not
+  # minutes, so twice a day is plenty and keeps API cost trivial.
+  schedule:
+    - cron: "0 */12 * * *"
+  # Manual "Run workflow" button.
+  workflow_dispatch: {}
+  # Deploy (using already-committed data) whenever main changes.
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never run two deploys at once; let a running one finish.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # On schedule / manual runs, pull fresh signals and rebuild the JSON.
+      # On a plain push we skip this and just deploy the committed data (fast,
+      # no API cost).
+      - name: Refresh data (probe + export)
+        if: github.event_name != 'push'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          python scripts/probe.py --output-dir outputs/phase0
+          python scripts/export_phase1_data.py
+
+      # Assemble only the static site (index.html + public/), leaving scripts,
+      # plans, and raw outputs out of the public deploy.
+      - name: Assemble site
+        run: |
+          mkdir -p _site
+          cp index.html _site/index.html
+          cp -r public _site/public
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

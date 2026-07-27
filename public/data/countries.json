@@ -1,0 +1,506 @@
+{
+  "generated_from": "outputs/phase0/probe-results.json",
+  "updated_at": "2026-07-24T22:21:56+00:00",
+  "countries": [
+    {
+      "iso2": "US",
+      "iso3": "USA",
+      "country_name": "United States",
+      "flag": "🇺🇸",
+      "region": "North America",
+      "coordinates": {
+        "lat": 39.8283,
+        "lon": -98.5795
+      },
+      "updated_at": "2026-07-24T21:48:56+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Iran conflict",
+        "Trump administration",
+        "military escalation"
+      ],
+      "news_headline": "Iran War Live Updates: Trump Meets With Cabinet Over Whether to Intensify Iran Strikes - The New York Times",
+      "news_confidence": 0.9,
+      "meme_title": "Why Do Americans Use Cardinal Directions So Often?",
+      "meme_tone": "funny",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "CA",
+      "iso3": "CAN",
+      "country_name": "Canada",
+      "flag": "🇨🇦",
+      "region": "North America",
+      "coordinates": {
+        "lat": 56.1304,
+        "lon": -106.3468
+      },
+      "updated_at": "2026-07-24T21:49:48+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Fields Medal",
+        "mathematics",
+        "Canada achievement"
+      ],
+      "news_headline": "U of T professor wins Fields Medal, first Canadian university recipient",
+      "news_confidence": 0.9,
+      "meme_title": "Reddit's /r/Canada Paywall Experiment",
+      "meme_tone": "political",
+      "meme_confidence": 0.85,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "GB",
+      "iso3": "GBR",
+      "country_name": "United Kingdom",
+      "flag": "🇬🇧",
+      "region": "Europe",
+      "coordinates": {
+        "lat": 54.0,
+        "lon": -2.5
+      },
+      "updated_at": "2026-07-24T21:50:35+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "No 10 North",
+        "Manchester",
+        "government decentralization"
+      ],
+      "news_headline": "Burnham takes government jet to No 10 North - The Telegraph",
+      "news_confidence": 0.9,
+      "meme_title": "Record 165 Migrants Arrive in UK on Mega Dinghy",
+      "meme_tone": "political",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "FR",
+      "iso3": "FRA",
+      "country_name": "France",
+      "flag": "🇫🇷",
+      "region": "Europe",
+      "coordinates": {
+        "lat": 46.6034,
+        "lon": 1.8883
+      },
+      "updated_at": "2026-07-24T21:51:53+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "incendies",
+        "Gironde",
+        "mobilisation armée"
+      ],
+      "news_headline": "Incendies en Gironde : feu menace Bordeaux, Macron mobilise l'armée pour renfort maximal",
+      "news_confidence": 0.9,
+      "meme_title": "Les fangames SONIC ep2 - Creating the Perfect 2D Sonic",
+      "meme_tone": "wholesome",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "DE",
+      "iso3": "DEU",
+      "country_name": "Germany",
+      "flag": "🇩🇪",
+      "region": "Europe",
+      "coordinates": {
+        "lat": 51.1657,
+        "lon": 10.4515
+      },
+      "updated_at": "2026-07-24T21:52:42+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "wildfires",
+        "EU aid",
+        "climate crisis"
+      ],
+      "news_headline": "Waldbrände in Frankreich und Spanien: EU sends firefighting planes, thousands evacuated",
+      "news_confidence": 0.9,
+      "meme_title": "Controversial Danger Dan Song Climbs to Top Ten Charts",
+      "meme_tone": "political",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "JP",
+      "iso3": "JPN",
+      "country_name": "Japan",
+      "flag": "🇯🇵",
+      "region": "East Asia",
+      "coordinates": {
+        "lat": 36.2048,
+        "lon": 138.2529
+      },
+      "updated_at": "2026-07-24T22:21:07+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "immigration policy",
+        "permanent residency",
+        "pension contributions"
+      ],
+      "news_headline": "外国人の永住許可、「厚生年金30年水準」要求 入管庁が厳格化案 - 朝日新聞",
+      "news_confidence": 0.9,
+      "meme_title": "New Mobile Suit Gundam RG Alex Zero Announced for 2027 with Director Kenji Kamiyama",
+      "meme_tone": "wholesome",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "KR",
+      "iso3": "KOR",
+      "country_name": "South Korea",
+      "flag": "🇰🇷",
+      "region": "East Asia",
+      "coordinates": {
+        "lat": 36.5,
+        "lon": 127.8
+      },
+      "updated_at": "2026-07-24T22:21:56+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "election integrity",
+        "voter turnout fraud",
+        "election commission leadership"
+      ],
+      "news_headline": "충청서도 투표율 허위입력… ‘비상근 판사 선관위장’ 리더십 한계",
+      "news_confidence": 0.9,
+      "meme_title": "Is Korean Work Life Really This Tough? (Personal Experience)",
+      "meme_tone": "sad",
+      "meme_confidence": 0.85,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "CN",
+      "iso3": "CHN",
+      "country_name": "China",
+      "flag": "🇨🇳",
+      "region": "East Asia",
+      "coordinates": {
+        "lat": 35.8617,
+        "lon": 104.1954
+      },
+      "updated_at": "2026-07-24T21:55:38+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Fields Medal",
+        "Wang Hong",
+        "social mobility"
+      ],
+      "news_headline": "Chinese mathematician Wang Hong wins Fields Medal, challenging stereotypes about social mobility",
+      "news_confidence": 0.9,
+      "meme_title": "Biggest Culture Shocks After Living in China or Learning Chinese",
+      "meme_tone": "wholesome",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "IN",
+      "iso3": "IND",
+      "country_name": "India",
+      "flag": "🇮🇳",
+      "region": "South Asia",
+      "coordinates": {
+        "lat": 22.5937,
+        "lon": 78.9629
+      },
+      "updated_at": "2026-07-24T21:56:50+00:00",
+      "probe_status": "partial",
+      "keywords": [
+        "GitHub block",
+        "Jack Dorsey",
+        "protests"
+      ],
+      "news_headline": null,
+      "news_confidence": null,
+      "meme_title": "Indian Govt Orders GitHub to Block Jack Dorsey's Bitchat App Amid Protests",
+      "meme_tone": "political",
+      "meme_confidence": 0.85,
+      "has_top_news": false,
+      "has_meme": true
+    },
+    {
+      "iso2": "BR",
+      "iso3": "BRA",
+      "country_name": "Brazil",
+      "flag": "🇧🇷",
+      "region": "South America",
+      "coordinates": {
+        "lat": -14.235,
+        "lon": -51.9253
+      },
+      "updated_at": "2026-07-24T21:57:51+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Flávio Bolsonaro",
+        "political corruption",
+        "phantom company"
+      ],
+      "news_headline": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado - Estadão",
+      "news_confidence": 0.9,
+      "meme_title": "Dado Dolabella Sues Globo Over Alleged Past Abuse Claims",
+      "meme_tone": "political",
+      "meme_confidence": 0.7,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "MX",
+      "iso3": "MEX",
+      "country_name": "Mexico",
+      "flag": "🇲🇽",
+      "region": "North America",
+      "coordinates": {
+        "lat": 23.6345,
+        "lon": -102.5528
+      },
+      "updated_at": "2026-07-24T21:58:43+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "US-Mexico trade",
+        "tariffs",
+        "food safety"
+      ],
+      "news_headline": "Trump amenaza con imponer un \"gran arancel\" a México por lechuga; ligan verdura al brote de \"diarrea explosiva\" en EU - El Universal",
+      "news_confidence": 0.9,
+      "meme_title": "Tang Shrinkflation: Now 1L Instead of 2L at Same Price",
+      "meme_tone": "angry",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "AR",
+      "iso3": "ARG",
+      "country_name": "Argentina",
+      "flag": "🇦🇷",
+      "region": "South America",
+      "coordinates": {
+        "lat": -38.4161,
+        "lon": -63.6167
+      },
+      "updated_at": "2026-07-24T21:59:32+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "dollar accounts",
+        "salary payments",
+        "currency instability"
+      ],
+      "news_headline": "Llegan las cuentas sueldo en dólares: cómo funcionarán y qué costo tendrá para los clientes bancarios - Clarin.com",
+      "news_confidence": 0.85,
+      "meme_title": "Bangladeshi Fans' Deep Connection to Argentina's Football Legacy",
+      "meme_tone": "wholesome",
+      "meme_confidence": 0.85,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "AU",
+      "iso3": "AUS",
+      "country_name": "Australia",
+      "flag": "🇦🇺",
+      "region": "Oceania",
+      "coordinates": {
+        "lat": -25.2744,
+        "lon": 133.7751
+      },
+      "updated_at": "2026-07-24T22:00:48+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "interest rates",
+        "petrol prices",
+        "cost of living"
+      ],
+      "news_headline": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
+      "news_confidence": 0.9,
+      "meme_title": "Heater Safety Warning for Australian Winter",
+      "meme_tone": "funny",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "RU",
+      "iso3": "RUS",
+      "country_name": "Russia",
+      "flag": "🇷🇺",
+      "region": "Europe / Asia",
+      "coordinates": {
+        "lat": 61.524,
+        "lon": 105.3188
+      },
+      "updated_at": "2026-07-24T22:01:43+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "drone attack",
+        "Wildberries",
+        "logistics disruption"
+      ],
+      "news_headline": "Drone attack on Wildberries warehouses in Leningrad region injures three",
+      "news_confidence": 0.85,
+      "meme_title": "First Date Etiquette with a Russian Girl",
+      "meme_tone": "wholesome",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "UA",
+      "iso3": "UKR",
+      "country_name": "Ukraine",
+      "flag": "🇺🇦",
+      "region": "Europe",
+      "coordinates": {
+        "lat": 48.3794,
+        "lon": 31.1656
+      },
+      "updated_at": "2026-07-24T22:02:56+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "ракетний удар",
+        "Київщина",
+        "виставка зброї"
+      ],
+      "news_headline": "Ракетний обстріл Київщини під час виставки зброї: що відомо про жертви, перші версії та реакція",
+      "news_confidence": 0.9,
+      "meme_title": "Russian Cities and Wildberries Facility in Saint Petersburg Burn Amid War",
+      "meme_tone": "political",
+      "meme_confidence": 0.9,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "TR",
+      "iso3": "TUR",
+      "country_name": "Turkey",
+      "flag": "🇹🇷",
+      "region": "Europe / Asia",
+      "coordinates": {
+        "lat": 38.9637,
+        "lon": 35.2433
+      },
+      "updated_at": "2026-07-24T22:03:47+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "YENİ Parti",
+        "political realignment",
+        "opposition Turkey"
+      ],
+      "news_headline": "YENİ Parti kuruldu, Özgür Özel oy birliğiyle Genel Başkan",
+      "news_confidence": 0.9,
+      "meme_title": "Growing Demand for Change Surpasses Current Politics: Call for United Struggle in Istanbul",
+      "meme_tone": "political",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "ID",
+      "iso3": "IDN",
+      "country_name": "Indonesia",
+      "flag": "🇮🇩",
+      "region": "Southeast Asia",
+      "coordinates": {
+        "lat": -2.5,
+        "lon": 118.0
+      },
+      "updated_at": "2026-07-24T22:04:35+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "internet quota",
+        "consumer rights",
+        "digital regulation"
+      ],
+      "news_headline": "Indonesia's Constitutional Court Rules Unused Internet Quota Must Not Expire",
+      "news_confidence": 0.9,
+      "meme_title": "Controversy Around 'Boti Hunter' Bogor's Most Vocal Member Allegedly LGBT",
+      "meme_tone": "chaotic",
+      "meme_confidence": 0.85,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "PH",
+      "iso3": "PHL",
+      "country_name": "Philippines",
+      "flag": "🇵🇭",
+      "region": "Southeast Asia",
+      "coordinates": {
+        "lat": 12.8797,
+        "lon": 121.774
+      },
+      "updated_at": "2026-07-24T22:05:47+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Marcos",
+        "SONA",
+        "liquor ban"
+      ],
+      "news_headline": "QC to impose liquor ban on Marcos’ SONA day - The Manila Times",
+      "news_confidence": 0.9,
+      "meme_title": "Jollibee Featured in KATSEYE's Latest Music Video",
+      "meme_tone": "wholesome",
+      "meme_confidence": 0.9,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "ZA",
+      "iso3": "ZAF",
+      "country_name": "South Africa",
+      "flag": "🇿🇦",
+      "region": "Africa",
+      "coordinates": {
+        "lat": -30.5595,
+        "lon": 22.9375
+      },
+      "updated_at": "2026-07-24T22:06:38+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Public Investment Corporation",
+        "David Masondo",
+        "pension funds"
+      ],
+      "news_headline": "Chairman of South Africa’s R3 trillion asset manager quits",
+      "news_confidence": 0.85,
+      "meme_title": "South Africa Sets Guinness World Record for Most Supercars in One Area",
+      "meme_tone": "wholesome",
+      "meme_confidence": 0.85,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "NG",
+      "iso3": "NGA",
+      "country_name": "Nigeria",
+      "flag": "🇳🇬",
+      "region": "Africa",
+      "coordinates": {
+        "lat": 9.082,
+        "lon": 8.6753
+      },
+      "updated_at": "2026-07-24T22:07:53+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "forced labor",
+        "U.S. tariffs",
+        "Nigerian exports"
+      ],
+      "news_headline": "U.S. Imposes New 12.5% Tariff On Nigerian Exports Over Forced Labour",
+      "news_confidence": 0.9,
+      "meme_title": "Why Northern Nigeria Is Underrepresented in Global Perceptions",
+      "meme_tone": "political",
+      "meme_confidence": 0.85,
+      "has_top_news": true,
+      "has_meme": true
+    }
+  ]
+}

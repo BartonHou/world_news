@@ -1,0 +1,847 @@
+{
+  "iso2": "KR",
+  "iso3": "KOR",
+  "country_name": "South Korea",
+  "flag": "🇰🇷",
+  "region": "East Asia",
+  "coordinates": {
+    "lat": 36.5,
+    "lon": 127.8
+  },
+  "updated_at": "2026-07-24T22:21:56+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "election integrity",
+    "voter turnout fraud",
+    "election commission leadership"
+  ],
+  "top_news": {
+    "headline": "충청서도 투표율 허위입력… ‘비상근 판사 선관위장’ 리더십 한계",
+    "summary": "South Korea faces election integrity crisis as false voter turnout data emerges, questioning election commission leadership.",
+    "why_it_matters": "Election trust is vital; manipulation signals deep political and institutional challenges.",
+    "source_name": "동아일보",
+    "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVb194THpOUEJFX3ZzckdHMFV5VnE0dUtPa1JGWWtKTG81MUhTZVRjU04yUW16c044bXota0hBRmY3eFUtVklFaENsYktaWXlYbGhLYkNIdUNUVmJtd3hmODFvRFp5Ql9MWHhwUjBTaVFsYnRSZ0pV0gFmQVVfeXFMTkZ6STZJSzYtYkp3VGl5ei1nVVkzLUZmSWxoOVNMOW5faEtHcTlUOGIwd3FyWUo1V1RMMHhNTkZSNUV3dTR4ZVUzMVBEY0xQb29UOWhrR1RGT3pTV0FDN3NFNEg2THNn?oc=5",
+    "published_at": "Fri, 24 Jul 2026 16:40:00 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Is Korean Work Life Really This Tough? (Personal Experience)",
+    "platform": "reddit",
+    "explanation": "A foreign-educated Korean shares struggles adapting to strict, hierarchical Korean startup culture causing stress and mental health issues.",
+    "why_people_are_sharing_it": "Relatable insight into harsh Korean workplace culture and mental health struggles.",
+    "tone": "sad",
+    "local_context": "Highlights Korea's intense, top-down corporate culture and its mental toll.",
+    "source_url": "https://www.reddit.com/r/hanguk/comments/1v5cj2x/한국_직장생활_원래_이렇게_힘든_거임/",
+    "media_url": "https://www.reddit.com/r/hanguk/comments/1v5cj2x/한국_직장생활_원래_이렇게_힘든_거임/",
+    "confidence": 0.85
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=ko&gl=KR&ceid=KR:ko",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "이란, 바레인·요르단·쿠웨이트 미군 기지 공격···14일째 무력 충돌 계속 - 경향신문",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "충청서도 투표율 허위입력… ‘비상근 판사 선관위장’ 리더십 한계 - 동아일보",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "정성호, 이 대통령에 사의 밝힌 듯…’보완수사권 폐지 논란’ 속 파장 - 연합뉴스TV",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "수도권 등 중부 흐리고 비…전국 무더위·열대야 계속 - 연합뉴스",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "사우디 유조선, 홍해 항해 중 공격받아...경미한 손상 - YTN",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘1조 육박’ 재산분할 현금…최태원, SK 주식 처분해 마련할까 - 한겨레",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "글로벌 10%→강제노동 12.5%…트럼프 관세 빌드업 '착착' [이상은의 워싱턴나우] - 한국경제",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘잠 못 이루는 밤’…체감 온도 ‘최고 30도’ 초열대야 주의보 - 한겨레",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "정교유착 합수본, 신천지 신도들 민주당 집단가입 정황도 포착 - 연합뉴스",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "사우디와 ‘원자력 협정’ 하루 뒤, 트럼프 “이스라엘과 관계 정상화 조건” - 한겨레",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "홍해 화약고도 터졌다…이란 “아무도 석유 못 팔아” - KBS 뉴스",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "트럼프 \"모든 피해 선박, 이란 동결자금으로 보상\" - MBC 뉴스",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "日 숨막히는 40도 폭염…일주일 새 열사병 이송 1만명 넘어 - 세계일보",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘이정후 사인볼’ 받은 이 대통령… AI 심장부서 젠슨황 등 연쇄 회동 - 한겨레",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "[경제뭔데]삼전닉스 레버리지 예탁금 3천만원 올리면 기존 투자자는 어떻게 되나요? - 경향신문",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "중동발 유가 급등에 급락…코스피·코스닥 '매도 사이드카' [종합] - 한국경제",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "유류세 인하 9월말까지 연장…휘발유 15%·경유 25%·부탄 25%↓ - 세계일보",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "코그니션, AI 비서 포크 인수…데빈에 '친구 같은 대화' 경험 추가 - 디지털투데이",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "아버지가 남긴 일기장의 진실… ‘에코즈 프롬 시우다델라’ 정식 출시 - 인디게임닷컴",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "hanguk",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=KR",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/ko.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 992,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Avengers: Doomsday Official Teaser Trailer - Marvel Korea",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Highly anticipated global blockbuster teaser, very strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "JENNIE - Less than a Lover (New Song Release)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This is a new song release by JENNIE, a globally recognized K-pop star, making it a strong cultural signal rather than a generic title."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Analysis of Steve's Identity in Avengers: Doomsday Official Teaser (Part 2)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This is a detailed fan analysis of a highly anticipated Marvel movie teaser, which is a strong internet culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Is Korean Work Life Really This Tough? (Personal Experience)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A personal and relatable post about Korean workplace culture, resonating with many and reflecting social discourse."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Mecha Chameleon 100% Win Rate, Cartoonist Masters Hiding Technique | TesterHoon Interview",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A unique gaming/culture content with a personality, interesting for Korean internet culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "BOL4 - Please Summer! (New Song Release)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A new song release by BOL4, a known Korean band, but less globally impactful than JENNIE's release."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Who is the Champion that Broke Yoon Ganom's Mental? (Pokémon Gameplay Day 5)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A gaming video with a personality, somewhat niche but relevant in Korean internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PSYCHO vs ARES Official Trailer - Black Combat",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:An official trailer for a game or content, niche but clear and relevant to specific internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "BTS’s TRIP EP.1 - 방탄이가방에들어가신다",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Related to BTS, a global cultural phenomenon, but the title is somewhat opaque without translation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Animal",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "호랑이에요[OC]",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "우리는 리트리버들! [OC]",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "한국 문화로 둔갑해버린 그 나라 근황",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "여기 커뮤니티 대부분 한국인인가요?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "레딧 적응하기",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Microphone - 마이크 그렸습니다 🎤",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "게임 난이도를 한국 기준으로 맞춰야하는 이유",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "AI는 답을 해주는 것이 좋을까요, 질문을 해주는 것이 좋을까요?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Is the hate train finally subsiding?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "평점 말고 '후회 위험'으로 한국 스릴러 5편 골라봤어요 — 이런 게 고르는 데 도움 될까요?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "레딧을 계정만 만들어두고 안썼는데 불편하고 모르는게 너무 많네요ㅠ",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "인터넷 가입 전에 알아두면 좋은 것들 정리해봤어요",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "아이폰 쓰시는 분들 ㅜㅜ 이거 해킹인가요? ㅜㅜ",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "얼굴에서 못 벗어나고 있어요ㅅㅣㅂㅏ 살려주세요",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "레딧 처음인데",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "고놈 참 잘하네",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The title '고놈 참 잘하네' ('That guy is really good') is too vague and generic without additional context."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "고양이 2마리에요[OC]",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Just a casual post about two cats, not a strong cultural or internet fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "멘탈 찾기용 낙서",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A casual doodle post for mental relief, not a strong cultural or internet fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "동글 동글 허스키에요[OC]",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Just a casual post about a husky dog, not a strong cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "저는그만멘탈이나가버렸습니다",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The title is a personal expression ('My mental broke down'), too opaque and not a clear cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Summer Returns",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Online shopping outside of Korea",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A generic question about online shopping outside Korea, not a cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "뭔 게시글이 쓰는 족족 삭제 되어버리니... ㅠㅠ",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A complaint about post deletions, too opaque and generic."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "문화방송",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "유튜브",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "한국방송공사",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "한국교육방송공사",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "안귀령",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "일루미나티",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "위키백과:대문",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "특수:검색",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "skhy",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "혈당",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "홈플러스",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "브룩스 레일리",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "수사",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "집",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "필라델피아 반도체 지수",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "lng선",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "사이드카",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "schd",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "r/hanguk Community Survey",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        },
+        {
+          "title": "레딧 사용법, 자주하는 질문",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "이란, 바레인·요르단·쿠웨이트 미군 기지 공격···14일째 무력 충돌 계속 - 경향신문",
+        "source_name": "경향신문",
+        "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDaTczb2U0XzU5VU41eFV5VDhlNlVMOTNXVXlha1pqNWpFVm5adGtYTHJHR2VzemVTYVR5RUQtQTZhOGZQLUc4WFF0M1oybzNFZXE2eUM3MDlwd9IBX0FVX3lxTE8xTmtHclNfNTVIVE9ZWXNJY2Y3MUxKdm9iQWtOT00xd195RVNPSWRQZ2MxTF9yOWxGbU1YalNKSnBNWlRQclFKR2xOWDdmbkZKUVFiMTRhQUJqNW1YUFVN?oc=5",
+        "published_at": "Fri, 24 Jul 2026 13:37:00 GMT",
+        "snippet": "이란, 바레인·요르단·쿠웨이트 미군 기지 공격···14일째 무력 충돌 계속 경향신문 끝없는 이란전에 인내심 잃은 트럼프…WSJ \"외교 대신 복수모드\" v.daum.net 이란군 \"미군 공습에 희생된 이란인 1명당 미군 1명 살해할 것\" MBC 뉴스 인내심 바닥난 트럼프, 이라크 통해 ‘휴전 제안’…이란 거부 한겨레 미-이란 13일째 공방…추가 확전 의지 시사 뉴시스",
+        "short_explanation": "Iran attacks US bases in Middle East, escalating regional conflict affecting global security."
+      },
+      {
+        "title": "충청서도 투표율 허위입력… ‘비상근 판사 선관위장’ 리더십 한계 - 동아일보",
+        "source_name": "동아일보",
+        "source_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBVb194THpOUEJFX3ZzckdHMFV5VnE0dUtPa1JGWWtKTG81MUhTZVRjU04yUW16c044bXota0hBRmY3eFUtVklFaENsYktaWXlYbGhLYkNIdUNUVmJtd3hmODFvRFp5Ql9MWHhwUjBTaVFsYnRSZ0pV0gFmQVVfeXFMTkZ6STZJSzYtYkp3VGl5ei1nVVkzLUZmSWxoOVNMOW5faEtHcTlUOGIwd3FyWUo1V1RMMHhNTkZSNUV3dTR4ZVUzMVBEY0xQb29UOWhrR1RGT3pTV0FDN3NFNEg2THNn?oc=5",
+        "published_at": "Fri, 24 Jul 2026 16:40:00 GMT",
+        "snippet": "충청서도 투표율 허위입력… ‘비상근 판사 선관위장’ 리더십 한계 동아일보 합수본, 경기 이어 충청서도 선관위 ‘투표율 조작’ 정황 포착 한겨레 국힘 \"선관위의 '선거 농단' 사건… 개혁 아닌 해체가 답\" v.daum.net [단독] 중앙선관위, 경기도선관위에 \"숫자 맞추자\" 조작 샘플 보내 JTBC 선관위 자문단 출신 교수\"투표율 조작은 선거 전체 신뢰 흔들어 … 선관위 통제 부실도 규명해야\" 뉴데일리",
+        "short_explanation": "Election commission accused of falsifying voter turnout, raising trust issues in democracy."
+      },
+      {
+        "title": "정성호, 이 대통령에 사의 밝힌 듯…’보완수사권 폐지 논란’ 속 파장 - 연합뉴스TV",
+        "source_name": "연합뉴스TV",
+        "source_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5kOUZBMVhyVmFoWkViTXQ0ZUNZLTRzY05ETkhsZkJyM0ZnaTNETEtnNGxVSjZ5MnlBNlBpQVp3RVFnLW5CUldST3hvWVotWlVmMDdiZVVOVXRUclNSZ2d1cHk4Znc4aGc?oc=5",
+        "published_at": "Fri, 24 Jul 2026 14:47:00 GMT",
+        "snippet": "정성호, 이 대통령에 사의 밝힌 듯…’보완수사권 폐지 논란’ 속 파장 연합뉴스TV [단독] 정성호 법무장관, 이 대통령에 직접 사의 표명‥보완수사권 폐지 당론 탓? v.daum.net 정성호 법무부 장관, 이 대통령에게 사의 표명…보완수사권 폐지 후폭풍 경향신문 정성호 법무부 장관 사의 표명…이재명 대통령 만류 뉴시스 정성호, 李대통령에 사의 밝힌 듯…與 보완수사 폐지국면 속 파장 연합뉴스",
+        "short_explanation": "Justice minister resigns amid controversy over police investigation authority reforms."
+      },
+      {
+        "title": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' - 뉴스핌",
+        "source_name": "뉴스핌",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBMNVpKYjY0bThoS29tVThhZ1FGaEtTbE1qb3hoVDZ2RkZBTy15SjZEcGh6S3BIYmU5X0paeE5kSE1DdzRHTlVpV1Fod2ZGMEc1d09FNmFqc3hIaTdu?oc=5",
+        "published_at": "Fri, 24 Jul 2026 04:33:00 GMT",
+        "snippet": "본선 대진표 확정…친청계, '생일별 분산 투표' 전략 성공하며 전원 생존 '저력' 뉴스핌 “친정 전원생존” vs “친석이 대세”…與당권 3파전 ‘해석 전쟁’ v.daum.net [정치라떼] 與 차기 당대표, 김민석·정청래·송영길 압축…“후보별 강점과 한계 뚜렷해” 브릿지경제 與, 3파전 본선 돌입…보완수사권 폐지 당론 주목 연합뉴스 與 전대 최대 변수 ‘신천지’…친명·친청, 지지층 결집 승자는? 에너지경제신문",
+        "short_explanation": "Political faction uses birthday-based voting strategy to survive party leadership race."
+      },
+      {
+        "title": "수도권 등 중부 흐리고 비…전국 무더위·열대야 계속 - 연합뉴스",
+        "source_name": "연합뉴스",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9fbG9Mb0dwTHhQMkFiQzBnbVpMWHhfeUh5ZDZMM1dIZUZLVVRRSml4dkVFY1I1MkxKaThwdDBRbV9kYWdEVWhaSUF4emptUHRBZmIxSjhfbzZxWWfSAWBBVV95cUxOd3A2X0FVUDI2NEx5eE81T1RxOW82cW9hY3NMM3A5SUpaVGJyNVVmUTZuaG5wX3B3OGR5TFVXU3NzR1h1anBqTWh4cXJtWU9LcEpIaVUySjVnTmJwZnh2bTc?oc=5",
+        "published_at": "Fri, 24 Jul 2026 20:20:25 GMT",
+        "snippet": "수도권 등 중부 흐리고 비…전국 무더위·열대야 계속 연합뉴스 Google 뉴스에서 헤드라인 및 의견 더보기",
+        "short_explanation": "Central Korea faces cloudy, rainy weather with ongoing nationwide heatwaves and tropical nights."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Avengers: Doomsday Official Teaser Trailer - Marvel Korea",
+        "platform": "youtube",
+        "source_label": "YouTube trending (MarvelKorea)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-20T13:40:06Z",
+        "source_url": "https://www.youtube.com/watch?v=0_1tNq4Isys",
+        "external_url": "https://www.youtube.com/watch?v=0_1tNq4Isys",
+        "context": "MarvelKorea. [어벤져스: 둠스데이] 티저 예고편 최초 공개!\n\n전 세계가 기다려온 가장 위대한 어셈블\n2026년의 대미를 장식할 압도적 전쟁의 서막\n둠스데이를 향한 가장 강력한 카운트다운은 이미 시작됐다!\n\n[어벤져스: 둠스데이] 2026년 12월 극장 대개봉\n\n#어벤져스_둠스데이 #AvergersDoomsday\n#어벤져스 #둠스데이 #Avengers #마블 #Marvel #2026년12월극장대개봉\n■ 마블 코리아 구독하기\nhttps://www.youtube.com/user/MarvelKorea\n\n* 페이스북 : https://www.facebook.com/marvel.kr\n* 인스타그램 : https://www.instagram.com/marvelkorea (@marvelkorea)\n* 홈페이지",
+        "short_explanation": "Marvel Korea released teaser for Avengers: Doomsday, a highly anticipated 2026 superhero movie."
+      },
+      {
+        "title": "JENNIE - Less than a Lover (New Song Release)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (JENNIE - Topic)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T04:04:07Z",
+        "source_url": "https://www.youtube.com/watch?v=1PVUTUFxq8g",
+        "external_url": "https://www.youtube.com/watch?v=1PVUTUFxq8g",
+        "context": "JENNIE - Topic. Provided to YouTube by kakao Entertainment\n\nLess than a Lover · JENNIE\n\nLess than a Lover\n\n℗ 2026 Columbia Records, a Division of Sony Music Entertainment, under exclusive license from OA ENTERTAINMENT, INC.,under license to Kakao Entertainment\n\nReleased on: 2026-07-24\n\nLyricist: JENNIE\nLyricist: Tyler Spry\nLyricist: Magnus August Høiberg\nLyricist: Bibi Bourelly\nLyricist: Deborah J",
+        "short_explanation": "JENNIE, a popular K-pop star, released her new song 'Less than a Lover' in 2026."
+      },
+      {
+        "title": "Analysis of Steve's Identity in Avengers: Doomsday Official Teaser (Part 2)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (무비띵크_Movie Think)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-24T03:09:11Z",
+        "source_url": "https://www.youtube.com/watch?v=kiKC6m6qJGo",
+        "external_url": "https://www.youtube.com/watch?v=kiKC6m6qJGo",
+        "context": "무비띵크_Movie Think. https://surfshark.com/moviethink\n💬 위 링크를 클릭하거나 결제 시 코드 MOVIETHINK 입력하고\nSurfshark 4개월 추가 사용 혜택을 받아가세요! 🧐\n\n#어벤져스둠스데이 #어벤져스 #둠스데이\n🎬 실시간으로 난리난 스티브의 정체.. ≪어벤져스: 둠스데이≫ 공식 티저 예고편 떡밥 분석 2탄 총정리\n\n00:00 인트로\n00:57 남자의 ‘진짜 정체’\n02:42 스티브 로저스\n06:03 캡틴 하이드라\n06:50 닥터 둠\n08:57 공식 포스터 분석\n10:38 둠스띵크 코밍쑨\n11:05 아웃트로\n\n* SurfShark VPN의 도움을 받아 제작된 영상입니다.\n\n✅ 비즈니스 문의\nhongzuna@naver.com",
+        "short_explanation": "Video analyzes Steve's identity clues in Avengers: Doomsday teaser, sparking fan theories."
+      },
+      {
+        "title": "Is Korean Work Life Really This Tough? (Personal Experience)",
+        "platform": "reddit",
+        "source_label": "r/hanguk",
+        "score_label": "r/hanguk hot #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T14:11:25+00:00",
+        "source_url": "https://www.reddit.com/r/hanguk/comments/1v5cj2x/한국_직장생활_원래_이렇게_힘든_거임/",
+        "external_url": "https://www.reddit.com/r/hanguk/comments/1v5cj2x/한국_직장생활_원래_이렇게_힘든_거임/",
+        "context": "학창 시절 대부분을 미국에서 보냈고, 미국에서 학부와 대학원까지 나온 뒤 현재 한국에서 60명 정도 규모 정보보안 스타트업에서 전문연구요원으로 근무 중임. 한국 회사는 지금 직장이 처음인데 조직문화 적응이 진짜 너무 어려움. 최근에는 우울감, 불안, 불면증까지 생겨서 치료받고 약 먹은 지도 3개월 정도 됐음. 회사는 스타트업이라고 하는데 의사결정 방식은 웬만한 대기업보다 더 탑다운함. 의견을 내도 제대로 듣지 않고 결국 윗사람이 원하는 방향대로 가야 함. 작은 일도 하나하나 보고하고 승인받아야 하고 마이크로매니징도 심함. 일을 열심히 하고 성과를 내는 것보다 윗사람한테 잘 보이는 게 더 중요해 보임. 일을 잘해도 인정받기 어렵고, 반대로 일을 못해도 그냥 일 못하는 사람으로 취급받음. 위에 있는 사람들이 본",
+        "short_explanation": "Personal story highlights tough, top-down work culture and mental health struggles in Korean startups."
+      },
+      {
+        "title": "Mecha Chameleon 100% Win Rate, Cartoonist Masters Hiding Technique | TesterHoon Interview",
+        "platform": "youtube",
+        "source_label": "YouTube trending (테스터훈 TesterHoon)",
+        "score_label": "trending #9",
+        "rank_score": 920,
+        "published_at": "2026-07-24T12:01:55Z",
+        "source_url": "https://www.youtube.com/watch?v=2DVYWdEG9_M",
+        "external_url": "https://www.youtube.com/watch?v=2DVYWdEG9_M",
+        "context": "테스터훈 TesterHoon. 🔥 방송 참여 & 비즈니스 문의\n▶tester_hoon@naver.com\n\n👍 채널에 가입하여 멤버십 혜택을 누려보세요.\nhttps://www.youtube.com/channel/UCUbOogiD-4PKDqaJfSOTC0g/join\n\n📷 테스터훈 인스타 바로가기\n▶https://www.instagram.com/testerhoon/\n\n---------------------------------------------------\nCOPYRIGHT ⓒ TESTER HOON ALL RIGHTS RESERVED.\n---------------------------------------------------\n\n#테스터훈 #장인초대석",
+        "short_explanation": "TesterHoon interviews cartoonist mastering Mecha Chameleon hiding technique with perfect win rate."
+      },
+      {
+        "title": "BOL4 - Please Summer! (New Song Release)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (BOL4 - Topic)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-22T09:03:28Z",
+        "source_url": "https://www.youtube.com/watch?v=_cSciVF1FpY",
+        "external_url": "https://www.youtube.com/watch?v=_cSciVF1FpY",
+        "context": "BOL4 - Topic. Provided to YouTube by kakao Entertainment\n\nPlease Summer! · BOL4\n\nPlease Summer!\n\n℗ 2026 Kanverse,under license to Kakao Entertainment\n\nReleased on: 2026-07-22\n\nLyricist: 최수정\nComposer: 최수정\nArranger: 적재\n\nAuto-generated by YouTube.",
+        "short_explanation": "BOL4 released 'Please Summer!', a new song capturing seasonal vibes in 2026."
+      },
+      {
+        "title": "BTS’s TRIP EP.1 - 방탄이가방에들어가신다",
+        "platform": "reddit",
+        "source_label": "r/hanguk",
+        "score_label": "r/hanguk hot #10",
+        "rank_score": 910,
+        "published_at": "2026-07-24T04:42:15+00:00",
+        "source_url": "https://www.reddit.com/r/hanguk/comments/1v51746/방탄이가방에들어가신다_l_btss_trip_ep1/",
+        "external_url": "https://www.reddit.com/r/hanguk/comments/1v51746/방탄이가방에들어가신다_l_btss_trip_ep1/",
+        "context": "submitted by /u/always_cafedo [link] [comments]",
+        "short_explanation": "Unclear local trend."
+      },
+      {
+        "title": "호랑이에요[OC]",
+        "platform": "reddit",
+        "source_label": "r/hanguk",
+        "score_label": "r/hanguk hot #11",
+        "rank_score": 900,
+        "published_at": "2026-07-23T13:00:28+00:00",
+        "source_url": "https://www.reddit.com/r/hanguk/comments/1v4d8zr/호랑이에요oc/",
+        "external_url": "https://www.reddit.com/r/hanguk/comments/1v4d8zr/호랑이에요oc/",
+        "context": "submitted by /u/Sirius_Fluffy [link] [comments]",
+        "short_explanation": "Unclear local trend."
+      }
+    ]
+  }
+}

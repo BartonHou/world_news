@@ -1,0 +1,860 @@
+{
+  "iso2": "RU",
+  "iso3": "RUS",
+  "country_name": "Russia",
+  "flag": "🇷🇺",
+  "region": "Europe / Asia",
+  "coordinates": {
+    "lat": 61.524,
+    "lon": 105.3188
+  },
+  "updated_at": "2026-07-24T22:01:43+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "drone attack",
+    "Wildberries",
+    "logistics disruption"
+  ],
+  "top_news": {
+    "headline": "Drone attack on Wildberries warehouses in Leningrad region injures three",
+    "summary": "Drone strike on major Russian e-commerce warehouses disrupts logistics and raises safety concerns.",
+    "why_it_matters": "Highlights civilian impact and logistical challenges amid ongoing conflict.",
+    "source_name": "BFM.ru",
+    "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mVXhyQWhMRjJ1cW1jMXRDaEFXb1Q2RTRabDA5MGU0ZTNuWm9RTV94bHJaWmhsY1ozdmVaVGNvUmRsSFVF0gFKQVVfeXFMTU4zSVZkOE5odm9YcnV4YUZ4UXZlTzhNRkhmQXhUeERiSUxGNG4yQWJId2Zwb2hFWF9qOVJIdF8za3g5VjJXX3pCQnc?oc=5",
+    "published_at": "Fri, 24 Jul 2026 06:54:15 GMT",
+    "confidence": 0.85
+  },
+  "meme": {
+    "title": "First Date Etiquette with a Russian Girl",
+    "platform": "reddit",
+    "explanation": "A Reddit post humorously explores Russian dating norms, like whether bringing flowers on a first date is expected.",
+    "why_people_are_sharing_it": "It reveals cultural dating quirks outsiders find relatable and amusing.",
+    "tone": "wholesome",
+    "local_context": "Russian dating customs often emphasize traditional gestures like flowers.",
+    "source_url": "https://www.reddit.com/r/AskARussian/comments/1v3mj48/first_date_with_russian_girl/",
+    "media_url": "https://www.reddit.com/r/AskARussian/comments/1v3mj48/first_date_with_russian_girl/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=ru&gl=RU&ceid=RU:ru",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Банк России снизил ключевую ставку до 14% - Интерфакс",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Из-за атаки дронов на склады Wildberries в Ленинградской области пострадали три человека - BFM.ru",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "ВС РФ ударили по украинскому полигону, где была выставка БПЛА. Есть погибшие - ФОНТАНКА.ру",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "«Двойной удар». Атака FP-5 Фламинго по заводу Авитек может сказаться на производстве ЗРК и крылатых ракет РФ — Defense Express - nv.ua",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "В Армении за неуплату налогов задержан директор завода \"Арарат\", принадлежащий Царукяну - Интерфакс",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Минюст объявил иноагентом еще одну российскую партию - EADaily",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Санкции ЕС коснулись трех НПЗ в России и крупного НПЗ в Белоруссии - Интерфакс",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Удары России по портам Украины: «незалежная» уже на ладан дышит» - URA.RU",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Слёзы, цветы и мягкие игрушки. Воронежцы создали мемориал на месте гибели малыша от атаки БПЛА - МОЁ! Online. Все новости Воронежа",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Набиуллина прокомментировала последствия шоков предложения из-за атак на склады - Интерфакс",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Больше 60 тысяч человек пришлось эвакуировать на юге Франции из-за сильных пожаров - ВФокусе Mail",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Канцелярия Нетаньяху сообщила о его скорой встрече с Трампом - Интерфакс",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "«Золотая корона» сократила переводы из РФ за рубеж - BFM.ru",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Хуситы: Мы закрыли Баб-эль-Мандебский пролив только для судов саудитов - EADaily",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Рынок США отреагировал на отчеты Intel и Dover изменением котировок - Финансы Mail",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Volkswagen включил заднюю: концерн уже не собирается закрывать заводы - Авто Mail",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Intel отчиталась о самых высоких темпах роста выручки с 2011 года — акции компании выросли на - VC.ru",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "«Коммерсант»: аудитория иностранных мессенджеров в России выросла на 26%. Телеграм остается среди лидеров, несмотря на блокировку - Meduza",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "GSMArena опубликовал обзор Samsung Galaxy Z Fold8 — смелый и удачный эксперимент - Клуб DNS",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "GeForce RTX 3050 помогла удвоить частоту кадров GeForce RTX 3090 с помощью Lossless Scaling - 3DNews",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "AskARussian",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=RU",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/ru.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 997,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "МЭЙБИ БЭЙБИ — ФАБЕРЖЕ (New Music Video Premiere 2026)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A trending Russian music video with cultural relevance and native internet fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "GONE.Fludd, CAKEBOY, IROH, Flipper Floyd — 'Индикатор' Music Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Trending Russian music collaboration with cultural significance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "First Date Etiquette with a Russian Girl",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "ai:Some cultural interest but still fairly generic and personal advice rather than a broad cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Book Suggestions for Learning Russian",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:The title is generic and vague, more like a simple query than a cultural trend or fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "How the 'Doctor Doom' Avengers Trailer Undervalued the Infinity Saga",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A cultural critique video trending on YouTube, relevant to pop culture fans."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Resident Became a Minecraft Cheater | Компот Minecraft",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A trending gaming video with a native Russian YouTube creator, showing internet culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "BTS 'NORMAL' Korean Version Stage Cam at Busan World Tour",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular global K-pop content trending in Russia, relevant to youth culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "EA SPORTS FC 27 Official Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Trending gaming content with global appeal, relevant to Russian gamers."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Playing the Original LONG HORSE Mod Part 2 (Russian Gameplay)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Trending gaming content in Russian, showing native internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Travel Advice for Visiting Yekaterinburg, Russia",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "penalize_hard_news_spillover",
+            "ai:Useful travel advice but generic; no strong cultural fixation or trend."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Stray Kids 'THIS & THAT' Album Track 'After You' Unveil",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Trending K-pop music content, culturally relevant for youth in Russia."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Blade Runner 2099 Official Teaser Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Trending sci-fi series teaser with global cultural relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "How to Read All FNAF Books Without Losing Your Mind - Part 2",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Trending fandom content related to Five Nights at Freddy's, popular in Russian internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "American Returning to Russia for PhD - Seeking Advice",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Personal story with some cultural context but not a broad trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The Ghost of Chovel? - Curious Russian Internet Reference",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:An opaque personal reference but with some cultural curiosity; borderline trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Songs like katyusha, korobeiniki or kalinka",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Не получается зарегистрироваться в портале ruID",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Finding a lost relative",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Novosibirsk",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "russian surnames needed !!",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Is the name \"Mishura\" an actual name?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "can someone please help me buy from avito",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ultimate FAQ on Traveling to Russia",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Informational but generic and not a cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "dating with russian",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Russian Views on Autism",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Was the “Cold War” also a concept in the USSR?",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Russian Average income versus overall lifestyle",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Education in russia",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Converting GBP to Rubles.",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Need a Russian Lawyer living in Russia",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "How to Find Jobs in Russia",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Social pressure for Divorce/breakup in a relationship",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Драпатый, Михаил Васильевич",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ЯRUS",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Одиссея (фильм, 2026)",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Сырский, Александр Станиславович",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Су-57",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ким, Татьяна Владимировна",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "цска – балтика турнирная таблица",
+          "score": 1,
+          "reasons": [
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Propulsion engineering",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Football in Russia today",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Заглавная страница",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Служебная:Поиск",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "макsим",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "юрий лопарев",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "светлана лобода",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "алсу",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "эмили блант",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "اکبر عبدی",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "семья",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "blast bounty 2026",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Megathread, part 14: Ammunition & Drones, Sanctions, and Stalemates",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Банк России снизил ключевую ставку до 14% - Интерфакс",
+        "source_name": "Интерфакс",
+        "source_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DZmtTMEtKWHJuMU5teXpNcnJWUDlCeGIzdW5NY1R1VlFDZTRQUk11Z2dRODlKMklUaUhQbUhjV3d3UFhLM2hqYmdYNEVVSHQ0R1HSAUtBVV95cUxOMGpWNTNvbkdMMXlEbTlEc1NoZnZnQkxPOXR1ZkpWcU5SNDNaSzJmTG16ZDJtRTVEV3RrTk5yXzVPNU56N2pJWDliVlk?oc=5",
+        "published_at": "Fri, 24 Jul 2026 10:33:00 GMT",
+        "snippet": "Банк России снизил ключевую ставку до 14% Интерфакс Банк России принял решение снизить ключевую ставку на 25 б.п., до 14,00% годовых Центральный Банк России Подарок оптимистам: почему ЦБ снизил ключевую ставку в условиях скачка цен Forbes.ru Восстановление производственных мощностей в РФ: прогноз ЦБ до 2026 года, влияние на ключевую ставку Финансы Mail Бизнес не ждет заметного эффекта от снижения ставки до 14% BFM.ru",
+        "short_explanation": "Russia's central bank cut interest rates to stimulate economy amid inflation concerns."
+      },
+      {
+        "title": "Из-за атаки дронов на склады Wildberries в Ленинградской области пострадали три человека - BFM.ru",
+        "source_name": "BFM.ru",
+        "source_url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE1mVXhyQWhMRjJ1cW1jMXRDaEFXb1Q2RTRabDA5MGU0ZTNuWm9RTV94bHJaWmhsY1ozdmVaVGNvUmRsSFVF0gFKQVVfeXFMTU4zSVZkOE5odm9YcnV4YUZ4UXZlTzhNRkhmQXhUeERiSUxGNG4yQWJId2Zwb2hFWF9qOVJIdF8za3g5VjJXX3pCQnc?oc=5",
+        "published_at": "Fri, 24 Jul 2026 06:54:15 GMT",
+        "snippet": "Из-за атаки дронов на склады Wildberries в Ленинградской области пострадали три человека BFM.ru «Сотрудников интересовало, засчитается ли сегодня рабочая смена» Meduza Основательница Wildberries сообщила об оперативной перестройке логистики Национальная Служба Новостей \"Круто, мама без работы осталась\". Жительницу Краснодара задержали из-за видео с последствиями удара дронов по складу Wildberries Настоящее Время Петербуржцы опубликовали фотографии столбов дыма на юге города Вечерний Санкт-Петербург",
+        "short_explanation": "Drone attack on Wildberries warehouse injured three, disrupting local logistics and safety."
+      },
+      {
+        "title": "ВС РФ ударили по украинскому полигону, где была выставка БПЛА. Есть погибшие - ФОНТАНКА.ру",
+        "source_name": "ФОНТАНКА.ру",
+        "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0ydDB5SWhuaFpEUDBzUFk2SHVia21CS040QVBwMkVmMUNlSk9LS1h5eHEwTG9kWVhVYVhhRjlycGZHOGh4ekduTzFaeGljdjh3YUl6Wlp6SQ?oc=5",
+        "published_at": "Fri, 24 Jul 2026 12:43:30 GMT",
+        "snippet": "ВС РФ ударили по украинскому полигону, где была выставка БПЛА. Есть погибшие ФОНТАНКА.ру Россия атаковала частный полигон под Киевом. Десять человек погибли, около 100 ранены Meduza В Киевской области 25 июля объявили Днем траура после российской атаки Українська правда Российский удар по «частному полигону» в Киевской области: 10 человек погибли, около 100 пострадали BBC ВС РФ ударили по полигону под Киевом, где собрались представители ВПК Украины BFM.ru",
+        "short_explanation": "Russian forces struck Ukrainian drone exhibition site, causing casualties and regional mourning."
+      },
+      {
+        "title": "«Двойной удар». Атака FP-5 Фламинго по заводу Авитек может сказаться на производстве ЗРК и крылатых ракет РФ — Defense Express - nv.ua",
+        "source_name": "nv.ua",
+        "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUFNfYTI5UXRKNzJuTml4d3hXaldtWmcyQ205M0gyRGRCdWZTSl95azdSTm10Um1ydUwySUhnSEJEWnlUWmk0MDF6QW1yeWNPREV4dGFiS3dGR0ZSejNFNnJhUW5CRGx0X19uSmdaOU45Q0x1bHJWMXFXRzlfY0JINjFpM29ONnp3TG5VLTZkWmhld0JxVzh6TTdRc19vRlFpVmpJYlk0cDJYOEFwUHNwcDB6d2s3T3liZE5PSGk4VzJOZ1hfQVlvRnVn0gG7AUFVX3lxTE9tb1Z5UzdrdlpLVFliMGhLUjMwSDlHa0QwU0t2bFNvVXZsOU5XcElHdTZOX3JncjNiU2JUN0h5OFdSWGM5el9ZS19lQmhxT3dBN2x2cGZrNXdwZXVyRnJNakt0T2FvbUdKOXFxbmZ3TnpfeGI5Vjh1bFNzNHVhbXBrQWhYRlJhaTVXQTgwZy1rMndUUVl4NTY5WWZXalFQQm5MSlpsSktNeDN6elhwQjNZaTBNX284TTk4NjA?oc=5",
+        "published_at": "Fri, 24 Jul 2026 10:08:00 GMT",
+        "snippet": "«Двойной удар». Атака FP-5 Фламинго по заводу Авитек может сказаться на производстве ЗРК и крылатых ракет РФ — Defense Express nv.ua Шесть человек погибли и более 20 ранены в результате удара ВСУ по Кирову Meduza Шесть человек погибли, 26 пострадали при ракетной атаке в Кирове Forbes.ru В Кирове нанесен ракетный удар по предприятию BFM.ru Губернатор Прикамья выразил соболезнования в связи с атакой на предприятие в Кирове Properm.ru",
+        "short_explanation": "Ukrainian missile hit Russian factory, impacting missile production and causing civilian deaths."
+      },
+      {
+        "title": "В Армении за неуплату налогов задержан директор завода \"Арарат\", принадлежащий Царукяну - Интерфакс",
+        "source_name": "Интерфакс",
+        "source_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4wOHc0RW1icG8wa3VxR2ZnUGE0MXE3UGgyaWZWdGVINHRrMHVmRExLaGRGM2VINXhwaDBHNWVNNzNZNzY5ZTZYbmYzN0JIQdIBS0FVX3lxTE1MSmpqald0SGV0U0tCc0FyV05tUmllbGVmWUpEMmRoMldpZUgyY3FUYnVkNG5hLUdGTlRRd0RoOTFicVVsWTZJS2hJTQ?oc=5",
+        "published_at": "Fri, 24 Jul 2026 17:08:00 GMT",
+        "snippet": "В Армении за неуплату налогов задержан директор завода \"Арарат\", принадлежащий Царукяну Интерфакс Задержан директор Ереванского коньячно-винно-водочного комбината, принадлежащего Гагику Царукяну newsarmenia.am Арман Давтян задержан для представления в суд по обвинению в неуплате налогов в особо крупном размере: СК NEWS.am В Армении задержали директора принадлежащего Царукяну коньячного завода Общественная служба новостей Задержан директор Ереванского коньячно-винно-водочного комбината «Арарат» Armenpress",
+        "short_explanation": "Armenian factory director detained for large tax evasion, affecting a major local business."
+      }
+    ],
+    "trends": [
+      {
+        "title": "МЭЙБИ БЭЙБИ — ФАБЕРЖЕ (New Music Video Premiere 2026)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (МЭЙБИ БЭЙБИ)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T12:06:58Z",
+        "source_url": "https://www.youtube.com/watch?v=LiD_Lv2bCuI",
+        "external_url": "https://www.youtube.com/watch?v=LiD_Lv2bCuI",
+        "context": "МЭЙБИ БЭЙБИ. Трек на всех площадках - https://band.link/faberze\n\nСоц. сети:\nhttps://t.me/asskorbinka\nhttps://instagram.com/frend_baby/\nhttps://vk.com/maybebaby\nhttps://www.tiktok.com/@frendtok\nhttps://l.likee.video/p/wp1qUz\n\nWriter & Director @mipunga\nProduction  @falga.studio \n\nDoP @alexander_belousoff\nProducer @skyshiiiii\nLine producer @katedvorak\n1AD @chisto_kipenie\nProducer assistant @ymnaiade",
+        "short_explanation": "New Russian music video by МЭЙБИ БЭЙБИ, popular among youth for fresh sounds."
+      },
+      {
+        "title": "GONE.Fludd, CAKEBOY, IROH, Flipper Floyd — 'Индикатор' Music Video",
+        "platform": "youtube",
+        "source_label": "YouTube trending (GONE.Fludd)",
+        "score_label": "trending #10",
+        "rank_score": 910,
+        "published_at": "2026-07-24T10:00:21Z",
+        "source_url": "https://www.youtube.com/watch?v=jxvqwkYA8sc",
+        "external_url": "https://www.youtube.com/watch?v=jxvqwkYA8sc",
+        "context": "GONE.Fludd. GLAM GO FEST! // 1 АВГУСТА: https://glamgofest.ru\n\nСТАДИОННЫЕ ШОУ:\n\nМосква: https://t.me/gonefluddarenabot\nПитер: https://t.me/gonefluddspbbot\n\nhttps://glamgogame.ru\n\nDirected by: kapsulik_is_real\n\nGONE.Fludd в соцсетях:\nTikTok video: https://www.tiktok.com/@bigboygonefludd\nInstagram: https://instagram.com/gonefludd  \nTelegram: https://t.me/gonefludd132\nTwitter: https://twitter.com/gon",
+        "short_explanation": "Music video by popular Russian rappers GONE.Fludd and others, trending in hip-hop culture."
+      },
+      {
+        "title": "First Date Etiquette with a Russian Girl",
+        "platform": "reddit",
+        "source_label": "r/AskARussian",
+        "score_label": "r/AskARussian hot #17",
+        "rank_score": 840,
+        "published_at": "2026-07-22T17:15:49+00:00",
+        "source_url": "https://www.reddit.com/r/AskARussian/comments/1v3mj48/first_date_with_russian_girl/",
+        "external_url": "https://www.reddit.com/r/AskARussian/comments/1v3mj48/first_date_with_russian_girl/",
+        "context": "If i have a date with a russian girl does she expect me to have flowers for her the first date first thing seeing her ? submitted by /u/Disastrous_Ebb2788 [link] [comments]",
+        "short_explanation": "Advice on dating Russian girls, reflecting local social customs and expectations."
+      },
+      {
+        "title": "Book Suggestions for Learning Russian",
+        "platform": "reddit",
+        "source_label": "r/AskARussian",
+        "score_label": "r/AskARussian hot #19",
+        "rank_score": 820,
+        "published_at": "2026-07-22T15:51:37+00:00",
+        "source_url": "https://www.reddit.com/r/AskARussian/comments/1v3k33m/book_suggestions/",
+        "external_url": "https://www.reddit.com/r/AskARussian/comments/1v3k33m/book_suggestions/",
+        "context": "Hey y’all I’m an American that moved out of my parents house a few years ago, and I’m noticing that my Russian isn’t what it used to be, since I don’t speak Russian daily with my parents anymore. So I want to start reading books in Russian, but I need help on where to start. I’d say my Russian vocabulary/reading skills are the level of maybe a 5th grader? But I am 25 so I need something intellectu",
+        "short_explanation": "Requests for beginner-friendly Russian books to improve language skills among learners."
+      },
+      {
+        "title": "How the 'Doctor Doom' Avengers Trailer Undervalued the Infinity Saga",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Cut The Crap)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-24T16:58:03Z",
+        "source_url": "https://www.youtube.com/watch?v=9bDcw1Ko_zI",
+        "external_url": "https://www.youtube.com/watch?v=9bDcw1Ko_zI",
+        "context": "Cut The Crap. Залетай к Home Digital School на курс 3D-художник! По моей ссылке будет скидка 60% и планшет в подарок — https://tap.hds.ru/p/115f0a1/\n\nТехнология Шумоподавление от МТС очищает речь от фоновых шумов в звонке в режиме реального времени. Подключайте к своему тарифу на 30 дней бесплатно: https://l.mts.ru/shumopodavlenie_kotokrabs\n\nМой личный телеграм - https://t.me/kotokrabs\n\nНовости ки",
+        "short_explanation": "Unclear local trend."
+      },
+      {
+        "title": "Resident Became a Minecraft Cheater | Компот Minecraft",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Компот)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T12:00:07Z",
+        "source_url": "https://www.youtube.com/watch?v=uA0wdl5jD3E",
+        "external_url": "https://www.youtube.com/watch?v=uA0wdl5jD3E",
+        "context": "Компот. ►Мои аккаунты:\n»Мой сайт- https://compot.fun\n»Второй канал- https://www.youtube.com/@PirozoksNichem\n»Основной канал- https://www.youtube.com/@Compot\n»Я ВКонтакте- https://vk.com/compot\n»Я в Инстаграм- https://www.instagram.com/tasty_compot\n»Я в ТикТок- https://www.tiktok.com/@roman_tasty_compot\n»Дискорд канала- https://discord.gg/Compot\n»Стать спонсором- https://www.youtube.com/@Compot/joi",
+        "short_explanation": "Popular Russian YouTuber Компот caught cheating in Minecraft, sparking online debate."
+      },
+      {
+        "title": "BTS 'NORMAL' Korean Version Stage Cam at Busan World Tour",
+        "platform": "youtube",
+        "source_label": "YouTube trending (BANGTANTV)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T15:00:19Z",
+        "source_url": "https://www.youtube.com/watch?v=8jS_NPS4FhU",
+        "external_url": "https://www.youtube.com/watch?v=8jS_NPS4FhU",
+        "context": "BANGTANTV. BTS (방탄소년단) 'NORMAL' OUT NOW\n🎧 https://bts.lnk.to/NORMAL\n\nConnect with BTS:\nhttps://ibighit.com/bts\nhttps://x.com/bts_bighit\nhttps://x.com/BTS_twt\nhttp://www.facebook.com/bangtan.official\nhttps://www.youtube.com/user/BANGTANTV\nhttp://instagram.com/BTS.bighitofficial\nhttps://www.tiktok.com/@bts_official_bighit\nhttps://go.weverse.io/qt3S/ti7qve0j\nhttps://www.weibo.com/BTSbighit\n\n#BTS #방탄소",
+        "short_explanation": "BTS Korean song performance, showing global K-pop influence in Russia."
+      },
+      {
+        "title": "Travel Advice for Visiting Yekaterinburg, Russia",
+        "platform": "reddit",
+        "source_label": "r/AskARussian",
+        "score_label": "r/AskARussian hot #7",
+        "rank_score": 940,
+        "published_at": "2026-07-22T21:50:59+00:00",
+        "source_url": "https://www.reddit.com/r/AskARussian/comments/1v3udez/travel_advice_for_first_time_visit_at/",
+        "external_url": "https://www.reddit.com/r/AskARussian/comments/1v3udez/travel_advice_for_first_time_visit_at/",
+        "context": "Hi, I am traveling for the first time to Russia. As a participant of the IFY 2026 program. I'm a young guy from Pakistan. I would take any advice. Like any must know thing, rules, suggestions for must visit places, basically just want to have a good time. I have been trying to visit Russia for a while now. And it's finally becoming reality. I'm super excited but I've not seen many videos about Yek",
+        "short_explanation": "Travel tips for Yekaterinburg, helping foreigners explore Russian culture safely."
+      }
+    ]
+  }
+}

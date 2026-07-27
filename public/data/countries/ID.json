@@ -1,0 +1,868 @@
+{
+  "iso2": "ID",
+  "iso3": "IDN",
+  "country_name": "Indonesia",
+  "flag": "🇮🇩",
+  "region": "Southeast Asia",
+  "coordinates": {
+    "lat": -2.5,
+    "lon": 118.0
+  },
+  "updated_at": "2026-07-24T22:04:35+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "internet quota",
+    "consumer rights",
+    "digital regulation"
+  ],
+  "top_news": {
+    "headline": "Indonesia's Constitutional Court Rules Unused Internet Quota Must Not Expire",
+    "summary": "Court mandates mobile operators allow full use of leftover internet data quotas without expiration.",
+    "why_it_matters": "Highlights digital rights and consumer protection debates in Indonesia's growing internet society.",
+    "source_name": "detikNews",
+    "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREtUSENhWnI2OFJCVzdzb25YQmxuc3NfLWVFWGFMb2tnZVFIWWVrVVliSFNQU25qZC1kSVJnV2dGY0R3d0U3bFh2TkNRUmprWmFiN1hxc2pzNDhfQ2NCb0g2cE9GOVFsZ0IyLUk3Y2RKZzVuM0wyNWNsdkZoVU9NNmYxRGhoQVJVTldhLVFvUDVXRHBZM3VFdDBNLUxMcEJ6TDV6R0wwMGRac01OUjQ4SzJ3aWNGbTjSAbwBQVVfeXFMT3pybmIwcnBQYkgzQXpRaXE1Uk1IUnVkeFVuWE9pT2Jwa2F5NVZpaFh3OVNpYmc5MG5SSDJYbkdFVEVlX0lVTTRzb1p6dHNKMndPdFptVHFYRjhMNVdtR3hjMFluVHVHa0tqTkVJQ3NzSUIySFBhcmhNSlhJdm5ya0NpX3l6LU5ZTWV5NGtpM3haUkw0bzdVT0F2a3ZfT05IekJrbXhoeW9jcTE5THVDLUVpY3BoWnZnSWE1S3g?oc=5",
+    "published_at": "Fri, 24 Jul 2026 03:50:08 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Controversy Around 'Boti Hunter' Bogor's Most Vocal Member Allegedly LGBT",
+    "platform": "reddit",
+    "explanation": "A vocal community critic's alleged LGBT identity sparked debate on consistency and acceptance in conservative Bogor.",
+    "why_people_are_sharing_it": "It reveals local tensions on identity and hypocrisy in outspoken online figures.",
+    "tone": "chaotic",
+    "local_context": "Bogor's conservative community clashes with LGBT issues and outspoken social media personalities.",
+    "source_url": "https://www.reddit.com/r/indonesia/comments/1v5c3mb/plot_twist_sosok_paling_keras_di_boti_hunter/",
+    "media_url": "https://www.reddit.com/r/indonesia/comments/1v5c3mb/plot_twist_sosok_paling_keras_di_boti_hunter/",
+    "confidence": 0.85
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=id&gl=ID&ceid=ID:id",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Legislator Sambut Putusan MK: Jangan Ada akal-akalan Baru Sisa Kuota Internet - detikNews",
+          "score": 3,
+          "reasons": [
+            "boost_culture_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Harga Bitcoin Meroket, Tembus Rp 1,17 Miliar! - detikFinance",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Tanpa Rompi Tahanan, Mantan Jampidsus Febrie Adriansyah Resmi Ditahan di Rutan KPK - Kompas.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Satpam dan Sopir Alphard yang Cekcok di Bundaran HI Sepakat Damai - detikNews",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "74 Tahun Hilang, Pesawat Pan Am Ditemukan di Samudra Atlantik - detikNews",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "25 Twibbon Hari Anak Nasional 2026 Gratis, Lengkap dengan Link Download dan Cara Memakainya - Suara.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Amnesty Indonesia Kritik Sayembara Begal Demul di Jabar - CNN Indonesia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Prabowo Sapa Bahlil di Harlah PKB: Katanya MBG Mas Bahlil Ganteng, Bisa Aja Lo - detikNews",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "DKI Tak Mampu Renovasi 22 Sekolah Imbas Pemotongan DBH dan Efisiensi - CNN Indonesia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ini Surat Perintah Pengawasan oleh AR atau Pegawai DJP yang Bertugas - DDTCNews",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bujuk Bertahan Jadi Kuasa Hukumnya, Febrie Adrianysah Sebut Hotman Pemecah Ombak - news.okezone.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dua Kapal Tanker Saudi Diserang, Trump Ultimatum Iran dan Houthi - detikNews",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Siaga 1 Perang AS-Iran Jadi PD 3, Rusia Bom CIA-Inggris Waspada 24 Jam - CNBC Indonesia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump Berlakukan Tarif Impor Baru hingga 12,5 Persen, RI Kena Berapa? - CNN Indonesia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Spanyol Tiba-Tiba Umumkan Darurat Nasional, Ada Apa? - CNBC Indonesia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "🛢️ Brent Tembus US$100/Barrel seiring Kekhawatiran Gangguan Supply di Laut Merah - Stockbit Snips",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Breaking News! IHSG Turun 2% Balik ke Level 6.100an, Ada Apa? - CNBC Indonesia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Kreator YouTube Sumbang Rp 8,4 Triliun ke PDB Indonesia - detikInet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Fitur AI baru di seri HP lipat Samsung ini permudah buat konten video - ANTARA News Gorontalo",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Samsung Galaxy Watch Ultra 2 di Indonesia: Dari Fitur AI, Layar 5.000 Nits, hingga Baterai Besar - Gosulsel.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "indonesia",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=ID",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/id.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 995,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Indonesia Achieves 98% Universal Health Coverage in 10 Years",
+          "score": 9,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "ai:This is a significant national achievement with a clear story, making it culturally relevant and interesting."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "24 July 2026 - Daily Chat Thread",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:The title '24 July 2026 - Daily Chat Thread' is too generic and opaque, just a dated chat thread without cultural significance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "JENNIE - Less than a Lover (Official Music Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular K-pop artist Jennie's new official video is a strong internet culture signal globally."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "aespa 'KISS N TELL' Music Video Release",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular K-pop group aespa's new release is a strong global internet culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Terikat Janji Trailer Featuring Arya Saloka and Asha Assuncao",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Indonesian TV drama trailer with notable actors, relevant in local pop culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Controversy Around 'Boti Hunter' Bogor's Most Vocal Member Allegedly LGBT",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The story reveals a social controversy with cultural implications in Indonesia."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "MSC Group Stage Day 3 Live - MPL Indonesia",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Esports event with local and regional interest, a native internet fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Prabowo Appoints Leaders for New Universitas Republik Indonesia Amid DPR Confusion",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political development with controversy, relevant in Indonesian current affairs and culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Windah Basudara Shares Nighttime Photographer Experience",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Indonesian YouTuber content with cultural relevance in local internet community."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "eńau feat. Ari Lesmana - Sesi Potret (Lyrics Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music release with local artists, relevant in Indonesian music culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Discussion: Who Should Not Be Indonesia's National Hero?",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Engages with national history and identity debates, culturally significant."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "GTA 6 Skip Trailer 3 and EA FC 2027 Pricing - Tara Arts Game Indonesia",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content with hype around popular titles, relevant to Indonesian gaming culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Campfire Corner - July 2026",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Campfire Corner is a recurring community thread but lacks a strong cultural fixation outside the subreddit."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tiga Orang di Mobil Alphard yang Intimidasi Satpam Bundaran HI Anggota Polda Jabar",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News about intimidation incident is local news, lacks broader cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Help. Gw dapet 2 anak PKL tapi begonya gk ketolong, what i should do?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Personal complaint about interns is too opaque and not a cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Eks Direktur Utama Kebun Binatang Surabaya resmi jadi tersangka korupsi, kerugian capai Rp. 10,2 Miliar",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Banyak yang blangsak ga punya sopan santun",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "AKU DILAHIRKAN UNTUK SIAPA - Nurma Paejah Adella - OM ADELLA",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Running Club Entourage yang didirikan oleh orang Belanda di Bali kini sedang dikecam karena rasisme",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Plot twist, ternyata orang yg homophobic dan teriak anti boti malah demen femboy",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Diduga diskriminatif ke warga lokal di Bali, Imigrasi tindak dua WNA penyelenggara Entourage Run",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Komunitas Lari Entourage Yang Didirikan oleh Orang Belanda memberikan klarifikasi.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "This is just depressing",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Yang punya background hukum mau nanya, kenapa hukuman buat kasus pembunuhan di Indonesia cuma sebentar beda dengan negara lain kayak AS?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hampir setengah anggaran Perpustakaan Nasional dipangkas – 'Kami mati segan, hidup pun tak mau'",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "[Ask] Butuh sponsor untuk pengobatan kanker langka stadium 4",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "MK Tegaskan Sisa Kuota Internet Tidak Boleh Hangus: Konsumen Sudah Membayar",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Who would win?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Polda Jabar Izinkan Warga Lawan Begal : “Asal Jangan Sampai Meninggal”",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Prabowo Sindir Jurnalis, LSM, dan Akademisi sebagai Londo Ireng",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Komodos yg suka makanan yg anggota keluarga ngga suka/ngga bisa makan, toleransinya gimana?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bendera Indonesia nyelip",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sudaryono",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "XNXX",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Saya anak Indonesia 🇮🇩🇮🇩",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Title 'Saya anak Indonesia' is too generic and bare, no cultural or trend significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trailer Episode 10 - Bercinta Dengan Maut (The Other Sister)",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_recurring_hype"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Piala Presiden 2026",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The Odyssey (film 2026)",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Istimewa:Pencarian",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tokyo Ghoul",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "suhu",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "tw",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "dundalk",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "o",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lamine Yamal",
+          "score": -1,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Halaman Utama",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "[ID] 2026 PMPL ID Fall League stage | Week 2 Day 1",
+          "score": -2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports",
+            "penalize_recurring_hype"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "cuaca hari ini",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "waktu subuh",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "nicolas otamendi",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "yan diomande",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "legia warszawa",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "suhu malang",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Legislator Sambut Putusan MK: Jangan Ada akal-akalan Baru Sisa Kuota Internet - detikNews",
+        "source_name": "detikNews",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNREtUSENhWnI2OFJCVzdzb25YQmxuc3NfLWVFWGFMb2tnZVFIWWVrVVliSFNQU25qZC1kSVJnV2dGY0R3d0U3bFh2TkNRUmprWmFiN1hxc2pzNDhfQ2NCb0g2cE9GOVFsZ0IyLUk3Y2RKZzVuM0wyNWNsdkZoVU9NNmYxRGhoQVJVTldhLVFvUDVXRHBZM3VFdDBNLUxMcEJ6TDV6R0wwMGRac01OUjQ4SzJ3aWNGbTjSAbwBQVVfeXFMT3pybmIwcnBQYkgzQXpRaXE1Uk1IUnVkeFVuWE9pT2Jwa2F5NVZpaFh3OVNpYmc5MG5SSDJYbkdFVEVlX0lVTTRzb1p6dHNKMndPdFptVHFYRjhMNVdtR3hjMFluVHVHa0tqTkVJQ3NzSUIySFBhcmhNSlhJdm5ya0NpX3l6LU5ZTWV5NGtpM3haUkw0bzdVT0F2a3ZfT05IekJrbXhoeW9jcTE5THVDLUVpY3BoWnZnSWE1S3g?oc=5",
+        "published_at": "Fri, 24 Jul 2026 03:50:08 GMT",
+        "snippet": "Legislator Sambut Putusan MK: Jangan Ada akal-akalan Baru Sisa Kuota Internet detikNews Kemkomdigi Siap Kaji Regulasi Sisa Kuota Internet Kompas.id MK: Sisa Kuota Internet Tak Boleh Hangus, Harus Bisa Dipakai hingga Habis Kompas.com Putusan MK, Legislator PDIP Minta Komdigi-Operator Susun Aturan Kuota Internet detikNews Operator seluler harus taat, sisa kuota tak boleh hangus ANTARA News Makassar",
+        "short_explanation": "Court ruled unused internet data must not expire; locals want fair telecom rules."
+      },
+      {
+        "title": "Harga Bitcoin Meroket, Tembus Rp 1,17 Miliar! - detikFinance",
+        "source_name": "detikFinance",
+        "source_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRzFFR05JTjdjTWlYZGx4X0phZzV0UUsxaHVWOERFa2NCZ3lWX3djNWVLbkt6V0w1eFVCbkxDWnVmMWMwZ2I0eXdDWlZNeUV4TVlNb0FyTU5zQVYxSHlKcG50WWU4NDgzcUQ1UUV0ekFGUmhOcVdvZ1djdEZpcHVPX2NNSzdTLUlkSTI0M1htVVPSAZYBQVVfeXFMUGFQYjB2RUJrdDM1REg4LVpFWGJTd01qamF3anJUNWRtQzNtc0RGeFBKLTJKRG9DZEFSYndpNEQ2Zkw5cUg0Um9Dc09rT2RtbGJxY2tuOEstcFh6S29JMjBJWVZFdHlMeTFRUmJQR2s1WnJOWnpyMzM4am02QmZUNEUtandCc1A4Y2d1RmhpTkxCS0JXQkFn?oc=5",
+        "published_at": "Fri, 24 Jul 2026 11:59:23 GMT",
+        "snippet": "Harga Bitcoin Meroket, Tembus Rp 1,17 Miliar! detikFinance Bitcoin turun ke $65.300 akibat ketegangan Iran dan kekhawatiran tarif AS Investing.com Indonesia Bitcoin Tembus US$ 65.500, Didorong Regulasi AS dan Arus Dana Investor Institusi kontan.co.id Harga Bitcoin Hari Ini 24 Juli 2026 Turun Efek Lonjakan Harga Minyak Kompas.com Bitcoin dan kripto utama stabil di akhir pekan; analis prediksi penurunan terakhir sebelum pasar rebound. Pluang",
+        "short_explanation": "Bitcoin price surged to 1.17 billion IDR, sparking local investment interest."
+      },
+      {
+        "title": "Tanpa Rompi Tahanan, Mantan Jampidsus Febrie Adriansyah Resmi Ditahan di Rutan KPK - Kompas.com",
+        "source_name": "Kompas.com",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaGl4MThET21TNWppNkRadTg4dVlHYms4a0pNNXduM1NzQnVDUW5kaGNYUFRnNm44UUQ2cGJtX3BVOTVhM2JjU3kzQUFuamRDMXczMmdlZlpMQ25XQlNnWkNIbFQ4Q3I4MVZSQl9uWDFWT0ZMYm9XQWJiQ0Q5ZnVka0wzeC1rSjNpNEZhOXFFeWRTUkdxVDhOLWkwMUZuMzFCMVRhWFZCNk1HTWRLbzBEdHBQaG51SkVFOUtiT0ZGcTF3QQ?oc=5",
+        "published_at": "Fri, 24 Jul 2026 16:30:00 GMT",
+        "snippet": "Tanpa Rompi Tahanan, Mantan Jampidsus Febrie Adriansyah Resmi Ditahan di Rutan KPK Kompas.com KPK: Penitipan Penahanan Febrie Adriansyah di Rutan KPK Sesuai SOP detikNews Eks Jampidsus Febrie Adriansyah Resmi Ditahan Kejagung CNN Indonesia Sebelum Ditahan, Febrie Ungkap Sempat Diskusi dengan Jaksa Pemeriksa, Sebut Alat Bukti Mentah - Halaman 2 Wartakotalive.com Febrie Adriansyah Tak Diborgol dan Tanpa Rompi Tahanan Tempo.co",
+        "short_explanation": "Former top prosecutor Febrie Adriansyah detained without prisoner vest, following legal procedures."
+      },
+      {
+        "title": "Satpam dan Sopir Alphard yang Cekcok di Bundaran HI Sepakat Damai - detikNews",
+        "source_name": "detikNews",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQTBlZ1F6b0M2cW1qd29zdkpqREoxaWxSTHRBdEtSZld1U0VYb2pKTDNmUDAzd0JSeTlkc04wMUxmQWF6aHdCQnhnM0FNS2g1OG4xSDhwRG85QlhWZGgtRU41MWhOcW9vVFRHTU1tcGZJeGcySEUzNEhPN191bVgxR1VUUFBWeWF5My1NQkUtXzBvUEc3dGVfdVF4MVJFMWtsZm51NGRZczXSAa4BQVVfeXFMUEpmQkRyN283ZHpLVnB6OEppQWdDaGlPbXc0VzlFYnF5SUhLVXZaT0Z2UFR3c2h3QUtjWFBXOE1HemhLLVhXZzN1Z205bDZKb3NoZnNoNnJDZkptUjRJUjh0V041Q2dUQTFDZ18xbUdVSlJDRDQycG85RmN1VTc4SzlpYlVHeUxvdHZqYkgzWld6R0FuMzkxYU1YUlRZLU5NMFQwM2ZRWlNRM1QtVUpB?oc=5",
+        "published_at": "Fri, 24 Jul 2026 14:25:59 GMT",
+        "snippet": "Satpam dan Sopir Alphard yang Cekcok di Bundaran HI Sepakat Damai detikNews Tiga Orang di Mobil Alphard yang Intimidasi Satpam Bundaran HI Anggota Polda Jabar Kompas.com Polisi: Mobil Alphard yang Digunakan saat Cekcok dengan Sekuriti Milik Pribadi - kumparan.com kumparan Penumpang Alphard Penerobos Pelican Crossing HI Anggota Polda Jabar CNN Indonesia Pramono Ungkap Alphard Penerobos Lampu Merah di Bundaran HI Pakai Pelat Palsu daerah.sindonews.com",
+        "short_explanation": "Security guard and Alphard driver dispute at Bundaran HI resolved peacefully."
+      },
+      {
+        "title": "74 Tahun Hilang, Pesawat Pan Am Ditemukan di Samudra Atlantik - detikNews",
+        "source_name": "detikNews",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOGFPcE5NSzBTaFk2aUJIWng4Tm1TbGZpM3p0WFB0ZW55b256RFR1WGJ4R1FtU3pHaUdERmNmYnQyTHZhZlh0dVEzdWhWUGRydi11Q3AyYU1YVkt5N3J6NU1heW5Qbm8yLW1tbUhkaW5oSmp4bFUtSGI3X25Id2VxM3N6S2Y5UkVrNVowaVF2M2pVRU5QalJVemFfRmV1X3RkTG1Dc3p1ZWN6NVnSAbABQVVfeXFMUG5JQU5Pc25ITGNpZGRlZVBzWXB3X1lpU2F5SW14bk5vMEwzRG5zNk01NmNlRXdHRnlFV1hVeHp1NHdrR05Yb2trZ1RBUDlzajljNjg3X1ZmdW9qel9XcGpaeEdadWxXSEFGT2VuM0dqVFRVa3pNeFlwaUJHU3kwbVlPN2Z5YzZDWTdhTFBudDRmSmxKdWRWYnRIak1mUmQxZXpXR0IwUjd4eW5kTHd6VVQ?oc=5",
+        "published_at": "Fri, 24 Jul 2026 07:50:15 GMT",
+        "snippet": "74 Tahun Hilang, Pesawat Pan Am Ditemukan di Samudra Atlantik detikNews Pesawat yang Hilang Selama 74 Tahun Ditemukan di Laut Puerto Rico CNN Indonesia 74 Tahun Hilang, Misteri Kecelakaan Pesawat Pan Am Terungkap Kompas.id 74 Tahun Hilang, Bangkai Pesawat Pan Am Ditemukan di Dasar Laut Puerto Rico - kumparan.com kumparan Puing-puing pesawat yang hilang lebih dari 70 tahun lalu di dasar Samudra Atlantik telah ditemukan secara tak terduga. Vietnam.vn",
+        "short_explanation": "Pan Am plane missing 74 years found in Atlantic, solving historic mystery."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Indonesia Achieves 98% Universal Health Coverage in 10 Years",
+        "platform": "reddit",
+        "source_label": "r/indonesia",
+        "score_label": "r/indonesia hot #18",
+        "rank_score": 830,
+        "published_at": "2026-07-24T20:16:22+00:00",
+        "source_url": "https://www.reddit.com/r/indonesia/comments/1v5mp13/indonesia_has_achieved_universal_health_coverage/",
+        "external_url": "https://www.reddit.com/r/indonesia/comments/1v5mp13/indonesia_has_achieved_universal_health_coverage/",
+        "context": "submitted by /u/Protagonist99 [link] [comments]",
+        "short_explanation": "Indonesia reached 98% health coverage in 10 years, improving healthcare access nationwide."
+      },
+      {
+        "title": "24 July 2026 - Daily Chat Thread",
+        "platform": "reddit",
+        "source_label": "r/indonesia",
+        "score_label": "r/indonesia hot #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T00:15:19+00:00",
+        "source_url": "https://www.reddit.com/r/indonesia/comments/1v4vhe0/24_july_2026_daily_chat_thread/",
+        "external_url": "https://www.reddit.com/r/indonesia/comments/1v4vhe0/24_july_2026_daily_chat_thread/",
+        "context": "Yo, Vulcan is here, your annual Chat Thread series creator since 2016 and a massive weeb So, welcome to the Daily Chat Thread of r/Indonesia . Talk anything with fellow Komodos here! 24 hours a day/7 days a week of chat, inspiration, humour, and joy! Have something to talk about or share? This is the right place! Have fun chatting inside this thread, otsukare! Questions about this post? Ping u/Vul",
+        "short_explanation": "Daily Chat Thread on r/Indonesia for casual, 24/7 community conversations and socializing."
+      },
+      {
+        "title": "JENNIE - Less than a Lover (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (JennieRubyJaneVEVO)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T04:00:05Z",
+        "source_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "external_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "context": "JennieRubyJaneVEVO. Official music video for “Less than a Lover” by JENNIE out now: https://jennie.lnk.to/LessthanaLover\n\nFollow JENNIE -\nInstagram: https://www.instagram.com/jennierubyjane\nTikTok: https://www.tiktok.com/@jennierubyjane\nTwitter: https://twitter.com/jennierubyjane\nhttps://jenn.ie\n\nFollow JENNIE HQ -\nInstagram: https://www.instagram.com/jennie_hq\nTikTok: https://www.tiktok.com/@jenn",
+        "short_explanation": "Jennie's official music video 'Less than a Lover' popular among Indonesian K-pop fans."
+      },
+      {
+        "title": "aespa 'KISS N TELL' Music Video Release",
+        "platform": "youtube",
+        "source_label": "YouTube trending (SMTOWN)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-23T14:59:06Z",
+        "source_url": "https://www.youtube.com/watch?v=inxzQt78lOk",
+        "external_url": "https://www.youtube.com/watch?v=inxzQt78lOk",
+        "context": "SMTOWN. aespa's 1st Japan mini album \"KISS N TELL\" is out!\nListen and download on your favorite platform: https://aespa.lnk.to/KISSNTELLDAY\n\n[Tracklist] \n01 KISS N TELL\n02 Orbit Pop\n03 Fangirl\n04 ATTITUDE\n05 Done with Rules\n06 In Halo\n\naespa Official\nhttps://www.youtube.com/c/aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nht",
+        "short_explanation": "aespa released 'KISS N TELL' music video, exciting Indonesian fans of K-pop group."
+      },
+      {
+        "title": "Terikat Janji Trailer Featuring Arya Saloka and Asha Assuncao",
+        "platform": "youtube",
+        "source_label": "YouTube trending (MNC Pictures)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-24T03:33:11Z",
+        "source_url": "https://www.youtube.com/watch?v=hRpdk3Tq0fc",
+        "external_url": "https://www.youtube.com/watch?v=hRpdk3Tq0fc",
+        "context": "MNC Pictures. Tonton video menarik lainnya dari sinetron TERIKAT JANJI:\n\nhttps://youtu.be/xQiS4gCzP9o\nhttps://youtu.be/O54V4Ua8m9U\nhttps://youtu.be/osOF9Pd2spA\n\n#TerikatJanji #AryaSaloka #AshaAssuncao #FendyChow #YorikoAngeline #rcti #sinetronrcti #layardramarcti \n\nStreaming sekarang di rctiplus.com/tv/rcti",
+        "short_explanation": "Terikat Janji trailer features popular actors Arya Saloka and Asha Assuncao in new drama."
+      },
+      {
+        "title": "Controversy Around 'Boti Hunter' Bogor's Most Vocal Member Allegedly LGBT",
+        "platform": "reddit",
+        "source_label": "r/indonesia",
+        "score_label": "r/indonesia hot #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T13:55:06+00:00",
+        "source_url": "https://www.reddit.com/r/indonesia/comments/1v5c3mb/plot_twist_sosok_paling_keras_di_boti_hunter/",
+        "external_url": "https://www.reddit.com/r/indonesia/comments/1v5c3mb/plot_twist_sosok_paling_keras_di_boti_hunter/",
+        "context": "source : https://www.instagram.com/p/DbIRJ9Tj494/ Sosok yang selama ini dikenal paling keras bersuara di komunitas \"Boti Hunter\" Bogor kini justru menjadi sorotan publik. Berbagai unggahan berupa tangkapan layar, percakapan, hingga video ramai beredar di media sosial dan memicu perdebatan. Warganet mempertanyakan konsistensi sosok yang selama ini dikenal vokal mengkritik pihak lain, setelah muncul",
+        "short_explanation": "Controversy over Bogor's vocal 'Boti Hunter' member allegedly being LGBT sparks debate."
+      },
+      {
+        "title": "MSC Group Stage Day 3 Live - MPL Indonesia",
+        "platform": "youtube",
+        "source_label": "YouTube trending (MPL Indonesia)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T17:09:45Z",
+        "source_url": "https://www.youtube.com/watch?v=JLW4vdevWnw",
+        "external_url": "https://www.youtube.com/watch?v=JLW4vdevWnw",
+        "context": "MPL Indonesia. 🏆 Hari ketiga dari Group Stage sejauh ini!\n \n⚔️ Beberapa laga CRUCIAL memutuskan nasib tim\n \n💭 Siapa performer yang menarik perhatian Anda di MSC sejauh ini?\n \n🔗 Untuk informasi lebih lanjut, kunjungi media sosial kami:\n📌Instagram: www.instagram.com/mlbbesports_official \n📌Facebook: https://www.facebook.com/MLBBEsportsOfficial/\n📌 YouTube: www.youtube.com/@MLBBeSports \n📌 TikTok: www.t",
+        "short_explanation": "MSC Group Stage Day 3 in MPL Indonesia features crucial esports matches for local fans."
+      },
+      {
+        "title": "Prabowo Appoints Leaders for New Universitas Republik Indonesia Amid DPR Confusion",
+        "platform": "reddit",
+        "source_label": "r/indonesia",
+        "score_label": "r/indonesia hot #5",
+        "rank_score": 960,
+        "published_at": "2026-07-24T13:31:42+00:00",
+        "source_url": "https://www.reddit.com/r/indonesia/comments/1v5bij2/dpr_belum_tau_tentang_universitas_republik/",
+        "external_url": "https://www.reddit.com/r/indonesia/comments/1v5bij2/dpr_belum_tau_tentang_universitas_republik/",
+        "context": "source : https://www.instagram.com/p/DbLJgGGkj7G/ Pembentukan Universitas Republik Indonesia (URI) menjadi sorotan setelah Presiden Prabowo Subianto melantik Donny Ermawan Taufanto sebagai Gubernur URI dan Yos Sunitiyoso sebagai Wakil Gubernur URI di Istana Negara pada 22 Juli 2026. Namun, Wakil Ketua Komisi X DPR RI, Lalu Hadrian Irfani, menyatakan pihaknya belum pernah membahas pembentukan URI d",
+        "short_explanation": "Prabowo appoints leaders for new Universitas Republik Indonesia amid parliamentary confusion."
+      }
+    ]
+  }
+}

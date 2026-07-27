@@ -1,0 +1,873 @@
+{
+  "iso2": "MX",
+  "iso3": "MEX",
+  "country_name": "Mexico",
+  "flag": "🇲🇽",
+  "region": "North America",
+  "coordinates": {
+    "lat": 23.6345,
+    "lon": -102.5528
+  },
+  "updated_at": "2026-07-24T21:58:43+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "US-Mexico trade",
+    "tariffs",
+    "food safety"
+  ],
+  "top_news": {
+    "headline": "Trump amenaza con imponer un \"gran arancel\" a México por lechuga; ligan verdura al brote de \"diarrea explosiva\" en EU - El Universal",
+    "summary": "Trump threatens large tariff on Mexican lettuce linked to a US outbreak of severe diarrhea illness.",
+    "why_it_matters": "Highlights US-Mexico trade tensions and public health concerns affecting daily life.",
+    "source_name": "El Universal",
+    "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2N3OTNDNE9XR0xKRWtlNlh4S2h4M3p1cS1JcXIyMVJWMjdQd1htV1F5NVBOaG5NcktsaU5QUnJULUFZemg3Q0txbGJLdGNiRXE0QUxDcC1rZWlqVHpVOFR0VFlJZVpubkhneXR6cG1SUmdJVWNhbG9pQVBjRTl4aWdPd29DWXVPWndVQXBXeFVTcm0tNnVnbXdXbFVaX2I3OGJLcFBkRHNpNVNQbEY5X2diNDBvNy1kdGVGaFRyWUI2NUQ2X2NCdE9Sc2tWdm9WQ082aTZrejNERWdiNXRGWGN4dUjSAfgBQVVfeXFMTUxab0JZS0NxakJUczZqWVdfSzZhVDd3RlFIbFh2Wnp2dXZmUjFpcXJYblhHT0xlQjBCb2ozUGFXSG9GTmtsN1BVdExnRGEwOVNrS2oxMXlJRXFZVDU4aDd4U3FNbUY2aUN6TTQyY19Dd0MtdzNjWGh2NXJFbnZSc1F5bUdZY0VLQmM0WV9oX29GVFhSc05fYWF4a0hTd09adzF3dm9GZml4U0J5MFV2VHF3MnZSdldhWUNSTHZRNXF5UG5lSGl3TUZWNjF4VWkzZmtKc3hmak05QjRWWFg4enFKQkdlVG1jTENMaVAzd3BuR3NMa21lZGo?oc=5",
+    "published_at": "Fri, 24 Jul 2026 20:19:00 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Tang Shrinkflation: Now 1L Instead of 2L at Same Price",
+    "platform": "reddit",
+    "explanation": "Tang juice powder now sells half the volume for the same price, a classic 'shrinkflation' frustrating consumers.",
+    "why_people_are_sharing_it": "People vent about sneaky price hikes disguised as smaller portions.",
+    "tone": "angry",
+    "local_context": "Shrinkflation hits popular Mexican beverage Tang, sparking consumer backlash.",
+    "source_url": "https://www.reddit.com/r/mexico/comments/1v513l1/el_tang_ahora_rinde_1l_en_vez_de_2l_y_cuesta_lo/",
+    "media_url": "https://www.reddit.com/r/mexico/comments/1v513l1/el_tang_ahora_rinde_1l_en_vez_de_2l_y_cuesta_lo/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=es-419&gl=MX&ceid=MX:es-419",
+      "items_seen": 33,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Sheinbaum responde al último golpe comercial de Trump: “Buscamos que ya no haya sorpresas de nuevos aranceles” - EL PAÍS",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Trump amenaza con imponer un \"gran arancel\" a México por lechuga; ligan verdura al brote de \"diarrea explosiva\" en EU - El Universal",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Valentín Lavín, edil de Temoac recién asesinado, involucrado en el crimen de Samir Flores y Sandra Camacho: Harfuch - La Jornada",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "El gobierno de Trump impone nuevos aranceles a 60 países, entre ellos una quincena de América Latina - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Apagón eléctrico de la CFE: suspenderá el servicio de luz durante 12 horas; fecha, horario y zonas afectadas - El Informador",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "El hermano de Salomón Jara al que Alejandro Leyva criticaba antes de ser asesinado - Eme Equis",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘Rechinando’ de limpio para los narcos: ¿Quiénes son los lavadores de dinero profesionales del CJNG? - El Financiero",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Prisión preventiva a Danna Yanina \"N\" por presunto feminicidio de Dafne en academia militarizada de Tamaulipas - La Jornada",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cancelan prisión domiciliaria de Murillo en Caso Ayotzinapa - Reforma",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La Fiscalía vincula a proceso al exgobernador Ernesto Ruffo por huachicol fiscal y delincuencia organizada - EL PAÍS",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"He perdido a 26 familiares y no lloraré hasta que encuentre los restos de todos\": los venezolanos que aún buscan entre los escombros un mes después de los terremotos - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump advierte: sería “muy malo” si China vende armas a Irán - dw.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Encuentran sin vida a famoso conductor de TV; así hallaron el cadáver sus compañeros - El Heraldo de México",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La primera ministra de Japón dice que solo duerme de ‘0 a 3 horas’ - The New York Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La Unión Europea multó a Google con 1000 millones de dólares por infringir una normativa antimonopolio - La Nación",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Usan IA china para combatir ciberataque autónomo de OpenAI a empresa de NY - La Jornada",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Precio del petróleo sube con fuerza y supera los 100 dólares - dw.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "De Toks a Petco: Las marcas que opera Grupo Gigante, el posible comprador de La Casa de Toño - El Financiero",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"Seguimos valorando nuestra cultura física\": SEGA asegura que no van a abandonar el formato físico - Nintenderos",
+          "score": 0,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Rumor: Este nuevo mando Pro Controller de The Legend of Zelda para Nintendo Switch 2 estaría en camino - Nintenderos",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "mexico",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=MX",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/es.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 1000,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "EA SPORTS FC 27 Official Reveal Trailer",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global gaming franchise reveal; strong cultural signal in gaming community."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Unresolved Feminicide Case of Liliana Rivera Garza",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Important social issue with a compelling story; strong cultural and social relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avatar: Seven Havens Official Teaser (Paramount+ SDCC 2026)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Highly anticipated global entertainment franchise continuation; strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avatar: Los Siete Refugios Official Teaser (Paramount+ Mexico)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Localized title for Avatar series teaser; strong cultural and entertainment relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Eden Muñoz & Alfredo Olivas - Recuerdos en Común (Official Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music video by popular Mexican artists; clear cultural relevance as a trending song."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Grupo Firme - Vuelve (Official Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Mexican music group with a trending official video; clear cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Minecraft Roleplay: Pretending to Be Baby Godzilla in One Chunk!",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular gaming content with playful roleplay; relevant internet culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "JENNIE - Less than a Lover (Official Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular K-pop artist's official video; strong global cultural relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tang Shrinkflation: Now 1L Instead of 2L at Same Price",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Consumer trend topic with cultural relevance about product downsizing practices."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Opinions on False Accusations?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic discussion topic; relevant but not a distinct cultural trend or fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "OBSCURITY, the Last Threat... (YouTube Trending)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opaque title; possibly a niche or gaming content but lacks broader cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Niños.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "SOBREVIVIMOS a la PEOR TORMENTA de NIEVE de BROOKHAVEN con el TEAM en Roblox",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mensaje",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Natanael Cano x Gabito Ballesteros x Adriel Favela - Pa La Maña [Official Video]",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El Gobierno de EEUU impone nuevos aranceles a 60 economías (incluyendo México) por supuesta negligencia ante el trabajo forzado.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dueña de Pato Merlin molesta por la falta de rentabilidad después del mundial",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Beauty influencer dies following mysterious complications after getting cosmetic surgery",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "¡Más heroínas sin capa como ella! Una joven regresaba de trabajar, cuando a uno de sus vecinos le robaron su celular. Al darse cuenta de eso, ella corrió a cerrar la reja para evitar que el ladrón huyera.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Iba por tortillas y encontré oro",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lean esto que sale en mi libro de historia de prepa",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Voy a renunciar a mi trabajo despues de 11 años",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "To my Mexican Anime Fiends",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Supuestamente las armas de los narcos provienen de USA, pero ya se esta siendo muy común el decomiso de FX-05",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "En Guerrero denuncian que policía estatal amenazó a padre de familia en escuela",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "RUMBO A CENTROAMERICANOS 2026 EL SALVADOR GIMNASIA ARTISTICA",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "/r/Mexico ya es puro contenido de Argentina...",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Estados Unidos pone rostro al clan del R3, el nuevo jefe absoluto del Cartel Jalisco",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"¿Existe bien esta palabra? Pregunté por ella, pero no parecían conocer ningún otro significado.\"",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Title is a vague question about a word's existence; lacks clear cultural or internet trend significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Topo Chico Pays 2.6 Billion Pesos to Avoid Legal Process",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline about a company legal settlement; generic news spillover, less cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Por qué será?",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Vague question about attitudes towards Argentinians; generic and not a clear trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Yo ya a partir de mañana",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Title 'Yo ya a partir de mañana' is too opaque and vague without clear cultural or internet context."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"Exámen de admisión\" por Rictus para ElFinanciero",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Barely a title referencing an exam by 'Rictus' for a news outlet; too generic and opaque."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Humorny marketing",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Conciencia de clase",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Odisea",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Rodri Hernández",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Marc Cucurella",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Karim Adeyemi",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ferran Torres",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lamine Yamal",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "liga de expansión mx",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "quincena",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Copa Mundial de Fútbol de 2026",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_routine_sports",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "temperatura mexicali",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "chey tae-won",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "clima merida",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "tribunal penal internacional",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "central cordoba vs",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "racing club",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "nemesio oseguera cervantes",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La Odisea (película de 2026)",
+          "score": -4,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "penalize_hard_news_spillover",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "clima nogales",
+          "score": -4,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "penalize_thin_context"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Sheinbaum responde al último golpe comercial de Trump: “Buscamos que ya no haya sorpresas de nuevos aranceles” - EL PAÍS",
+        "source_name": "EL PAÍS",
+        "source_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPd2lXU2lJTnRIU2MxeE95NkY3anFtNEVBYWVNQ2tqYzBzdHVmbktnYnYtWG00ZFdkaVY4UVl5Umd5T2p4YlJDLUdHWTZJQno5clh1cTYxTkRPNjFuWVNCRklxVG5KaVVKMDlqSFp1ZHR2bjN2MkhyQkRWOWNGSzFSc2xsekl0NzcyTjVqN08tOVdYN1F3WXNmUU9TbHNNYzMxaTdXQU1FNERPdGJnRUZZTTUwRnVzNjhTb2hVdU1MVlZBRHJEUS12YTM5bWZOb19QMEg5MjBNX0lzU09EZXVOYTVxc256cXF4SjduN3dCaw?oc=5",
+        "published_at": "Fri, 24 Jul 2026 15:17:15 GMT",
+        "snippet": "Sheinbaum responde al último golpe comercial de Trump: “Buscamos que ya no haya sorpresas de nuevos aranceles” EL PAÍS Pugna EU por elevar reglas de origen, dice CSP Reforma México busca que su acuerdo comercial con EEUU y Canadá se extienda después de 2036 Yahoo Finanzas Aranceles de EU no afectan a México; se quedaron en el 10% que ya tenían productos fuera del T- MEC : Sheinbaum La Jornada Revisión del T-MEC: En tercera ronda de negociaciones, EU y México abordan mecanismo laboral y contenido estadounidenses, afirma CCE El Universal",
+        "short_explanation": "Sheinbaum addresses US tariff threats to protect Mexico's trade stability under USMCA."
+      },
+      {
+        "title": "Trump amenaza con imponer un \"gran arancel\" a México por lechuga; ligan verdura al brote de \"diarrea explosiva\" en EU - El Universal",
+        "source_name": "El Universal",
+        "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNV2N3OTNDNE9XR0xKRWtlNlh4S2h4M3p1cS1JcXIyMVJWMjdQd1htV1F5NVBOaG5NcktsaU5QUnJULUFZemg3Q0txbGJLdGNiRXE0QUxDcC1rZWlqVHpVOFR0VFlJZVpubkhneXR6cG1SUmdJVWNhbG9pQVBjRTl4aWdPd29DWXVPWndVQXBXeFVTcm0tNnVnbXdXbFVaX2I3OGJLcFBkRHNpNVNQbEY5X2diNDBvNy1kdGVGaFRyWUI2NUQ2X2NCdE9Sc2tWdm9WQ082aTZrejNERWdiNXRGWGN4dUjSAfgBQVVfeXFMTUxab0JZS0NxakJUczZqWVdfSzZhVDd3RlFIbFh2Wnp2dXZmUjFpcXJYblhHT0xlQjBCb2ozUGFXSG9GTmtsN1BVdExnRGEwOVNrS2oxMXlJRXFZVDU4aDd4U3FNbUY2aUN6TTQyY19Dd0MtdzNjWGh2NXJFbnZSc1F5bUdZY0VLQmM0WV9oX29GVFhSc05fYWF4a0hTd09adzF3dm9GZml4U0J5MFV2VHF3MnZSdldhWUNSTHZRNXF5UG5lSGl3TUZWNjF4VWkzZmtKc3hmak05QjRWWFg4enFKQkdlVG1jTENMaVAzd3BuR3NMa21lZGo?oc=5",
+        "published_at": "Fri, 24 Jul 2026 20:19:00 GMT",
+        "snippet": "Trump amenaza con imponer un \"gran arancel\" a México por lechuga; ligan verdura al brote de \"diarrea explosiva\" en EU El Universal Trump bromea con poner aranceles a México por la lechuga y el caso de la diarrea y a Canadá por los incendios EL PAÍS Trump amenaza con “gran arancel” a México por lechugas relacionadas con brote de \"diarrea explosiva\" en EU La Jornada No encuentran Cyclospora en Guanajuato: esto sabemos de la investigación en México sobre del origen del brote en EE.UU. CNN en Español Trump analiza arancel a México por brote de ‘diarrea explosiva’ por supuesta contaminación de lechugas El Financiero",
+        "short_explanation": "Trump threatens tariffs on Mexican lettuce linked to US illness outbreak, affecting exports."
+      },
+      {
+        "title": "Valentín Lavín, edil de Temoac recién asesinado, involucrado en el crimen de Samir Flores y Sandra Camacho: Harfuch - La Jornada",
+        "source_name": "La Jornada",
+        "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQS1LWldaQTVGeDQ4RWVmZ1FOZDRoVllpNkpSVjVhODhqSW1FNVA5eTllLXRVcmIydFN6TWI5QTdDOGI5bHlUbU1QYVdtS256Z0pnWUJGWGVwOTJwYkFYRmo3d1FVR2h0cDFLN2pKeHk5UHFOb2V3NWFsU3NsSndZaExVc1hDaU9ROUZrY2xIS3dOdF9mVXNCY3hpWEkyejM4Q1RQUUVEYTJjblg0SDNUdmpvZ1Backt2MVIxUjE4V2ZMdHpreWhCLVhXTUttVHItcjh1M251VHl1dTg5WHlJdkFTT1BQLWtwcFdWTUtQQ0lHc0t1eE1KRDNybw?oc=5",
+        "published_at": "Fri, 24 Jul 2026 15:17:00 GMT",
+        "snippet": "Valentín Lavín, edil de Temoac recién asesinado, involucrado en el crimen de Samir Flores y Sandra Camacho: Harfuch La Jornada Despiden a Alcalde de Temoac entre fuerte operativo Reforma Harfuch: alcalde asesinado de Temoac era investigado por presuntos vínculos con el crimen organizado Aristegui Noticias ¿Por qué el alcalde de Temoac era investigado? Harfuch revela vínculos con Los Aparicio y Los Huazulco El Financiero Asesinato del alcalde de Temoac estaría relacionado a Los Huazulco López-Dóriga Digital",
+        "short_explanation": "Temoac mayor killed amid investigations linking him to organized crime and past murders."
+      },
+      {
+        "title": "El gobierno de Trump impone nuevos aranceles a 60 países, entre ellos una quincena de América Latina - BBC",
+        "source_name": "BBC",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZaDZTblpBRkNvdnJfNHktODJUZWdFbDdsOEJOcVZva3lKSXdTQkl5d3h0YTFpRlM2cVA3ZWZwdFlnTWpRUEtJY2NhVUNPbFh2LUNRazl3dGVhcXPSAWBBVV95cUxQNUpLQVdPRDRaTGdzbnBIWUVWekdVbVN1WlZ4aUxyMlp4VnVIYTlEalNpY2VhMFU4S0pXcUJhMXNRMzBJS20wUFN3UzFrRjdiZnc3TWtzLTNoWkdsSXBqWjI?oc=5",
+        "published_at": "Thu, 23 Jul 2026 23:45:19 GMT",
+        "snippet": "El gobierno de Trump impone nuevos aranceles a 60 países, entre ellos una quincena de América Latina BBC La nueva escalada arancelaria de Trump eclipsa la revisión bilateral del TMEC EL PAÍS ¿Por qué el arancel de 10% de EU a México no es nuevo y le da ‘ventaja’ sobre otros países? El Financiero Nuevos aranceles de EU, posible violación al T-,MEC, pero tendrán impacto limitado en México: BBVA La Jornada Impugnan pymes de EU nuevos aranceles de Trump Reforma",
+        "short_explanation": "Trump imposes new tariffs on 60 countries, including Latin America, impacting trade relations."
+      },
+      {
+        "title": "Apagón eléctrico de la CFE: suspenderá el servicio de luz durante 12 horas; fecha, horario y zonas afectadas - El Informador",
+        "source_name": "El Informador",
+        "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTmIycG9RaXJYWDhacmdBQ1VJa3FoWUZvYUpVeWRaTHBOLUhLOGJsT0tTNlRDaWFsaTViZXlick9ZLWV3SnFpZWZNNGZZWVUxdDVKWEtpMzFmU1cxSkxnMU02aXpmNkZySWlwM1dEenFsSlM3alhXR201c28ySC1lTVRhR3BQUTZUaWJURXZvZ1BMcEhLWHJPbGxYMS1sUW5UcHlqOWoybU51ZTc5U0hlM1N6WnZqRVFIU3RFc1dHcG8wbld5amhfWmNrcGYyamJLWDBneDhaZzJFdXR6a3d3OFVYdS03c19XOU9uaHhn0gHzAUFVX3lxTE5LZmFndXJFRjFYNENlYlZ0NDBsNktxbTg1LWl4WE9mOFZacWFKblo0MElhYXBWOVZpbXV0LUphM19JS1hLY3Y1ODdUTUJlRTFwV1BEWVhzVVB6UmozSHQ1anROZWthT19DdkR6SDdQY1UwcUpnOTZpQlFuNmVrck1oQmhqa1dQTUF1dE9ydi1xODVCRXZZYkFCbEFJMzhiMUdDMUwzVWFMMzBwZngwaEdvMC1YbzRzdXhBcktEa2hiNnQyTlNES1FDXzV3Tnl1Yl9NX3RMSE0yMHBwa0xpNzNVUlRJV21IMEw0dGJqelJvLWxwMA?oc=5",
+        "published_at": "Fri, 24 Jul 2026 14:03:56 GMT",
+        "snippet": "Apagón eléctrico de la CFE: suspenderá el servicio de luz durante 12 horas; fecha, horario y zonas afectadas El Informador CFE anuncia apagón de 12 horas en Puebla por mantenimiento de infraestructura Proceso ¿Apagón Eléctrico? CFE Anuncia Corte de Luz en Estas Zonas de México Desde Hoy 23 Julio 2026 N+ CFE anuncia apagón de 12 horas este sábado 25 de julio: el municipio de Puebla que se quedará sin luz Infobae Apagón masivo CFE sábado 25 de julio 2026: colonia, municipios y horarios confirmados con todos los cortes de luz Ambito",
+        "short_explanation": "CFE plans 12-hour power outage in Puebla for infrastructure maintenance, affecting many residents."
+      }
+    ],
+    "trends": [
+      {
+        "title": "EA SPORTS FC 27 Official Reveal Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (EA SPORTS FC)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-23T15:57:07Z",
+        "source_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "external_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "context": "EA SPORTS FC. Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600\n\nStep into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay: https://x.ea.com/89601\n\nLearn more about FC 27 Gameplay, Career, FUT, and",
+        "short_explanation": "EA SPORTS FC 27 is a new football video game eagerly awaited by Mexican gamers and fans."
+      },
+      {
+        "title": "Unresolved Feminicide Case of Liliana Rivera Garza",
+        "platform": "reddit",
+        "source_label": "r/mexico",
+        "score_label": "r/mexico hot #5",
+        "rank_score": 960,
+        "published_at": "2026-07-24T17:28:25+00:00",
+        "source_url": "https://www.reddit.com/r/mexico/comments/1v5i060/conocían_el_caso_de_liliana_rivera_garza_su/",
+        "external_url": "https://www.reddit.com/r/mexico/comments/1v5i060/conocían_el_caso_de_liliana_rivera_garza_su/",
+        "context": "Liliana Rivera Garza era una estudiante de la UAM Azcapotzalco, estudiaba Arquitectura y tenía 20 años al momento que fue asesinada el 16 de julio de 1990 por su exnovio, Ángel González Ramos, después de meses de acoso y violencia. Aunque existía una orden de aprehensión en su contra, logró escapar y, más de 35 años después, el caso sigue impune. Su hermana, la escritora Cristina Rivera Garza, rec",
+        "short_explanation": "Liliana Rivera Garza's unresolved feminicide highlights ongoing violence and impunity in Mexico."
+      },
+      {
+        "title": "Avatar: Seven Havens Official Teaser (Paramount+ SDCC 2026)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Avatar Legends)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-23T21:01:45Z",
+        "source_url": "https://www.youtube.com/watch?v=RvksPficuOU",
+        "external_url": "https://www.youtube.com/watch?v=RvksPficuOU",
+        "context": "Avatar Legends. Avatar: Seven Havens premieres October 9 only on Paramount+.\n\nAvatar: Seven Havens is an all-new series from creators Michael Dante DiMartino and Bryan Konietzko. Set in a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. In this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both huma",
+        "short_explanation": "Avatar: Seven Havens is a new animated series premiering soon, popular among Mexican fans."
+      },
+      {
+        "title": "Avatar: Los Siete Refugios Official Teaser (Paramount+ Mexico)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Paramount+ México)",
+        "score_label": "trending #8",
+        "rank_score": 930,
+        "published_at": "2026-07-23T21:34:58Z",
+        "source_url": "https://www.youtube.com/watch?v=NvJOD5hJWMs",
+        "external_url": "https://www.youtube.com/watch?v=NvJOD5hJWMs",
+        "context": "Paramount+ México. 🔥 El pasado dejó su legado. Ahora es momento de escribir una nueva historia.\nLa nueva serie original Avatar: Los Siete Refugios llega el 9 de octubre, solo por Paramount Plus.\n\n#Avatar #ParamountPlus #AvatarLosSieteRefugios\n\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n\nObtén más información sobre \"Paramount+\": https://www.paramountplus.com\nSuscríbete al canal de Yo",
+        "short_explanation": "Avatar: Los Siete Refugios is the Spanish title for the new Avatar series on Paramount+ Mexico."
+      },
+      {
+        "title": "Eden Muñoz & Alfredo Olivas - Recuerdos en Común (Official Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (edenmunozVEVO)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T00:00:16Z",
+        "source_url": "https://www.youtube.com/watch?v=B1lP7H3hmZg",
+        "external_url": "https://www.youtube.com/watch?v=B1lP7H3hmZg",
+        "context": "edenmunozVEVO. Eden Muñoz, Alfredo Olivas -  Recuerdos en Común | Video Oficial\n\nEscúchala y guárdala en plataformas\n\nSigue a Eden Muñoz en\n› TikTok: https://www.tiktok.com/@edenmunoz1\n› Instagram: https://www.instagram.com/edenmunoz/\n› Facebook: https://www.facebook.com/EdenMunozOficial\n\nSigue a Alfredo Olivas en\n› TikTok: https://www.tiktok.com/@alfredoolivasofficial_\n› Instagram: https://www.in",
+        "short_explanation": "Eden Muñoz & Alfredo Olivas released a new popular regional Mexican music video."
+      },
+      {
+        "title": "Grupo Firme - Vuelve (Official Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Grupo Firme)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T00:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=i2Lvt93BPpM",
+        "external_url": "https://www.youtube.com/watch?v=i2Lvt93BPpM",
+        "context": "Grupo Firme. Grupo Firme\nSuscríbete a Youtube: www.youtube.com/channel/UCFlC8U0Uif2hF0FIgsSIIYQ\n© 2026 Music VIP Entertainment, LLC, \n\nProductor Ejecutivo: Isael Gutierrez\nProductor Ejecutivo: Eduin Caz\nAutor: Héctor Guerrero\nAutor: Edybray Domínguez\nAutor: Eduin Caz\nDirector de Video Musical: Mane Borja\n\nInstagram https://www.instagram.com/grupofirme/\nFacebook https://www.facebook.com/GrupoFirmeO",
+        "short_explanation": "Grupo Firme's new song 'Vuelve' is trending in Mexico's popular regional music scene."
+      },
+      {
+        "title": "Tang Shrinkflation: Now 1L Instead of 2L at Same Price",
+        "platform": "reddit",
+        "source_label": "r/mexico",
+        "score_label": "r/mexico hot #8",
+        "rank_score": 930,
+        "published_at": "2026-07-24T04:37:11+00:00",
+        "source_url": "https://www.reddit.com/r/mexico/comments/1v513l1/el_tang_ahora_rinde_1l_en_vez_de_2l_y_cuesta_lo/",
+        "external_url": "https://www.reddit.com/r/mexico/comments/1v513l1/el_tang_ahora_rinde_1l_en_vez_de_2l_y_cuesta_lo/",
+        "context": "A esta mala practica le llaman “shrinkflation”. Cuánto a que en unos meses le suben unos pesos, lo vuelven a hacer de 2 litros, y le ponen “ahora rinde más!” para colmo además le quitaron el 1% de pulpa de fruta, que no era casi nada, pero era algo. edit: para los listos: Sí, también tomo agua. No, solo lo compro de vez en cuando. No, ninguno de los ingredientes es dañino con certeza, aunque cualq",
+        "short_explanation": "Tang shrinkflation means less juice volume at same price, frustrating Mexican consumers."
+      },
+      {
+        "title": "Opinions on False Accusations?",
+        "platform": "reddit",
+        "source_label": "r/mexico",
+        "score_label": "r/mexico hot #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T20:29:39+00:00",
+        "source_url": "https://www.reddit.com/r/mexico/comments/1v5n2hp/que_opinión_te_merecen_las_denuncias_falsas/",
+        "external_url": "https://www.reddit.com/r/mexico/comments/1v5n2hp/que_opinión_te_merecen_las_denuncias_falsas/",
+        "context": "Me encontré esta imagen en internet, no sabemos si la información es real, pero lo que sí sabemos, es que una acusación de abuso es bastante grave: De ser cierta, las medidas cautelares son necesarias para proteger a la víctima. De ser falsa, las medidas cautelares pueden ser desmedidas e incluso hasta arruinar la vida de una persona, incluso inocente pierden los ahorros de una vida, trabajo, se e",
+        "short_explanation": "Debate on false abuse accusations reflects Mexican concerns about justice and victim protection."
+      }
+    ]
+  }
+}

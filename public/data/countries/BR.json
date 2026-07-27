@@ -1,0 +1,931 @@
+{
+  "iso2": "BR",
+  "iso3": "BRA",
+  "country_name": "Brazil",
+  "flag": "🇧🇷",
+  "region": "South America",
+  "coordinates": {
+    "lat": -14.235,
+    "lon": -51.9253
+  },
+  "updated_at": "2026-07-24T21:57:51+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "Flávio Bolsonaro",
+    "political corruption",
+    "phantom company"
+  ],
+  "top_news": {
+    "headline": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado - Estadão",
+    "summary": "Flávio Bolsonaro linked to a company issuing R$1 million in invoices that doesn't exist at the declared address.",
+    "why_it_matters": "Reveals ongoing political corruption debates shaping public discourse in Brazil.",
+    "source_name": "Estadão",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRVk5RU9zc1lIS1lzT1JnU0pPNDBxRUVhVEpIcTRkSmwxeVFtbGxWS2hXX196d3pUaWE4bVZiRUltcDl2QlFiQkNDbl84QWZoUU9rUk9kWFk5Ty10dE81NFU5R3ZaN1lIYVUxR3VWMFRGaHMwMzROdC10cTFIRHVWODA3U0Qzams5bUxQMTdfQnZRVVdUV2JYd0lVTFc1cVpDakJDR3lfNVJGMERYUGFnY3FBY2gtSTZlZUsyQnE0cjBKdGNrNFFDTGswZEFaQdIB0wFBVV95cUxNclk5RmtRemUzZndvMVBCQl96WEFpRU5BYXVnY2JqaHgxWVdYTjdvclRaanp1UmNZWHFWQ0lOdTh2eWd6U09mTDhuWnJxWlhhREJGYjVycjN2VEtGU1o5WTFoU1BuM1FwWXV4VlVSbGFqbWpJTGM5d2swRTdxa1hPSEpkUTR4eEdZa3Jra1NhLVFxRGRHc2xPSE5jTjhEY3N6N1FpY3drVHl4Z29yUURtdkRZQlVCNXVlQmduMF9fODFfR0dNcEY1TjNXWmlVVzhGUXhz?oc=5",
+    "published_at": "Fri, 24 Jul 2026 20:53:14 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Dado Dolabella Sues Globo Over Alleged Past Abuse Claims",
+    "platform": "reddit",
+    "explanation": "Brazilian actor Dado Dolabella suing Globo for revisiting old abuse allegations highlights ongoing celebrity-media conflicts.",
+    "why_people_are_sharing_it": "It sparks debate on media ethics and celebrity accountability in Brazil.",
+    "tone": "political",
+    "local_context": "Brazilian celebrity culture and media scrutiny.",
+    "source_url": "https://www.reddit.com/r/brasil/comments/1v5fgis/dado_dolabella_processa_globo_por_relembrar/",
+    "media_url": "https://www.reddit.com/r/brasil/comments/1v5fgis/dado_dolabella_processa_globo_por_relembrar/",
+    "confidence": 0.7
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Musk e Bezos têm um plano — e ele pode ser catastrófico para o planeta, segundo cientistas - Olhar Digital",
+          "score": 4,
+          "reasons": [
+            "boost_culture_signal",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Iraque nega relato de que o Irã recusou acordo de cessar-fogo com os EUA - CNN Brasil",
+          "score": 3,
+          "reasons": [
+            "boost_daily_life_signal",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "iPhone 18 Pro Max: Apple pressiona Samsung e LG por desconto em OLED para segurar preços - TudoCelular.com",
+          "score": 3,
+          "reasons": [
+            "boost_daily_life_signal",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Flávio pede desculpas a Michelle e diz que \"ninguém é perfeito\" - Poder360",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado - Estadão",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Viatura da Seop é atacada com explosivo em Copacabana; prefeito cita retaliação ao Tolerância Zero - O GLOBO",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Período de chuva volumosa trará novas inundações e repique de cheias - MetSul Meteorologia",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Incêndio florestal nos arredores de Madri está 'fora de capacidade de extinção', dizem bombeiros; centro da Nasa na Espanha é esvaziado - G1",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Acordo nuclear entre EUA e Arábia Saudita: por que o urânio enriquecido é tão polêmico - BBC",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Chuva de quatro anos cai em quatro dias no deserto mais seco do mundo - UOL Notícias",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Galípolo indica juros altos por mais tempo e parcimônia na reação a dados - CNN Brasil",
+          "score": 0,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_daily_life_signal",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Anvisa manda tirar do mercado shampoos, perfumes e óleo; consumidores devem interromper o uso - ND Mais",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Governo estima que 47,3% das exportações brasileiras são atingidas por tarifas dos EUA - G1",
+          "score": -2,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lula quer mais investimentos em Defesa: 'Não deixar ninguém meter o nariz nesse país' - G1",
+          "score": -2,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Veto ao foie gras no Brasil reacende tensão comercial com a França após acordo Mercosul-UE - G1",
+          "score": -2,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Congresso dos EUA pede ação de Trump contra Brasil por projeto de big techs - CNN Brasil",
+          "score": -2,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Avião deu 5 alertas antes de cair: veja os momentos finais do voo da Voepass - G1",
+          "score": -2,
+          "reasons": [
+            "penalize_generic_crime_or_disaster",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Polícia Civil cumpre mandados em imóveis ligados ao prefeito Coronel Sandro em Governador Valadares - G1",
+          "score": -2,
+          "reasons": [
+            "penalize_generic_crime_or_disaster",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ibovespa tem forte queda com novas tarifas dos EUA; dólar desce a R$ 5,07 - InfoMoney",
+          "score": -2,
+          "reasons": [
+            "penalize_generic_crime_or_disaster",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Governo desbloqueará R$ 5,7 bi no Orçamento após projeção menor de gastos com Previdência - Folha de S.Paulo",
+          "score": -2,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "brasil",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=BR",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/pt.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 1000,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Zezé Di Camargo & Luciano - 'Pra Não Pensar em Você' (Popular Brazilian Song)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Brazilian music duo with a trending song; culturally significant in Brazil."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "EA SPORTS FC 27 Official Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global gaming culture relevance; football (soccer) game highly popular worldwide including Brazil."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Anitta - 'Você Já Sabe' (New Brazilian Music Release)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Anitta is a major Brazilian pop star; new song trending on YouTube."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "The Lord of the Rings: The Rings of Power – Official Teaser Trailer (Prime Video Brazil)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular global fantasy series with local Brazilian streaming release; cultural interest."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "The Ninja Hacker Girl Trapped Me in Minecraft!",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular YouTube gaming content with a catchy title; reflects internet culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "JENNIE - 'Less than a Lover' (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global K-pop star Jennie trending; relevant to global pop culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Avatar: The Seven Refugees | Official Trailer | Paramount+ Brazil",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:New Avatar series trailer; popular franchise with Brazilian streaming release."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Summer Hammer Event in Roblox! (Flee The Facility)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Roblox gaming event video; reflects youth internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dado Dolabella Sues Globo Over Alleged Past Abuse Claims",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_local_signal",
+            "ai:Clear story about a Brazilian celebrity's legal action; relevant but not a strong cultural fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "52% of Brazilians Prefer Closer Ties with China Over the USA",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Interesting political opinion poll but generic headline without strong cultural fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Brazil Bans Foie Gras Over Animal Cruelty Concerns",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline about policy change; relevant but not a cultural fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "'We Must Treat Betting Like Smoking,' Says Finance Minister",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political statement; interesting but generic news headline."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Complaining About Meat Prices in Brazil? 60 Reais for Quality Churrasco",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opinion post about meat prices; interesting locally but generic."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Top Brazilian Gospel Praises 2026 – Most Played Worship Songs",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic music playlist title; relevant to religious community but generic."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Year Each Country Legalized Interracial Marriage",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Informative but generic global historical data; no strong cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Votação do fim da escala 6x 1 deve ficar para depois das eleições, admite ministro do Trabalho",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Contrato dos trens de Tarcísio permite que empresa cobre Estado por falhas",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "O forte aparato da Guarda Municipal combatendo o crime",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Começa a valer lei que autoriza venda de spray de pimenta para mulheres; veja regras",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Flávio esnobou Ciro por causa de Vorcaro e, agora, fica sem PP e com PF",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nunca vou superar a decadência do chocolate Diamante Negro",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Justiça da Itália diz não ver perseguição política a Carla Zambelli no Brasil",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "São Paulo virou um retrato triste da ganância e da corrupção imobiliária",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Diáspora libanesa.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Juíza nega pedido de Michelle Bolsonaro contra Joice Hasselmann, que debocha: “Tadinha”",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gás do Povo impulsiona invasão de botijões chineses e abre disputa na indústria - ICL Notícias",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Fumando pen-drive?",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opaque and unclear title with no obvious cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "4 JOGOS DE TERROR SOBRE CACHORROS!",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Já passou da hora de legalizarem a planta",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Assassinato de Marcos Kitano",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Luís Represas",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Odisseia",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Presidente Lula visita Avibras Aeroco - Jacareí (SP)",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Congresso dos EUA pede ação de Trump contra Brasil por projeto de big techs",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "MP das blusinhas enfrenta ofensiva de empresários após tarifaço de Trump",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "inundação",
+          "score": 1,
+          "reasons": [
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Petição que pede exclusão da Argentina da Copa 2030 tem mais de 23 milhões de assinaturas",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wikipédia:Página principal",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "wiki.phtml",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gabriel Pec",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Renan Santos",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Disclosure Day",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "cerro",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "jair bolsonaro",
+          "score": -1,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "flamengo feminino",
+          "score": -1,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "chico da costa",
+          "score": -1,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "will smith",
+          "score": -1,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "boost_local_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "colo colo",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "marcos llorente",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "yan diomande",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "liam neeson",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Se você tem interesse em moderar uma comunidade brasileira ou tem curiosidade sobre moderação, este post é para você!",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        },
+        {
+          "title": "Console, PC, mobile ou tabuleiro, o que você tem jogado? Post semanal do r/Brasil para recomendações!",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Musk e Bezos têm um plano — e ele pode ser catastrófico para o planeta, segundo cientistas - Olhar Digital",
+        "source_name": "Olhar Digital",
+        "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS0VGZXF0OW1zaU1wVUxGeUU4TWp6b3QtRHMxdy1uR2FWcXBLaWo2V1dpbHM4NEUxVHRDRXpTOUtMZ0toQTNxd2tZMHFvVTdPRzNZTjBSVFMyYzhmb0JNNXl1UGV6eTFEXzEwcUVsTmFpQVhZRG1xQXM4eFZoZGlsb0NvOVdncFlSem4zdWxLUmhqczhYMmFFanVhS3JaUmRhNHFRYUxLTVROVVhaUUZwUmFDNlc2cDlQNjN5NEZnblRBenNFckc3MG1BWG1GSlJZOWNjOGtKQ3Y3OGhP?oc=5",
+        "published_at": "Fri, 24 Jul 2026 14:05:00 GMT",
+        "snippet": "Musk e Bezos têm um plano — e ele pode ser catastrófico para o planeta, segundo cientistas Olhar Digital O perigo dos futuros data centers que orbitarão no espaço VEJA Cercando o espaço sideral Phenomenal World 17 Mil Satélites No Espaço Mas A Internet Vive No Fundo Do Mar revista.tempo.co.mz Elon Musk vai enviar 1 milhão de satélites ao espaço e promete evoluir a humanidade para o nível II Diário do Comércio",
+        "short_explanation": "Scientists warn Musk and Bezos' satellite plans may harm Earth's environment, worrying Brazilians."
+      },
+      {
+        "title": "Iraque nega relato de que o Irã recusou acordo de cessar-fogo com os EUA - CNN Brasil",
+        "source_name": "CNN Brasil",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUk9tMFM0clpwN3hzUTFNbGFWVFJkc1dwYklSbWNJbUR3VEJhdlg3blFza2FqaEZuLUdxN2c3ZkVOYi1OZk0xTmhGWGtmSnV3NEdBakxnbzZHQmYxbTBDQUQ2b3dFa3BGSU1iWnotUl9mdWhVQzBYN1p1ZWkzTjBEUjVHOWg5Q0ZZdkNCRW1Ham1sV0tGam5ja3NLWVlzX2pDX0YtN3JVZHRpTzlYYzJmNVUweWF3dFE?oc=5",
+        "published_at": "Fri, 24 Jul 2026 12:12:31 GMT",
+        "snippet": "Iraque nega relato de que o Irã recusou acordo de cessar-fogo com os EUA CNN Brasil Irã rejeita proposta de cessar-fogo feita pelos EUA, diz jornal UOL Notícias Acredito que Irã está ficando mais sério nas conversas à medida que os dias passam, diz Trump R7 Irã rejeita proposta de cessar-fogo, e Trump ameaça retomar guerra em larga escala | Mundo Valor Econômico Irã ‘implora todos os dias por um acordo’ e pagará preço ‘cada vez mais alto’, diz Rubio VEJA",
+        "short_explanation": "Iraq denies Iran rejected US ceasefire, reflecting global tensions impacting Brazil's news."
+      },
+      {
+        "title": "iPhone 18 Pro Max: Apple pressiona Samsung e LG por desconto em OLED para segurar preços - TudoCelular.com",
+        "source_name": "TudoCelular.com",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU3E5S3ZBYjdEWFdTclJ4VDdYa2o1RkQ4TzlSXzhkX1g4WXJNRWw4c2tYZ3AxU0gyOENYS2Y5QTJqaThwNkxkVzlvdkcxMzVxQzRLd3pURE5KSW9PN1YyRnlkZm5PWE5KdEx6TUpZLVNMVzlWTnRNbVd0ek5jMzNtTVRuZkpYZ05DS0k2NHA5ZVNOeW1IWms1dEF1MkhZdGhHMHV4OHFB?oc=5",
+        "published_at": "Fri, 24 Jul 2026 11:58:05 GMT",
+        "snippet": "iPhone 18 Pro Max: Apple pressiona Samsung e LG por desconto em OLED para segurar preços TudoCelular.com iPhone 18: o que já se sabe sobre o próximo lançamento da Apple InfoMoney Crise de memórias teria feito Apple pedir por descontos em telas OLED para o \"iPhone 18 Pro Max\" MacMagazine Qual a data de lançamento do iPhone 18? Qual o preço? Veja o que se sabe até agora O GLOBO Com bônus de milhares de dólares, a Foxconn está atraindo trabalhadores e concentrando seus esforços no iPhone 18 Pro. Vietnam.vn",
+        "short_explanation": "Apple pressures suppliers to cut OLED prices for iPhone 18, affecting tech markets worldwide."
+      },
+      {
+        "title": "Flávio pede desculpas a Michelle e diz que \"ninguém é perfeito\" - Poder360",
+        "source_name": "Poder360",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVXpseFVPaXZ6Z3lfY2FqYjZ5bzlqd0ViQVU2dzJGYUh6Z1BWM0V3Z1FfQUxQQzE5YjVkVVhPdUpGUlJNa09jcEJGYmZuVG1BRC1Lb0N1QU5ta2FlNGRRZGZmSmNkR2xlUUFmNndzUWZVcy12YzdoLTZrNy1UamRyeS14TFgwQ2VOTThVNlBRdUhNRWU0X2xKQzM0SkdoOVFUdmczeWh2Sm9KcmlpUS1F?oc=5",
+        "published_at": "Thu, 23 Jul 2026 20:10:49 GMT",
+        "snippet": "Flávio pede desculpas a Michelle e diz que \"ninguém é perfeito\" Poder360 Michelle Bolsonaro e Flávio voltam a se seguir nas redes sociais, mas ainda não se encontraram G1 Valdemar diz que convidará Michelle de volta ao PL Mulher e espera que ela participe da campanha de Flávio Folha de S.Paulo Os articuladores da trégua: quem são os aliados que assumiram a missão de apaziguar o clã Bolsonaro CartaCapital Motivos para as desculpas de Flávio blogs.correiobraziliense.com.br",
+        "short_explanation": "Flávio Bolsonaro apologizes to Michelle, showing political family tensions important to Brazilians."
+      },
+      {
+        "title": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado - Estadão",
+        "source_name": "Estadão",
+        "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRVk5RU9zc1lIS1lzT1JnU0pPNDBxRUVhVEpIcTRkSmwxeVFtbGxWS2hXX196d3pUaWE4bVZiRUltcDl2QlFiQkNDbl84QWZoUU9rUk9kWFk5Ty10dE81NFU5R3ZaN1lIYVUxR3VWMFRGaHMwMzROdC10cTFIRHVWODA3U0Qzams5bUxQMTdfQnZRVVdUV2JYd0lVTFc1cVpDakJDR3lfNVJGMERYUGFnY3FBY2gtSTZlZUsyQnE0cjBKdGNrNFFDTGswZEFaQdIB0wFBVV95cUxNclk5RmtRemUzZndvMVBCQl96WEFpRU5BYXVnY2JqaHgxWVdYTjdvclRaanp1UmNZWHFWQ0lOdTh2eWd6U09mTDhuWnJxWlhhREJGYjVycjN2VEtGU1o5WTFoU1BuM1FwWXV4VlVSbGFqbWpJTGM5d2swRTdxa1hPSEpkUTR4eEdZa3Jra1NhLVFxRGRHc2xPSE5jTjhEY3N6N1FpY3drVHl4Z29yUURtdkRZQlVCNXVlQmduMF9fODFfR0dNcEY1TjNXWmlVVzhGUXhz?oc=5",
+        "published_at": "Fri, 24 Jul 2026 20:53:14 GMT",
+        "snippet": "Empresa para a qual Flávio Bolsonaro emitiu R$ 1 milhão em notas não existe no endereço informado Estadão Flávio Bolsonaro diz ser alvo de 'perseguição desproporcional' e reclama de vazamento de notas emitidas para empresa ligada ao Master G1 O que Flávio não explicou sobre os R$ 500 mil que recebeu de empresa ligada ao caso Master Terra Lindbergh aciona PF e pede investigação sobre notas fiscais emitidas por escritório de Flávio Bolsonaro CartaCapital Empresa de fachada para a qual Flávio Bolsonaro emitiu notas recebeu R$ 11 milhões do Master um mês após ser aberta Metrópoles",
+        "short_explanation": "Flávio Bolsonaro linked to fake company issuing million reais invoices, raising corruption concerns."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Zezé Di Camargo & Luciano - 'Pra Não Pensar em Você' (Popular Brazilian Song)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Ginga Flow)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T10:30:06Z",
+        "source_url": "https://www.youtube.com/watch?v=5ECo1T32izc",
+        "external_url": "https://www.youtube.com/watch?v=5ECo1T32izc",
+        "context": "Ginga Flow. ❤️Zezé Di Camargo & Luciano - Pra Não Pensar em Você\n\n✨ Curta a música, cante junto e descubra os maiores sucessos do Brasil aqui no Ginga Flow!\n\n🎵 Ouça nossa playlist:\n💚 Spotify: https://open.spotify.com/playlist/6dakfEw0S0O9r4azBNBf7V?si=82073f6139564bee\n╰───────────── ♫\n🌟Segue a Zezé Di Camargo & Luciano aqui!\n🎬 YouTube: https://www.youtube.com/channel/UC5Cq2h-kY1KvkYgoncMrC3A \n📸 In",
+        "short_explanation": "Popular Brazilian song by Zezé Di Camargo & Luciano, loved for its emotional lyrics."
+      },
+      {
+        "title": "EA SPORTS FC 27 Official Reveal Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (EA SPORTS FC)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-23T15:57:07Z",
+        "source_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "external_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "context": "EA SPORTS FC. Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600\n\nStep into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay: https://x.ea.com/89601\n\nLearn more about FC 27 Gameplay, Career, FUT, and",
+        "short_explanation": "New football video game EA SPORTS FC 27, highly anticipated by Brazilian gamers and fans."
+      },
+      {
+        "title": "Anitta - 'Você Já Sabe' (New Brazilian Music Release)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Anitta - Topic)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T00:00:11Z",
+        "source_url": "https://www.youtube.com/watch?v=b88IQ_G-7JY",
+        "external_url": "https://www.youtube.com/watch?v=b88IQ_G-7JY",
+        "context": "Anitta - Topic. Provided to YouTube by Universal Music Group\n\nVocê Ja Sabe · Anitta · Los Brasileros\n\nEQUILIBRIVM II\n\n℗ 2026 Floresta Records Inc., under exclusive license to Republic Records, a division of UMG Recordings, Inc.\n\nReleased on: 2026-07-24\n\nProducer: Los Brasileros\nRecordingarranger, Recording Engineer: Pedro Dash\nMixing Engineer, Recording Engineer: Marcelinho Ferraz\nMixing Engineer:",
+        "short_explanation": "Latest music release by Anitta, a top Brazilian pop star influencing local culture."
+      },
+      {
+        "title": "The Lord of the Rings: The Rings of Power – Official Teaser Trailer (Prime Video Brazil)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Prime Video Brasil)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-24T18:30:19Z",
+        "source_url": "https://www.youtube.com/watch?v=dPXUCLuZLak",
+        "external_url": "https://www.youtube.com/watch?v=dPXUCLuZLak",
+        "context": "Prime Video Brasil. Chegou o grande momento. Assista ao teaser trailer oficial da 3ª temporada de O Senhor dos Anéis: Os Anéis de Poder, disponível a partir de 11 de novembro no meu streaming.",
+        "short_explanation": "Official teaser for The Rings of Power season 3, eagerly awaited by Brazilian fantasy fans."
+      },
+      {
+        "title": "The Ninja Hacker Girl Trapped Me in Minecraft!",
+        "platform": "youtube",
+        "source_label": "YouTube trending (ProbIems)",
+        "score_label": "trending #6",
+        "rank_score": 950,
+        "published_at": "2026-07-24T13:00:18Z",
+        "source_url": "https://www.youtube.com/watch?v=5fobsD5S1Dc",
+        "external_url": "https://www.youtube.com/watch?v=5fobsD5S1Dc",
+        "context": "ProbIems. Servidor de discord:\nhttps://discord.gg/2jtYumJKuZ\n\nMinha Loja:\nhttps://www.curtaloja.com/marca/problems.html\n\nContato COMERCIAL:\ncomercial@agenciacurta.com\n\nSegue a turma no instagram:\n\nProblems💙 https://www.instagram.com/problems_sr/\nMel 💛https://www.instagram.com/kaikemel/\nKadu 💖 https://www.instagram.com/kadukon/\nStick 💚https://www.instagram.com/guualfaro/\nZoom 🧡 https://www.instagra",
+        "short_explanation": "Unclear local trend."
+      },
+      {
+        "title": "Dado Dolabella Sues Globo Over Alleged Past Abuse Claims",
+        "platform": "reddit",
+        "source_label": "r/brasil",
+        "score_label": "r/brasil hot #14",
+        "rank_score": 870,
+        "published_at": "2026-07-24T15:59:02+00:00",
+        "source_url": "https://www.reddit.com/r/brasil/comments/1v5fgis/dado_dolabella_processa_globo_por_relembrar/",
+        "external_url": "https://www.reddit.com/r/brasil/comments/1v5fgis/dado_dolabella_processa_globo_por_relembrar/",
+        "context": "submitted by /u/YamTop1928 [link] [comments]",
+        "short_explanation": "Brazilian actor Dado Dolabella sues Globo over alleged past abuse, sparking public debate."
+      },
+      {
+        "title": "52% of Brazilians Prefer Closer Ties with China Over the USA",
+        "platform": "reddit",
+        "source_label": "r/brasil",
+        "score_label": "r/brasil hot #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T14:51:27+00:00",
+        "source_url": "https://www.reddit.com/r/brasil/comments/1v5dlp1/52_preferem_brasil_mais_próximo_da_china_e_não/",
+        "external_url": "https://www.reddit.com/r/brasil/comments/1v5dlp1/52_preferem_brasil_mais_próximo_da_china_e_não/",
+        "context": "submitted by /u/No-Anybody-4094 [link] [comments]",
+        "short_explanation": "Poll shows 52% of Brazilians prefer closer ties with China than the USA, reflecting geopolitics."
+      },
+      {
+        "title": "Brazil Bans Foie Gras Over Animal Cruelty Concerns",
+        "platform": "reddit",
+        "source_label": "r/brasil",
+        "score_label": "r/brasil hot #5",
+        "rank_score": 960,
+        "published_at": "2026-07-24T12:24:43+00:00",
+        "source_url": "https://www.reddit.com/r/brasil/comments/1v59wja/brasil_proíbe_foie_gras_após_classificar_técnica/",
+        "external_url": "https://www.reddit.com/r/brasil/comments/1v59wja/brasil_proíbe_foie_gras_após_classificar_técnica/",
+        "context": "submitted by /u/Tetizeraz [link] [comments]",
+        "short_explanation": "Brazil bans foie gras due to animal cruelty concerns, highlighting local animal rights activism."
+      }
+    ]
+  }
+}

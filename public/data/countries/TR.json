@@ -1,0 +1,858 @@
+{
+  "iso2": "TR",
+  "iso3": "TUR",
+  "country_name": "Turkey",
+  "flag": "🇹🇷",
+  "region": "Europe / Asia",
+  "coordinates": {
+    "lat": 38.9637,
+    "lon": 35.2433
+  },
+  "updated_at": "2026-07-24T22:03:47+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "YENİ Parti",
+    "political realignment",
+    "opposition Turkey"
+  ],
+  "top_news": {
+    "headline": "YENİ Parti kuruldu, Özgür Özel oy birliğiyle Genel Başkan",
+    "summary": "A new political party, YENİ Parti, formed by 91 MPs, reshaping Turkey's opposition landscape.",
+    "why_it_matters": "Signals major shift in Turkey's political dynamics and opposition realignment.",
+    "source_name": "DW.com",
+    "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWR3NFNmSl9IbWtkU3NSMG9DWjlEdG9TVkxDcm5NQWY4cWowQ2JnRFlXY0kwYTRHeG1la0x1aUdhZjZaMDYtUTZxT1YyTUV4LTY5OUVNckJLV2ZrdmlSSVpkOXpMSF9fVl9IUmNLUW1ScHBTS3J6ZG9OVnY0c1ZPcnFjem10bkJmc01IRC1jcGJCOFE1ODR3RWRER0pzWnZNMUdMYjlNckx4Y09tX1V5aExJMlQ1WnpCQzVjTtIBvAFBVV95cUxQcFhaRkkyZFhMNVJEdS1VOFgySnpUaktWclZPbk5nNk54WXJZdXRDc3Z6cnphcHNUa1MxUTctTjEzX04tRWRyQWRwVWpXaWpNNHhxSkNzdFFmZXhBSUJpMkFUV3lTSEJlbU5MajNJQTdFWVdXMnVMZVNPdEM0b3NWN1ZZVkhpdEhyN3luZEw5VzdiRjBSdUNrYTNJZ25qcXRCSzNQSDVyZkFFTS01VE5iSkdleUNfa0RjNV9lMg?oc=5",
+    "published_at": "Fri, 24 Jul 2026 15:26:02 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Growing Demand for Change Surpasses Current Politics: Call for United Struggle in Istanbul",
+    "platform": "reddit",
+    "explanation": "Turkish Redditors discuss rising public frustration with politics and calls for unified social activism in Istanbul.",
+    "why_people_are_sharing_it": "It captures widespread political dissatisfaction and hope for collective action.",
+    "tone": "political",
+    "local_context": "Reflects deep political tensions and activism culture in Istanbul.",
+    "source_url": "https://www.reddit.com/r/Turkey/comments/1v5jdlk/toplumda_filizlenen_değişim_talebi_mevcut/",
+    "media_url": "https://www.reddit.com/r/Turkey/comments/1v5jdlk/toplumda_filizlenen_değişim_talebi_mevcut/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=tr&gl=TR&ceid=TR:tr",
+      "items_seen": 33,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "AKP’lilerin usulsüzlüğünü mecliste ifşa etmişti, şimdi tutuklu! - Sözcü Gazetesi",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "SON DAKİKA | Gülistan Doku soruşturması: Handan Sonel tutuklandı! - CNN Türk",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "YENİ Parti kuruldu, Özgür Özel oy birliğiyle Genel Başkan - DW.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Bakan Gürlek: Haluk Levent tekneyle Yunan adalarına kaçacaktı - NTV Haber",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Cumhurbaşkanı Erdoğan: Ayasofya'yı açmak bize nasip oldu - Hürriyet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "En düşük emekli aylığını da içeren kanun teklifi TBMM'de kabul edildi - Bloomberght",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Valilik uyardı: Vakalar peş peşe geldi - Cumhuriyet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Kılıçdaroğlu'ndan CHP'deki istifalar sonrası ilk paylaşım - NTV Haber",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tahsildaroğlu markalı bir peynir toplatıldı - Diken",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "İspanya, başkent Madrid çevresindeki orman yangınları nedeniyle \"acil durum\" ilan etti - Habertürk",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ABD 60 ticaret ortağına yeni gümrük vergileri uyguladı, listede Türkiye de var - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump: Şi ve Putin İran'a silah satmayacaklarını söyledi - Bloomberght",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Husilerden Babülmendep yalanlaması - Bloomberght",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump: AB'nin teknoloji şirketlerimize yönelik politikalarını soruşturacağız - Bloomberght",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Son dakika: Merkez Bankası faiz kararını açıkladı! İşte Merkez Bankası Temmuz ayı faiz kararı - Bigpara",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Motorine 3,5 lira zam bekleniyor: Güncel akaryakıt fiyatları - Diken",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Küresel enflasyon endişesi yeniden baş gösterdi - Bloomberght",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Telefonunuza sakın bunu yüklemeyin! 217 banka uygulamasını hedef alıyor - Halk TV",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "EA Sports FC 27 ilk fragmanı yayınlandı: 8 bin TL'ye satılacak! - DonanımHaber",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Samsung Galaxy S27 ailesi için yeni kamera detayları sızdırıldı - Teknoloji haberleri - LOG",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "Turkey",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=TR",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/tr.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 999,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "EA SPORTS FC 27 Official Reveal Trailer",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular global gaming franchise trailer; strong internet culture relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers: Doomsday | New Official Trailer (Dubbed) | In Cinemas December 18",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global pop culture movie trailer with strong internet and fan culture relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers: Doomsday | Dubbed Trailer - In Cinemas December 18, 2026",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular global movie trailer; strong cultural and internet relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Manifest & Motive & Pango – pVg (Manifest Live Remix) Official Music Video",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music video title with artist names and remix info; relevant for internet culture and music trends."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Traveling in My Friend's Suitcase - Minecraft Gameplay",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular gaming content with a creative title; relevant for internet and gaming culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ati242 - TAMPONTAMPONA (Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music video by a known artist; relevant for internet music culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "VEIN Season 2 Episode 2: Dangerous Raid on the Big Prison",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming or entertainment content with dramatic title; relevant for internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Growing Demand for Change Surpasses Current Politics: Call for United Struggle in Istanbul",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Sociopolitical movement headline with cultural significance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Özgür Özel and 90 CHP MPs Resign",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political news headline; somewhat generic but important in Turkish political context."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "New Party Leader Özgür Özel Warns Against Fraudulent Donations",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political statement headline; somewhat generic but relevant in political discourse."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Kılıçdaroğlu Loses Opposition Support as CHP Faces Mass Resignations",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political news with some cultural significance but mostly a news headline."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "CHP Now Smaller Than MHP",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political headline; generic but relevant in Turkish political discourse."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "SÜPER AYI KRİSTAL LAGÜNE GİRDİ AMA PİŞMAN OLDU! 😱🐊",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Son Açıklanan Yeni Parti Logosu",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "JENNIE - Less than a Lover (Official Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Özgür Özel liderliğinde kurulan YENİ Parti, 91 milletvekiliyle TBMM'nin resmî internet sitesinde yerini aldı. Güncellenen sandalye dağılımıyla YENİ Parti ana muhalefet partisi olurken, CHP beşinci sıraya geriledi.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "İmam hatipte, YKS'de derece yapan kız öğrencilere sansür uygulandı. Çankırı’da bulunan okul, YKS’de ilk 80 bin içerisinde yer alan 19 öğrencisini bir afişle kutladı. Afişte erkek öğrencilerin fotoğrafları, kızların ise temsili çizimleri yer aldı.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Özgür Özel, Hacı Bayram'da namaz kılıp Birinci Meclis'e yürüdü: \"Yol arkadaşımız aziz milletimizdir. Yolumuz iktidar yoludur. Pusulamızın gösterdiği yön iktidardır. Bundan sonra durmadan ve yorulmadan iktidara kadar yürüyelim arkadaşlar.\"",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Yeni Parti'nin Parti Programı ve Parti Tüzüğü Yayınlandı",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "AKP'li Ümraniye Belediyesi'nde kalite destek müdürünün görevden alınmasına sevinen çalışanlar lokma döktürdü.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lozan Barış Antlaşması'nın yıl dönümünde Yeni Parti’nin kuruluş dilekçesini imzalayan Özgür Özel: “Vatana, millete, partimize, hepimize hayırlı olsun!”",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "CHP'li Aysu Bankoğlu'nun CHP Genel Merkezi'ne butlan yönetiminin çağrısıyla polis eşliğinde girilmesinin üzerinden geçen 61 gündeki değişimi hayrete düşürdü. Bankoğlu o gün \"Unutmayacağız\" diyerek butlana isyan etmişti şimdi \"Kalıyorum\" dedi.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Taleworlds co-founder İpek Yavuz has sadly passed away.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Özgür Özel CHP'den istifa etti.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lozan Antlaşması, 103 yıl önce bugün imzalandı.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Osmanlıda misyoner okulları, cumhuriyet ile kapatıldı.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lozan antlaşması;Yurtta sulh, cihanda sulh🇹🇷",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "31 Mart 2024 Belediye seçimlerinde CHP’nin 1. Parti olmasının ardından geçtiğimiz günlerdeki milletvekili istifalarıyla CHP’nin koltuk sayısı 2. sıradan 5. sıraya geriledi. Aradaki dönemde CHP kazandığı çoğu belediyeyi tutuklanmalarla kaybetti.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ABD Dışişleri Bakanlığı, S-400 şartları karşılanmadığı için Türkiye'ye F-35 teslim edilmeyeceğini açıkladı.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Yeni Parti resmi Twitter hesabı eski bir hesap (2015), ve son kullanıcı adı değişikliğini Mayıs 2026'da yaparak @yenipartiyiz'e dönüşmüş. Demek oluyor ki *en az* iki aydır yeni partiye geçiş planlanıyor.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "r/Turkey Privacy Guide",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The title is somewhat opaque and specific to Reddit community jargon, making it less accessible as a global culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "List of Remaining 44 CHP MPs",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Bare list of names; too generic and not a strong cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Oktay Saral's X Post",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Bare person name with vague context; too opaque and not a strong cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nazlıcanım",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Just a person or song name without additional context; too bare and opaque."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Yeni Parti (2026)",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "2026 FIVB Kadınlar Voleybol Milletler Ligi",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "2027 UEFA ülkeler sıralaması",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "2026 UEFA ülkeler sıralaması",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ABD Başkanı Trump'tan Yeni Tarife Duvarı: Türkiye’den İhraç Edilen Ürünlere %12,5 Ek Gümrük Vergisi Getirildi",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Özel:Ara",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Anasayfa",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ezel Akay",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "iphone 18",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "tusaş anka-3",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "summerville",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "asırlık gece kaç bölüm",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ags sınavı ne zaman",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "tijen karaş",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Odyssey (film)",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "yan diomande",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "masterchef demirhan",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "charlize theron",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "fethiye hava durumu",
+          "score": -4,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "penalize_thin_context"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "AKP’lilerin usulsüzlüğünü mecliste ifşa etmişti, şimdi tutuklu! - Sözcü Gazetesi",
+        "source_name": "Sözcü Gazetesi",
+        "source_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONTBpazZUNENtbTRzTFJNWjdvUUk0X2N2WjNtZ3lRam51UWNKdjdpN19mak96QnZBU2JMRHVMUllaeWNXd2ZVRlZDcndEd19WdUdyZ2NwdmMxWVdfbUs0WVJGYWFRZkpTZUZBZ0haT3RGTmhhRmdDcWRnWEhPX2ZYbklTcTBtYnRPVk44RVF4ZGo0SjBHN0ZadjhB?oc=5",
+        "published_at": "Fri, 24 Jul 2026 11:09:39 GMT",
+        "snippet": "AKP’lilerin usulsüzlüğünü mecliste ifşa etmişti, şimdi tutuklu! Sözcü Gazetesi Son dakika... İzmit Belediye Başkanı Fatma Kaplan Hürriyet görevden uzaklaştırıldı Hürriyet Tutuklanmıştı: İzmit Belediye Başkanı Fatma Kaplan Hürriyet, görevden uzaklaştırıldı Cumhuriyet İzmit Belediye Başkanı Fatma Kaplan Hürriyet görevden uzaklaştırıldı NTV Haber İçişleri Bakanlığı duyurdu: Fatma Kaplan görevden uzaklaştırıldı Haber 7",
+        "short_explanation": "Mayor exposing AKP corruption was arrested, highlighting political tensions and accountability concerns."
+      },
+      {
+        "title": "SON DAKİKA | Gülistan Doku soruşturması: Handan Sonel tutuklandı! - CNN Türk",
+        "source_name": "CNN Türk",
+        "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNck82VlVDeXkzVXRUd0VJUlJqdEFmVFJfYXRhamZBQjF6eDVLMjZCakJFakdpMVVrSGJPM3JiNTBUTm5uNlg5cmhoY2tHdHJjdEhrOUd6QmM2ZUtJQ3EtaV9YZ1BteEhaaUhwMFlVX0c4SmY5bkdSVnR4QkxsN0JMV0RsUURwemRXaGhwSjBhUFppT19NVXhMNkZKZWotUXdRTUE?oc=5",
+        "published_at": "Fri, 24 Jul 2026 15:55:00 GMT",
+        "snippet": "SON DAKİKA | Gülistan Doku soruşturması: Handan Sonel tutuklandı! CNN Türk Gülistan Doku soruşturmasında yeni gelişme: Bilişim şirketinin sahibi tutuklandı TRT Haber Gülistan Doku soruşturması: Eski Tunceli valisinin eşi tutuklandı Diken Gülistan Doku soruşturmasında yeni tutuklamalar: Bilişim şirketi sahibi tutuklandı Halk TV Gülistan Doku soruşturmasında caddeye adı verilen bilişim şirketi sahibi tutuklandı Sözcü Gazetesi",
+        "short_explanation": "Arrest in Gülistan Doku disappearance case shows ongoing public demand for justice."
+      },
+      {
+        "title": "YENİ Parti kuruldu, Özgür Özel oy birliğiyle Genel Başkan - DW.com",
+        "source_name": "DW.com",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcWR3NFNmSl9IbWtkU3NSMG9DWjlEdG9TVkxDcm5NQWY4cWowQ2JnRFlXY0kwYTRHeG1la0x1aUdhZjZaMDYtUTZxT1YyTUV4LTY5OUVNckJLV2ZrdmlSSVpkOXpMSF9fVl9IUmNLUW1ScHBTS3J6ZG9OVnY0c1ZPcnFjem10bkJmc01IRC1jcGJCOFE1ODR3RWRER0pzWnZNMUdMYjlNckx4Y09tX1V5aExJMlQ1WnpCQzVjTtIBvAFBVV95cUxQcFhaRkkyZFhMNVJEdS1VOFgySnpUaktWclZPbk5nNk54WXJZdXRDc3Z6cnphcHNUa1MxUTctTjEzX04tRWRyQWRwVWpXaWpNNHhxSkNzdFFmZXhBSUJpMkFUV3lTSEJlbU5MajNJQTdFWVdXMnVMZVNPdEM0b3NWN1ZZVkhpdEhyN3luZEw5VzdiRjBSdUNrYTNJZ25qcXRCSzNQSDVyZkFFTS01VE5iSkdleUNfa0RjNV9lMg?oc=5",
+        "published_at": "Fri, 24 Jul 2026 15:26:02 GMT",
+        "snippet": "YENİ Parti kuruldu, Özgür Özel oy birliğiyle Genel Başkan DW.com Yeni Parti Meclis kayıtlarına girdi; 91 vekille ana muhalefet oldu Sözcü Gazetesi Yeni Parti'ye katılan 91 milletvekili belli oldu. CHP'de kalanlar da netleşti NTV Haber Bir belediye başkanından daha açıklama geldi: Manisa Büyükşehir Belediye Başkanı Besim Dutlulu YENİ Parti'ye geçeceğini duyurdu Cumhuriyet Mansur Yavaş Yeni Parti'de mi? Özgür Özel'den dikkat çeken yanıt CNN Türk",
+        "short_explanation": "New political party formed, shifting opposition dynamics and parliamentary balance."
+      },
+      {
+        "title": "Bakan Gürlek: Haluk Levent tekneyle Yunan adalarına kaçacaktı - NTV Haber",
+        "source_name": "NTV Haber",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa2NQMm9OV2h2emp6RVlLR25ReEJZb0x5dDdvWFJtNXhRbVNfRl9vMjFIS3BMLUszZnozbk1JU2ZYa3RQY0RDM21XZnAxN3haMWNVa0M4NkVla3IxWjNWbmFpdkpvcHV1bWxRMGZNWFREMTJ0M1lWUG81aEktUkNNbDN2bHlrTl9abXRiYnZhRUo3YWhxX0NVQ09aRi1RbkRQNl9SWnB5enhZd9IBrwFBVV95cUxOaGlmWlpPQXJQb3hobWxsNHl1NW9kZmpOSWxzUEpyYjVHQXAyaWdISUw3YnhuRmx2WTNFR05NWUc3WWYyeHpHX0FINGVCY3FCdmhBczhhN1YzRmhPcUVyYXdfOGZOTjBybi1lTWNYdEhIRG5oV0RCdVl0Yl9SZ241c0MyVUg3V1pSaWM5aVJ6Mi1hY0hFLTJmRHBXVEpPcXY4bURpSmk1MHNFdmVaUG9J?oc=5",
+        "published_at": "Fri, 24 Jul 2026 19:03:31 GMT",
+        "snippet": "Bakan Gürlek: Haluk Levent tekneyle Yunan adalarına kaçacaktı NTV Haber Bakan Gürlek: Haluk Levent Yunan adalarına kaçacaktı TRT Haber Adalet Bakanı Akın Gürlek'ten AHBAP açıklaması: İnanılmaz borç senetleri var... Soruşturma genişleyebilir Hürriyet Adalet Bakanı Akın Gürlek'ten son dakika açıklamalar Haber 7 Akın Gürlek: Muhsin Yazıcıoğlu'nun ölümünde FETÖ izi var Memurlar.Net",
+        "short_explanation": "Minister claims singer Haluk Levent planned escape, stirring controversy and public interest."
+      },
+      {
+        "title": "Cumhurbaşkanı Erdoğan: Ayasofya'yı açmak bize nasip oldu - Hürriyet",
+        "source_name": "Hürriyet",
+        "source_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORjBHZThQQ3RqMGlsUEF2aVktdGk1X2c3ZFhoNzVtdlZDTndhS2tkS0tGQ0xndktBRm9aUGZlUXNHWnk0cV9JMUlYM2ZwUFA3cEhrb2E3XzJzUEJTUUJYTV9BT2ZJQ2RvZFdOWXg5am9WbEU4c29oSXl3UnRfZVg3MEQ3aEl1VGFOMExwX19RZW1WYXVSckh2OTRib0JQWEE?oc=5",
+        "published_at": "Fri, 24 Jul 2026 13:20:45 GMT",
+        "snippet": "Cumhurbaşkanı Erdoğan: Ayasofya'yı açmak bize nasip oldu Hürriyet \"Ayasofya'yı yeniden ibadete açmak bize nasip oldu\" - Son Dakika Haberleri TRT Haber Cumhurbaşkanı Erdoğan: NATO Zirvesi ile ilgili geri dönüşler olumluydu NTV Haber Cumhurbaşkanı Erdoğan'dan önemli açıklamalar Hürriyet \"Ayasofya: Hasretten Vuslata-Nesillerin Hasreti, Milletin Sesi\" kitabı yayımlandı Anadolu Ajansı",
+        "short_explanation": "President Erdoğan highlights reopening Hagia Sophia for worship as national pride moment."
+      }
+    ],
+    "trends": [
+      {
+        "title": "EA SPORTS FC 27 Official Reveal Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (EA SPORTS FC)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-23T15:57:07Z",
+        "source_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "external_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "context": "EA SPORTS FC. Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600\n\nStep into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay: https://x.ea.com/89601\n\nLearn more about FC 27 Gameplay, Career, FUT, and",
+        "short_explanation": "New EA SPORTS FC 27 football game trailer excites Turkish gamers and football fans."
+      },
+      {
+        "title": "Avengers: Doomsday | New Official Trailer (Dubbed) | In Cinemas December 18",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Disney Studios Türkiye)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-20T13:17:32Z",
+        "source_url": "https://www.youtube.com/watch?v=r2Im3h6u5kI",
+        "external_url": "https://www.youtube.com/watch?v=r2Im3h6u5kI",
+        "context": "Disney Studios Türkiye. Doomsday, 18 Aralık’ta sinemalarda!\n\nAvengers: Doomsday’i daha büyük, daha parlak ve daha sürükleyici ekranlarda, Infinity Vision sertifikalı salonlarda deneyimle.\n\nAvengers: Endgame”in ardından geçen yedi yılın sonunda, Marvel Sinematik Evreni'nin en büyük kahramanları “Avengers: Doomsday” ile geri dönüyor.\n\nAnthony ve Joe Russo'nun yönetmen koltuğunda oturduğu; yapımcılığ",
+        "short_explanation": "Avengers: Doomsday movie trailer released; fans anticipate December cinema release."
+      },
+      {
+        "title": "Avengers: Doomsday | Dubbed Trailer - In Cinemas December 18, 2026",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Box Office Türkiye)",
+        "score_label": "trending #8",
+        "rank_score": 930,
+        "published_at": "2026-07-20T17:56:31Z",
+        "source_url": "https://www.youtube.com/watch?v=dqsOnSTbIU8",
+        "external_url": "https://www.youtube.com/watch?v=dqsOnSTbIU8",
+        "context": "Box Office Türkiye. Vizyon Tarihi: 18 Aralık 2026\nFilmin Sayfası: https://boxofficeturkiye.com/film/avengers-doomsday--2016090\n\n▪️ En son çıkan fragmanları, haberleri, film listelerini takip etmek için ABONE OLUN 👉 https://boxtr.co/youtube\n\nLinkler\n▪️ Web Sitemiz 👉 ‪https://www.boxofficeturkiye.com\n▪️ Instagram 👉 https://instagram.com/boxofficeturkey\n▪️ Facebook 👉 https://www.facebook.com/boxoffic",
+        "short_explanation": "Avengers: Doomsday film premieres December 18, 2026, drawing Turkish Marvel fans."
+      },
+      {
+        "title": "Manifest & Motive & Pango – pVg (Manifest Live Remix) Official Music Video",
+        "platform": "youtube",
+        "source_label": "YouTube trending (manifest)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-23T21:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=EQQNb4iJVIk",
+        "external_url": "https://www.youtube.com/watch?v=EQQNb4iJVIk",
+        "context": "manifest. ''pVg (Manifest Live Remix)'' Tüm Dijital Platformlarda Yayında!\nSpotify'da dinlemek için: https://tr.ee/ITFOgx\nApple Music'te dinlemek için: https://tr.ee/ae1GSa\nmanifest’i Instagram’dan takip etmek için: https://www.instagram.com/m6nifestgirls\nSpotify’da takip etmek için: https://bit.ly/4nWZXmT\n\n''pVg (Manifest Live Remix)” is now available on all digital platforms!\nListen on Spotify:",
+        "short_explanation": "Manifest's new remix song 'pVg' released, popular among Turkish music listeners."
+      },
+      {
+        "title": "Traveling in My Friend's Suitcase - Minecraft Gameplay",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Ferited)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T14:16:53Z",
+        "source_url": "https://www.youtube.com/watch?v=UBtQNS_5Tyw",
+        "external_url": "https://www.youtube.com/watch?v=UBtQNS_5Tyw",
+        "context": "Ferited. Arkadaşımın Valizinde Seyahat Ettim - Minecraft\nABONE OL: https://www.youtube.com/c/Ferited?sub_confirmation=1\n#ferited #minecraft #oyun \n\nVideolarımdan ilk sen haberdar olmak istiyorsan, kanalıma abone olmayı unutma! Videoların daha hızlı gelmesini ve beni desteklemek istiyorsanız videoya yorum yazmayı ve like atmayı ihmal etmeyin.\n\nİLETİŞİM & İŞ GÖRÜŞMELERİ:\nhostileinvader [@] gmail.com",
+        "short_explanation": "Popular Turkish YouTuber plays Minecraft, engaging gaming community with creative content."
+      },
+      {
+        "title": "Growing Demand for Change Surpasses Current Politics: Call for United Struggle in Istanbul",
+        "platform": "reddit",
+        "source_label": "r/Turkey",
+        "score_label": "r/Turkey hot #8",
+        "rank_score": 930,
+        "published_at": "2026-07-24T18:16:40+00:00",
+        "source_url": "https://www.reddit.com/r/Turkey/comments/1v5jdlk/toplumda_filizlenen_değişim_talebi_mevcut/",
+        "external_url": "https://www.reddit.com/r/Turkey/comments/1v5jdlk/toplumda_filizlenen_değişim_talebi_mevcut/",
+        "context": "Kaynak: https://www.birgun.net/haber/degisim-talebi-rotayi-ciziyor-725350 https://www.birgun.net/haber/birlikte-mucadele-cagrisi-istanbulda-ortak-yuruyus-icin-forumda-bulusalim-725447 Rejimi tahkim etmek isteyen iktidar, elindeki tüm kartları masaya yatırdı. İçeride yargı sopasıyla muhalefeti bastırmak, toplumsal itirazları susturmak, ayak oyunlarıyla siyaseti domine etmek üzerine şekillenmiş oyun",
+        "short_explanation": "Calls for united political struggle grow amid dissatisfaction with current Turkish politics."
+      },
+      {
+        "title": "Özgür Özel and 90 CHP MPs Resign",
+        "platform": "reddit",
+        "source_label": "r/Turkey",
+        "score_label": "r/Turkey hot #2",
+        "rank_score": 990,
+        "published_at": "2026-07-21T11:13:36+00:00",
+        "source_url": "https://www.reddit.com/r/Turkey/comments/1v2fepb/özgür_özel_ve_90_milletvekili_chpden_istifa_ediyor/",
+        "external_url": "https://www.reddit.com/r/Turkey/comments/1v2fepb/özgür_özel_ve_90_milletvekili_chpden_istifa_ediyor/",
+        "context": "submitted by /u/Sukharshme [link] [comments]",
+        "short_explanation": "Unclear local trend."
+      },
+      {
+        "title": "New Party Leader Özgür Özel Warns Against Fraudulent Donations",
+        "platform": "reddit",
+        "source_label": "r/Turkey",
+        "score_label": "r/Turkey hot #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T15:44:50+00:00",
+        "source_url": "https://www.reddit.com/r/Turkey/comments/1v5f2fg/yeni_parti_genel_başkanı_özgür_özel_partimize_şu/",
+        "external_url": "https://www.reddit.com/r/Turkey/comments/1v5f2fg/yeni_parti_genel_başkanı_özgür_özel_partimize_şu/",
+        "context": "https://www.memurlar.net/haber/1173682/ozgur-ozel-den-mansur-yavas-aciklamasi-yeni-parti-iddialarina-yanit-verdi.html submitted by /u/Kirlinternet [link] [comments]",
+        "short_explanation": "New party leader Özgür Özel warns about fraudulent donations in Turkish politics."
+      }
+    ]
+  }
+}

@@ -1,0 +1,788 @@
+{
+  "iso2": "PH",
+  "iso3": "PHL",
+  "country_name": "Philippines",
+  "flag": "🇵🇭",
+  "region": "Southeast Asia",
+  "coordinates": {
+    "lat": 12.8797,
+    "lon": 121.774
+  },
+  "updated_at": "2026-07-24T22:05:47+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "Marcos",
+    "SONA",
+    "liquor ban"
+  ],
+  "top_news": {
+    "headline": "QC to impose liquor ban on Marcos’ SONA day - The Manila Times",
+    "summary": "Quezon City enforces liquor ban during President Marcos’ State of the Nation Address amid heightened political tensions.",
+    "why_it_matters": "Reflects public anxiety and political climate around Marcos’ leadership and SONA events.",
+    "source_name": "The Manila Times",
+    "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGVGcEFobzhZOWpTQS1WQktlOFppMzRXSmtSZnJiMm5TempJdWlpd0QxeFM3SXpRbG8wYkhzUzFrMThWUDg3ZUo5c2hmaUFrRHdGZWlsUVpIa1dncHVWQVZEdWJueng0ZmFpWHRkNUdMeTNPeUFTWXRCa0V4VkxMakEwNzZaUVVPQmFORS0wZVY4U0pmR0hBUXdJQkxGMmtRXzJYQldB0gGrAUFVX3lxTE1IWlNQcmZXVDl0dVNMZGp4UV9hU3prSnplZlcyVHpTckstcXZVbFN4b0FkUkcxR29BYnNHcUc4cUVUUU5hUHlJTmlJRGVOdUhEWk9TdEhJMjBySGtPQjE2MlI1N3RJTHM4V2RlRTcwZ0RPbXBaeW9UNzA0S2VySVJOMDFTbHEySkllLW5qX2duNHFUOUJabHMyZ2ZKMXNhTmR4aHRXWC00TVFyNA?oc=5",
+    "published_at": "Fri, 24 Jul 2026 16:05:00 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Jollibee Featured in KATSEYE's Latest Music Video",
+    "platform": "reddit",
+    "explanation": "Jollibee, a beloved Filipino fast-food icon, appears in a global girl group's music video, sparking national pride and surprise.",
+    "why_people_are_sharing_it": "It’s a proud moment seeing a local brand in international pop culture.",
+    "tone": "wholesome",
+    "local_context": "Jollibee is a cultural symbol and source of Filipino pride worldwide.",
+    "source_url": "https://www.reddit.com/r/Philippines/comments/1v54n5o/omg_jollibee_was_featured_in_katseyes_latest/",
+    "media_url": "https://www.reddit.com/r/Philippines/comments/1v54n5o/omg_jollibee_was_featured_in_katseyes_latest/",
+    "confidence": 0.9
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=en-PH&gl=PH&ceid=PH:en",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "PSEi, PHP slip on rise in crude oil prices - pna.gov.ph",
+          "score": 5,
+          "reasons": [
+            "boost_milestone_signal",
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Over 10,000 Romblon residents benefit from Uplift cash aid - Inquirer.net",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Up to P6.50/liter hike in oil prices looms next week - Philstar.com",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Habagat triggers expanded red rainfall warning in Western Visayas - Inquirer.net",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "QC to impose liquor ban on Marcos’ SONA day - The Manila Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "OCTA: 71% of adult Filipinos want law, evidence to guide impeachment - pna.gov.ph",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "50th year of Treaty of Amity ‘deeply personal’ for Marcos - Philstar.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Indak-Indak showdown moves to Coastal Road - SunStar Publishing Inc.",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "China blasts Philippines vessels with water cannons anew - Philstar.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "More areas under Signal No. 2 as 'Kiyapo' slightly intensifies - Philstar.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Envoy: U.S. showers ASEAN with capital - Daily Tribune",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "From Commitment to Delivery: African Ministers Chart a Path to Fund the Health of Women and Children - PMNCH - Partnership for Maternal, Newborn and Child Health",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump says he will dismantle the ICC ‘brick by brick’. It could be his most chilling move of all | Steve Bloomfield - The Guardian",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Philippines keeps US sugar quota, climbs to second-largest - Manila Bulletin",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Citi stresses human oversight in AI deployment - Newsbytes.PH",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "DOE: Indonesia assures PH of coal supply - The Manila Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The most vulnerable AI products are also some of the most commonly exposed online - Cybersecurity Dive",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "EU listings confirm shorter battery lifespan for new Galaxy foldables - GSMArena.com news - GSMArena.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PNP: 2 nabbed over pro-Marcos vlogger slay - Inquirer.net",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lacson says probe into Taguig projects identifies 3 alleged bagmen - Inquirer.net",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "Philippines",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=PH",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "status": "disabled",
+        "message": "disabled for countries where language wiki is too global"
+      },
+      "filters": [
+        {
+          "title": "Avengers: Doomsday Official Trailer",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A major global entertainment franchise trailer, highly relevant for global culture mapping."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Jollibee Featured in KATSEYE's Latest Music Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Strong cultural signal showing Filipino brand Jollibee in a global music video, notable for Philippine pride."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avatar: Seven Havens Official Teaser",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:New installment in a popular global franchise, relevant for global culture mapping."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers Doomsday Trailer Breakdown & Easter Eggs",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular YouTube content analyzing a major global entertainment trailer, relevant for culture mapping."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Bugoy na Koykoy - Tatlong Wife (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music video by a known Filipino artist Bugoy na Koykoy, relevant in local pop culture and internet trends."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "MSC SA EWC Group Stage Day 2 (PH) - Mobile Legends Tournament",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Relevant esports event for the Philippines, reflecting local gaming culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "JENNIE - Less than a Lover (Official Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Official music video by a globally recognized K-pop artist, relevant in global pop culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "SWEETNOTES Music Live 2026 - Romantic OPM Top Hits Medley",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music medley of popular Filipino songs, relevant in local music culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Starting Over Using Only Robux in Keyboard Escape (Roblox Gameplay)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content relevant to Roblox community, niche but notable in internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The USD/PHP exchange rate is about to breach the 62 peso mark.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Katy Perry - The One That Got Away (Lyrics)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Martin Romualdez allegedly stashed his Php 5.4 billion DigiPlus stake through Clearspring Holdings Corp. with some help from frat brod Atty. Jose Paras, according to the Ombudsman",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "America's strategy toward the Philippines.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ROYALS AND GLOBAL BILLIONAIRES: How did Heart, wife of the “POOREST SENATOR,” become one of 0.000048% of the global population buying haute couture?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lakas maka-gaslight ha. I suppose that Sheriff a few years ago was the real violent person for striking Sara's fist with his face. LOL",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "It’s been 8 years since PH fertility rate dropped from replacement levels",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Di ko talaga gets yung uproar about Pax Silica, especially with China having now formed WAICO as a counter-organization.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Now that \"Barefoot General\" Mike Logico is PMA Superintendent, let's look back to 2021 when he humbled Robin Padilla on Facebook",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "A Mindanoan Gen Z's Insight to the Current State of Political State of the Philippines",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wala ba tayong batas para ma-control ang walang tigil na imaginary “high demand” na sinasabi ng mga developers?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sen. Lacson: Shoot sa Kaldero",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "From friends to whatever it is now lol",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Told my German Cousin about Robin Padilla",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sana nman at least 2 witnesses a day na next Article of impeachment.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Investigation of 2019 SEA Games Involving Sen. Cayetano",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline about a political investigation; somewhat relevant but more news than cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Chel Diokno Calls for Better Protection for Delivery Riders",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political/social advocacy news, somewhat relevant locally but not a cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Is this how we vote for leaders?",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic political commentary without a clear trend or cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Another pdf, dumadami mga to, cna-claim sa comment dds \"rin\" daw.",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opaque and confusing title with no clear cultural or internet trend relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ang weird lang. Di naman nila kilala personally ang tao.",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too vague and generic, no clear trend or cultural relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "[LIVE] | MSC AT EWC Group Stage Day 2 | (ENG)",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_recurring_hype"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Editor knows the assignment",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too generic and opaque, no clear cultural or trend relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "5 min lothars galawan ng prosecution",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opaque and unclear title, no cultural or trend relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Unseen events ng day 7 ng impeachment trial",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_recurring_hype"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ronald Llamas explains why VP Sara still leads in 2028 election surveys.",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "rosenborg vs man united",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "boban marjanovic sga philippines",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "lotto result july 24 2026 philippines today",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "espn",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "stuart fails to save the universe",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "result today",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "lebron james",
+          "score": -1,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "iloilo city floods",
+          "score": -1,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "google flights",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "miami heat",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "[HUB] Weekly Help Thread, Random Discussion, Events This Month, +more",
+          "score": -4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate",
+            "penalize_recurring_hype"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "PSEi, PHP slip on rise in crude oil prices - pna.gov.ph",
+        "source_name": "pna.gov.ph",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMR3lHWUl4LUZrdzNFb2VDRlJmWktLcl9PUUdxNC00aHJwSVBpTVVKSU9Mbk1uUHA4NVF3MmNSMFlpOXc2eVNVWG9GN1BFbnc5?oc=5",
+        "published_at": "Fri, 24 Jul 2026 13:20:27 GMT",
+        "snippet": "PSEi, PHP slip on rise in crude oil prices pna.gov.ph [ANALYSIS] What’s driving the current Philippine stock market rally? Rappler Oil at $100, record-low peso drag PSEi lower Inquirer.net Stocks inch higher on bargain hunting after slump BusinessWorld Online PSEi dips due to higher oil prices, US tariffs Manila Bulletin",
+        "short_explanation": "Rising oil prices weaken Philippine stock market and peso, affecting economy and investments."
+      },
+      {
+        "title": "Over 10,000 Romblon residents benefit from Uplift cash aid - Inquirer.net",
+        "source_name": "Inquirer.net",
+        "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUjdjeFExQ1ViVHJYWHE3TWdVYmVvX0pBRmVwUFFWNHV3bkR3eXVjVHlNMjNkUXFaTXVIWjBxOVd1NUNqdHlvcF91RkRXT3VLdU92cDFOdWdpRi1OaGNqS05PTDBTLVlOaWd3R3VOdVJOYnc0bURuRnBrMjJ1X2QybE9PZ2tELUtUT2NjNk5VT2tra0pYdVRTTDNLRdIBoAFBVV95cUxQNjdieVhuSXFLazZQWE1kSmtZYWEwRHVobU9LTnVQZW1BTWpfejNfb3o0U0NxSUE0Nml2elhBeGNrREJRYWg2VzNNOC1mTU9mQ0oxdEZSZG02UzlpR2FiQkt2MTEzd2ZUWkxKb0hINFJVamZMNmZqbVZBek12OFNGaGJfX1RsUnRNUjU3OHg2TFlkQWx1d3NKS09xRDhkdUZy?oc=5",
+        "published_at": "Fri, 24 Jul 2026 09:35:00 GMT",
+        "snippet": "Over 10,000 Romblon residents benefit from Uplift cash aid Inquirer.net PSA: Not all CBMS-listed households qualify for UPLIFT cash aid pna.gov.ph PH’s P22.7-B savings to fund programs to ease oil price hike woes: Malacañang ABS-CBN 77K near-poor WV families to receive monthly assistance Panay News DSWD to distribute ₱1.93B to over 170K UPLIFT beneficiaries in NIR over six months Digicast Negros",
+        "short_explanation": "Cash aid helps over 10,000 Romblon residents cope with rising living costs."
+      },
+      {
+        "title": "Up to P6.50/liter hike in oil prices looms next week - Philstar.com",
+        "source_name": "Philstar.com",
+        "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQVFmSTJCdDRSXzFqVG5oWGhjR1hrZ2xMQ2pVY09JT0xPczlaYzRJbkxKRFBuNjBaQ05XS0tDXzA3djFHbFpZOFlyMWQ0bU9Vcnc0U3JJNkIzOUpRUGNOU0R3RXRTaW1XMFJrQVdoUDBJTnAzS3VTUThDX2F3ZG9FYVBWaFZPOWVqN0FSUWFuMno0LXNxTmpMLTRIONIBogFBVV95cUxPZ1phNjFGMVFqQkt0X1JHR015RnA1OUZwdXFrdUxPRVVodXl4elZ0S0daaUZ0QlJrTE1xRWxFUDFRLWJvTVZYOG9UdGJCU3JJV1U1ai1EUWV1cVVpMUZRQWRPbmFBX3NXM3V4QXJqVVd2eUpid0FyM3FRUXVFeXpnRVBJQkg4LXJFVGlnRk1TTk1xNGxHZlVWWWkwUzhSYXhfWHc?oc=5",
+        "published_at": "Fri, 24 Jul 2026 16:00:00 GMT",
+        "snippet": "Up to P6.50/liter hike in oil prices looms next week Philstar.com See more headlines & perspectives on Google News",
+        "short_explanation": "Oil price increase expected, raising fuel costs and impacting daily expenses."
+      },
+      {
+        "title": "Habagat triggers expanded red rainfall warning in Western Visayas - Inquirer.net",
+        "source_name": "Inquirer.net",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVi1JNGQ2a2VXemtPQUlEenBia0tkNnp5QTZYSExrcmhYMUtVeHoxLWZZSHFVVkRNcEdGaFJ4SzBKc05MekhhTi1idUVDTl8xUU4zdkRiMTAzY01pOG9XbUVDb2Q4V0twSDhxN3l5b0ZUYmtkc0pzbXkxTXpTM05DQUNsNjFqWTRpRHJJSjJuSmx4LTdJU3lxYlczbG1ra1JfYlBlTzJn0gGrAUFVX3lxTFBqX1RoMnJqT2c1d3lSZm1EUThjWGNkcGVSR2lXcXB4ODJtWUFIR3ZkY1lwVXVpUE5xV3Itbnl2Tk9WN3hrb1lRalEwTUE1cVFoRVNLWmxrVWRjdFEwSGhoWGFqTVQ0YktkNVBCWEFiVERiTDMyZkxoSUF6VFVycTYtcE5XYzlLZHpKREYyU3UtTnZHNEcxNGd0Sy16ZDgtU1hZNkhHb1ZPMl9JTQ?oc=5",
+        "published_at": "Fri, 24 Jul 2026 09:30:00 GMT",
+        "snippet": "Habagat triggers expanded red rainfall warning in Western Visayas Inquirer.net ‘Kiyapo’ unleashes floods across PH Inquirer.net Emergency ops center alert status raised amid enhanced monsoon rains pna.gov.ph 'Kiyapo' makes landfall in Cagayan; Signal No. 2 still up over parts of Northern Luzon Philstar.com PAGASA: Brace for rain from potential tropical cyclone Kiyapo, southwest monsoon Rappler",
+        "short_explanation": "Heavy monsoon rains cause flooding warnings, threatening safety in Western Visayas."
+      },
+      {
+        "title": "QC to impose liquor ban on Marcos’ SONA day - The Manila Times",
+        "source_name": "The Manila Times",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGVGcEFobzhZOWpTQS1WQktlOFppMzRXSmtSZnJiMm5TempJdWlpd0QxeFM3SXpRbG8wYkhzUzFrMThWUDg3ZUo5c2hmaUFrRHdGZWlsUVpIa1dncHVWQVZEdWJueng0ZmFpWHRkNUdMeTNPeUFTWXRCa0V4VkxMakEwNzZaUVVPQmFORS0wZVY4U0pmR0hBUXdJQkxGMmtRXzJYQldB0gGrAUFVX3lxTE1IWlNQcmZXVDl0dVNMZGp4UV9hU3prSnplZlcyVHpTckstcXZVbFN4b0FkUkcxR29BYnNHcUc4cUVUUU5hUHlJTmlJRGVOdUhEWk9TdEhJMjBySGtPQjE2MlI1N3RJTHM4V2RlRTcwZ0RPbXBaeW9UNzA0S2VySVJOMDFTbHEySkllLW5qX2duNHFUOUJabHMyZ2ZKMXNhTmR4aHRXWC00TVFyNA?oc=5",
+        "published_at": "Fri, 24 Jul 2026 16:05:00 GMT",
+        "snippet": "QC to impose liquor ban on Marcos’ SONA day The Manila Times PNP calls on SONA rally organizers to be vigilant vs agitators pna.gov.ph Marcos teases new chapter in corruption fight Inquirer.net What do Filipinos want to hear from Marcos’ fifth SONA? Rappler Sona 2026: What Filipinos need to hear (2) Inquirer.net",
+        "short_explanation": "Liquor ban in Quezon City during Marcos’ SONA aims to maintain public order."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Avengers: Doomsday Official Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Entertainment)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-20T13:00:20Z",
+        "source_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "external_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "context": "Marvel Entertainment. Doomsday arrives December 18th.\n \nExperience Avengers: Doomsday on bigger, brighter, & more immersive screens. Tickets are now on sale exclusively for Infinity Vision certified theaters: fandango.com/avengersdoomsday \n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stre",
+        "short_explanation": "New Avengers movie trailer excites Filipino Marvel fans anticipating December release."
+      },
+      {
+        "title": "Jollibee Featured in KATSEYE's Latest Music Video",
+        "platform": "reddit",
+        "source_label": "r/Philippines",
+        "score_label": "r/Philippines hot #5",
+        "rank_score": 960,
+        "published_at": "2026-07-24T07:45:00+00:00",
+        "source_url": "https://www.reddit.com/r/Philippines/comments/1v54n5o/omg_jollibee_was_featured_in_katseyes_latest/",
+        "external_url": "https://www.reddit.com/r/Philippines/comments/1v54n5o/omg_jollibee_was_featured_in_katseyes_latest/",
+        "context": "I may be OA, but this is my first time seeing Jollibee, something that is highly remarkable and recognised from PH and worldwide- featured in a big global girl group's music video, such as Katseye here. Idk, but I felt surprised and very proud to see something very noticeable from our country featured. I've been waiting for their comeback since they dropped teasers of their \"ANIMAL\" mv. The MV and",
+        "short_explanation": "Jollibee appears in global KATSEYE music video, sparking Filipino pride."
+      },
+      {
+        "title": "Avatar: Seven Havens Official Teaser",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Avatar Legends)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-23T21:01:45Z",
+        "source_url": "https://www.youtube.com/watch?v=RvksPficuOU",
+        "external_url": "https://www.youtube.com/watch?v=RvksPficuOU",
+        "context": "Avatar Legends. Avatar: Seven Havens premieres October 9 only on Paramount+.\n\nAvatar: Seven Havens is an all-new series from creators Michael Dante DiMartino and Bryan Konietzko. Set in a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. In this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both huma",
+        "short_explanation": "New Avatar series teaser premieres, intriguing Filipino fans of the franchise."
+      },
+      {
+        "title": "Avengers Doomsday Trailer Breakdown & Easter Eggs",
+        "platform": "youtube",
+        "source_label": "YouTube trending (New Rockstars)",
+        "score_label": "trending #8",
+        "rank_score": 930,
+        "published_at": "2026-07-20T23:51:32Z",
+        "source_url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
+        "external_url": "https://www.youtube.com/watch?v=Nx-e-AaCNPE",
+        "context": "New Rockstars. Avengers Doomsday Trailer Frame-by-Frame breakdown and analysis by New Rockstars’ Erik Voss! Head to https://betterhelp.com/newrockstars to get 10% off your first month with our sponsor, BetterHelp. Therapy can be a meaningful space to reflect, grow, and create positive change in your life.\n\nTHE TRAILER IS FINALLY HERE! And Loki’s in it! Erik Voss breaks down the new Avengers Doomsd",
+        "short_explanation": "Detailed Avengers trailer analysis highlights Easter eggs, engaging Filipino viewers."
+      },
+      {
+        "title": "Bugoy na Koykoy - Tatlong Wife (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Bugoy na Koykoy)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-21T16:00:09Z",
+        "source_url": "https://www.youtube.com/watch?v=885bHRN_zTM",
+        "external_url": "https://www.youtube.com/watch?v=885bHRN_zTM",
+        "context": "Bugoy na Koykoy. Join my FREE Telegram group: https://t.me/koykoysorrent0\nShot by Tranqs\nProd by Eversince @youngeversince   \nMix and Mastered by Ghost\n\nSpecial appearances by Soysoy, Ramil, Ara & Queen\n\nShop here:\nhttps://dailyflightglobal.com\nIG/FB: @dailyflightglobal \n\nInstagram:\n@bugoynakoykoyofficial\n\nTiktok:\n@bugoynakoykoyofficial\n\nTwitter:\n@koykoysorrento\n\n2 Joints Enterprise:\nhttps://www.f",
+        "short_explanation": "Bugoy na Koykoy's new music video 'Tatlong Wife' trends among Filipino youth."
+      },
+      {
+        "title": "MSC SA EWC Group Stage Day 2 (PH) - Mobile Legends Tournament",
+        "platform": "youtube",
+        "source_label": "YouTube trending (MPL Philippines)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-23T15:45:11Z",
+        "source_url": "https://www.youtube.com/watch?v=DV2QBgj6tts",
+        "external_url": "https://www.youtube.com/watch?v=DV2QBgj6tts",
+        "context": "MPL Philippines. 🏆Nagpapatuloy ang aksyon habang naglalaban ang mga koponan sa Group Stage\n \n⚔️ Sino ang makakakuha ng unang puwesto sa Knockout Stage?\n \n💭 May makikita ba tayong anumang kaguluhan ngayon?\n \n 🔗Para sa karagdagang impormasyon, bisitahin ang aming social media:\n📌Instagram: www.instagram.com/mlbbesports_official \n📌Facebook: https://www.facebook.com/MLBBEsportsOfficial/\n📌 YouTube: www.",
+        "short_explanation": "Mobile Legends esports tournament heats up, exciting Filipino gaming community."
+      },
+      {
+        "title": "The USD/PHP exchange rate is about to breach the 62 peso mark.",
+        "platform": "reddit",
+        "source_label": "r/Philippines",
+        "score_label": "r/Philippines hot #10",
+        "rank_score": 910,
+        "published_at": "2026-07-24T10:54:28+00:00",
+        "source_url": "https://www.reddit.com/r/Philippines/comments/1v580dn/the_usdphp_exchange_rate_is_about_to_breach_the/",
+        "external_url": "https://www.reddit.com/r/Philippines/comments/1v580dn/the_usdphp_exchange_rate_is_about_to_breach_the/",
+        "context": "submitted by /u/Gyro_Armadillo [link] [comments]",
+        "short_explanation": "Philippine peso nears 62 against USD, worrying locals about economy."
+      },
+      {
+        "title": "Martin Romualdez allegedly stashed his Php 5.4 billion DigiPlus stake through Clearspring Holdings Corp. with some help from frat brod Atty. Jose Paras, according to the Ombudsman",
+        "platform": "reddit",
+        "source_label": "r/Philippines",
+        "score_label": "r/Philippines hot #11",
+        "rank_score": 900,
+        "published_at": "2026-07-24T12:13:24+00:00",
+        "source_url": "https://www.reddit.com/r/Philippines/comments/1v59nkv/martin_romualdez_allegedly_stashed_his_php_54/",
+        "external_url": "https://www.reddit.com/r/Philippines/comments/1v59nkv/martin_romualdez_allegedly_stashed_his_php_54/",
+        "context": "submitted by /u/hyunbinlookalike [link] [comments]",
+        "short_explanation": "Ombudsman probes Martin Romualdez's alleged hidden Php 5.4 billion stake."
+      }
+    ]
+  }
+}

@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>World Signals Prototype</title>
+    <link rel="stylesheet" href="./public/styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Phase 1 Static Prototype</p>
+          <h1>World Signals</h1>
+          <p class="hero-text">
+            A zero-backend map for testing whether country cards feel worth
+            exploring. Hover a lit-up country for a quick read. Click for the
+            full card.
+          </p>
+        </div>
+        <div class="layer-switcher" role="tablist" aria-label="Signal layer">
+          <button class="layer-button is-active" data-layer="meme" role="tab" aria-selected="true">
+            Meme
+          </button>
+          <button class="layer-button" data-layer="news" role="tab" aria-selected="false">
+            News
+          </button>
+        </div>
+      </header>
+
+      <main class="layout">
+        <section class="map-card">
+          <div class="map-card-header">
+            <div>
+              <p class="section-label">Interactive Map</p>
+              <h2>Hover a highlighted country</h2>
+            </div>
+            <p id="status-line" class="status-line">Loading frontend data…</p>
+          </div>
+
+          <div class="map-stage">
+            <svg id="world-map" viewBox="0 18 1000 397" aria-label="World map" role="img">
+              <defs>
+                <filter id="countryGlow" x="-60%" y="-60%" width="220%" height="220%">
+                  <feDropShadow dx="0" dy="0" stdDeviation="3.2" flood-color="#ffc36b" flood-opacity="0.85"></feDropShadow>
+                </filter>
+              </defs>
+              <g id="base-layer"></g>
+              <g id="hotspot-layer"></g>
+              <g id="marker-layer"></g>
+            </svg>
+
+            <div id="tooltip" class="tooltip" hidden></div>
+          </div>
+
+          <div id="country-chips" class="country-chips" aria-label="Loaded countries"></div>
+        </section>
+
+        <aside class="detail-panel">
+          <div id="detail-panel-content" class="detail-panel-content">
+            <div class="empty-state">
+              <p class="section-label">Country Detail</p>
+              <h2>Pick a country</h2>
+              <p>
+                This panel will show the selected country's current card,
+                source links, and why it might be worth exploring.
+              </p>
+            </div>
+          </div>
+        </aside>
+      </main>
+    </div>
+
+    <script type="module" src="./public/app.js"></script>
+  </body>
+</html>

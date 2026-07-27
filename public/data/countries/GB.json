@@ -1,0 +1,804 @@
+{
+  "iso2": "GB",
+  "iso3": "GBR",
+  "country_name": "United Kingdom",
+  "flag": "🇬🇧",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 54.0,
+    "lon": -2.5
+  },
+  "updated_at": "2026-07-24T21:50:35+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "No 10 North",
+    "Manchester",
+    "government decentralization"
+  ],
+  "top_news": {
+    "headline": "Burnham takes government jet to No 10 North - The Telegraph",
+    "summary": "UK government opens No 10 North in Manchester, signaling shift to decentralize power from London.",
+    "why_it_matters": "Highlights UK's political focus on regional empowerment and government modernization.",
+    "source_name": "The Telegraph",
+    "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVhRU080dUlJTjNfMGhxMnFlSWxVY3IyZW9Oc0hEQ19pRkpzdXYzNjlpeUNjVC1QT0hMcEtvTmVnbk9ya20xcTB6RFdZRVRQckxyZTVUejZnODVOZGd5a1JfZTRsaUc5eWZtNWo5MnFPZ1RiQXVOWjM3R3VEdjNyeFg4NTRSQmhHc19sNTFqSXJzVWlFTnJyZFhZVURPdw?oc=5",
+    "published_at": "Fri, 24 Jul 2026 12:29:00 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Record 165 Migrants Arrive in UK on Mega Dinghy",
+    "platform": "reddit",
+    "explanation": "A single dinghy carrying 165 migrants is shocking due to its size and the risks involved, highlighting ongoing migration issues.",
+    "why_people_are_sharing_it": "It's surprising and sparks debate on migration and border control challenges.",
+    "tone": "political",
+    "local_context": "UK faces frequent small boat migrant crossings across the Channel.",
+    "source_url": "https://www.reddit.com/r/unitedkingdom/comments/1v5n7f4/mega_dinghy_carries_record_165_migrants_to_uk/",
+    "media_url": "https://www.reddit.com/r/unitedkingdom/comments/1v5n7f4/mega_dinghy_carries_record_165_migrants_to_uk/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=en-GB&gl=GB&ceid=GB:en",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Why the Latest Oil Rally May Be Far From Over - Crude Oil Prices Today | OilPrice.com",
+          "score": 5,
+          "reasons": [
+            "boost_milestone_signal",
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Burnham takes government jet to No 10 North - The Telegraph",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Europe wildfires latest: More than 130,000 evacuated across France and Spain - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Southport killer 'manipulating system' after psychiatric hospital transfer | ITV News - ITVX",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Explosion rocks Essex farm as major incident declared - The Telegraph",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Andy Burnham has done a U-turn to help Trump – and nobody has noticed - The Independent",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Karim Khan ousted from role as prosecutor of international criminal court - The Guardian",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Europe wins and Brazil loses in Trump tariff overhaul - Financial Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ship insurers restrict war coverage for Saudi Arabian cargoes in Red Sea - Financial Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Donald Trump threatens new EU tariffs in retaliation for fines on US tech groups - Financial Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "US firm swallows British vitamin company run by Dragons’ Den star - The Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘It’s not fair’: cafe owners frustrated over exclusion from business rates cut - The Guardian",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PlayStation Network outage resolved after thousands of gamers unable to play - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Splatoon Raiders Guide, Tips & Tricks - Nintendo Life",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "At least 21 killed as Ukraine and Russia continue to trade attacks - Al Jazeera",
+          "score": -2,
+          "reasons": [
+            "penalize_generic_crime_or_disaster",
+            "boost_unusual_geopolitics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Four officers seriously injured after police boat crashes into Westminster Bridge in central London - Sky News",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Four men die after car crashes into lamppost | ITV News - ITVX",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Police declare 'major incident' as weather change increases Cairngorms wildfire risk - BBC",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Woman, 25, charged after suspected car bomb intercepted near Irish border - Sky News",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Beach hero tells of attempt to save drowning girl and mum - BBC",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "unitedkingdom",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=GB",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "status": "disabled",
+        "message": "disabled for countries where language wiki is too global"
+      },
+      "filters": [
+        {
+          "title": "Ebenezer (2026 Movie) Official Trailer Featuring Johnny Depp as Ebenezer Scrooge",
+          "score": 11,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:This is a culturally significant film trailer featuring well-known actors and a fresh take on a classic character, making it a strong internet fixation and culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Record 165 Migrants Arrive in UK on Mega Dinghy",
+          "score": 9,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "ai:This is a notable current event with social and political implications, relevant to UK culture and news, but less of a native internet culture fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "JENNIE - Less than a Lover (Official Music Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular K-pop artist Jennie releasing a new music video is a strong internet culture signal with global appeal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "EA SPORTS FC 27 Official Reveal Trailer",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Highly anticipated video game reveal with a strong global gaming community presence, a clear culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Sidemen React to 'Meccha Chameleon' - All Pro Artists",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Sidemen are a well-known UK YouTube group with strong internet culture presence; this is a native internet fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Blade Runner 2099 Official Teaser - New Prime Video Series",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Highly anticipated sci-fi series teaser with strong cultural and internet buzz potential."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Burnham Begins Work at No 10 North",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "ai:This is a straightforward news headline about a political figure's routine activity, generic and less culturally distinctive."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Animal by KATSEYE Featuring Ed Sheeran Released",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music release involving Ed Sheeran has cultural relevance, though the title alone is generic."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Starting Over Using Only Robux in Keyboard Escape (Roblox Gameplay)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Roblox gameplay video with a niche but active internet community, somewhat culture relevant."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "D-Block Europe x Morad x Big Papa313 - SEPA (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular UK rap group collaboration, relevant to UK urban music culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "HMRC Invites People to Voluntarily Pay More Tax",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Interesting policy-related news but reads like a typical news headline without strong internet culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Water Company Executives Get Pay Rises Despite Bonus Ban and Public Outrage",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Relevant social issue but reads like a typical news headline without strong cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "British Gas Owners Have Made Over £56bn Since Privatisation 40 Years Ago",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Economic news with some cultural relevance but reads like a standard news headline."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Influencer Apologises for Leaving Bathtub on Pen y Fan",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Somewhat niche and local internet story, but not a strong global culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Father who killed his newborn son jailed for life",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nines - Unreleased Intro (Official Audio)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘Posh George’, Two Passports, and a Fraudulent Identity: Convicted Fraudster and Nigel Farage Funder's Connections to Reform UK’s Murky Financial Structures",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Syrians jailed for raping drunk teenager at HMO",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nearly £250,000 wiped off average house price in central London in a year in 23% slump",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Essex library temporary closed after 'person defecated in several places'",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Woman, 25, charged with transporting New IRA explosives into Northern Ireland had 'Semtex ( a brand of plastic explosive) and detonator', court hears",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Fifty women tell BBC they were pressured into having sex with strangers",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gang who tortured man in shipping container for dating sister jailed for 30 years",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Failed asylum seeker who raped a 14-year-old schoolgirl he met online says he shouldn't be deported back to Egypt 'because he's bisexual'",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Zack Polanski and Angela Rayner clash as she rejects rent controls for London",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Five officers injured after police boat hits bridge in London",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "UK job vacancies rebound in June to reach highest level since 2023",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "'Significant incident' as more than 100 firefighters tackle massive blaze at industrial site in Essex",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "'Extremely significant' bomb in car intercepted on way to NI, Irish police say",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Blunkett Says Burnham Will Limit Benefits for Young People",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political commentary headline, generic and not a strong internet culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Most People Arrested During Henry Nowak Protests Had Domestic Abuse Reports",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opaque without context on who Henry Nowak is; reads like a news headline with negative framing, less cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Burnham urged to award £2.4bn military satellite contract to Airbus over US rival",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Prime Minister will fund Bristol and Bath mass transit system",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump renews 10% tariff on UK goods hours before temporary levies expire",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "1 Winner From Every World Cup",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_sports"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "rankingi pogoń szczecin – legia warszawa",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "fatigue",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "prince william",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "euro lottery results",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "yan diomande",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "tara reid",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "tyrone gaa",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "isack hadjar",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "jimothy raccoon",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "chuck russell",
+          "score": -6,
+          "reasons": [
+            "penalize_generic_tragedy",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Why the Latest Oil Rally May Be Far From Over - Crude Oil Prices Today | OilPrice.com",
+        "source_name": "Crude Oil Prices Today | OilPrice.com",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYUFsWTh1eFBQbXlfTnNUdl9ELXotbWZtWnV1TGhfdnhoSGgzY2hKZjRXUEFkalk2NmItWW45UzFJMUtlUnBzRGNJSTlSV3kxX2l5ZWl6Mzd4WktiUkVtQ1Fac09MV1hLOVdFR0Y4ZUQ2NWwzV1pwVmpYaTRlelhKQUtuYVB1d3JPdjJZVFEySC1yUdIBlwFBVV95cUxOS2drb1pvZ0xabmd1LTlPak1mVkZwZWhFaDlyaFF4M3dXbHV1T0Jid1hxby04M2ZhR0FyaXVKcVRvc2hHOV9Za1FxWUIwVUk4eXk0V2RtQ3JqVjJwWGRubGRyaXlpa3YxUlduYURVWDlRdXFPcVJ2SDNhd3FvTUZQd3dVWUJrOTZLTk53dFNPQnE3cFQ5YUpn?oc=5",
+        "published_at": "Fri, 24 Jul 2026 16:15:00 GMT",
+        "snippet": "Why the Latest Oil Rally May Be Far From Over Crude Oil Prices Today | OilPrice.com Oil prices hit $100 for the first time since May BBC Oil falls back below $100 as Trump weighs ‘massive attack’ Financial Times Oil passes $100 a barrel after Houthis ‘strike two tankers’ in Red Sea The Telegraph How the Bab al-Mandab blockade threat helped push oil back above $100 The Guardian",
+        "short_explanation": "Oil prices rising affects UK economy and energy costs, important for consumers and businesses."
+      },
+      {
+        "title": "Burnham takes government jet to No 10 North - The Telegraph",
+        "source_name": "The Telegraph",
+        "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVhRU080dUlJTjNfMGhxMnFlSWxVY3IyZW9Oc0hEQ19pRkpzdXYzNjlpeUNjVC1QT0hMcEtvTmVnbk9ya20xcTB6RFdZRVRQckxyZTVUejZnODVOZGd5a1JfZTRsaUc5eWZtNWo5MnFPZ1RiQXVOWjM3R3VEdjNyeFg4NTRSQmhHc19sNTFqSXJzVWlFTnJyZFhZVURPdw?oc=5",
+        "published_at": "Fri, 24 Jul 2026 12:29:00 GMT",
+        "snippet": "Burnham takes government jet to No 10 North The Telegraph Chancellor joins PM on first day working from No 10 North BBC Andy Burnham spends first working day at new No 10 North in Manchester – UK politics live The Guardian No10 North open for business as the Government’s new situation room for making Britain better GOV.UK No10 North opens at GCHQ’s Heron House GCHQ",
+        "short_explanation": "No 10 North is a new government hub in Manchester, showing decentralization of UK politics."
+      },
+      {
+        "title": "Europe wildfires latest: More than 130,000 evacuated across France and Spain - BBC",
+        "source_name": "BBC",
+        "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5FNGVBSUN5aGFrYW1tWFU4TTdBeUstSzJDYno1cW8wTk9HSDZKQmVTc09WanU1d1lpMGhKb1NNMDNHOGZacG1pTzFQLXBQWjRhZ3BodkZ0UQ?oc=5",
+        "published_at": "Fri, 24 Jul 2026 20:23:40 GMT",
+        "snippet": "Europe wildfires latest: More than 130,000 evacuated across France and Spain BBC Live: More than 100,000 evacuated in France's fire-hit southwest, Madrid fire 'impossible to control' France 24 ‘Apocalyptic’ wildfires force tourists to flee French peninsula by boat The Telegraph France and Spain evacuate 150,000 as ‘unprecedented’ wildfires spread Financial Times More than 100,000 people flee or lock down as wildfires sweep France and Spain The Guardian",
+        "short_explanation": "Severe wildfires in Europe cause mass evacuations, raising concerns about climate and safety."
+      },
+      {
+        "title": "Southport killer 'manipulating system' after psychiatric hospital transfer | ITV News - ITVX",
+        "source_name": "ITVX",
+        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa2wxUURhSDFER3I3QlgtWTZkLXU1WC1zRk0xRmdsMFVkck4yejhDaFNUTVZjUVltR2NyVGZsLUJEQ0NkdF9pUjViRjlMNlZ1NE1BZDIxa0VzdzR4S0J2eXZmNmxFb25FNFQ3ZFpCdnBUdUI2LU5nNmRLWUpGdnRoNnRRa2FmM290TDk4eFRBWUlpWXlKd0RCMHhUNUY4ZU5ZVUx6NzJhaXcxRFRuVURfdnpoNVkyd2c?oc=5",
+        "published_at": "Fri, 24 Jul 2026 16:35:52 GMT",
+        "snippet": "Southport killer 'manipulating system' after psychiatric hospital transfer | ITV News ITVX Southport killer Axel Rudakubana appears to be manipulating the system, families' lawyer says BBC Southport killer Axel Rudakubana moved to Broadmoor psychiatric hospital The Guardian Southport killer’s attempts to manipulate doctors exposed by report The Telegraph Southport killer Axel Rudakubana moved to psychiatric hospital BBC",
+        "short_explanation": "Southport killer's hospital transfer sparks debate on justice and mental health system abuse."
+      },
+      {
+        "title": "Explosion rocks Essex farm as major incident declared - The Telegraph",
+        "source_name": "The Telegraph",
+        "source_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE83clotVlRLOHZhUEc2MXIwRU9hUWJmaHNtdDN3ZmxfTkZ0Yk5UNnhfTlMxc1d1VzBqeTY5LVlUSEVqUHVQQlVCWHlGQTM2ejRQb3k3a1U4cXFfSVJqMUxlU2RiTnVNd0hKZnl4SXRmQlJYbzFHeUMwNXhZdw?oc=5",
+        "published_at": "Fri, 24 Jul 2026 17:35:00 GMT",
+        "snippet": "Explosion rocks Essex farm as major incident declared The Telegraph Major incident as 100 firefighters tackle blaze BBC More than 100 firefighters tackling industrial unit blaze in Essex BBC More than 100 firefighters at major fire in Essex following 'explosion' ITVX More than 100 firefighters tackling blaze at industrial unit after ‘large explosion’ in Essex The Independent",
+        "short_explanation": "Essex farm explosion led to major fire, highlighting emergency response and local safety fears."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Ebenezer (2026 Movie) Official Trailer Featuring Johnny Depp as Ebenezer Scrooge",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Paramount Pictures)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-23T23:44:46Z",
+        "source_url": "https://www.youtube.com/watch?v=A7lyvgnDuDE",
+        "external_url": "https://www.youtube.com/watch?v=A7lyvgnDuDE",
+        "context": "Paramount Pictures. Bah! Humbug! Watch the new trailer for #EbenezerMovie starring Johnny Depp. Only in theatres November 13.\n\nThis November, Johnny Depp is Ebenezer Scrooge. The name you know, the story you don’t. From Ti West, EBENEZER also stars Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Arthur Conti, Ellie Bamber, Henry Lloyd-Hughes, Charlie Murphy, with Tramell Tillman and I",
+        "short_explanation": "New movie starring Johnny Depp as Ebenezer Scrooge, a famous Christmas character."
+      },
+      {
+        "title": "Record 165 Migrants Arrive in UK on Mega Dinghy",
+        "platform": "reddit",
+        "source_label": "r/unitedkingdom",
+        "score_label": "r/unitedkingdom hot #16",
+        "rank_score": 850,
+        "published_at": "2026-07-24T20:34:42+00:00",
+        "source_url": "https://www.reddit.com/r/unitedkingdom/comments/1v5n7f4/mega_dinghy_carries_record_165_migrants_to_uk/",
+        "external_url": "https://www.reddit.com/r/unitedkingdom/comments/1v5n7f4/mega_dinghy_carries_record_165_migrants_to_uk/",
+        "context": "submitted by /u/pppppppppppppppppd [link] [comments]",
+        "short_explanation": "Record number of migrants arriving in UK by boat, sparking immigration debates."
+      },
+      {
+        "title": "JENNIE - Less than a Lover (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (JennieRubyJaneVEVO)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T04:00:05Z",
+        "source_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "external_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "context": "JennieRubyJaneVEVO. Official music video for “Less than a Lover” by JENNIE out now: https://jennie.lnk.to/LessthanaLover\n\nFollow JENNIE -\nInstagram: https://www.instagram.com/jennierubyjane\nTikTok: https://www.tiktok.com/@jennierubyjane\nTwitter: https://twitter.com/jennierubyjane\nhttps://jenn.ie\n\nFollow JENNIE HQ -\nInstagram: https://www.instagram.com/jennie_hq\nTikTok: https://www.tiktok.com/@jenn",
+        "short_explanation": "Official music video by Jennie, popular K-pop artist, trending among UK fans."
+      },
+      {
+        "title": "EA SPORTS FC 27 Official Reveal Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (EA SPORTS FC)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-23T15:57:07Z",
+        "source_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "external_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "context": "EA SPORTS FC. Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600\n\nStep into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay: https://x.ea.com/89601\n\nLearn more about FC 27 Gameplay, Career, FUT, and",
+        "short_explanation": "New football video game EA SPORTS FC 27 launching, exciting UK gamers and fans."
+      },
+      {
+        "title": "Sidemen React to 'Meccha Chameleon' - All Pro Artists",
+        "platform": "youtube",
+        "source_label": "YouTube trending (MoreSidemen)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-23T19:30:23Z",
+        "source_url": "https://www.youtube.com/watch?v=xJfIfwLHdNg",
+        "external_url": "https://www.youtube.com/watch?v=xJfIfwLHdNg",
+        "context": "MoreSidemen. 🎥 Watch Side+ FREE with 3-Day Free Trial: https://SidePlus.com\n🍗: Order food NOW at: https://www.eatsides.com/\n🍹: XIX Vodka: https://www.xixvodka.com/\n👉🏻: Subscribe to our Reacts Channel: https://www.youtube.com/SidemenReacts 👈🏻\n👕: Sidemen Clothing: https://www.sidemenclothing.com\n📸: Sidemen Instagram: http://www.instagram.com/Sidemen\n🐤: Sidemen Twitter: http://www.twitter.com/Sidemen",
+        "short_explanation": "Popular UK YouTube group Sidemen react to a music video, engaging their audience."
+      },
+      {
+        "title": "Blade Runner 2099 Official Teaser - New Prime Video Series",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Prime Video)",
+        "score_label": "trending #8",
+        "rank_score": 930,
+        "published_at": "2026-07-24T17:22:12Z",
+        "source_url": "https://www.youtube.com/watch?v=0Dr8I_RyRCg",
+        "external_url": "https://www.youtube.com/watch?v=0Dr8I_RyRCg",
+        "context": "Prime Video. Welcome to a future we no longer control. Blade Runner 2099, a new series, premieres November 25 on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. P",
+        "short_explanation": "New sci-fi series Blade Runner 2099 premieres on Prime Video, attracting UK viewers."
+      },
+      {
+        "title": "Burnham Begins Work at No 10 North",
+        "platform": "reddit",
+        "source_label": "r/unitedkingdom",
+        "score_label": "r/unitedkingdom hot #24",
+        "rank_score": 770,
+        "published_at": "2026-07-24T05:32:45+00:00",
+        "source_url": "https://www.reddit.com/r/unitedkingdom/comments/1v527ej/burnham_to_spend_first_day_working_from_no_10/",
+        "external_url": "https://www.reddit.com/r/unitedkingdom/comments/1v527ej/burnham_to_spend_first_day_working_from_no_10/",
+        "context": "submitted by /u/Tartan_Samurai [link] [comments]",
+        "short_explanation": "Unclear local trend."
+      },
+      {
+        "title": "HMRC Invites People to Voluntarily Pay More Tax",
+        "platform": "reddit",
+        "source_label": "r/unitedkingdom",
+        "score_label": "r/unitedkingdom hot #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T17:49:05+00:00",
+        "source_url": "https://www.reddit.com/r/unitedkingdom/comments/1v5il2y/you_can_just_send_us_the_money_hmrc_tells_people/",
+        "external_url": "https://www.reddit.com/r/unitedkingdom/comments/1v5il2y/you_can_just_send_us_the_money_hmrc_tells_people/",
+        "context": "submitted by /u/pppppppppppppppppd [link] [comments]",
+        "short_explanation": "UK tax authority encourages voluntary extra tax payments, stirring public interest."
+      }
+    ]
+  }
+}

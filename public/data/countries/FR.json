@@ -1,0 +1,870 @@
+{
+  "iso2": "FR",
+  "iso3": "FRA",
+  "country_name": "France",
+  "flag": "🇫🇷",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 46.6034,
+    "lon": 1.8883
+  },
+  "updated_at": "2026-07-24T21:51:53+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "incendies",
+    "Gironde",
+    "mobilisation armée"
+  ],
+  "top_news": {
+    "headline": "Incendies en Gironde : feu menace Bordeaux, Macron mobilise l'armée pour renfort maximal",
+    "summary": "Incendies ravagent la Gironde, menaçant Bordeaux; Macron ordonne mobilisation militaire pour soutien maximal.",
+    "why_it_matters": "Montre l'impact croissant du changement climatique sur la vie quotidienne en France.",
+    "source_name": "Le Monde.fr",
+    "source_url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOdWNDTEZCaWdXNmh3NzJ1ZVZIUTQxVlFtYjN3cUF1UkpPOWpvZVJhWU1Ca0xfQVpReWtyVlJpN0RvcXhic3hrWE02VXFybWduVFZNQmFfUnVkVUpIeVJmUkpZZlN0dDY0LUV1RXhXdXk2b2kxdVhBdlRSTno1YktTVmRndHBUMFZXbUVaS1R1LVpQdUFnTFdiVGlRTmxuT2cyVEpWeWFEZFVmbTUxTjBqdTlIdDZUMEtPMTFFTENqc3dNdDhmNXNOOTFPd041Q0hPTnEtOGFWdjhBNTZrSVd5NTd3VnVZQ2p2eGxRTDN2OC1aZ3hGclJjUEJqQ2tBZzF6ZlFQbF9rRlNrYkQ2SDh3dGhGbldQRjZ6ZzlNNC1ta1duU3dYekg2OS15aS1oaXA0SFhXZGF5R3pMX2g0eGc?oc=5",
+    "published_at": "Fri, 24 Jul 2026 21:00:54 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Les fangames SONIC ep2 - Creating the Perfect 2D Sonic",
+    "platform": "youtube",
+    "explanation": "A popular French YouTuber explores fan-made Sonic games, blending nostalgia with quirky indie creativity.",
+    "why_people_are_sharing_it": "Fans love discovering unique Sonic fangames and the humor in their imperfections.",
+    "tone": "wholesome",
+    "local_context": "French retro gaming culture and YouTube nostalgia content.",
+    "source_url": "https://www.youtube.com/watch?v=RmXSLV2mo-k",
+    "media_url": "https://www.youtube.com/watch?v=RmXSLV2mo-k",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=fr&gl=FR&ceid=FR:fr",
+      "items_seen": 32,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Amende infligée à Google : l’Union européenne va payer « un très lourd prix », menace Donald Trump - Le Monde.fr",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Bombardements meurtriers près de Kiev, des sanctions contournées… Le récap - 20 Minutes",
+          "score": 1,
+          "reasons": [
+            "boost_unusual_geopolitics"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "EN DIRECT, incendies : en Gironde, le feu se dirige vers Bordeaux ; Emmanuel Macron demande aux armées « de se mobiliser pour venir en renfort maximal » - Le Monde.fr",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "4ème canicule la semaine prochaine : confirmation d'une vague de chaleur intense jusqu'au week-end - La Chaîne Météo",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "\"Injustifiés\", \"extrêmement décevants\", \"infondés\" : comment les États réagissent-ils aux nouveaux droits de douane imposés par Donald Trump ? - RTL",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Pollution de l’air en Gironde : « Cela devient irrespirable », des particules nocives créées par les incendies à l’ouest et de l’ozone à Bordeaux - Sud Ouest",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Orages : voici les 46 départements placés en vigilance jaune ce samedi - CNews",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Coup de théâtre dans l’affaire du meurtre de Thomas Perotto à Crépol : la justice retient in extremis la circonstance aggravante de racisme - Le Monde.fr",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Deux départs de feux signalés dans le Gard : la circulation sur l’autoroute A54 dans le sens Arles-Nîmes fortement perturbée - Midi Libre",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Royaume-Uni : quatre jours après son arrivée à Downing Street, Andy Burnham déjà dans la tourmente - Le Monde.fr",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Le procureur général de la CPI Karim Khan démis de ses fonctions après des accusations de harcèlement sexuel - RFI",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Guerre en Iran: Donald Trump envisage 'une attaque massive', le Royaume-Uni retire son personnel diplomatique de Téhéran - tv5monde",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "DIRECT - Conflit au Moyen-Orient : le pétrole accélère sa baisse, le marché relativise les risques en mer Rouge - Le Télégramme",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "En crise, Volkswagen s’alarme et veut accélérer les économies - 20 Minutes",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dassault Systèmes en hausse de 8% sur un Cac 40 au rebond, le pétrole retombe sous les 100 dollars - Les Echos",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "« Dans 10 ans, un bon appareil offrira des expériences faisant appel aux cinq sens » : Samsung met les bouchées doubles dans l’IA - Le Figaro",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Après la panne du PSN, la mauvaise nouvelle tombe pour Tomb Raider Catalyst - La Crème Du Gaming",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PSN : pas de jeu en ligne sur PS4 et PS5, la panne mondiale est encore en cours - Les Numériques",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Anthropic sort Claude Opus 5, un modèle d’IA présenté comme moins dangereux pour la cybersécurité - Le Figaro",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Le stress monte dans la droite américaine qui craint un crash aux midterms à cause de l’Iran - Le HuffPost",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "france",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=FR",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/fr.wikipedia/all-access/2026/07/23",
+        "data_date": "2026-07-23",
+        "items_seen": 1000,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Lagui - OLIVIA VALERE (Official Music Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This is a trending music video by Lagui, a cultural product with potential internet and music culture relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Les fangames SONIC ep2 - Creating the Perfect 2D Sonic",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A niche gaming culture video about Sonic fangames, appealing to internet subculture and gaming communities."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "JENNIE - Less than a Lover (Official Music Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular K-pop artist Jennie releasing a new official video, strong internet and global pop culture relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "GIMS - FANTAISIE (Official Music Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular French artist GIMS releasing a new music video, relevant to internet and music culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "EA SPORTS FC 27 Official Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular global video game reveal trailer, relevant to gaming culture though somewhat generic as a news headline."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "SCROOGE Trailer (2026) Featuring Johnny Depp",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Movie trailer with a famous actor; relevant to entertainment culture but somewhat generic."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Keyboard Escape Gameplay: Finishing with the Golden Mask",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming video focusing on a specific game secret; niche but relevant to gaming internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Un si grand soleil - Week of July 27-31, 2026 Trailer",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:TV show episode trailer; relevant to French TV culture but generic as a headline."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Je Ressens la Douleur des Accidents dans la Vraie Vie !",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Une quatrième canicule arrive.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "HIMRA X @GAZO  - STRIP (Clip Officiel)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Coup de théâtre dans l’affaire du meurtre de Thomas Perotto à Crépol : la justice retient in extremis la circonstance aggravante de racisme",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ciel de Charente ce soir. Nuage noir , soleil orange et ciel jaune, la maison brûle.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Vue de Lacanau ce soir",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "100% logique (concours des finances publiques)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Xavier Niel et Cyril Hanouna s’associent dans l’audiovisuel",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"4eme canicule\" dans les Alpes maritimes on est encore dans la 1ere",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Le prêt au RN",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Comment Bernard Arnault tente d’imposer sa ligne à ses médias",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La chaîne officielle de Kaamelott sur Youtube diffuse maintenant en direct les premiers livres !",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "« Nous ne lâcherons rien » : à Paris, 200 sans-abri campent devant le Samusocial pour exiger un toit",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Le livre d’un député LFI publié dans la maison d’édition d’extrême droite Fayard de Vincent Bolloré",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "DIRECT. Incendie en Gironde : la préfecture ordonne d'évacuer l'ensemble de la presqu'île du Cap-Ferret, la surface parcourue par le feu a presque doublé dans la nuit",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "L’armée de l’Air & de l’Espace va renforcer la Sécurité civile avec un avion A400M transformé en bombardier d’eau - Zone Militaire",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Les incendies à répétition de ces dernières semaines nous cachent qqch (lol)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La crise au Moyen-Orient se propage à l’économie, les taux d’intérêt de la France dépassent 4 % pour la première fois depuis 2008",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Unédic Requests State to Stop Unemployment Fund Deductions",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political/economic news headline; relevant but generic and not a cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Presidential 2027: Government Supports Marine Le Pen",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political news headline; important but generic and not a native internet culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "France Insoumise Opposes Social Media Ban for Teens",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political debate headline; relevant but generic and not a native internet culture fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Confirmed: Fourth Heatwave to Hit France Next Week",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline about weather; important but generic and not a cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Age Verification on Social Media and Online Identity Checks",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News/discussion about digital identity verification; topical but generic and not a native internet culture fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jeudi CultureS - Monthly Culture Discussion Thread",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The title is a dated generic event name without clear cultural significance; it feels like a routine forum thread rather than a native internet fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Live: Gironde Wildfires - Over 110,000 Evacuations",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline about a crisis event; important but generic and not a native internet culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cookie (informatique)",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "L'Odyssée (film, 2026)",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Odyssée",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "XXX",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Forum Libre - General Discussion Thread",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic open forum thread title with no specific cultural or internet fixation value."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "celine dion",
+          "score": 2,
+          "reasons": [
+            "boost_culture_signal",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wikipédia:Accueil principal",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Spécial:Recherche",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Barbara Butch",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Richard Carapaz",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "mucoviscidose",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "darderi",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "rubio",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "andrey rublev",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "burning man",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "leon marchand",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "antoine de maximy",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "nathalie baye",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "marcos llorente",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "« Si on double le score d’Hidalgo, ce sera un exploit » : comment toute la gauche hors LFI a intégré sa défaite en 2027",
+          "score": 0,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_generic_query"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Amende infligée à Google : l’Union européenne va payer « un très lourd prix », menace Donald Trump - Le Monde.fr",
+        "source_name": "Le Monde.fr",
+        "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOS1hxaTVTZ3FvRjZ2ZDk2eWtuZVRWWEwtbnZNdzdhbEhkNXB0enl0NnE3djV1cmtTM05RNk9PWlU4VzJNMHhleWJ3VzRvU28yTG1KbXlHM2FEWXVsSDRJTzFyS1JHSVdBOFJiLUNqNnpXUlV0Z0QxTlVMYkZSYnhUdXNlamhuMG1iRUhxLUZsR083N19GV3dnYjBmWUtVcV82OGRidkdINFdlLXNmZ09wZm9VaVV6aWpDMW1wVEw0dGtrRW1tQkNlak52RVZuMzd4OXE1UkYwN3VMOFk4S1FIS05CdWx0blRPWmczUQ?oc=5",
+        "published_at": "Fri, 24 Jul 2026 18:35:16 GMT",
+        "snippet": "Amende infligée à Google : l’Union européenne va payer « un très lourd prix », menace Donald Trump Le Monde.fr \"Les Etats-Unis ne sont pas une vache à lait\": après l'amende record adressée par les Européens à Google, Donald Trump menace les Vingt-Sept de nouveaux droits de douane \"dans les plus brefs délais\" BFM « L'Union européenne paiera le prix fort » : Trump réplique par une procédure tarifaire après l'amende infligée à Google Les Echos L'UE inflige 890 millions d'euros d'amendes à Google RFI Trump annonce une enquête commerciale sur les amendes de l’UE contre les géants tech Yahoo Finance France",
+        "short_explanation": "EU fined Google; Trump threatens tariffs, showing US-EU tech trade tensions."
+      },
+      {
+        "title": "Bombardements meurtriers près de Kiev, des sanctions contournées… Le récap - 20 Minutes",
+        "source_name": "20 Minutes",
+        "source_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWm9jWkNqWE5GMVBYZU1wUXRVd3ZJX21zRlZ1OFVzMWlrdENNRndmRUNSb0ZrbFBiczhsdkRjYWRJY0xvX3lhRF9wakI2MHFPNzFvV25fYW9TWHM2UmJmaF9lUUZYODNxWkxVdHRjakZacVRxcnRzY0VoWGhoMUl4eGNtWmxhUXlKTFFGZXkxNm9jQmFPbExwWG9YOU11SzhhLVlGWVluZlMybzJwbkxfb0tLTE5hZTZqSnlfUV9od0NFZXZoQThwT1lWR2ZlV0hMMlFhdUMwU0xPcjRl?oc=5",
+        "published_at": "Fri, 24 Jul 2026 17:27:00 GMT",
+        "snippet": "Bombardements meurtriers près de Kiev, des sanctions contournées… Le récap 20 Minutes EN DIRECT, guerre en Ukraine : un tir de missile russe tue six personnes dans l’oblast de Kiev ; des bombes guidées russes font cinq morts à Sloviansk Le Monde.fr Guerre en Ukraine : La Russie réplique aux attaques de Kiev, au moins 15 morts après plusieurs frappes 20 Minutes En Ukraine, 10 morts et près de 100 blessés dans une attaque de missile russe près de Kiev franceinfo Dix morts et une centaine de blessés à Kyiv, le géant russe du e-commerce frappé, drone abattu en Roumanie… L’actu de la guerre en Ukraine ce vendredi 24 juillet Libération",
+        "short_explanation": "Deadly bombings near Kyiv highlight ongoing Ukraine conflict and sanctions issues."
+      },
+      {
+        "title": "EN DIRECT, incendies : en Gironde, le feu se dirige vers Bordeaux ; Emmanuel Macron demande aux armées « de se mobiliser pour venir en renfort maximal » - Le Monde.fr",
+        "source_name": "Le Monde.fr",
+        "source_url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOdWNDTEZCaWdXNmh3NzJ1ZVZIUTQxVlFtYjN3cUF1UkpPOWpvZVJhWU1Ca0xfQVpReWtyVlJpN0RvcXhic3hrWE02VXFybWduVFZNQmFfUnVkVUpIeVJmUkpZZlN0dDY0LUV1RXhXdXk2b2kxdVhBdlRSTno1YktTVmRndHBUMFZXbUVaS1R1LVpQdUFnTFdiVGlRTmxuT2cyVEpWeWFEZFVmbTUxTjBqdTlIdDZUMEtPMTFFTENqc3dNdDhmNXNOOTFPd041Q0hPTnEtOGFWdjhBNTZrSVd5NTd3VnVZQ2p2eGxRTDN2OC1aZ3hGclJjUEJqQ2tBZzF6ZlFQbF9rRlNrYkQ2SDh3dGhGbldQRjZ6ZzlNNC1ta1duU3dYekg2OS15aS1oaXA0SFhXZGF5R3pMX2g0eGc?oc=5",
+        "published_at": "Fri, 24 Jul 2026 21:00:54 GMT",
+        "snippet": "EN DIRECT, incendies : en Gironde, le feu se dirige vers Bordeaux ; Emmanuel Macron demande aux armées « de se mobiliser pour venir en renfort maximal » Le Monde.fr CARTE. Suivez au fil des heures l'avancée des incendies qui ravagent la Gironde et les Landes franceinfo Incendie dans les Landes : Parentis évacuée, Biscarrosse en proie aux flammes, 30 000 habitants touchés ici.fr EN DIRECT - Incendies : 19 000 hectares parcourus en Gironde, la préfecture annonce des évacuations près de Bordeaux Libération Incendie en Gironde : les visages de la route du feu, face au monstre entre Lacanau et Le Porge Sud Ouest",
+        "short_explanation": "Fires near Bordeaux prompt Macron to deploy army for emergency firefighting support."
+      },
+      {
+        "title": "4ème canicule la semaine prochaine : confirmation d'une vague de chaleur intense jusqu'au week-end - La Chaîne Météo",
+        "source_name": "La Chaîne Météo",
+        "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNXFXVVZCOUFjUWx2WFhFWDhPNjlLVUxfWk1SaVV6MkVZN3VaQUdsQ3RIMWZjT093WnlPczJ6SFVOWk1EX0tDcDR4MlJNSURWVUtndDYxeFJHam1nQktSd3dYXzRIWFRTcnB6MFVhaTk2UnZYd3ozWGVKeG1mSTFOUk5RZlhhZGk5Y1JYaG9ubVBLeGplaDVNQkJLRmJmMHdUSHFWUkF4Y0p0eDRlbGplNkRkeUN4Ym1STVpTdTlmUHpMT29SR05sR2hITU5qemFrbkgxdFFsRWxYSjlpT1hRZUV6YXIwcEZYRi1uZFpON3JBWlZjNm82Zw?oc=5",
+        "published_at": "Fri, 24 Jul 2026 16:39:54 GMT",
+        "snippet": "4ème canicule la semaine prochaine : confirmation d'une vague de chaleur intense jusqu'au week-end La Chaîne Météo “La hausse sera spectaculaire” : intensité, durée... ce que l’on sait de la quatrième canicule de l’été La Montagne Vers une nouvelle vague de chaleur la semaine prochaine Météo France Une quatrième canicule, à partir de fin juillet, est désormais « inévitable » en France Le Monde.fr Météo : une nouvelle canicule se dessine début août CNews",
+        "short_explanation": "France faces fourth intense heatwave, stressing climate change and public health."
+      },
+      {
+        "title": "\"Injustifiés\", \"extrêmement décevants\", \"infondés\" : comment les États réagissent-ils aux nouveaux droits de douane imposés par Donald Trump ? - RTL",
+        "source_name": "RTL",
+        "source_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSTFpZjJNU2M2V3lLcTNyUEpXdWdWRFM0SXdZNHJ1NUZOX2pqbTFPYkh5RTVPRmhFRVR5VVJ0bmxOSUNCTUw5RFZLQUpOY3ZsT3ZRQUliU1BDbHJLb0t6UXZDSXhDYUdrWklOZksyZF9NUEVmYlFTWUpJdVVOZ3Z1VHFXS0QyNkFreE1hUDUyamVheUNXMHBGQkMtRGtIZURienlKNmktMEJHU29fSGZMQ0lIblI4dUh3d3A2SEl5UTIzYzRudXpMcU5LM3pGWTVBYmV3aVZnc285bWx1VXk3TzZoWEpGOEZvTm5nNWM3WjNjUjBNdnBDTG0xeGt2bW9XWXpfQm9mTTc5Ums?oc=5",
+        "published_at": "Fri, 24 Jul 2026 11:48:22 GMT",
+        "snippet": "\"Injustifiés\", \"extrêmement décevants\", \"infondés\" : comment les États réagissent-ils aux nouveaux droits de douane imposés par Donald Trump ? RTL Le marché des changes reste de marbre face aux nouveaux droits de douane de Trump Le Figaro Canada, Mexique, Union européenne, Chine... Les Etats-Unis lancent une nouvelle salve de droits de douane contre une soixantaine d'économies franceinfo Droits de douane : Donald Trump poursuit sa guerre commerciale par tous les moyens Le Monde.fr Le Brésil affirme que 16,5 % de ses exportations font face à des droits de douane américains cumulés de 37,5 Zonebourse Suisse",
+        "short_explanation": "Countries criticize new US tariffs by Trump, fearing economic harm and trade wars."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Lagui - OLIVIA VALERE (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Lagui)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-23T16:00:02Z",
+        "source_url": "https://www.youtube.com/watch?v=MuVh4zR-5DM",
+        "external_url": "https://www.youtube.com/watch?v=MuVh4zR-5DM",
+        "context": "Lagui. LAGUI EN TOURNÉE : https://linktr.ee/LaguiTournee2026\n\nJ'suis même pas a 16% 🎸🎸\n\n\"En Croix\" Album Toujours Disponible : https://bfan.link/en-croix\n\nSite Officiel : https://lagui.fr/\n\nInsta : https://www.instagram.com/laguitreize/\nSnap : https://www.snapchat.com/@lagui.treize\nTiktok : https://www.tiktok.com/@laguitreize\n\n#lagui #oliviavalere #encroix",
+        "short_explanation": "Lagui is a French musician gaining popularity with his new album and tour announcements."
+      },
+      {
+        "title": "Les fangames SONIC ep2 - Creating the Perfect 2D Sonic",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Bazar du Grenier)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T15:15:08Z",
+        "source_url": "https://www.youtube.com/watch?v=RmXSLV2mo-k",
+        "external_url": "https://www.youtube.com/watch?v=RmXSLV2mo-k",
+        "context": "Bazar du Grenier. Découvrez HOLY en suivant ce lien: https://fr.holy.com/BDG/Youtube\n-10% sur ta commande avec ton code BDG\n---------------------------\nLa suite de la saga de l'été! Pas d'ingrid Chauvin, mais un hérisson bleu dans moult jeux GRATUITS à essayer !\n\nTexte: Fred\nMontage: Xewup\nMix/tournage: Nico\n\nLIENS pour les jeux gratuits (principalement pc, certains en android aussi):\n-Sonic tripl",
+        "short_explanation": "Fans create and share free 2D Sonic fangames, celebrating the iconic video game character."
+      },
+      {
+        "title": "JENNIE - Less than a Lover (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (JennieRubyJaneVEVO)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T04:00:05Z",
+        "source_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "external_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "context": "JennieRubyJaneVEVO. Official music video for “Less than a Lover” by JENNIE out now: https://jennie.lnk.to/LessthanaLover\n\nFollow JENNIE -\nInstagram: https://www.instagram.com/jennierubyjane\nTikTok: https://www.tiktok.com/@jennierubyjane\nTwitter: https://twitter.com/jennierubyjane\nhttps://jenn.ie\n\nFollow JENNIE HQ -\nInstagram: https://www.instagram.com/jennie_hq\nTikTok: https://www.tiktok.com/@jenn",
+        "short_explanation": "Jennie, a global K-pop star, released a new music video popular among French youth."
+      },
+      {
+        "title": "GIMS - FANTAISIE (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (GIMS)",
+        "score_label": "trending #7",
+        "rank_score": 940,
+        "published_at": "2026-07-24T16:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=3NXKBGfZAHg",
+        "external_url": "https://www.youtube.com/watch?v=3NXKBGfZAHg",
+        "context": "GIMS. GIMS - FANTAISIE (Clip Officiel)\nFANTAISIE disponible en streaming : https://gims.bfan.link/fantaisie\n\nFacebook : https://www.facebook.com/gims\nInstagram :https://www.instagram.com/gims/\nTwitter : https://twitter.com/GIMS/\nTikTok : https://www.tiktok.com/@gims_off\n\n👥 Team\nLabel : https://www.instagram.com/blackbeltmusic/\n\n\n℗ © Black Belt Music\n\n#GIMS ##FANTAISIE",
+        "short_explanation": "GIMS, a famous French-Congolese rapper, released a new official music video called Fantaisie."
+      },
+      {
+        "title": "EA SPORTS FC 27 Official Reveal Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (EA SPORTS FC)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-23T15:57:07Z",
+        "source_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "external_url": "https://www.youtube.com/watch?v=MOclJJ7IpSY",
+        "context": "EA SPORTS FC. Welcome to The World’s Game. EA SPORTS FC™ 27 launches 25 September. Pre-order now: https://x.ea.com/89600\n\nStep into The Grounds to experience a football playground where the streets meet the stadium, and feel greater control in every mode as community-driven innovations deliver more true-to-football gameplay: https://x.ea.com/89601\n\nLearn more about FC 27 Gameplay, Career, FUT, and",
+        "short_explanation": "EA SPORTS FC 27 is a new football video game eagerly awaited by French gamers."
+      },
+      {
+        "title": "Une quatrième canicule arrive.",
+        "platform": "reddit",
+        "source_label": "r/france",
+        "score_label": "r/france hot #10",
+        "rank_score": 910,
+        "published_at": "2026-07-24T17:40:29+00:00",
+        "source_url": "https://www.reddit.com/r/france/comments/1v5ic9a/une_quatrième_canicule_arrive/",
+        "external_url": "https://www.reddit.com/r/france/comments/1v5ic9a/une_quatrième_canicule_arrive/",
+        "context": "submitted by /u/Alvar6938 [link] [comments]",
+        "short_explanation": "France faces a fourth heatwave, raising concerns about climate and public health."
+      },
+      {
+        "title": "Coup de théâtre dans l’affaire du meurtre de Thomas Perotto à Crépol : la justice retient in extremis la circonstance aggravante de racisme",
+        "platform": "reddit",
+        "source_label": "r/france",
+        "score_label": "r/france hot #11",
+        "rank_score": 900,
+        "published_at": "2026-07-24T20:33:50+00:00",
+        "source_url": "https://www.reddit.com/r/france/comments/1v5n6jd/coup_de_théâtre_dans_laffaire_du_meurtre_de/",
+        "external_url": "https://www.reddit.com/r/france/comments/1v5n6jd/coup_de_théâtre_dans_laffaire_du_meurtre_de/",
+        "context": "submitted by /u/Chapeltok [link] [comments]",
+        "short_explanation": "A murder case in Crépol now includes racism as an aggravating legal factor."
+      },
+      {
+        "title": "Ciel de Charente ce soir. Nuage noir , soleil orange et ciel jaune, la maison brûle.",
+        "platform": "reddit",
+        "source_label": "r/france",
+        "score_label": "r/france hot #12",
+        "rank_score": 890,
+        "published_at": "2026-07-24T19:01:51+00:00",
+        "source_url": "https://www.reddit.com/r/france/comments/1v5kn9j/ciel_de_charente_ce_soir_nuage_noir_soleil_orange/",
+        "external_url": "https://www.reddit.com/r/france/comments/1v5kn9j/ciel_de_charente_ce_soir_nuage_noir_soleil_orange/",
+        "context": "submitted by /u/Nukeboml3 [link] [comments]",
+        "short_explanation": "Unusual sky colors in Charente signal nearby fires, alarming local residents."
+      }
+    ]
+  }
+}

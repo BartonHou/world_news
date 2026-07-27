@@ -1,0 +1,797 @@
+{
+  "iso2": "IN",
+  "iso3": "IND",
+  "country_name": "India",
+  "flag": "🇮🇳",
+  "region": "South Asia",
+  "coordinates": {
+    "lat": 22.5937,
+    "lon": 78.9629
+  },
+  "updated_at": "2026-07-24T21:56:50+00:00",
+  "probe_status": "partial",
+  "keywords": [
+    "GitHub block",
+    "Jack Dorsey",
+    "protests"
+  ],
+  "top_news": null,
+  "meme": {
+    "title": "Indian Govt Orders GitHub to Block Jack Dorsey's Bitchat App Amid Protests",
+    "platform": "reddit",
+    "explanation": "India blocking a social app by Twitter's founder during protests highlights digital censorship and control over dissent online.",
+    "why_people_are_sharing_it": "It reveals tensions between tech freedom and government control in India’s protest culture.",
+    "tone": "political",
+    "local_context": "India’s rising online activism meets government censorship efforts.",
+    "source_url": "https://www.reddit.com/r/india/comments/1v56z4s/indian_govt_orders_github_to_block_jack_dorseys/",
+    "media_url": "https://www.reddit.com/r/india/comments/1v56z4s/indian_govt_orders_github_to_block_jack_dorseys/",
+    "confidence": 0.85
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Wall St edges higher as investors juggle earnings, Mideast risks and tariffs - Reuters",
+          "score": 5,
+          "reasons": [
+            "boost_milestone_signal",
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "EU listings confirm shorter battery lifespan for new Galaxy foldables - GSMArena.com news - GSMArena.com",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Oil prices on pace for weekly gain amid escalating Mideast conflict - Investing.com India",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Manipal Health Enterprises sets price band for Rs 9,275 crore IPO, opens July 29 - The Economic Times",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Samsung opens Galaxy Watch Ultra2 and Watch9 pre-orders in India - t2ONLINE",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Indian student protests: What’s next after Modi’s promise on exam leaks? - Al Jazeera",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Indian activist Wangchuk ends 26-day hunger strike as 'Cockroach' protesters vow to press on - AP News",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "47 NTA officials sacked amid nationwide student protests, more cleanup to follow | India News - Hindustan Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jantar Mantar protest LIVE: PM Modi thanks people for 'insightful' suggestions on video in another Instagram reel - The Hindu",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "'There are Chinese projects on territories in J&K that belong to India': MEA objects to illegal occupatio - The Times of India",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "'A very exceptional thing': Why Opposition wants to take up NEET paper leak in Parliament with an adjournment motion | Hindustan Times - Hindustan Times",
+          "score": 0,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "As temporary tariffs expire, U.S. imposes 10% ‘forced labour’ tariffs on India - The Hindu",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Understanding the Saudi-U.S. nuclear agreement | Explained - The Hindu",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ICC prosecutor Karim Khan faces removal vote: What’s the case about? - Al Jazeera",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "'US not piggybank for Europe': Trump to impose tariffs on EU for fining Google - The Times of India",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Russian missile strike kills 10 at Ukrainian defence event - Reuters",
+          "score": -2,
+          "reasons": [
+            "penalize_generic_crime_or_disaster",
+            "boost_unusual_geopolitics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Suicide bombing in Pakistan kills 15, including 12 soldiers: Army - The Hindu",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jantar Mantar Student Protests | Delhi High Court Rejects PIL Seeking NIA Probe, Says ''It's For Centre... - Live Law",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "'It's Too Hot!': Next-Level Bihari NEET Protesters Ask Cops To Use Water Cannons, Break Into Impromptu 'Rain Dance' | Viral Videos - Republic World",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics",
+            "penalize_generic_crime_or_disaster",
+            "boost_culture_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Centre lying on pellet gun use against protesters, says Rahul Gandhi - The Hindu",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "india",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=IN",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "status": "disabled",
+        "message": "disabled for countries where language wiki is too global"
+      },
+      "filters": [
+        {
+          "title": "Tere Ishq Mein Naachenge - 90s Hindi Sad Song from Raja Hindustani",
+          "score": 10,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:This is a nostalgic 90s Hindi song featuring famous artists, appealing as a cultural internet fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "I Became an Agent | FIRST LIGHT 007 Gameplay #1",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "ai:Gaming content with a clear theme but limited cultural signal beyond gaming community."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers: Doomsday Official Trailer - In Theaters December 18",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global pop culture event with strong internet fixation worldwide."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "JENNIE - Less than a Lover (Official Music Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular K-pop artist's official video, strong global internet culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Modi Repeats Student Promise Amid Anger",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "ai:Generic political headline, lacks distinct cultural or internet fixation appeal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Delhi Police Song by Raushan Rohi & Srishti Bharti - 'Awaaz Uthegi To Insaf Milega'",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music video with a social message, likely resonating as a cultural signal in India."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ramayana Trailer Cancelled? Reaction by Deeksha Sharma",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Entertainment news with a cultural angle on a popular Indian epic and fan reactions."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Indian Govt Orders GitHub to Block Jack Dorsey's Bitchat App Amid Protests",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Tech and political intersection with notable internet culture implications."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Aankhon Se Tune 2.0 - Bhai Tera Star Hai | Nostalgic Bollywood Romance Song",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music video evoking 90s Bollywood nostalgia, culturally resonant."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Shankaracharya of Jyotirmath Supports Protesters, Condemns Police Brutality",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Religious leader's political stance, culturally significant in India."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Mental & Emotional Health Support Thread - r/India",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Support thread, important but generic and not a cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Poor vs Rich Giant Block Battle in Minecraft",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content, popular but generic within Minecraft community."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ramayana Trailer Gone: Deal with Sony & Spiderman is a BIG move",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "'Reckless': CJI Surya Kant rejects reports of refusing hearing on police action against students",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "LIVE CUSTOM ROOMS FOR SUBSCRIBERS",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Why did the police detain Junaid's family, who had been providing food and water to the CJP protest for the past 34 days?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "BREAKING| Supreme Court Bans Uploading & Sharing Of Audio-Video Recordings Of Court Hearings Without Prior Permission",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Govt bans food delivery apps near protest sites.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Students Saying '1st It Hurt Me, Then I Took Advantage': Nirmala Sitharaman On Leak",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Narendra Modi will be a disaster for India:",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "An Ahmedabad Engineer Built a Website to Document the July 20 Violence. Then Gujarat Police Came for Him.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"How Dare You\": Rahul Gandhi Slams Universities' 'No Protest' Advisory To Students",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "As protests swell, 30 more companies of central forces on way to Delhi | Delhi News",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Students' protest: Delhi Police asks Zomato, Blinkit, Uber, others to regulate services in restricted areas- Moneycontrol.com",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "I (27F) lost my dad (75M) to a rare and aggressive cancer (pulmonary sarcomatoid carcinoma). I just want to share his story.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "What happened in the last few hours actually shows the dictator's bubble bursting-And that's a good sign for the protesters!",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vineet Joshi, Removed As Education Secretary, Was Chief Of CBSE, Testing Body NTA",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Statement : The blocking of BitChat's code on GitHub is unconstitutional and authoritarian.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "As student protest rages in Delhi, Pragya Thakur urges govt to ‘eliminate cockroaches, clean country’",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cockroach Revolt Exposes Cracks in Modi’s Vision of Rising India",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Rahul Highlights Pellet Gun Injuries to Criticize Government",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political news headline, generic and lacks cultural trend appeal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Chief Justice Declares 'Pradhan's Resignation Non-Negotiable'",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political/legal news headline, generic without strong cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dharmendra Pradhan Won't Quit, Govt Sources Say",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic political news headline, minimal cultural trend relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PM Modi Urges Ministers to Engage Youth on Instagram with Reels",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political directive, generic and lacks strong cultural trend appeal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "daredevil",
+          "score": 4,
+          "reasons": [
+            "boost_culture_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ask India Thread",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "music fashion film charli xcx",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "8वें वेतन आयोग",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "elon musk net worth",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "primo",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "dow jones moneycontrol",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ira khan",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "yan diomande",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "siya goyal",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "luciano darderi",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Wall St edges higher as investors juggle earnings, Mideast risks and tariffs - Reuters",
+        "source_name": "Reuters",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVFoS0pPSjU4OTY3YzBVSFdHN3kzZWd2UjZ0WGRiX0pEUXhzNnZ1UjU2eDBnN3hlZHdhWnJvSWhEMEpJbUVhM01ETXdrbTFkSGVoX2ktUVVhckI5Qmlha2wzcDZmbkZmc0dZeGhnb0tYZW5RS29tUGlYWU5salVBOFRkYmQ2enhOcktIYmx5UHBUNjlVSUF5b3RyTDgwS0NvVmlJQ0hn?oc=5",
+        "published_at": "Fri, 24 Jul 2026 16:44:09 GMT",
+        "snippet": "Wall St edges higher as investors juggle earnings, Mideast risks and tariffs Reuters Stocks Hold Steady as Brent Oil Falls Below $100: Markets Wrap Bloomberg.com Stocks waver on Wall Street while crude oil prices fall for the first time in a week AP News Stock market today: Dow, S&P 500, Nasdaq recover as oil eases, new Trump tariffs take effect Yahoo Finance Stocks post weekly losses amid widening Iran conflict, AI worries, and tariffs Investing.com",
+        "short_explanation": "Wall Street stock movements affect global investors, including Indians tracking economic risks and tariffs."
+      },
+      {
+        "title": "EU listings confirm shorter battery lifespan for new Galaxy foldables - GSMArena.com news - GSMArena.com",
+        "source_name": "GSMArena.com",
+        "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOb3ZwemdoVkRCcVhTazRBZzc2THZPRDZKVkZXRWtmeXUzb0lURHJTOFBQNDhKd05PcW85NzZnNlY1U2VRV0pyZkpDTFI5OHRPTGxuQWRlNUNLaDY3QlZQNlFuQzZ5VDlxcVFMZi1WSlR5WnFaZ1VNcnlJeUNjOFdnRUx5XzBMZk5lNUp3czVkdVJMTnZ4bGtEa3ZlRjV2T2JzY3R5ZF9TMW1rNEhJSWfSAaoBQVVfeXFMTnRjZmNCZld5OENIS0xObXdqa1hSSXhsbXRzcXdsS1NsUDhIdDYxci1KRFBUdmZMd09UQXRkcUQxSDZiYy1tYzVaeGxMeEZSQ0NhM0RyRzY0RXhIN19pcEwzV2RsTnVTMnJSOTJlNV9QMFVmMVdJQ2szQUxhMmNZWUVnRzc1ZFlBaXphOVZyUUhNRVRpUGNYWmdEelRfUXAtRGxxWGdfLWpxVEE?oc=5",
+        "published_at": "Fri, 24 Jul 2026 15:17:02 GMT",
+        "snippet": "EU listings confirm shorter battery lifespan for new Galaxy foldables - GSMArena.com news GSMArena.com Samsung Galaxy Z Fold8 Ultra, Fold8 and Flip8: Foldables, Perfected for Every Way of Living Samsung Global Newsroom Samsung Galaxy Z Fold 8 Ultra, Galaxy Z Fold 8 and Galaxy Z Flip 8 launched The Hindu Samsung Galaxy Z Flip 8 first impressions The Times of India Does the Galaxy Z Fold 8 have Flex mode? SamMobile",
+        "short_explanation": "EU reports shorter battery life for Galaxy foldables, important for Indian tech consumers."
+      },
+      {
+        "title": "Oil prices on pace for weekly gain amid escalating Mideast conflict - Investing.com India",
+        "source_name": "Investing.com India",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeTBJbE9qSldmWUc1ZDhlMzNzQ1ozMkcwMXRlVE9kWFVvVlU2LXpZMVIzT1N0MEFGcERyVmtnY1lJcC1xZVZTZ0FiYzVRcm5hVld4LXJKV3l0UlREQnphWEMzaDViQ1VRVGF2dHprdGFRUVNuUHcyZkh4bGN0UWRpd25UOHhmUWhsVW9TUFBCQkdjVEhvUENPa19kNXcyT2RiYWZVTGF0NUhicXdiWmtwRDNJNkkzZlAtblFmeUZMN3k2OFE?oc=5",
+        "published_at": "Fri, 24 Jul 2026 09:43:22 GMT",
+        "snippet": "Oil prices on pace for weekly gain amid escalating Mideast conflict Investing.com India Oil holds above $100 as Red Sea attacks and Kazakhstan outage tighten supplies The Times of India Oil Crosses $100 A Barrel Amid Fresh Middle East Tensions NDTV West Asia war updates: International benchmark oil prices cross $100 per barrel The Hindu West Asia Crisis: Sensex, Nifty fall 2% this week as Brent crude hits $100/barrel mark The New Indian Express",
+        "short_explanation": "Rising oil prices from Middle East conflict impact India's fuel costs and economy."
+      },
+      {
+        "title": "Manipal Health Enterprises sets price band for Rs 9,275 crore IPO, opens July 29 - The Economic Times",
+        "source_name": "The Economic Times",
+        "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNYXRuR05JdENUVzhFMlFMZHU1cHFPVS1ZOG81SjdaSk5NLVBETGx3cU9JMUo0LUdCUFNVTTJEVkN2ckVNMjJBRFlmbVdIZ2VUeERaSlpsLUlCdllGV002S1g3STJwYkFxdnE0LTFqbi1aeFFGOHBETHpQTDNVVEpQRkxjMmVIYWpuUERiVWxqc3d1cGVVWHkzc1BOUWNNN3BwTUFva2JXRVRrbENBSzY1ZG5COVNxS0lNUUN0Ung4X1NhR28tVlNaVWtYYklDVTNGREFHdXBveFFGUVNGSllkYU1tZ1RIQVdqXzNTcXAza2E3cjlkTVQw0gH8AUFVX3lxTFBZU1hzTC1oZzFrVDRIUkVUdWtERmxDWkdzSnV0WGxaM1p4WEFrR0RicTRiTDZYVUNGazNfTlYtU29iQmd6QTktM3BzOVlFRmNXXzZ3ZFg3OHRYVTFVWEJQaHNxcWJxOUhuNGdvN2cza3FCMW9RbE1Pb1FoZ0lNMEI4Q3VSYlRKZkVjX0xIM0pBU3ktUnJlenQySV9sRzY5dG84R09FTlA2bUlVQm5JQi1mU29CbUdwSTZBTDJ6bVhRc2UwR25RMDJNVGVDaFQ5MV9Kejl2NGs0eVBycGJFeG1YUEZOZkxqNDIyNFhWNXRpT3NOZTJhQXVCV1pTdA?oc=5",
+        "published_at": "Fri, 24 Jul 2026 03:13:00 GMT",
+        "snippet": "Manipal Health Enterprises sets price band for Rs 9,275 crore IPO, opens July 29 The Economic Times Manipal to float ₹9,200 cr IPO next week, price band set at ₹560 to ₹590 ET HealthWorld Will Temasek beat exit benchmark as Manipal Hospitals trims IPO size, valuation target? VCCircle Manipal Health launches India’s biggest healthcare IPO at Rs 560-590 a share The New Indian Express Manipal Health IPO: Expansion in Kerala, Hyderabad, NCR Rediff MoneyWiz",
+        "short_explanation": "Manipal Health's large IPO reflects growth in India's healthcare sector, attracting investors."
+      },
+      {
+        "title": "Samsung opens Galaxy Watch Ultra2 and Watch9 pre-orders in India - t2ONLINE",
+        "source_name": "t2ONLINE",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOFFrcGxJbkU0aVhjU1VqUXFZVzBRRF82UDNfLUxmX0ZjTElPb1ZBcVlJLXVERnJSeGd2eE9OQXBKNGRUSmlXY3pvdXNrbzNaeXR0NzZ5WHhvemp3M1oxakJDYW11NUhUZkVxRVEyd1NKUWhJenRjRUJURlhEbV9ST2VHVHJvcnJOa0tGNl8wUkdLZ2xtc0hnc3U1aHZwb1g5YTdRV3lIWi1SV1U?oc=5",
+        "published_at": "Fri, 24 Jul 2026 04:48:00 GMT",
+        "snippet": "Samsung opens Galaxy Watch Ultra2 and Watch9 pre-orders in India t2ONLINE Samsung gives its newest Galaxy Watches longer software support SamMobile Samsung is giving the Galaxy Watch Ultra2 and Galaxy Watch9 five years of updates - GSMArena.com news GSMArena.com Samsung Galaxy Watch Ultra2 Hands-on: Smarter AI, Better Battery The Economic Times Samsung Galaxy Watch Ultra2, Watch9 launched in India: Price, features, offers The Indian Express",
+        "short_explanation": "Samsung's new Galaxy Watches launch in India, showing tech trends and consumer interest."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Tere Ishq Mein Naachenge - 90s Hindi Sad Song from Raja Hindustani",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Chill Station)",
+        "score_label": "trending #10",
+        "rank_score": 910,
+        "published_at": "2026-07-21T09:30:28Z",
+        "source_url": "https://www.youtube.com/watch?v=_1X-Kz0YTF4",
+        "external_url": "https://www.youtube.com/watch?v=_1X-Kz0YTF4",
+        "context": "Chill Station. Song Credits:\nSong: Tere Ishq Mein Naachenge\nMovie: Raja Hindustani\nSinger: Kumar Sanu, Alisha Chinai, Sapna Mukharji\nMusic Director: Nadeem-Shravan\nLyricist: Sameer\n\nLyrics:\nUff Kya Raat Aayi Hai\nMohabbat Rang Layi Hai\nDum Dum Dooba Dooba Dooba Dooba Dum Dum Dooba Dooba… (2)\nUff Kya Raat Aayi Hai Mohabbat Rang Layi Hai\nHum Jashn Manayenge Sagar Chalkayenge\nNa Hosh Mein Aayenge\nTere",
+        "short_explanation": "Popular 90s Hindi sad song from Raja Hindustani, loved for its emotional music and lyrics."
+      },
+      {
+        "title": "I Became an Agent | FIRST LIGHT 007 Gameplay #1",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Techno Gamerz)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-24T09:52:07Z",
+        "source_url": "https://www.youtube.com/watch?v=YG14X4QDpGo",
+        "external_url": "https://www.youtube.com/watch?v=YG14X4QDpGo",
+        "context": "Techno Gamerz. I BECAME AN AGENT | FIRST LIGHT 007 #1\n#firstlight #technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https://www.faceboo",
+        "short_explanation": "Gameplay video of First Light 007, popular among Indian gaming fans and Techno Gamerz followers."
+      },
+      {
+        "title": "Avengers: Doomsday Official Trailer - In Theaters December 18",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Entertainment)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-20T13:00:20Z",
+        "source_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "external_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "context": "Marvel Entertainment. Doomsday arrives December 18th.\n \nExperience Avengers: Doomsday on bigger, brighter, & more immersive screens. Tickets are now on sale exclusively for Infinity Vision certified theaters: fandango.com/avengersdoomsday \n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stre",
+        "short_explanation": "Upcoming Avengers movie releasing December 18, highly anticipated by Indian Marvel fans."
+      },
+      {
+        "title": "JENNIE - Less than a Lover (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (JennieRubyJaneVEVO)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T04:00:05Z",
+        "source_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "external_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "context": "JennieRubyJaneVEVO. Official music video for “Less than a Lover” by JENNIE out now: https://jennie.lnk.to/LessthanaLover\n\nFollow JENNIE -\nInstagram: https://www.instagram.com/jennierubyjane\nTikTok: https://www.tiktok.com/@jennierubyjane\nTwitter: https://twitter.com/jennierubyjane\nhttps://jenn.ie\n\nFollow JENNIE HQ -\nInstagram: https://www.instagram.com/jennie_hq\nTikTok: https://www.tiktok.com/@jenn",
+        "short_explanation": "Official music video by Jennie, a global K-pop star with a growing Indian fanbase."
+      },
+      {
+        "title": "Modi Repeats Student Promise Amid Anger",
+        "platform": "reddit",
+        "source_label": "r/india",
+        "score_label": "r/india hot #24",
+        "rank_score": 770,
+        "published_at": "2026-07-24T07:26:01+00:00",
+        "source_url": "https://www.reddit.com/r/india/comments/1v54b8u/in_first_statement_on_student_anger_modi_repeats/",
+        "external_url": "https://www.reddit.com/r/india/comments/1v54b8u/in_first_statement_on_student_anger_modi_repeats/",
+        "context": "submitted by /u/Primary-Editor-9288 [link] [comments]",
+        "short_explanation": "Prime Minister Modi repeats a student-related promise amid public anger over unmet expectations."
+      },
+      {
+        "title": "Delhi Police Song by Raushan Rohi & Srishti Bharti - 'Awaaz Uthegi To Insaf Milega'",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Raushan Rohi Entertainment)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-23T01:04:35Z",
+        "source_url": "https://www.youtube.com/watch?v=6rF-r_rYo9o",
+        "external_url": "https://www.youtube.com/watch?v=6rF-r_rYo9o",
+        "context": "Raushan Rohi Entertainment. ►Create Your Reels :- \n\n►Album :- दिल्ली के पुलिस \n►Song :- Delhi Ke Police\n►Singer :- Raushan Rohi & Srishti Bharti\n►Lyrics :- Raja Raushan\n►Music :- Vicky Vox\n►Mix & Mastring :- Ankit Ahir \n►Video Director :- Kaushal Babua\n►Feat :- Priti Tiwari\n►Choreographer :- Mad Aashiq\n►Editing :- Pappu Yadav\n►DI :- Rohit Singh\n►Camera :- Sunny Pappu\n►Manager :- Bittu Singh\n►Poste",
+        "short_explanation": "Patriotic song praising Delhi Police, popular for supporting law enforcement and justice themes."
+      },
+      {
+        "title": "Indian Govt Orders GitHub to Block Jack Dorsey's Bitchat App Amid Protests",
+        "platform": "reddit",
+        "source_label": "r/india",
+        "score_label": "r/india hot #6",
+        "rank_score": 950,
+        "published_at": "2026-07-24T09:59:12+00:00",
+        "source_url": "https://www.reddit.com/r/india/comments/1v56z4s/indian_govt_orders_github_to_block_jack_dorseys/",
+        "external_url": "https://www.reddit.com/r/india/comments/1v56z4s/indian_govt_orders_github_to_block_jack_dorseys/",
+        "context": "submitted by /u/bhodrolok [link] [comments]",
+        "short_explanation": "Indian government orders GitHub to block Jack Dorsey's Bitchat app amid ongoing protests."
+      },
+      {
+        "title": "Shankaracharya of Jyotirmath Supports Protesters, Condemns Police Brutality",
+        "platform": "reddit",
+        "source_label": "r/india",
+        "score_label": "r/india hot #8",
+        "rank_score": 930,
+        "published_at": "2026-07-24T12:17:56+00:00",
+        "source_url": "https://www.reddit.com/r/india/comments/1v59r70/shankaracharya_of_jyotirmath_comes_in_support_of/",
+        "external_url": "https://www.reddit.com/r/india/comments/1v59r70/shankaracharya_of_jyotirmath_comes_in_support_of/",
+        "context": "submitted by /u/New_Classroom_2540 [link] [comments]",
+        "short_explanation": "Religious leader supports protesters and condemns police brutality, influencing public opinion."
+      }
+    ]
+  }
+}

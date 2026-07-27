@@ -1,0 +1,796 @@
+{
+  "iso2": "CA",
+  "iso3": "CAN",
+  "country_name": "Canada",
+  "flag": "🇨🇦",
+  "region": "North America",
+  "coordinates": {
+    "lat": 56.1304,
+    "lon": -106.3468
+  },
+  "updated_at": "2026-07-24T21:49:48+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "Fields Medal",
+    "mathematics",
+    "Canada achievement"
+  ],
+  "top_news": {
+    "headline": "U of T professor wins Fields Medal, first Canadian university recipient",
+    "summary": "Canadian professor awarded prestigious Fields Medal for proving a longstanding mathematical theory.",
+    "why_it_matters": "Highlights Canada's role in global scientific achievement and academic pride.",
+    "source_name": "CP24",
+    "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWpyRndpWWJlX19naWc4VFFoQndwak5kelVrS3E4dF9pelNhSDN6clp2RFRreXNKSElSUE4xMUs1U2lTM0hiUG5pRXNXVWhqOXNyTTByT3U0WmJJeEVEem1zdWowNnFGRS1IcjhYTXgzUjFoOGpHOG1ZNVEwQWU3c1J3blJxQ2Q3NWZIVW9KbkhMa3hmWDZPUzZSU2g0SFR3UzdNVEdIWHZTUmY4UWpV?oc=5",
+    "published_at": "Thu, 23 Jul 2026 15:10:20 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Reddit's /r/Canada Paywall Experiment",
+    "platform": "reddit",
+    "explanation": "r/Canada temporarily bans paywalled news links to improve discussion quality and accessibility.",
+    "why_people_are_sharing_it": "Users debate paywalls' impact on informed conversations and news access.",
+    "tone": "political",
+    "local_context": "Reflects Canadian frustration with media paywalls limiting public discourse.",
+    "source_url": "https://www.reddit.com/r/canada/comments/1u1bgcz/a_paywall_experiment_in_rcanada/",
+    "media_url": "https://www.reddit.com/r/canada/comments/1u1bgcz/a_paywall_experiment_in_rcanada/",
+    "confidence": 0.85
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=en-CA&gl=CA&ceid=CA:en",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "This U of T professor proved a longstanding theory and has now been given the ‘Nobel Prize’ of mathematics - CP24",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Why the Latest Oil Rally May Be Far From Over - Crude Oil Prices Today | OilPrice.com",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Canada celebrates long-awaited opening of Gordie Howe bridge without U.S. - CBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Wildfires in B.C. prompt evacuations as hot, dry conditions persist - Global News",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly? - Al Jazeera",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Entire B.C. village ordered to evacuate due to encroaching wildfire - CTV News",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wildfire smoke prompts air quality warnings for Calgary and surrounding areas - CBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘Not humanly possible to understand,’ parents say after missing boy’s body recovered from lake - CP24",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ICC prosecutor Khan removed over sexual misconduct allegations: Sources - Al Jazeera",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Raging wildfires in France and Spain force tens of thousands of people to flee - CBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Yemen teeters towards renewed war in shadow of Iran conflict - Reuters",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "NLC CEO Bruce Keating Outlines Impact of Inter-Provincial Alcohol Agreement - VOCM",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "WestJet passengers can change or cancel flights ahead of looming strike - Global News",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bank of Canada ordered a second time to stop using replacement workers - The Globe and Mail",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cadence strengthens pcb design offering with EMA Design Automation, FlowCAD acquisition - Electronic Products & Technology",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PlayStation Network down, leaving thousands of gamers unable to play - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Eric Ham: Trump’s latest tariff offensive has American lawmakers fuming - CTV News",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vaughan man arrested as Italy seeks extradition over Mafia conviction - CP24",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Demolition of Tumbler Ridge Secondary School begins after mass shooting - Global News",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Colt Gray pleads guilty in shooting at Apalachee High School in Georgia - BBC",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "canada",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=CA",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "status": "disabled",
+        "message": "disabled for countries where language wiki is too global"
+      },
+      "filters": [
+        {
+          "title": "Ebenezer Movie Trailer Featuring Johnny Depp as Scrooge",
+          "score": 10,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:The title is somewhat long and includes many actor names, but the movie 'Ebenezer' starring Johnny Depp as Ebenezer Scrooge is a culturally interesting new take on a classic character, making it a notable trend."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Thousands of Lightning Strikes Spark Wildfires in Western Canada",
+          "score": 9,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "ai:The title is a news headline but the wildfire situation is a significant and ongoing cultural/environmental issue in Canada, making it relevant for a global culture map."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "JENNIE - Less than a Lover (Official Music Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:JENNIE is a globally recognized K-pop star, and her new music video is a strong cultural signal in global internet culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avatar: Seven Havens Official Teaser - New Avatar Series",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The Avatar franchise is a major global cultural phenomenon, and this new series teaser is highly relevant."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Blade Runner 2099 Official Teaser - New Sci-Fi Series on Prime Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Blade Runner is a major sci-fi franchise with a strong cultural following, making this teaser a notable trend."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Animal by KATSEYE - New Music Release Featuring Ed Sheeran",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music release featuring notable artists including Ed Sheeran, relevant to global music culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Reddit's /r/Canada Paywall Experiment",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This is a niche internet community experiment that may interest some but is not a broad cultural fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "We Found Another Crazy Car Racing Game (YouTube Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This is a typical gaming YouTube video title, somewhat generic and not a strong cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Travel Spending to U.S. Fell by $3.3B in 2025 Amid 'Buy Canadian' Push",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This is a straightforward news headline without a strong cultural or internet fixation angle."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "U.S. Senator Defends Canada Over Smoke Complaints as Wildfire Smoke Moves Into B.C.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline about political and environmental issues; relevant but not a strong cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gordie Howe Bridge Ribbon-Cutting in Windsor Without U.S. Participation",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline about a local infrastructure event; not a broad cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Starting Over Using Only Robux in Keyboard Escape (Roblox Gameplay)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Typical gaming YouTube content, generic and not a strong cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Canada and Ecuador Set to Sign Free Trade Deal in Ottawa",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline about trade agreements; not a cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mandatory Indigenous Training No Longer Required for Alberta Lawyers",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline about legal policy; important but not a cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Labour Board Finds Bank of Canada Broke the Law Over Replacement Workers",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline about labor issues; relevant but not a cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "We Built A Zoo - Smosh Games YouTube Video",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Typical gaming/entertainment YouTube content, not a strong cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Justin Ling (TorStar Opinion): If politicians can’t get the job done without ChatGPT, maybe they shouldn’t have the job",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"forever\"",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Canadian government urged to block Thomson Reuters data deal with US ICE",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "More than 9,100 federal workers apply for early retirement as deadline arrives",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Canada, UAE conclude trade talks as Ottawa seeks new markets",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Carney aims to reverse $1 trillion in foreign capital flight over 2 days in September - National",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Now PM says trade deal may not happen",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "N.B. politician seems to leave AI prompt in speech",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Law Society of B.C. settles with lawyer after residential school radar discovery dispute",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Why Quebec has not — yet — signed Canada's direct-to-consumer alcohol sales deal | CBC News",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘A ticking time bomb’: Violent antisemitism in Canada more than doubles 2025 total by mid-year, report",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "British Columbia to address cost of housing by legalizing polygamy",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jewish advocacy organization, North Bay mayor condemn 'Bigotfest' planned near the city | CBC News",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Canadian submarine torpedoes retired U.S. warship in multinational exercise",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Been By Now",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump vows tariffs to come for Canada over wildlife smoke that has drifted to U.S. | CBC News",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump says original Gordie Howe bridge deal is dead, contradicting Carney",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "U.S. launches new tariff, replacing what Supreme Court struck down | CBC News",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Retaliation being considered if no deal reached by Trump's tariff deadline, Carney says",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "boat",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "dow jones industrial average",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "cadavre",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "dutton ranch",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "yan diomande",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "addison barger",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "bahrain",
+          "score": -2,
+          "reasons": [
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "les affaires",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "michael j. fox",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "chuck russell",
+          "score": -6,
+          "reasons": [
+            "penalize_generic_tragedy",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "This U of T professor proved a longstanding theory and has now been given the ‘Nobel Prize’ of mathematics - CP24",
+        "source_name": "CP24",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcWpyRndpWWJlX19naWc4VFFoQndwak5kelVrS3E4dF9pelNhSDN6clp2RFRreXNKSElSUE4xMUs1U2lTM0hiUG5pRXNXVWhqOXNyTTByT3U0WmJJeEVEem1zdWowNnFGRS1IcjhYTXgzUjFoOGpHOG1ZNVEwQWU3c1J3blJxQ2Q3NWZIVW9KbkhMa3hmWDZPUzZSU2g0SFR3UzdNVEdIWHZTUmY4UWpV?oc=5",
+        "published_at": "Thu, 23 Jul 2026 15:10:20 GMT",
+        "snippet": "This U of T professor proved a longstanding theory and has now been given the ‘Nobel Prize’ of mathematics CP24 Fields Medal: Chinese win world's top Maths prize for first time BBC U of T math professor is first scholar at a Canadian university to win prestigious Fields Medal National Post U of T mathematician becomes first Canada-based Fields Medal recipient Global News Two Peking University alumni awarded Fields Medals, 14 PKUers speak at the 2026 ICM Yahoo! Finance Canada",
+        "short_explanation": "U of T professor won prestigious Fields Medal, first Canadian university recipient, boosting national pride."
+      },
+      {
+        "title": "Why the Latest Oil Rally May Be Far From Over - Crude Oil Prices Today | OilPrice.com",
+        "source_name": "Crude Oil Prices Today | OilPrice.com",
+        "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQYUFsWTh1eFBQbXlfTnNUdl9ELXotbWZtWnV1TGhfdnhoSGgzY2hKZjRXUEFkalk2NmItWW45UzFJMUtlUnBzRGNJSTlSV3kxX2l5ZWl6Mzd4WktiUkVtQ1Fac09MV1hLOVdFR0Y4ZUQ2NWwzV1pwVmpYaTRlelhKQUtuYVB1d3JPdjJZVFEySC1yUdIBlwFBVV95cUxOS2drb1pvZ0xabmd1LTlPak1mVkZwZWhFaDlyaFF4M3dXbHV1T0Jid1hxby04M2ZhR0FyaXVKcVRvc2hHOV9Za1FxWUIwVUk4eXk0V2RtQ3JqVjJwWGRubGRyaXlpa3YxUlduYURVWDlRdXFPcVJ2SDNhd3FvTUZQd3dVWUJrOTZLTk53dFNPQnE3cFQ5YUpn?oc=5",
+        "published_at": "Fri, 24 Jul 2026 16:15:00 GMT",
+        "snippet": "Why the Latest Oil Rally May Be Far From Over Crude Oil Prices Today | OilPrice.com Why Trump is facing his biggest danger from rising oil prices since the war began Politico Oil to End Year Near $100 on Mideast Disruptions, Rapidan Says Bloomberg.com Gas, groceries and back-to-school items are where shoppers might see higher oil prices surface Toronto Star Crude oil prices top $100, surging to three-month high as Middle East conflict escalates The Globe and Mail",
+        "short_explanation": "Rising oil prices impact Canadian costs for gas and groceries, affecting everyday life and economy."
+      },
+      {
+        "title": "Canada celebrates long-awaited opening of Gordie Howe bridge without U.S. - CBC",
+        "source_name": "CBC",
+        "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQUc1YWxoMnp6UUQ3X09MRnFkai1qMGxfWGxld0doeVBWd01SLWc2cldlWVNBS1VUY0tUdUZrQS1PX0ZLbEZjdGlwakdMUjFGbFF0cXlmRGNZb21aZGc2b2ZuYXpSUDFjRWZVXzV5Q0FUV29tTDNjLTJwY29RQ3RNQkZEcmF2S2hxdVp5cENzYkN0dE1Rd2w3YkVLTG1mSXNBaGhJV2d5S0hkdVM3QXc?oc=5",
+        "published_at": "Fri, 24 Jul 2026 19:38:04 GMT",
+        "snippet": "Canada celebrates long-awaited opening of Gordie Howe bridge without U.S. CBC Americans Told to Stay Home as Canada Opens International Bridge The New York Times Gordie Howe bridge opens Monday after decades Axios Colby Cosh: Why Mark Carney felt comfortable spreading misinformation National Post Trump says original Gordie Howe bridge deal is dead, contradicting Carney Global News",
+        "short_explanation": "Canada opens Gordie Howe bridge alone, marking a major infrastructure milestone and cross-border change."
+      },
+      {
+        "title": "Wildfires in B.C. prompt evacuations as hot, dry conditions persist - Global News",
+        "source_name": "Global News",
+        "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRnp3b19QQnpjTFkzeUZBWlQ5bzdrbldfajRYekFGZGNaeFBPM2JyMUROQlVmUEtUbWk3VGNNM3o2M0hYTURTeVNWNVEwSXNRenpIRHNnQ0RDdW1lWmEta1NrRGJmN3VnYjBsb2xNMDM4Y0g2dktYNm5aMnpSQkg0VmtHZXNuVnpZRFZXVkFuQzgzbWlTa3RBZVc1QTA2d2w0ZHRmdA?oc=5",
+        "published_at": "Fri, 24 Jul 2026 12:24:51 GMT",
+        "snippet": "Wildfires in B.C. prompt evacuations as hot, dry conditions persist Global News Wildfires near Boston Bar, B.C., merge as district says some residents still refusing to evacuate CBC Entire Village of Clinton on evacuation order due to Fiftynine Creek wildfire Global News Two wildfires merge in Boston Bar, B.C., as more properties under evacuation alert CTV News Anderson Creek wildfire to see more ‘aggressive behaviour’ and growth CityNews Vancouver",
+        "short_explanation": "B.C. wildfires cause evacuations amid hot, dry weather, threatening communities and safety."
+      },
+      {
+        "title": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly? - Al Jazeera",
+        "source_name": "Al Jazeera",
+        "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWDVCQ3ZGZ3NPLXVFdlQyQlJYdFIxTG5aUDJxVTBEUm5YS1lWZllPYW9uU2FrV2ViNFhDd2lVaHZWeWFpbEZHdHNzX3puMnY0cVVsdXZMelE1aXFfbzA0NDFsWUMxc3V6c0tVRjgxbG9lX1Jpd2ZBcDhPYUd2NDFWYkpweWdrazM3dGFrTkpGNDlFdUhXU1M4MzV5VWEtenJUb1hXZ1FB0gGrAUFVX3lxTFA3ODFJYk9XelphMzk5TlpHS1l3OF83enVfek5SWkRBalQ3UzQzRGxwUUhLaFk3ZWZFVmNNX2hRa1lMWkE2NkwwSUVHY2RZNElLRVNWcjRlVHd4WWRVaVRiWi0zaVVXU2tkREwtWEt1cFQ1eUhUWTl6X1FRNVAwWFhIYnBjdEViaUV0SlZTR0E2MFZ2Ujh0Si1kNlk1cG5TYzhYODFXZzlPa090cw?oc=5",
+        "published_at": "Fri, 24 Jul 2026 09:20:48 GMT",
+        "snippet": "Trump’s latest ‘forced labour tariffs’: Who’s been hit, how badly? Al Jazeera Citing forced labour, Trump hits Canada and dozens of countries with new tariffs CTV News A new tariff proposal with the same effective tariff rate rbc.com How U.S. trading partners are responding to Trump’s latest tariffs, forced labour claims The Globe and Mail If Trump really cares about forced labor, he should look at the US – rather than slap more tariffs on the world The Guardian",
+        "short_explanation": "U.S. tariffs citing forced labor hit Canada, straining trade relations and economic interests."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Ebenezer Movie Trailer Featuring Johnny Depp as Scrooge",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Paramount Pictures)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-23T23:44:46Z",
+        "source_url": "https://www.youtube.com/watch?v=A7lyvgnDuDE",
+        "external_url": "https://www.youtube.com/watch?v=A7lyvgnDuDE",
+        "context": "Paramount Pictures. Bah! Humbug! Watch the new trailer for #EbenezerMovie starring Johnny Depp. Only in theatres November 13.\n\nThis November, Johnny Depp is Ebenezer Scrooge. The name you know, the story you don’t. From Ti West, EBENEZER also stars Rupert Grint, Andrea Riseborough, Sam Claflin, Daisy Ridley, Arthur Conti, Ellie Bamber, Henry Lloyd-Hughes, Charlie Murphy, with Tramell Tillman and I",
+        "short_explanation": "New movie starring Johnny Depp as Scrooge; locals excited for this fresh holiday story."
+      },
+      {
+        "title": "Thousands of Lightning Strikes Spark Wildfires in Western Canada",
+        "platform": "reddit",
+        "source_label": "r/canada",
+        "score_label": "r/canada hot #13",
+        "rank_score": 880,
+        "published_at": "2026-07-24T19:56:06+00:00",
+        "source_url": "https://www.reddit.com/r/canada/comments/1v5m4vr/thousands_of_lightning_strikes_trigger_fresh/",
+        "external_url": "https://www.reddit.com/r/canada/comments/1v5m4vr/thousands_of_lightning_strikes_trigger_fresh/",
+        "context": "submitted by /u/Hrmbee [link] [comments]",
+        "short_explanation": "Thousands of lightning strikes caused wildfires in Western Canada, threatening communities and nature."
+      },
+      {
+        "title": "JENNIE - Less than a Lover (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (JennieRubyJaneVEVO)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T04:00:05Z",
+        "source_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "external_url": "https://www.youtube.com/watch?v=_IT83Y_HcAw",
+        "context": "JennieRubyJaneVEVO. Official music video for “Less than a Lover” by JENNIE out now: https://jennie.lnk.to/LessthanaLover\n\nFollow JENNIE -\nInstagram: https://www.instagram.com/jennierubyjane\nTikTok: https://www.tiktok.com/@jennierubyjane\nTwitter: https://twitter.com/jennierubyjane\nhttps://jenn.ie\n\nFollow JENNIE HQ -\nInstagram: https://www.instagram.com/jennie_hq\nTikTok: https://www.tiktok.com/@jenn",
+        "short_explanation": "Jennie, a popular singer, released a new music video, attracting Canadian K-pop fans."
+      },
+      {
+        "title": "Avatar: Seven Havens Official Teaser - New Avatar Series",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Avatar Legends)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-23T21:01:45Z",
+        "source_url": "https://www.youtube.com/watch?v=RvksPficuOU",
+        "external_url": "https://www.youtube.com/watch?v=RvksPficuOU",
+        "context": "Avatar Legends. Avatar: Seven Havens premieres October 9 only on Paramount+.\n\nAvatar: Seven Havens is an all-new series from creators Michael Dante DiMartino and Bryan Konietzko. Set in a world shattered by a devastating cataclysm, a young Earthbender discovers she's the new Avatar after Korra. In this dangerous era, that title marks her as humanity's destroyer, not its savior. Hunted by both huma",
+        "short_explanation": "New Avatar series premieres, continuing a beloved franchise with a fresh Canadian audience."
+      },
+      {
+        "title": "Blade Runner 2099 Official Teaser - New Sci-Fi Series on Prime Video",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Prime Video)",
+        "score_label": "trending #8",
+        "rank_score": 930,
+        "published_at": "2026-07-24T17:22:12Z",
+        "source_url": "https://www.youtube.com/watch?v=0Dr8I_RyRCg",
+        "external_url": "https://www.youtube.com/watch?v=0Dr8I_RyRCg",
+        "context": "Prime Video. Welcome to a future we no longer control. Blade Runner 2099, a new series, premieres November 25 on Prime Video.\n\n» SUBSCRIBE: http://bit.ly/PrimeVideoSubscribe\n \nAbout Prime Video:\nWant to watch it now? We’ve got it. This week’s newest movies, last night’s TV shows, classic favorites, and more are available to stream instantly, plus all your videos are stored in Your Video Library. P",
+        "short_explanation": "Blade Runner 2099 sci-fi series launches, intriguing Canadian viewers with futuristic themes."
+      },
+      {
+        "title": "Animal by KATSEYE - New Music Release Featuring Ed Sheeran",
+        "platform": "youtube",
+        "source_label": "YouTube trending (KATSEYE - Topic)",
+        "score_label": "trending #7",
+        "rank_score": 940,
+        "published_at": "2026-07-24T04:00:11Z",
+        "source_url": "https://www.youtube.com/watch?v=vOfyxPRunFM",
+        "external_url": "https://www.youtube.com/watch?v=vOfyxPRunFM",
+        "context": "KATSEYE - Topic. Provided to YouTube by Universal Music Group\n\nAnimal · KATSEYE\n\nAnimal\n\n℗ 2026 HYBE UMG LLC\n\nReleased on: 2026-07-24\n\nBackground Vocalist, Drumprogrammer, Producer, Engineer, Composer Lyricist: Omer Fedi\nComposer Lyricist, Engineer, Producer, Drumprogrammer, Background Vocalist: Blake Slatkin\nVocalist: KATSEYE\nComposer Lyricist, Background Vocalist: Ed Sheeran\nEngineer: Nick Lobel",
+        "short_explanation": "New music release by KATSEYE featuring Ed Sheeran, popular among Canadian music fans."
+      },
+      {
+        "title": "Reddit's /r/Canada Paywall Experiment",
+        "platform": "reddit",
+        "source_label": "r/canada",
+        "score_label": "r/canada hot #1",
+        "rank_score": 1000,
+        "published_at": "2026-06-09T17:17:57+00:00",
+        "source_url": "https://www.reddit.com/r/canada/comments/1u1bgcz/a_paywall_experiment_in_rcanada/",
+        "external_url": "https://www.reddit.com/r/canada/comments/1u1bgcz/a_paywall_experiment_in_rcanada/",
+        "context": "Over time, we have seen a rise in paywalled articles, which are a great frustration for many of our viewers. They often do not promote informed and meaningful discussions, because people are unable to react to more than the headline. As an experiment, /r/Canada is going to be temporarily prohibiting the posting of paywalled articles. This experiment will run for one month, at which point the userb",
+        "short_explanation": "Reddit's /r/Canada bans paywalled articles temporarily to improve open discussion among users."
+      },
+      {
+        "title": "Travel Spending to U.S. Fell by $3.3B in 2025 Amid 'Buy Canadian' Push",
+        "platform": "reddit",
+        "source_label": "r/canada",
+        "score_label": "r/canada hot #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T12:41:26+00:00",
+        "source_url": "https://www.reddit.com/r/canada/comments/1v5aa55/travel_spending_to_us_fell_by_33b_in_2025_amid/",
+        "external_url": "https://www.reddit.com/r/canada/comments/1v5aa55/travel_spending_to_us_fell_by_33b_in_2025_amid/",
+        "context": "submitted by /u/MilkyWayObserver [link] [comments]",
+        "short_explanation": "Travel spending to U.S. dropped $3.3B in 2025, reflecting Canada's 'Buy Canadian' campaign."
+      }
+    ]
+  }
+}
