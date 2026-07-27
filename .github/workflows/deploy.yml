@@ -1,10 +1,11 @@
 name: Refresh data and deploy to Pages
 
 on:
-  # Regenerate country cards on a schedule (UTC). Trends move over hours, not
-  # minutes, so twice a day is plenty and keeps API cost trivial.
+  # Regenerate country cards weekly (Mondays 08:00 UTC). This is a portfolio
+  # project, not a live news wire — weekly keeps API cost near zero and the
+  # data still feels fresh. Trigger manually anytime via "Run workflow".
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 8 * * 1"
   # Manual "Run workflow" button.
   workflow_dispatch: {}
   # Deploy (using already-committed data) whenever main changes.
