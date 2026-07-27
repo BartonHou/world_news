@@ -19,3 +19,4 @@ scratch_*.png
 
 # Build output
 _site/
+gh_token.txt
