@@ -4,7 +4,7 @@
 
 **A live map of what the world is talking, laughing, and arguing about.**
 
-Hover any of 20 countries to see, for *today*: its top news story and a piece of
+Hover any of 36 countries to see, for *today*: its top news story and a piece of
 real internet culture (a Reddit thread or a trending YouTube video), each
 explained for an outsider by an LLM.
 
@@ -36,11 +36,12 @@ The visible product is a map. The parts worth talking about are underneath:
   *news-driven*. The fix was to pull culture from where it actually lives:
   **Reddit country/culture subreddits + YouTube regional trending.**
 
-- **Reddit without an API.** Reddit's JSON endpoints are `403` for anonymous
+- **Reddit against the grain.** Reddit's JSON endpoints are `403` for anonymous
   clients, but the `.rss` feeds still return `200`. They rate-limit hard
   (~20–30s recovery between hits), so requests go through a **global throttle**
   that spaces them out — and LLM latency between countries counts toward the
-  interval, so the real run pays almost nothing extra.
+  interval, so the real run pays almost nothing extra. CI, whose datacenter IP
+  gets blocked outright, uses read-only OAuth instead.
 
 - **A pluggable filter pipeline, not vibes.** Before the LLM ever sees a
   candidate, rule-based filters `drop` / `penalize` / `boost` it (routine
@@ -88,14 +89,15 @@ The browser only ever touches the static JSON on the right.
 | Layer | Source | Notes |
 |-------|--------|-------|
 | News | Google News RSS (per-country `hl`/`gl`/`ceid`) | free, no key |
-| Culture | Reddit country/culture subreddits (`.rss`) | free; rate-limited, throttled |
+| Culture | Reddit country/culture subreddits | free; anonymous RSS locally, read-only OAuth in CI |
 | Culture | YouTube Data API v3 — regional `mostPopular` | free quota; ~1 unit/country |
 | Fallback | Google Trends RSS, Wikipedia pageviews | used only when the above are thin |
 | Summaries | OpenAI `gpt-4.1-mini` | selection + cross-cultural explanation |
 
 ## Tech
 
-Vanilla JS + SVG (no framework) frontend rendering a real GeoJSON world map ·
+Vanilla JS + SVG (no framework) frontend rendering a real GeoJSON world map with
+hover, country search, a news/meme layer toggle, and a scrollable card stream ·
 Python data pipeline (`requests`, standard library) · GitHub Actions + GitHub
 Pages for scheduled refresh and hosting. Zero backend, zero database — the
 "API" is a folder of committed JSON.
@@ -105,7 +107,7 @@ Pages for scheduled refresh and hosting. Zero backend, zero database — the
 ```bash
 pip install -r requirements.txt
 
-# 1) generate data (needs API keys; ~15 min for all 20 countries)
+# 1) generate data (needs API keys; ~25 min for all 36 countries)
 python scripts/probe.py --output-dir outputs/phase0
 python scripts/export_phase1_data.py
 
@@ -159,5 +161,5 @@ Pages → Source → *GitHub Actions*.
 
 - Mood layer (color the map by emotional tone)
 - Time machine (weekly snapshots → "what was trending last week")
-- Country search, share cards / OG previews, an About page
 - More countries and native-language subs
+- Privacy-friendly analytics
