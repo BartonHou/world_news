@@ -57,6 +57,12 @@ The visible product is a map. The parts worth talking about are underneath:
   → it falls back to Reddit only. Reddit blocks a datacenter IP → the meme layer
   falls back to YouTube + news. A source erroring never breaks a country's card.
 
+- **Tested where it counts.** The deterministic core — the filter pipeline,
+  hard-drop behavior, the source quota, and LLM-response parsing — is pinned
+  down by a network-free `pytest` suite that runs on every push (CI). The model
+  and the network live at the edges; the logic that decides *what surfaces* is
+  covered.
+
 - **Cost lives in refresh, not requests.** Hovering never calls an API — the
   frontend only reads pre-generated static JSON, so traffic is free no matter
   how many people visit. The LLM only runs on a **weekly** refresh, which keeps
