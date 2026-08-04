@@ -13,6 +13,7 @@ const state = {
   byIso3: new Map(),
   selectedIso2: null,
   activeLayer: "meme",
+  chipQuery: "",
   world: null,
   // scrollable feed of extra cached candidates for the selected country
   feed: { items: [], shown: 0, loading: false, layer: null, iso2: null },
@@ -195,9 +196,24 @@ async function selectCountry(iso2) {
   await renderDetailPanel();
 }
 
+function filteredCountries() {
+  const query = state.chipQuery;
+  if (!query) return state.countries;
+  return state.countries.filter(
+    (country) =>
+      country.country_name.toLowerCase().includes(query) ||
+      country.iso2.toLowerCase().includes(query)
+  );
+}
+
 function renderCountryChips() {
   elements.countryChips.innerHTML = "";
-  for (const country of state.countries) {
+  const list = filteredCountries();
+  if (list.length === 0) {
+    elements.countryChips.innerHTML = `<p class="chip-empty">No countries match “${escapeHtml(state.chipQuery)}”</p>`;
+    return;
+  }
+  for (const country of list) {
     const button = document.createElement("button");
     button.type = "button";
     button.className = `country-chip${country.iso2 === state.selectedIso2 ? " is-selected" : ""}`;
@@ -208,6 +224,21 @@ function renderCountryChips() {
     button.addEventListener("click", () => selectCountry(country.iso2));
     elements.countryChips.append(button);
   }
+}
+
+function bindCountrySearch() {
+  const input = document.querySelector("#country-search");
+  if (!input) return;
+  input.addEventListener("input", () => {
+    state.chipQuery = input.value.trim().toLowerCase();
+    renderCountryChips();
+  });
+  input.addEventListener("keydown", (event) => {
+    if (event.key === "Enter") {
+      const first = filteredCountries()[0];
+      if (first) selectCountry(first.iso2);
+    }
+  });
 }
 
 function renderEmptyPanel(title, description) {
@@ -492,6 +523,7 @@ function bindAboutModal() {
 async function bootstrap() {
   bindLayerSwitcher();
   bindAboutModal();
+  bindCountrySearch();
 
   try {
     const [payload, world] = await Promise.all([fetchJson(DATA_URL), fetchJson(WORLD_URL)]);
