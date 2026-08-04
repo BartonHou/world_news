@@ -1,0 +1,859 @@
+{
+  "iso2": "PL",
+  "iso3": "POL",
+  "country_name": "Poland",
+  "flag": "🇵🇱",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 51.9194,
+    "lon": 19.1451
+  },
+  "updated_at": "2026-08-04T20:51:49+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "Morawiecki",
+    "Kaczyński",
+    "PiS internal conflict"
+  ],
+  "top_news": {
+    "headline": "Morawiecki odsłania tajemnice PiS, Kaczyński czyta i się wścieka. To nowy poziom sporu na prawicy - WP Wiadomości",
+    "summary": "Polish Prime Minister Morawiecki reveals internal PiS conflicts, sparking anger from party leader Kaczyński.",
+    "why_it_matters": "Shows deepening rifts in Poland's ruling party, reflecting political tensions shaping national discourse.",
+    "source_name": "WP Wiadomości",
+    "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQS0zcndRckFvT1ZuRXg0cnM2NHNMbk9FSGstNWc5WDhmams2UWJ5cXN0ODF6VmdKeUlzWkFXZnpqM1poUndxUHVsem90NjZFd2NTTVBqRU1EZG8wUTNvV0hCX1VsaVZYUk9Ici0xbHZJS0JjRjdBOXNVMjRlRHZCNXFLTTJoNlhDbEdtWVRndUNkQXM2TWNqMlFTX2s5TE5lMUplbEUzVDBEeTYweHpjZ2FZMmowV0oxdHplSFAzeFM2S25xdGEza3ZOaDVfZVd4WkxpOA?oc=5",
+    "published_at": "Tue, 04 Aug 2026 18:04:09 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "SKOLIM & Zenek Martyniuk & RAIDER - Love (Official Video)",
+    "platform": "youtube",
+    "explanation": "A surprising collaboration mixing disco polo legend Zenek Martyniuk with modern artists, blending nostalgic and contemporary Polish pop culture.",
+    "why_people_are_sharing_it": "Fans enjoy the unexpected genre mashup and catchy, kitschy vibe.",
+    "tone": "funny",
+    "local_context": "Zenek Martyniuk is a disco polo icon, a uniquely Polish pop genre.",
+    "source_url": "https://www.youtube.com/watch?v=0UBIiNIZlDg",
+    "media_url": "https://www.youtube.com/watch?v=0UBIiNIZlDg",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=pl&gl=PL&ceid=PL:pl",
+      "items_seen": 30,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Premier reaguje po śmierci Morozowskiego. \"Dziennikarz z prawdziwego zdarzenia\" - PolsatNews.pl",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "UE o kryzysie w Ceucie. Polska chce postawić migrantom twardy warunek - Gazeta",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Morawiecki odsłania tajemnice PiS, Kaczyński czyta i się wścieka. To nowy poziom sporu na prawicy - WP Wiadomości",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Zwrot w sprawie Ormuzu. Teheran może wpuścić Europejczyków - Business Insider Polska",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Nowy wątek afery w Szpitalu Południowym. Ministerstwo Zdrowia reaguje - Wiadomości Onet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Karol Nawrocki ułaskawił Piotra Pytla. Co dalej? \"Jego jedyny obowiązek\" - Fakt",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ekstremalne temperatury wymusiły zmiany. Skracają pracę urzędów - WP Wiadomości",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Łapiński: oto kluczowe wyzwanie dla Morawieckiego - Wiadomości Onet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"Lilija, która wczoraj przyniosła UFO\". Wipler wprost o kandydaturze Czarnka - PolsatNews.pl",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gdynia. Zaginął 29-letni youtuber Kamil Malinowski. Ostatnią wiadomość wysłał do mamy - Gazeta",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wildberries chce ukryć towary przed ukraińskimi dronami. Pracownicy mówią o trzech krajach - Wiadomości Onet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "„Rosyjskie safari na ludzi”. Zełenski o wstrząsającym nagraniu z Chersonia - Rzeczpospolita",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jedna z największych firm transportowych w Rosji odmówiła przewożenia ładunków przez Morze Czarne - Wiadomości Onet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mocno zatrzęsło w Toskanii. Mieszkańcy wybiegli na ulice - Gazeta",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dwie elektrownie węglowe w Polsce ograniczają pracę. Powód? Niski stan Wisły - Money.pl",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Szef Revoluta pozwany w Londynie. Stawką miliony euro prowizji za superjacht - Money.pl",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PKP sprzedają mieszkania. Oto co można kupić - WP Finanse",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Rakieta uderzy w Księżyc. Naukowcy znają dokładną godzinę - WP Tech",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "12 sierpnia największe zaćmienie Słońca od lat. O której godzinie w Polsce? - Geekweek Interia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "WIG ponownie bije rekordy na GPW. Dywidenda PKO BP zmienia układ sił w WIG20 - Business Insider Polska",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "Polska",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=PL",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/pl.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 997,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "SKOLIM & Zenek Martyniuk & RAIDER - Love (Official Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music video featuring popular Polish artists, likely a native internet culture signal with clear entertainment value."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Pretending to Be a Dinosaur Child on One Minecraft Block!",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A playful and creative gaming video title, typical of native internet culture and gaming trends."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Malik Montana - Abi Mosa (Official Music Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music video by a known Polish artist, clearly a cultural entertainment piece."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Gift for Pimpka in Minecraft! 🎁❤️",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A typical gaming content title with a personal touch, fitting native internet culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "I Opened 0.0001% Squishy in Roblox!",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A gaming content title typical of native internet culture and trends."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Kubi Producent - Endless Bad Dream ft. Sobel (Official Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music video by known Polish artists, clearly a cultural entertainment piece."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Only 27% of Poles Would Defend Poland in War, New Poll Shows",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A surprising and potentially culturally significant poll result that could spark discussion and reflection."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A pop culture reference with a clear story and character reveal, relevant to global fandoms."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tragedy in Ukraine: Polish Volunteer Marek Rusek-Wolski Dies",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A news headline about a Polish volunteer's death in Ukraine, emotionally significant but somewhat generic."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Solidarity Demonstrations for Ukrainian Minority in Poland - Map",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A socially relevant event with a clear cultural and political context, showing grassroots activism."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Why Did Our Grandparents Often Use Different Names?",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A culturally interesting question about naming traditions, likely to engage Polish internet users."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Louis Villain - Cartier Love (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music video title with artist and track name, relevant to music culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "When Did the Warsaw Uprising Battles for PKiN Happen? Why Are Nationalists and 'Patriots' Illiterate?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A complex and somewhat opaque discussion topic mixing history and political commentary, less of a clear trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Kranówka jednak będzie za darmo. Oto nowy plan ministerstwa",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "FORTNITE ALE ODCZUWAM BÓL z MARYSIĄ",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Możliwa ingerencja w wybory wciąż niewyjaśniona. Kiedy poznamy raport NASK?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ariana Grande - petal",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Pochwała polskiej logistyki i kurierów/sprzedawców",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Można mieć wrażenie, że ktoś tu lobbuje",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "pozdrawiam zespół techniczny gov.pl",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "2.38 i nietoperz mi lata po chacie co teraz",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Zero.pl awansuje o 16 miejsc i zdobywa tytuł najbardziej opiniotwórczego medium czerwca - Media i PR",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Remake Zelda: Ocarina of Time na NS2 będzie po polsku",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Randka z Wiatrakiem 💃",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dlaczego nawet książki od matematyki są generowane w AI?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Marsz solidarności i wsparcia dla obywateli Ukrainy mieszkających w Polsce",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Graffiti vs wandalizm, jak na to patrzycie?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jak jeść jako biedny student?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Czytam, że jako społeczeństwo mocno tyjemy. Widać?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ogłoszenia",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Czemu tyle kobiet, polek publicznie gardzi swoimi partnerami polakami?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Recruitment for r/Polska Moderators",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The title is somewhat generic and administrative, related to subreddit moderation recruitment, not a cultural trend or fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Why Doesn't the Sun Shine at Night?",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A very basic question, likely a joke or very generic, not a cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Soon It Might Be Like This",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too vague and opaque without additional context, not a clear trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Kierunkowskazy na rondach",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ceuta",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Liga Narodów w piłce siatkowej mężczyzn",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mateusz Bąk",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mistrzostwa Europy w Piłce Siatkowej Mężczyzn 2026",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Reprezentacja Polski w piłce siatkowej mężczyzn",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Rafał Brzozowski",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Specjalna:Szukaj",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Zamach nad Lockerbie",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "fundusz sprawiedliwości",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "epoznan",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "panna młoda 163",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "1670 sezon 3",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "praca",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "chuck norris",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "pogoda leszno",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ewa pajor",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "viktorija golubic",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "mohamed salah",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Premier reaguje po śmierci Morozowskiego. \"Dziennikarz z prawdziwego zdarzenia\" - PolsatNews.pl",
+        "source_name": "PolsatNews.pl",
+        "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOTNEVk5adGxWZmpfWTVUOG42bURjZU5teEFocmN4MndxOGhqOGRZOUR0RDZrbUNOa1RhNWZCaGFjVUhjbm5ybW5SVzRldnM0V0NhU0xldkZVSGFUWFh6dGhaX2NwVjY3aW52dzBMQ056QmtZVFVuSUhmb2l0OVNkaWlkLTBOX3JQMG10b1JuTDR1Y21vZGs4el9wZS1jV00zQ0N5cTdGQ2I1LTVVNllIWU5lcVN3eTJwVGxSdGtaNnFSZw?oc=5",
+        "published_at": "Tue, 04 Aug 2026 16:17:00 GMT",
+        "snippet": "Premier reaguje po śmierci Morozowskiego. \"Dziennikarz z prawdziwego zdarzenia\" PolsatNews.pl \"Na pewno nie chciał odejść\". Sianecki o śmierci Morozowskiego WP Wiadomości To Kuligowska chciała przekazać Morozowskiemu. Powiedziała mu, gdy spał TVN24 Nie żyje Andrzej Morozowski. Na co chorował? portal.abczdrowie.pl Nie żyje jedna z najbardziej znanych twarzy TVN24. Andrzej Morozowski miał 69 lat wydarzenia.interia.pl",
+        "short_explanation": "Premier honors late journalist Morozowski, a respected TVN24 news figure."
+      },
+      {
+        "title": "UE o kryzysie w Ceucie. Polska chce postawić migrantom twardy warunek - Gazeta",
+        "source_name": "Gazeta",
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMFV6aUdqd0VBZUpEcmVwSE9hZXlXRmQ1M0dkUUNOVldmb3VTYkRUU3p2c3MxZWdwd1FSZ01ibHQyWVJscWpVS0N0RTJNZUpsM3VRM3MzazJiSHh0b1dyVDNpSzFSVmdlc0hYYXU0Z0N6M1hHYjZwZnhTX3JxUF9SSklPYURKMVVibkw5ZW5mLXNUWE1QdXFKcDRLWDY2Rzl0NEpLNTJ0TVMwZ0hoYllzc2dmSkpoMURpSFJfTFhB?oc=5",
+        "published_at": "Tue, 04 Aug 2026 16:42:16 GMT",
+        "snippet": "UE o kryzysie w Ceucie. Polska chce postawić migrantom twardy warunek Gazeta Wielkie oczekiwanie w Ceucie. Sudańczycy proszą o azyl, Marokańczycy wolą umrzeć w Hiszpanii Wyborcza.pl Paraliż w Ceucie. Rząd daje 25 mln euro, regiony mówią „nie” Rzeczpospolita \"Nie, Maroko, nie\". 12-latek błagał żołnierzy, by nie wydalali go z Ceuty o2 Nowa trasa ucieczki migrantów. Przemytnicy wykorzystują sytuację Wiadomości Onet",
+        "short_explanation": "Poland demands strict migrant conditions amid EU Ceuta border crisis."
+      },
+      {
+        "title": "Morawiecki odsłania tajemnice PiS, Kaczyński czyta i się wścieka. To nowy poziom sporu na prawicy - WP Wiadomości",
+        "source_name": "WP Wiadomości",
+        "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQS0zcndRckFvT1ZuRXg0cnM2NHNMbk9FSGstNWc5WDhmams2UWJ5cXN0ODF6VmdKeUlzWkFXZnpqM1poUndxUHVsem90NjZFd2NTTVBqRU1EZG8wUTNvV0hCX1VsaVZYUk9Ici0xbHZJS0JjRjdBOXNVMjRlRHZCNXFLTTJoNlhDbEdtWVRndUNkQXM2TWNqMlFTX2s5TE5lMUplbEUzVDBEeTYweHpjZ2FZMmowV0oxdHplSFAzeFM2S25xdGEza3ZOaDVfZVd4WkxpOA?oc=5",
+        "published_at": "Tue, 04 Aug 2026 18:04:09 GMT",
+        "snippet": "Morawiecki odsłania tajemnice PiS, Kaczyński czyta i się wścieka. To nowy poziom sporu na prawicy WP Wiadomości \"Skandal. On grozi prezesowi\". W PiS wściekłość na Morawieckiego. To zapowiedź wojny Wiadomości Onet Ostry wpis Kaczyńskiego o Morawieckim. \"Jest w jakimś dziwnym stanie\" wydarzenia.interia.pl Morawiecki wspiera kobiety, kiedy jest to opłacalne politycznie Wyborcza.pl \"Mateusz oszalał\". Kaczyński jest wściekły, że Morawiecki ujawnia kulisy ważnych decyzji PiS Newsweek",
+        "short_explanation": "Internal PiS conflict escalates between Morawiecki and Kaczyński, affecting right-wing politics."
+      },
+      {
+        "title": "Zwrot w sprawie Ormuzu. Teheran może wpuścić Europejczyków - Business Insider Polska",
+        "source_name": "Business Insider Polska",
+        "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZFFKUHJpSmV0SFR2U3dJUlp4a3FmNDl6UllJbjNXb2VEQ1VnOHFWTUdzVy1HOFVLQ01odk9zSWYzc05tRWc2SjJWTHk0dHVwMUNBQXExU1U4UkRoUWhDRTJWSGxPVk5TcnIxTFlJb285d1lEVkZiME1MalJ4ZXhmT1J0XzBQNUJ1cHMtRzg4NVJuTG5taFFfS3VVR24zOVZGY0pQRGtDcUF0cjBJ?oc=5",
+        "published_at": "Tue, 04 Aug 2026 18:22:02 GMT",
+        "snippet": "Zwrot w sprawie Ormuzu. Teheran może wpuścić Europejczyków Business Insider Polska Iran dopuści Europę do Ormuzu? Zaskakujące doniesienia Money.pl Przełom ws. cieśniny Ormuz? Ważna deklaracja człowieka Trumpa WP Wiadomości Gniew Trumpa po komunikacie Teheranu. \"Zawrzyjcie umowę albo się poddajcie\" wydarzenia.interia.pl Giełdy reagują na rozmowy USA z Iranem. Ropa tanieje po słowach Scotta Bessenta bankier.pl",
+        "short_explanation": "Iran may allow European access to Strait of Hormuz, easing geopolitical tensions."
+      },
+      {
+        "title": "Nowy wątek afery w Szpitalu Południowym. Ministerstwo Zdrowia reaguje - Wiadomości Onet",
+        "source_name": "Wiadomości Onet",
+        "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa1FhQVdocGNuUnZ1UWFnZmtIUnU4MnM3QUp6NTVOblNvMlRVWHVCNWdaaGx2YWpLdDFoV0dmNDdWVkgwNnNxTm1ndEt1bW9YbWc4WXlzcTlnSVJPQjVFWXJWZzhhUmVjMnRxcUt0LThYaHZKd0JzYVVjYS10dzZ3TFRuNXBtUDlMc3QtWGRHWmN1Y1JqenFUZDhTanREVG4yaHd4SEthTXE2aWdUMl9zVWE1ODBqN1EzNkxINDBMSXM?oc=5",
+        "published_at": "Tue, 04 Aug 2026 12:09:42 GMT",
+        "snippet": "Nowy wątek afery w Szpitalu Południowym. Ministerstwo Zdrowia reaguje Wiadomości Onet Nowy wątek afery w Szpitalu Południowym. Warszawski ratusz odpowiada Wiadomości Onet Kacprzyk działał \"w imieniu Trzaskowskiego\"? Jest głos ze stołecznego ratusza wydarzenia.interia.pl To Kacprzyk powiedział pierwszego dnia. Była prezes szpitala zdradza WP Wiadomości „Jo nie chcioła, jo nie wiedzioła”, czyli była prezes Szpitala Południowego przerwała milczenie Zero.pl",
+        "short_explanation": "New developments in South Hospital scandal prompt Health Ministry response."
+      }
+    ],
+    "trends": [
+      {
+        "title": "SKOLIM & Zenek Martyniuk & RAIDER - Love (Official Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (SKOLIM Official)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-30T14:03:52Z",
+        "source_url": "https://www.youtube.com/watch?v=0UBIiNIZlDg",
+        "external_url": "https://www.youtube.com/watch?v=0UBIiNIZlDg",
+        "context": "SKOLIM Official. Muzyka/Tekst Konrad Skolimowski/ Zenek Martyniuk/Dawid Tymiński/Karol Boguslaw Kulesza/ Luxon\n\nKoncerty 501729164\nProdukacja \n► ZABRONIONE KOPIOWANIE MATERIAŁÓW NA INNE KANAŁY!!!\n\n#love #Skolim #Latino",
+        "short_explanation": "Popular Polish-Latino music video featuring famous singer Zenek Martyniuk, blending genres."
+      },
+      {
+        "title": "Pretending to Be a Dinosaur Child on One Minecraft Block!",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Wojan Games)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-08-04T08:00:22Z",
+        "source_url": "https://www.youtube.com/watch?v=qqMqWHVfOHk",
+        "external_url": "https://www.youtube.com/watch?v=qqMqWHVfOHk",
+        "context": "Wojan Games. 🆕🍦 Nowe Lody Wojanek 67 dostępne w  Żabka!\n🍦 Lody Wojanek dostępne w Sklepach Biedronka, Żabka, Lidl, Dino!\n🍒 Wojanek Jabłko-Wiśnia dostępny w Sklepach Żabka i Dino!\n🛒 Sklepy z Wojankami: https://wojanek.pl/gdzie_kupic\n[REKLAMA]\n\n👕 SKLEP WOJANA: https://wojanshop.pl\n\n► INSTAGRAM: @wojan_official\nhttps://instagram.com/wojan_official/\n\nIP Wojanowic: WojanMC.pl\nWersja: 1.19.4 - 1.21.4\n#r",
+        "short_explanation": "Minecraft gameplay video by Wojan Games, popular among Polish youth and gamers."
+      },
+      {
+        "title": "Malik Montana - Abi Mosa (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Malik Montana)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-31T10:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=vA0jEuNeszQ",
+        "external_url": "https://www.youtube.com/watch?v=vA0jEuNeszQ",
+        "context": "Malik Montana. Posłuchaj singla \"Abi Mosa\" w serwisach streamingowych: https://wmg.lnk.to/AbiMosa\n\nVIDEO by @uglyassocho\n\nTitle: Abi Mosa\nVocal: Malik Montana\nMusic: CUZCO$\n\nSubskrybuj kanał  @MalikMontanaOfficial  \n\nMalik Montana\nSpotify: https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E?si=ttcMSolmSL6rEd7HKolibg\nInstagram: https://www.instagram.com/donmalikmontana   \nTikTok: https://www.tik",
+        "short_explanation": "Official music video by Malik Montana, a well-known Polish rapper and music artist."
+      },
+      {
+        "title": "Gift for Pimpka in Minecraft! 🎁❤️",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Luczek 🐶)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-08-03T15:46:29Z",
+        "source_url": "https://www.youtube.com/watch?v=MbOWqRwaPlk",
+        "external_url": "https://www.youtube.com/watch?v=MbOWqRwaPlk",
+        "context": "Luczek 🐶. 🦴 SKLEP LUCZKA 🛒: https://luczekshop.pl/ 🦴 \n\nDzisiaj Luczek 🐶 będzie grać z Pimpkiem w Minecraft. Jaka przygoda ich dzisiaj czeka? Miłego oglądania\n\nPREZENT DLA PIMPKA w Minecraft! 🎁❤️\n\nSubskrybuj po Kostkę 🦴 dla Ciebie!\n\n✉️ Współpraca: luczek.reklama@gmail.com\n\n#minecraft [autopromocja]",
+        "short_explanation": "Minecraft video featuring gift-giving, popular Polish gaming content for children and fans."
+      },
+      {
+        "title": "I Opened 0.0001% Squishy in Roblox!",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Wojan PLUS)",
+        "score_label": "trending #7",
+        "rank_score": 940,
+        "published_at": "2026-08-04T07:00:09Z",
+        "source_url": "https://www.youtube.com/watch?v=C79HMMfF_CA",
+        "external_url": "https://www.youtube.com/watch?v=C79HMMfF_CA",
+        "context": "Wojan PLUS. 🆕🍦 Nowe Lody Wojanek dostępne w Sklepach Biedronka, Żabka, Lidl, Dino!\n🍒 Wojanek Jabłko-Wiśnia dostępny w Sklepach Żabka i Dino!\n🧃 Wojanek 67 i Multiwitamina dostępny w Sklepach Biedronka!\n🛒 Sklepy z Wojankami: https://wojanek.pl/gdzie_kupic\n[REKLAMA]\n\n👕 SKLEP WOJANA: https://wojanshop.pl\n\n► INSTAGRAM: @wojan_official\nhttps://instagram.com/wojan_official/\n\nIP Wojanowic: WojanMC.pl\nWers",
+        "short_explanation": "Roblox gameplay video opening rare virtual items, popular among Polish gaming community."
+      },
+      {
+        "title": "Only 27% of Poles Would Defend Poland in War, New Poll Shows",
+        "platform": "reddit",
+        "source_label": "r/Polska",
+        "score_label": "r/Polska hot #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T08:29:35+00:00",
+        "source_url": "https://www.reddit.com/r/Polska/comments/1vf4fcr/tylko_27_badanych_deklaruje_że_broniłoby_polski/",
+        "external_url": "https://www.reddit.com/r/Polska/comments/1vf4fcr/tylko_27_badanych_deklaruje_że_broniłoby_polski/",
+        "context": "W najnowszym sondażu IBRiS, przeprowadzonym w lipcu 2026 r. na reprezentatywnej próbie dorosłych Polaków, tylko 27 procent badanych deklaruje gotowość osobistej obrony kraju w sytuacji zagrożenia wojną, podczas gdy 58,1 procent mówi temu \"nie\", a 14,9 procent nie miało zdania. https://wiadomosci.wp.pl/zaskakujace-wyniki-sondazu-wiekszosc-polakow-nie-zglosilaby-sie-do-obrony-kraju-7313682605025344a",
+        "short_explanation": "Poll shows only 27% of Poles willing to defend country in war, sparking debate."
+      },
+      {
+        "title": "Tragedy in Ukraine: Polish Volunteer Marek Rusek-Wolski Dies",
+        "platform": "reddit",
+        "source_label": "r/Polska",
+        "score_label": "r/Polska hot #3",
+        "rank_score": 980,
+        "published_at": "2026-08-04T16:39:52+00:00",
+        "source_url": "https://www.reddit.com/r/Polska/comments/1vfflky/tragedia_w_ukrainie_nie_żyje_polski_wolontariusz/",
+        "external_url": "https://www.reddit.com/r/Polska/comments/1vfflky/tragedia_w_ukrainie_nie_żyje_polski_wolontariusz/",
+        "context": "submitted by /u/TheBronzeSilverfish [link] [comments]",
+        "short_explanation": "Death of Polish volunteer Marek Rusek-Wolski in Ukraine, significant for local solidarity."
+      },
+      {
+        "title": "Solidarity Demonstrations for Ukrainian Minority in Poland - Map",
+        "platform": "reddit",
+        "source_label": "r/Polska",
+        "score_label": "r/Polska hot #5",
+        "rank_score": 960,
+        "published_at": "2026-08-04T11:16:04+00:00",
+        "source_url": "https://www.reddit.com/r/Polska/comments/1vf7f91/demonstracje_solidarności_z_mniejszością/",
+        "external_url": "https://www.reddit.com/r/Polska/comments/1vf7f91/demonstracje_solidarności_z_mniejszością/",
+        "context": "9 sierpnia (niedziela) kilka organizacji organizuje demonstracje przeciwko nienawiści wobec mniejszości ukraińskiej. Zachęcam do udziału. submitted by /u/Czokoszoki [link] [comments]",
+        "short_explanation": "Solidarity protests in Poland supporting Ukrainian minority against hate and discrimination."
+      }
+    ]
+  }
+}

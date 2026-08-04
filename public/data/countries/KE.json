@@ -1,0 +1,793 @@
+{
+  "iso2": "KE",
+  "iso3": "KEN",
+  "country_name": "Kenya",
+  "flag": "🇰🇪",
+  "region": "Africa",
+  "coordinates": {
+    "lat": -0.0236,
+    "lon": 37.9062
+  },
+  "updated_at": "2026-08-04T21:01:50+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "cybercrime",
+    "SIM hijacking",
+    "cryptocurrency"
+  ],
+  "top_news": {
+    "headline": "How Kenyans lost Sh491m, cryptos via SIM hijack - Business Daily",
+    "summary": "Kenyans lost Sh491 million in cryptocurrency through SIM hijacking scams amid rising AI-linked cybercrime.",
+    "why_it_matters": "Highlights growing cybercrime and digital security concerns in Kenya.",
+    "source_name": "Business Daily",
+    "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb2tPU2xEN2U1ZDRVcmhHOTRfVVMwSWdFWlZsbmZWSHJZekNRQlJMcXZDSTQwajY0WUc0bzRYWmRfajRrMmlOb19CUGRxVkxPczRPRmpNZi04dl9VNGtJTmdCMmU0X0RZVV9IQjN3SkFIdUVkbzZvYjdtUE0tRTY1MFhQMFJWdG1jNnZidnMxUDJMaGtHb0JnZldiSDFENGUtRHNlb0g0UUUzY2xOa0MxZTVxU0g?oc=5",
+    "published_at": "Tue, 04 Aug 2026 17:45:00 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Older Millennials' Mindset on Motherhood in Kenya",
+    "platform": "reddit",
+    "explanation": "A Reddit post humorously critiques older Kenyan women's traditional views on motherhood, highlighting generational clashes over family and social expectations.",
+    "why_people_are_sharing_it": "Relatable generational clash on motherhood norms sparks debate and laughs.",
+    "tone": "funny",
+    "local_context": "Kenyan millennial women challenge older norms on motherhood and relationships.",
+    "source_url": "https://www.reddit.com/r/Kenya/comments/1vfk7nd/older_millenials_is_this_the_way_most_of_you_think/",
+    "media_url": "https://www.reddit.com/r/Kenya/comments/1vfk7nd/older_millenials_is_this_the_way_most_of_you_think/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=en-KE&gl=KE&ceid=KE:en",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Burke's quiet visa change prioritises onshore workers - ABC News & Headlines – Australian Broadcasting Corporation",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "How Kenyans lost Sh491m, cryptos via SIM hijack - Business Daily",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Village elder to Ruto: Give us 3 or 4 hours to tour State House - the-star.co.ke",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ruto’s running mate dilemma in Kenya: Keep Kindiki or cut him loose? - The Africa Report",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Lake Baringo irrigation plan targets 100K jobs, Sh40bn economy - the-star.co.ke",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Pope: Digital communication must serve truth and human dignity - Vatican News",
+          "score": 0,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Beyond Trade: Building the India–Africa Agrifood Partnership - orfonline.org",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The EPA Heralds Its Omaha Cleanup as a Success. But We Found Many Yards Still Have Toxic Levels of Lead. - ProPublica",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Airtel awaits regulator's nod to implement satellite-to-phone mobile service - the-star.co.ke",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mysterious beers kill 50 people in Rwanda and cause permanent blindness to over 100 other victims - The Tanzania Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Administrator blames governance failures for Zen’s $700m collapse - The Australian",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘Arrogance kills’: Novo chief injects risk-taking into Ozempic maker - Financial Times",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The Elder Scrolls IV: Oblivion Remastered On Nintendo Switch 2 - Release Date And Info - Forbes",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "How to Stop Google AI From Scanning Your Gmail by Default - Techweez",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Munya, Muturi reject Gachagua's call to dissolve parties and join DCP - the-star.co.ke",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Man arrested over armed robbery at women's chama meeting in Nairobi - the-star.co.ke",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "IEBC finalises draft campaign financing rules after public participation - the-star.co.ke",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Four suspects arrested as police recover 132 stolen phones in Kayole - The Eastleigh Voice",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "MP John Kaguchia released on Sh250,000 cash bail - the-star.co.ke",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Court detains mother and son for 21 days in Dr Victoria Mutiso's murder probe - standardmedia.co.ke",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "Kenya",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=KE",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "status": "disabled",
+        "message": "disabled for countries where language wiki is too global"
+      },
+      "filters": [
+        {
+          "title": "Willy Paul - Kangaroo/Komasava (Official Music Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Kenyan artist Willy Paul releasing a trending music video; strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "INYAA SYANA - MAXWELL MWALIMU (Official Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Trending Kenyan music video by Maxwell Mwalimu; strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Kenyan Rural School Lacks Computers for Students",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Locally relevant educational issue highlighting digital divide in Kenya."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Darassa & Harmonize - Love Design (Visualizer)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Kenyan music collaboration; strong cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Mental Health Emergency Contacts and Support in Kenya",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Important social topic with local relevance; somewhat generic but valuable."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Bolt Driver Arrested in Nairobi CBD - User Experience",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Local incident reflecting urban life in Nairobi; some cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Older Millennials' Mindset on Motherhood in Kenya",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Locally nuanced social discussion reflecting Kenyan cultural attitudes."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Reflecting on the 2010-14 Golden Era of Hip Hop",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Nostalgic music discussion with global appeal; moderate cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers: Doomsday Official Trailer",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global blockbuster trailer; generic entertainment content, not Kenya-specific."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "I Opened My Own Gas Station (VR) - Foltyn",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:VR gaming content; niche interest, not a strong Kenyan cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "JUMANJI: OPEN WORLD - Official Trailer",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global movie trailer; generic entertainment content."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "JJ’s OVERPOWERED vs Mikey’s POOR vs Banana Kid’s RICH Underground CAR - Maizen Minecraft",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content popular on YouTube but niche and not Kenya-specific."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Children of Blood and Bone Official Trailer (2027)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global movie trailer; not specifically Kenyan cultural content."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "JJ vs Mikey: POOR Friends Robbed RICH Friends in Minecraft - Maizen",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Do thieves have access to social media ?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "MAKAMANDA - JUU SANA (Official Music Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Kenya kumbe tuko sawa- ona hawa Ma Oga vile wanaomba tips kwa ma celeb. Poverty has no dignity.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "what radicalized you against Ruto? Wantam!",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Kwa wale watu waku save na banks",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Evolution",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PEG TUBE SIZE 24F on Sale",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Kenyan doctors on Reddit, is it true that if a man takes a pregnancy test and it turns out positive he has testicular cancer?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Rampant Crime, Again!",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Has social media made infidelity seem more acceptable, or has it just made it more visible?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "MAFRANKOO FANS!!",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Maybe a little money does buy happiness 😭",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Do you mind what you wear?",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opaque and vague title without clear cultural context."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "I’m I the only who does this?😂",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Vague and generic Reddit post title without clear cultural significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Share your business/hobbies/Job Opportunities/Job requests!! - August 03, 2026",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic community post inviting business/job sharing; not a distinct cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ama tulirogwa",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Transport assistance",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Unlearning their dreams.",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Healing from Depression",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sugar cravings.",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cowards live longer",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "gor mahia vs al hilal",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "sparta praha vs ol",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "union vs bodø/glimt",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "starship",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ipswich town vs le havre",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "bruno guimaraes arsenal transfer",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "mp john kaguchia",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "peter munya",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "paul biya",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "strasbourg fc",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Burke's quiet visa change prioritises onshore workers - ABC News & Headlines – Australian Broadcasting Corporation",
+        "source_name": "ABC News & Headlines – Australian Broadcasting Corporation",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFc5bXZaUWh5eEhuT3gzdGl3SlowZzlZeW00X1d4TkxmR1lsZHlPMWVvQWw2WVV0bVEzcndoWlVYLTRMSVMwbWVyM1hYQXNfemFjSzZsU3ZPRTEzQlBJREx1d2RxU1hJMGdxTHhjLVRrVmtwYjl2SzhjT0xVT3l4ZDRsei1WZzVuYkg3ZXpBMEhkVE5HdFBPMDQxUktXcjJjanRaS0d5VXJwcUE?oc=5",
+        "published_at": "Tue, 04 Aug 2026 20:13:03 GMT",
+        "snippet": "Burke's quiet visa change prioritises onshore workers ABC News & Headlines – Australian Broadcasting Corporation Australia Work Visa: List of 5 Skilled Occupations Eligible for Kenyans, Africans Tuko News Minimum wage workers win 4.75% wage increase thelamp.com.au Ministerial Direction 119 for skilled visa processing Absolute Immigration Australia’s skilled visa shake-up puts onshore applicants first The Indian Sun",
+        "short_explanation": "Australia prioritizes visa processing for workers already inside the country, affecting Kenyan applicants."
+      },
+      {
+        "title": "How Kenyans lost Sh491m, cryptos via SIM hijack - Business Daily",
+        "source_name": "Business Daily",
+        "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb2tPU2xEN2U1ZDRVcmhHOTRfVVMwSWdFWlZsbmZWSHJZekNRQlJMcXZDSTQwajY0WUc0bzRYWmRfajRrMmlOb19CUGRxVkxPczRPRmpNZi04dl9VNGtJTmdCMmU0X0RZVV9IQjN3SkFIdUVkbzZvYjdtUE0tRTY1MFhQMFJWdG1jNnZidnMxUDJMaGtHb0JnZldiSDFENGUtRHNlb0g0UUUzY2xOa0MxZTVxU0g?oc=5",
+        "published_at": "Tue, 04 Aug 2026 17:45:00 GMT",
+        "snippet": "How Kenyans lost Sh491m, cryptos via SIM hijack Business Daily The state of cybercrime in Africa 2026 the-star.co.ke INTERPOL report finds AI linked to more than half of cybercrime in Africa Interpol Kenya Named Among Biggest Cybercrime Hotspots in New Report Kenyans.co.ke Today in Africa, August 4, 2026: Ceuta border rush, AI cybercrime in Africa, DR Congo Ebola outbreak OkayAfrica",
+        "short_explanation": "Kenyans lost millions through SIM hijacking, highlighting rising cybercrime and digital security concerns."
+      },
+      {
+        "title": "Village elder to Ruto: Give us 3 or 4 hours to tour State House - the-star.co.ke",
+        "source_name": "the-star.co.ke",
+        "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTnJXSWoxdV9EUHJ1NlB3aU5VVkx6VDl4T20tUmVLR0NCSmhjcU9mUEZYVTdid3RXalNPRjc4WFhyRmgtV2NjU1U2eVpWZ0I1ME9GUWlPNUFmYjdtYUhPYmV2OGNCQzZvcmJRN3c3ZUFlOWdFdzdQSkhSNktoTHB2TFdtVW5UcTF5QjlBb2NzUGZsTFphZEVmeng0UUNNQQ?oc=5",
+        "published_at": "Tue, 04 Aug 2026 13:44:00 GMT",
+        "snippet": "Village elder to Ruto: Give us 3 or 4 hours to tour State House the-star.co.ke Murkomen: Chiefs' allocations will rise to Sh50K, village elders to undergo digital training the-star.co.ke Ruto announces Ksh.3K monthly stipend, smartphones, SHA cover for village elders Citizen Digital Murkomen Pushes for Official Recognition of Traditional Councils of Elders Dawan Africa Ruto meets village elders at State House People Daily",
+        "short_explanation": "Village elders request a State House tour, reflecting their growing political recognition and influence."
+      },
+      {
+        "title": "Ruto’s running mate dilemma in Kenya: Keep Kindiki or cut him loose? - The Africa Report",
+        "source_name": "The Africa Report",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQREREOE5iUFMyV3BNb3J4WkhGSnRvc2VzcTV2Rlc4X1pJNW1wQVVjLU1udXZSRGlYUEJfOFYtTDFFVTVEbzJkTjBUbWVYZDl3RlQ1Y0llNkFIWTRpbXBKUmZmdS1EMmZ5cGJZWFhLdFdnbGNBaWk4UDEtQ2Q4Ymkwc3hRV3ZCYUpiRnVYaDRrUVE2clBrM2VTR05QNktaVUVfRGlpbXRueGw?oc=5",
+        "published_at": "Tue, 04 Aug 2026 12:29:20 GMT",
+        "snippet": "Ruto’s running mate dilemma in Kenya: Keep Kindiki or cut him loose? The Africa Report I’m ready to serve as DP: Oburu enters race to be Ruto’s running mate Daily Nation 'Can I not be number two?' Oburu makes pitch for Deputy President role the-star.co.ke Mimi nimetosha! Oburu expresses confidence in being Ruto's running mate Citizen Digital Oburu Odinga hints at interest in deputy president’s seat ahead of 2027 People Daily",
+        "short_explanation": "Debate over Ruto’s deputy choice shows political jockeying ahead of Kenya’s 2027 elections."
+      },
+      {
+        "title": "Lake Baringo irrigation plan targets 100K jobs, Sh40bn economy - the-star.co.ke",
+        "source_name": "the-star.co.ke",
+        "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQa1NOMkNaRTlHM0JvSUNrVEdHMDVOSTY5R3U1THpJWmlIZU52akRmNV9QSUs3MUlLUkl4ZTd2enVlNHNoeDc2WU1ZU2g1T3Q3YmR6cW1rWVdtOW96M0ZBZEVUekFnMVpqYlVNOHJMV05obG16UjhJVllrbmNfREpzbUtsM3pvZ0V3OW5kX2p0X0Z5dmlYNDJkZ3ZCaU5QV0R3dnhuSnV3anNTdHZqSmtHQ2w2blp1MmVQZGJucg?oc=5",
+        "published_at": "Tue, 04 Aug 2026 17:51:00 GMT",
+        "snippet": "Lake Baringo irrigation plan targets 100K jobs, Sh40bn economy the-star.co.ke Government to build tunnel, canal to save Lake Baringo – PS Mariru the-star.co.ke What 16 years of satellite images reveal about rising Rift Valley lakes Daily Nation L. Baringo water levels threaten ecological disaster as govt explores irrigation plan to prevent merger with L. Bogoria People Daily Lake Victoria's Peatland Conundrum The Xylom",
+        "short_explanation": "Irrigation plan at Lake Baringo aims to create jobs and boost local economy."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Willy Paul - Kangaroo/Komasava (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Willy Paul Thee Pozze)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-24T07:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=dDc--2EaSvA",
+        "external_url": "https://www.youtube.com/watch?v=dDc--2EaSvA",
+        "context": "Willy Paul Thee Pozze. Subscribe to the channel for more https://tinyurl.com/WillyPaul-YT\n\nFollow Willy Paul on Socials\nhttps://instagram.com/willy.paul.msafi\nhttps://twitter.com/willypaulmusic\n\n#WillyPaul #saldidointernational",
+        "short_explanation": "Willy Paul is a popular Kenyan musician known for hit songs and vibrant music videos."
+      },
+      {
+        "title": "INYAA SYANA - MAXWELL MWALIMU (Official Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (MAXWELL MWALIMU Official)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-28T09:00:27Z",
+        "source_url": "https://www.youtube.com/watch?v=dMJ7v_mNVoI",
+        "external_url": "https://www.youtube.com/watch?v=dMJ7v_mNVoI",
+        "context": "MAXWELL MWALIMU Official. #truecammedia #maxwellmwalimu #ohagla #inyaasyana",
+        "short_explanation": "Maxwell Mwalimu is a Kenyan artist with trending music video 'INYAA SYANA'."
+      },
+      {
+        "title": "Kenyan Rural School Lacks Computers for Students",
+        "platform": "reddit",
+        "source_label": "r/Kenya",
+        "score_label": "r/Kenya hot #7",
+        "rank_score": 940,
+        "published_at": "2026-08-04T14:57:25+00:00",
+        "source_url": "https://www.reddit.com/r/Kenya/comments/1vfcqj2/there_are_grade_9_students_in_kenya_who_have/",
+        "external_url": "https://www.reddit.com/r/Kenya/comments/1vfcqj2/there_are_grade_9_students_in_kenya_who_have/",
+        "context": "Last year I was appointed a member of the Board of Management of a rural primary school. I was shocked to learn that the school had no computers for learning and the 'computer studies' subject was just theory. Practical lessons were a rare visit to a neighboring secondary school's computer lab. We have since then organized the school's alumni and BOM members to contribute funds for a well equiped ",
+        "short_explanation": "A rural Kenyan school lacks computers, highlighting education resource challenges locals face."
+      },
+      {
+        "title": "Darassa & Harmonize - Love Design (Visualizer)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Darassa)",
+        "score_label": "trending #7",
+        "rank_score": 940,
+        "published_at": "2026-07-23T22:37:43Z",
+        "source_url": "https://www.youtube.com/watch?v=V_yR84g1cm0",
+        "external_url": "https://www.youtube.com/watch?v=V_yR84g1cm0",
+        "context": "Darassa. Darassa & Harmonize present's the Official Visualiser \"Love Design\" (c) 2026 CMG. Visual Directed by Bless Dollar & Audio produced by Abbah.\n\nStream / Download: http://africori.to/lovedesign\n\n Listen to Darassa on Digital Streaming:\nAudiomack: https://audiomack.com/darassa\nApple Music: https://music.apple.com/us/artist/darassa/1038026019\nBoomplay: https://www.boomplay.com/share/artist/240",
+        "short_explanation": "Darassa and Harmonize are East African musicians collaborating on the song 'Love Design'."
+      },
+      {
+        "title": "Mental Health Emergency Contacts and Support in Kenya",
+        "platform": "reddit",
+        "source_label": "r/Kenya",
+        "score_label": "r/Kenya hot #2",
+        "rank_score": 990,
+        "published_at": "2026-07-30T21:00:27+00:00",
+        "source_url": "https://www.reddit.com/r/Kenya/comments/1vb64pb/mental_health_emergency_contacts_and_support/",
+        "external_url": "https://www.reddit.com/r/Kenya/comments/1vb64pb/mental_health_emergency_contacts_and_support/",
+        "context": "Hello r/Kenya , mental health is a critical issue affecting many people therefore we would like to provide a dedicated thread for members to access mental health resources and support. This thread is a space where members can access emergency contacts and support, as well as resources for ongoing mental health care. Please Message us to add/update contacts. Emergency Contacts Befrienders Kenya - 0",
+        "short_explanation": "Mental health emergency contacts provide crucial support for Kenyans facing mental health crises."
+      },
+      {
+        "title": "Bolt Driver Arrested in Nairobi CBD - User Experience",
+        "platform": "reddit",
+        "source_label": "r/Kenya",
+        "score_label": "r/Kenya hot #4",
+        "rank_score": 970,
+        "published_at": "2026-08-04T12:53:47+00:00",
+        "source_url": "https://www.reddit.com/r/Kenya/comments/1vf9j8v/my_bolt_driver_was_arrested_in_the_nairobi_cbd/",
+        "external_url": "https://www.reddit.com/r/Kenya/comments/1vf9j8v/my_bolt_driver_was_arrested_in_the_nairobi_cbd/",
+        "context": "I was getting a moto ride from Kilimani to the Archives building in the CBD. We were in the CBD, but pretty far still from the archives when 3 people surrounded the motorbike, telling us to get off -- 2 -something- inspectors in uniform and one guy in plain clothes. Me, being a mzungu, get off the bike and these guys start asking me why I was driving in the wrong direction on the road. I was like ",
+        "short_explanation": "A Bolt motorcycle driver was arrested in Nairobi CBD, sparking user safety concerns."
+      },
+      {
+        "title": "Older Millennials' Mindset on Motherhood in Kenya",
+        "platform": "reddit",
+        "source_label": "r/Kenya",
+        "score_label": "r/Kenya hot #8",
+        "rank_score": 930,
+        "published_at": "2026-08-04T19:22:58+00:00",
+        "source_url": "https://www.reddit.com/r/Kenya/comments/1vfk7nd/older_millenials_is_this_the_way_most_of_you_think/",
+        "external_url": "https://www.reddit.com/r/Kenya/comments/1vfk7nd/older_millenials_is_this_the_way_most_of_you_think/",
+        "context": "I (28F). My work colleagues are older than me I’d say most are 35+. Is it like a millennial type of thing with their backward thinking? So, these women have this mindset that as long as umezaa ukiwa na mtoto, it’s okay nothing else matters. Kuna mmoja hapo, dear Lord, amezaa na married man, alafu we have these other older ladies wanasema, “Ah si afadhali umetoka hapo na mtoto?” Tf is this?😂kweli e",
+        "short_explanation": "Older Kenyan millennials debate motherhood views, reflecting changing social attitudes."
+      },
+      {
+        "title": "Reflecting on the 2010-14 Golden Era of Hip Hop",
+        "platform": "reddit",
+        "source_label": "r/Kenya",
+        "score_label": "r/Kenya hot #9",
+        "rank_score": 920,
+        "published_at": "2026-08-04T13:56:59+00:00",
+        "source_url": "https://www.reddit.com/r/Kenya/comments/1vfb3j2/damn_201014_was_the_golden_era_of_hip_hop/",
+        "external_url": "https://www.reddit.com/r/Kenya/comments/1vfb3j2/damn_201014_was_the_golden_era_of_hip_hop/",
+        "context": "I’m still stuck listening to my old collection. Kendrick Lamar-Good kid, m.A.A.d city, Drake- Take Care, A$AP Rocky- Long Live A$AP, Kanye West & Jayz, Lupe Fiasco, Meek Mill. However, I find myself listening to less music each day is it only me? Gone are the days I would listen to albums and mixtapes back to back. submitted by /u/Annual-Wrongdoer-607 [link] [comments]",
+        "short_explanation": "Reflecting on 2010-14 hip hop era shows nostalgia for music that shaped youth culture."
+      }
+    ]
+  }
+}

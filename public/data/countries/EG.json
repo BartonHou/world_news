@@ -1,0 +1,840 @@
+{
+  "iso2": "EG",
+  "iso3": "EGY",
+  "country_name": "Egypt",
+  "flag": "🇪🇬",
+  "region": "Middle East",
+  "coordinates": {
+    "lat": 26.8206,
+    "lon": 30.8025
+  },
+  "updated_at": "2026-08-04T20:58:53+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "fake judge",
+    "judicial trust",
+    "law enforcement"
+  ],
+  "top_news": {
+    "headline": "الداخلية: ضبط طبنجة صوت وكروت مزورة بحوزة منتحل الصفة القضائية - youm7.com",
+    "summary": "Egypt cracks down on a fake judge using a sound gun and forged cards, sparking public debate on judicial trust.",
+    "why_it_matters": "Reveals public concern over judicial integrity and law enforcement challenges in Egypt.",
+    "source_name": "youm7.com",
+    "source_url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNSXI5Ql9fa3EyNE5mWFdtZWhGaVI0ODBEZzg4TUF0ZVhsWWRkT29IcmdLY1ZJcldUOGIteGVUSlZLUno5eE0zbnNsNlJYME1QRGVLQm94UVE4WXRmdUc1RDBNamhxNVVhMDhwOWdydjRUV2J4TEVtMkp0aVpZZEpfcFY0WHozcElkRjhKVVJzVWxGRjVpMXZtelZQVHRFU2l0alVRazdrTTdUcHV4R1RpUDh3MGhWUGU1ODJPMlp3YVJWRERrNUJ5TFhMcTZDQ2JJY25GVlhMcU03cVVKS2hjT2xuZktSNnp1NFo2SWFGWUZHM2FHVGl5Smx6RUFpdjdhWlltb1BZbVQ0NTVLeV83cmxZdXc4TTBWZlk2ai1xR2plcVlTYjA0a3NkZkkzaVVoNG5JUlVCcVFuLVhpdnlEWHZPbi03alFCM1pKNEt3THZNUkxUSHFlQi1oN0pGaDhULUJZUG9rYkhyNl9pXzh2X1pCV09ZYWtQRlBLRFZaN2FYaVJGWldiSV9fV3ZJMUY4VTliVlg4NkJwa3pDNFZyb1RVSy1wSm5OUUJGNTVibVdoM0RNdWwxa0FGLURCZkhHellYOENRYkNzQzdRMVNGeGNXOGJtclVfME9pRE1fMXlBcjgwRy02cU41N3h0YUVBbU5kS2FCTlltVDBVM0VoNzZzaUHSAf8DQVVfeXFMTjNITk1UVEw0XzdrUEFKRFlSdUNhZWJDU3ZiV1VySGNLQVY4WTlxY3BFM0JVYUsyTE1SMm50NWxxbFpHYmJjTlhrM21xczFINTB3V2V0cy1zYUo3WHpQWGRzZU9DTU5sbG9XTnVMNkRzQkwzUzI2RjFId2locXgtXzRadi00d3BwMWF1NGk3Q09uMUlrYkxsdWZpS1dhX3JLaUo0bVFlcnBpUzQ2ZGF4akw5TlNXTXQ5YWtmUmtrejdLVzBZSmZoWFJzbTI1b0tudTEzNk1LNzZ0TE1LYU54SkdaRVdxbjkzaEw2SkNSTVlGLWR2VGpuWWYtaVZmVFM1VlJUWXFad0JLODczZ0h0aG50RThLLU11dGluMEpoT1B0YVhndTk0bXBSalhvcFpCak0xODI5Z2EyZGxxX0loNkdOVE1GVTNkMzhMdlZ2R3NvQVhxUmc0dndzM0tQWUkwajBBazdWMklvOUxENjZZOGRsZlh3eXdRWjdhLWVSMC00UXVmUWU4ZDhuNncyRWJhdTNRbHl4S2hSeXJSQlBYOHJQU1Rwd3czS29vWEdWcVVvTXJMdnhFZU5kMExKU19Id2p1WUdnZ3ZHLWQ1UXJRbjJURm52dHV1UVRkc3Z2NjM0bDBLdGFQTzhCQmNvN0xsYXBCMDU2MzVJblA4bnhGSQ?oc=5",
+    "published_at": "Tue, 04 Aug 2026 11:05:00 GMT",
+    "confidence": 0.85
+  },
+  "meme": {
+    "title": "Controversy Over Quran Teacher Abusing Child Sparks Facebook Debate in Egypt",
+    "platform": "reddit",
+    "explanation": "A Quran teacher physically abused a child, sparking heated online debate about discipline and abuse in religious education.",
+    "why_people_are_sharing_it": "It exposes tensions over child discipline and authority in religious settings.",
+    "tone": "angry",
+    "local_context": "Religious education is widespread; abuse allegations cause public outrage and debate.",
+    "source_url": "https://www.reddit.com/r/Egypt/comments/1vfhdoh/محفظ_قرآن_إعتدي_علي_طفل_9_سنين_شوه_جسمه_و_بتوع/",
+    "media_url": "https://www.reddit.com/r/Egypt/comments/1vfhdoh/محفظ_قرآن_إعتدي_علي_طفل_9_سنين_شوه_جسمه_و_بتوع/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=ar&gl=EG&ceid=EG:ar",
+      "items_seen": 31,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "الطقس غدا.. استمرار انخفاض درجات الحرارة والمحسوسة بالقاهرة 38 درجة - youm7.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "اختراق في أزمة هرمز.. إيران تفتح الباب لكاسحات ألغام أوروبية - سكاي نيوز عربية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "اجتماع طارئ للاتحاد الأوروبي لبحث تدفق المهاجرين إلى سبتة، وإسبانيا تؤكد أن ما حدث لم يؤثر على منطقة شنغن - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "الداخلية: ضبط طبنجة صوت وكروت مزورة بحوزة منتحل الصفة القضائية - youm7.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "مجلس السلام: نيكولاي ملادينوف يطلب من نتنياهو هدنة لـ 14 يوماً لتجريد حماس من السلاح - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "قطر تكشف عن \"تقدم ملحوظ ومسودات اتفاق\" لحل أزمة إيران وأمريكا - CNN Arabic",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ماذا نعرف عن زلزال 1992 في مصر ولماذا تأثرت به البلاد بقوة؟ - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "إحالة سارة خليفة وأوراق عدد من المتهمين للمفتي.. و5 سبتمبر النطق بالحكم - بوابة الأهرام",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "وسط تكهنات.. مصر توجه رسالة بشأن \"هجوم دمياط\" - سكاي نيوز عربية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "محافظ الجيزة يعتمد خفض الحد الأدنى لتنسيق القبول بالثانوي العام لـ 225 درجة - youm7.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "بعدما منح ترامب إيران \"الفرصة الأخيرة\".. إليكم آخر المستجدات - CNN Arabic",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "مقذوف مجهول يصيب سفينة شحن قرب سواحل عُمان.. وهيئة بريطانية تكشف التفاصيل - youm7.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"دُفنوا في قبر واحد\": غزّة تُشيّع 112 جثماناً في أكبر جنازات القطاع منذ بدء الحرب - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "روسيا وأوكرانيا: مقتل 7 وإصابة 40 في هجوم بمسيّرة على شاطئ جنوبي روسيا - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "سر مستوى 4,000 دولار.. لماذا لا ينهار الذهب أدنى هذا السعر؟ - Investing.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "أرامكو تكشف كمية النفط الخام التي فقدها العالم بسبب حرب إيران - CNN Arabic",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ترامب يهاجم شركات النفط بسبب أرباحها الطائلة.. ويؤكد: سيعيدون جزءا للجمهور - youm7.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ارتفاع سعر الذهب اليوم الثلاثاء 4 - 8 - 2026 في مصر - بوابة الأهرام",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "في غضون يومين فقط.. الانفجار المتوقع على سطح القمر والندبة التي ستبقى عليه إلى الأبد - وكـالـة مـعـا الاخـبـارية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "وفاة شقيق الفنان محمد هنيدى - youm7.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "Egypt",
+            "status": 200,
+            "items_kept": 24
+          }
+        ],
+        "items_kept": 24
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=EG",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/ar.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 996,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Cairokee - Supernova (Popular Egyptian Band's New Song)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Clear cultural signal, a trending music video from a well-known Egyptian band."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ahmed Bahr & Essam Sasa - Bayan Ham (Important Music Video from Mahmoud El Tani Film)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Clear cultural signal tied to a notable Egyptian film and music collaboration."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Official Trailer for Egyptian Film Mahmoud El Tani",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Clear cultural content related to a new Egyptian movie release."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Assala Nasri - Assala (Official Music Video 2026)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Arab music artist releasing new official video, strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Exciting New Update for eFootball 2026 - Reasons to Look Forward to PES 2027",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular gaming content with enthusiastic community interest."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular global pop culture content, but less relevant specifically to Egypt."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Controversy Over Quran Teacher Abusing Child Sparks Facebook Debate in Egypt",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Locally significant social issue with cultural implications, notable story."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Super Bear Adventure: Narrow Escape from Scary Train - Mkamel GG",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular gaming content with local Arabic-speaking audience appeal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ismail Ahmed - Veteran Egyptian Basketball Player Making Waves in Lebanon",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Interesting sports figure profile with regional cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "HikaSIU Levels Up a Follower's Account for the First Time",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular gaming content creator with local audience appeal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "If It Rained Freedom, Some Slaves Would Carry Umbrellas (Political Commentary)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opaque metaphorical title; political commentary but not a clear trend."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "بَسمة (تصويري)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "اغنية انا اغلب خلق الله ( يكفيك شر اللى انا فيه - كلت ايه يادنيا اشرب مرك دا عليه ) محمد سلطان 2026",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "هو احنا ليه عندنا ثقافة المازوخية و العبودية و الانصياع",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "هل أقدر أهزم لاعب محترف في eFootball موبايل؟",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ازاي نقدر نحسن من الرواتب؟",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "يا رااااجل",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "هل العمله دي من حكم محمد علي باشا فعلا؟ وتسوي كام جنيه لو هبعها",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ربتهم أزاي منغير ضرب ؟",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "حد اشتغل كول سنتر في we ابل كدا؟",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "العداد اللي ب كارت دا ابن ستين كلب",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "الفيديو لحد دولقتي مش مصدق انه حقيقي",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "أيه ده بجد !!!",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "كل 24 ساعه فيه راجل مصري لازم يقرر يجبلنا العار",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "هما ليه بيذكروا مهنة الشخص حتى لو ملهاش علاقة بالخبر؟",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "نظريه المؤامره بقت مركز تاني",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ضهري بقي جمبري",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "سؤال مجنني بقالي فترة الشعب اتهم مبارك بالسرقة علي اساس ايه",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Must see before leaving",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "نفسي اصحي في مرة علي خبر حلو",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too vague and opaque, no clear cultural or trend signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "أحنا اتكشفنا يا رجالة",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opaque personal expression, no clear trend or cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Important Reminder: Comments/Posts supporting, promoting or justifying sexual harrassment are completely unacceptable and will result in a permanent ban",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too opaque and generic reminder message, not a cultural or internet trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "2/1 لأمي و السنادي اخر مواجهه",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too vague and generic, just a score update without context."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "زلزال القاهرة 1992",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "قائمة الزلازل في مصر",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "زلزال",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "في السابعة عشرة",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "منصة حجز العملة الأجنبية",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Please use existing threads regarding to post the game",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic moderation reminder, not a trend or cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "موعد اذان العشاء",
+          "score": 1,
+          "reasons": [
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "خاص:بحث",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "الصفحة الرئيسة",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ملف:Elissa - August 24, 2012 (2).jpg",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "موقع التنسيق",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "نادي برشلونة",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "سفيان بنجديدة",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "التقنين",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "trabzonspor",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "كرة اليد",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "محمد رمضان",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "هانزي فليك",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "برج الميزان",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "الطقس غدا.. استمرار انخفاض درجات الحرارة والمحسوسة بالقاهرة 38 درجة - youm7.com",
+        "source_name": "youm7.com",
+        "source_url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxNYkRyb1Y5X1QzNk50Vk95NkM5b1B3d283eDhwa3B4R2JQQ1g1MHRfRXk0Nkp2RmFFRnQ5TTJrS0swdk91a01GanN2MlFkWjRkY0ZyVW1kNU9nOGp6S0dlMGNMWGU2QVJkY3M3VDZqN0xsdHo3Q1BRd0wtbE1PeXh5SEMzdWVEYURfTDJzaF9YMVY0bUpKdFhqeWh2aHp0UEF2djZYeTBUdks5RnVNSnlYZ2tLcng1UGo3VHE3NmFkY3NNblRxX3FHMjVPUml0cWpDLVZsTDFZb0NVdGVOdXpKbkpLUHJSOU1EUWs4WmJqcERsNFJXMm9hV0VqR0pFVU9SVHdpOGs0SG11Q29hbm5DSXdXb29aWUFNaTJZVjEyaUM0LUFoWlg1VVg3TjFjVld6bERWNDJKc2g1SjRIT3AtR0IxNml0VzdQRnh2eXVrOXJCbkg4a29WT2dQZGR5UXJfSGtZYnJWaThyZlNURm9sdUl5YVlrQm5rR0hVRVMzcHlSRGlfRUJya3o0bWF5NTlNWUlkTUpPWFNSd205ZUZuaExvRXo1LUVQcGRsQW5VQjVseVQxVll1UmVjZHl6TWlNbFVuZXRTakllemswbXlJNjhsWjZfU0ZOVkVhNmU2MzVCdFdMV2RmaHcwWGJkZWNpNlBvdnVObUJyc19PSUY0MUd2bDRnNTJwWDFuZkJvZXBnNnVmSXpr0gGSBEFVX3lxTE9HdnlONkVLVkp6ODhORTRuMVFFT1d0X00xSTV3SjRhbTZsd2oyd3NNNnBSRzI2RktLSS1HYy1FNWtiYlE5T0RqRHUzUzF1NVloNVZTcUFldFNYMHlSRHBhQnVWcFJEa3lwM2YwSFJqRkRscm51OEU4NDZFUlpZWU1lakpYa2UyclJQMDBXaG1USngxTjBRLVVCQ0h2NW11TGdhWUZDdk9vRXNQZDkzWVJoczBReFlzZmJtTmlYeVZmbkJLdnRTbktuUjZUbzJFOW81X0JveEtvTm5UWVpUeHM2UEgyMEkxejZmUXNrZ1BwREFOZkFhMjFFLTNpaTNDc3JpR0EtVVpZTkwyUjRaTEZLNGlXb1pIWEJoa3dRY21vU0FjRnRtVWVJdnVOWTBrWkJQYWw4SGp0SWhHbWdyXzhoZ1VBR0swWkRXamIyR2hsOVRXOGt4cnlmVEhqV3pqOFpOX3FjQXlJb2JLRTZfSE11ejhTNVZzRUZ0OG80QWlRYkpOWWpCdGRVcUI0WkJrb0hDTzIzSUVieE03ZXFScHdiVXhJdk5VM29aa01qMFhGTnozVkY4M29IODVPNVhxV0NrVnFIRTY0aG81QnlzY1JQRUNKRjZ1Sm9KNGxWQ0tZbnFMZDRYU1ZsYjMwSmRKRWVlSkd2VER0RG1laXBDR25NblpUdm1xcS01aW5rckgya0JR?oc=5",
+        "published_at": "Tue, 04 Aug 2026 14:00:00 GMT",
+        "snippet": "الطقس غدا.. استمرار انخفاض درجات الحرارة والمحسوسة بالقاهرة 38 درجة youm7.com \"ذروة موجة الصهد اليوم\" والقبة الحرارية تسيطر على الأجواء في مصر العربية «الأرصاد» تعلن انكسار موجة الحر في هذا التوقيت بوابة الأهرام الأرصاد توضح سبب الموجة الحارة وموعد انخفاض درجات الحرارة بوابة الشروق \"أمطار خفيفة ورطوبة مرتفعة واضطراب بالملاحة\".. الأرصاد تكشف تفاصيل حالة الطقس اليوم Masrawy",
+        "short_explanation": "Weather forecast shows high temperatures dropping, affecting daily life and comfort in Cairo."
+      },
+      {
+        "title": "اختراق في أزمة هرمز.. إيران تفتح الباب لكاسحات ألغام أوروبية - سكاي نيوز عربية",
+        "source_name": "سكاي نيوز عربية",
+        "source_url": "https://news.google.com/rss/articles/CBMi4gNBVV95cUxQRkc3VUszNWZ0RTgzTmluemQtelg5V3YzLS1QMXdqbkphMG9lV1dIZXFhZ19FckNXdktHRmpLRjRmcVlnWlk0RVVXOV84QXg5dlNaX3E2bUptNnFmM0VmUk5uaUxxbjJOS0JpOVVnRUhraV9nbzdqWTNsUDVJUElYVE5XeGpQUkg3WGZ4LTBOY3JESWRlWUVUM3cxNEVPdHZSNHEwc0FaWWNGU3RuMC14Qk9KUTR3emtZLUNPaHM0a0dHT0FoZWxmMzY3QjhvdHR5azdLREhOdW1aTW82U1NKNjJaY1piRXVTT01zdjBySi1XY3dEcjhGNUx1MmdncVU1Q1lBY2ppRGhwdzBCcHMwdk5PYkhubVpFVnRnWW1hcEtrYlBSQVJrb01nX1BHR1V5a25iWjdxZklDREFEMGtFUHRqcjQtWDFzekQyWG5KSU1POWpOc3RvZzdBS3hFYWZmTzEtbW1PQU5JOXotWmN4dFNHSnduby1xX1dpOVVtT1NNYTNNUTRqT3Vua3ZLbk15dXpqZG43M1MtQW9UNGwtWF9INHlnN2pFZWV6S0JtcGdRYmx1N3BhNHRDcU1jUF9PQU1pcXBhZDRBYlMwUGkyWUJTNm1oM2NMaWw2OGlBeFAxQdIB5wNBVV95cUxPY1l3bC1ZYWE4b3ZWYmprRjdRLVdiV1RQalFaTXpTT2c5N3ZyajZGR1kzTlQ4Wk8zVS1EVUIwQWtmMlJ3enJfekNkcGFVSGMyeVQ0dS14YnVhUUxiZGJpMlktMXZudV9udDh2d0xxa2otVWp6bnFReEk1aThzYjBxUjlJem1faDJaZWdrX3hQRkxBU251dV9ZcDZPTUtZS2FKRTdtWmxXeVhYVUg1bF9Odm1RdS1LTHRYV2J0REpyenRxLXBSMVdGQTVUNjdQUGFWTjNtUGxxRFJIQ2dMMkNDYi1HWGJKLTZyMWc1LUJrTjRGSmM5TVpXOHlIMFI1cnRTZ3MzSzd0MjZCTi1aRnlucnA4djlVbmFtaWNFcTcwNXhxTFE4S1J3alRFUlZRWlBNSFVxWDJWMVk4NTM2c2lENl9tUks2S0lsdUNlazBBVUNoVTV0ZU1BQXRuUV9IUUJPeUFRaGRNWmRHX0d2UF9lMTUwa3ZtbFhfYTN5aEYwVFBuNFVRTXYwVDg5QmxIdUkxU2puVERUWW9jSlIzY1E0bE1PNngwd3dodGl0ZzlWaDlQLXF5VWNFbXAyMThyVTIyYlZNdndCbFJTczhUNUlMNFpFQVgyeDRaUlM5b2pzbFltZ3VxVmk0?oc=5",
+        "published_at": "Tue, 04 Aug 2026 18:04:46 GMT",
+        "snippet": "اختراق في أزمة هرمز.. إيران تفتح الباب لكاسحات ألغام أوروبية سكاي نيوز عربية (وسائط متعددة) الخارجية الإيرانية: استمرار المفاوضات الإيجابية بين طهران ومسقط لتحديد مسارات آمنة في مضيق هرمز 新华网 «المرونة مع أمريكا ليست مجدية».. إيران ترفض المقترح الأخير بفتح مضيق هرمز المصري اليوم اتفاق محتمل يمنح إيران نفوذًا غير مسبوق على مضيق هرمز.. تفاصيل youm7.com إعلام إسرائيلي: إيران تتراجع عن مطلب فرض رسوم عبور في مضيق هرمز بوابة الأهرام",
+        "short_explanation": "Iran allows European mine-clearers in Strait of Hormuz, easing regional shipping tensions."
+      },
+      {
+        "title": "اجتماع طارئ للاتحاد الأوروبي لبحث تدفق المهاجرين إلى سبتة، وإسبانيا تؤكد أن ما حدث لم يؤثر على منطقة شنغن - BBC",
+        "source_name": "BBC",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5nQnpLNU9lMjJieXFRc3A5QnlRUWlhRndEM19ja3hIcmtmeWd3emlkUThTNy1KanFOSFdQUzRtWDJKUWZVRENpZjZIeW1vWEk4bGJXcVBBUlRoRlBL0gFiQVVfeXFMTUJnZnVLN1lWYzB6T1hwWVFPcGtUOVdhQlN1a2ZETzh4dU9vU3MwT1lCMjJRZWtUTHR0WXpNVXI2RnJBbk1LQU9WLWlXdEhzb01ZeXNnbm5sRW1XWVpocW1fVGc?oc=5",
+        "published_at": "Tue, 04 Aug 2026 15:54:24 GMT",
+        "snippet": "اجتماع طارئ للاتحاد الأوروبي لبحث تدفق المهاجرين إلى سبتة، وإسبانيا تؤكد أن ما حدث لم يؤثر على منطقة شنغن BBC \"مأساة سبتة\".. قصة مراهقة مغربية لطمتها الأمواج وفقدت شقيقها في عرض البحر العربية مدريد تنفي تجاهل تحذيرات استخباراتية بشأن أزمة سبتة سكاي نيوز عربية زلزال سبتة.. تحركات أوروبية ضد \"تهديد الهجرة غير المنضبطة\" dw.com أزمة سبتة تشتعل ..إيطاليا تشدد الخناق على المسافرين من إسبانيا حتى سبتمبر youm7.com",
+        "short_explanation": "EU emergency meeting on migrant influx to Ceuta, impacting regional migration policies."
+      },
+      {
+        "title": "الداخلية: ضبط طبنجة صوت وكروت مزورة بحوزة منتحل الصفة القضائية - youm7.com",
+        "source_name": "youm7.com",
+        "source_url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNSXI5Ql9fa3EyNE5mWFdtZWhGaVI0ODBEZzg4TUF0ZVhsWWRkT29IcmdLY1ZJcldUOGIteGVUSlZLUno5eE0zbnNsNlJYME1QRGVLQm94UVE4WXRmdUc1RDBNamhxNVVhMDhwOWdydjRUV2J4TEVtMkp0aVpZZEpfcFY0WHozcElkRjhKVVJzVWxGRjVpMXZtelZQVHRFU2l0alVRazdrTTdUcHV4R1RpUDh3MGhWUGU1ODJPMlp3YVJWRERrNUJ5TFhMcTZDQ2JJY25GVlhMcU03cVVKS2hjT2xuZktSNnp1NFo2SWFGWUZHM2FHVGl5Smx6RUFpdjdhWlltb1BZbVQ0NTVLeV83cmxZdXc4TTBWZlk2ai1xR2plcVlTYjA0a3NkZkkzaVVoNG5JUlVCcVFuLVhpdnlEWHZPbi03alFCM1pKNEt3THZNUkxUSHFlQi1oN0pGaDhULUJZUG9rYkhyNl9pXzh2X1pCV09ZYWtQRlBLRFZaN2FYaVJGWldiSV9fV3ZJMUY4VTliVlg4NkJwa3pDNFZyb1RVSy1wSm5OUUJGNTVibVdoM0RNdWwxa0FGLURCZkhHellYOENRYkNzQzdRMVNGeGNXOGJtclVfME9pRE1fMXlBcjgwRy02cU41N3h0YUVBbU5kS2FCTlltVDBVM0VoNzZzaUHSAf8DQVVfeXFMTjNITk1UVEw0XzdrUEFKRFlSdUNhZWJDU3ZiV1VySGNLQVY4WTlxY3BFM0JVYUsyTE1SMm50NWxxbFpHYmJjTlhrM21xczFINTB3V2V0cy1zYUo3WHpQWGRzZU9DTU5sbG9XTnVMNkRzQkwzUzI2RjFId2locXgtXzRadi00d3BwMWF1NGk3Q09uMUlrYkxsdWZpS1dhX3JLaUo0bVFlcnBpUzQ2ZGF4akw5TlNXTXQ5YWtmUmtrejdLVzBZSmZoWFJzbTI1b0tudTEzNk1LNzZ0TE1LYU54SkdaRVdxbjkzaEw2SkNSTVlGLWR2VGpuWWYtaVZmVFM1VlJUWXFad0JLODczZ0h0aG50RThLLU11dGluMEpoT1B0YVhndTk0bXBSalhvcFpCak0xODI5Z2EyZGxxX0loNkdOVE1GVTNkMzhMdlZ2R3NvQVhxUmc0dndzM0tQWUkwajBBazdWMklvOUxENjZZOGRsZlh3eXdRWjdhLWVSMC00UXVmUWU4ZDhuNncyRWJhdTNRbHl4S2hSeXJSQlBYOHJQU1Rwd3czS29vWEdWcVVvTXJMdnhFZU5kMExKU19Id2p1WUdnZ3ZHLWQ1UXJRbjJURm52dHV1UVRkc3Z2NjM0bDBLdGFQTzhCQmNvN0xsYXBCMDU2MzVJblA4bnhGSQ?oc=5",
+        "published_at": "Tue, 04 Aug 2026 11:05:00 GMT",
+        "snippet": "الداخلية: ضبط طبنجة صوت وكروت مزورة بحوزة منتحل الصفة القضائية youm7.com من منصة الحكم إلى قفص الاتهام.. قصة \"القاضي المزيف\" التي هزت مصر الجزيرة نت العدل تشدد الإجراءات الأمنية داخل المحاكم على خلفية وقائع انتحال صفة قاض youm7.com قضية القاضي المزيف.. محامي عامل المطبعة: المتهم لم يتعرف على موكلي والنيابة أخلت سبيله بوابة الشروق مصر: \"القاضي المزيف\" بقبضة الأمن..واعترافات تكشف تفاصيل نشاطه CNN Arabic",
+        "short_explanation": "Police arrest fake judge with sound pistol and forged IDs, raising court security concerns."
+      },
+      {
+        "title": "مجلس السلام: نيكولاي ملادينوف يطلب من نتنياهو هدنة لـ 14 يوماً لتجريد حماس من السلاح - BBC",
+        "source_name": "BBC",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ZaktWRjhxSjNhdUFPR3hqZjdycU5weU5CcjVUT0ZTeXBNOUFpUlJlQTY5TjI3Q2ZrUHVBME1OM0J6NlhpSkoxdG94WlE0X1F2RkRuUGVpd1NYLXQ10gFiQVVfeXFMTkpjTHdnYy1fRkhjdmlSQ3J0Q1RPckpmaUVtblBPWjJaOWttM1htQjczenNXTHBZelU4UUtFbHI1UDZheTlPQTNvd3VNZG5WTFh0Z3VxUk1saFpwaV8yS2N6eGc?oc=5",
+        "published_at": "Tue, 04 Aug 2026 13:55:09 GMT",
+        "snippet": "مجلس السلام: نيكولاي ملادينوف يطلب من نتنياهو هدنة لـ 14 يوماً لتجريد حماس من السلاح BBC بيان مشترك صادر عن الوسطاء: جمهورية مصر العربية ودولة قطر والجمهورية التركية بشأن الانتهاكات الإسرائيلية المتواصلة في غزة mfa.gov.eg رغم الاتفاق.. الغارات الإسرائيلية تتواصل في غزة العربية إعلام إسرائيلي: الجيش يحذر من «المغامرات» في قطاع غزة وسط مخاوف من اتهام إسرائيل بإفشال الاتفاق بوابة الأهرام منظمة التعاون الإسلامي تدعو إلى محاسبة مرتكبي الجرائم في الأرض الفلسطينية المحتلة بوابة الشروق",
+        "short_explanation": "Peace council urges 14-day ceasefire to disarm Hamas amid ongoing Gaza conflict."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Cairokee - Supernova (Popular Egyptian Band's New Song)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (CairokeeOfficial)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-08-03T18:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=Zjxe-1ROlzI",
+        "external_url": "https://www.youtube.com/watch?v=Zjxe-1ROlzI",
+        "context": "CairokeeOfficial.",
+        "short_explanation": "Cairokee's new song 'Supernova' excites fans with fresh Egyptian rock music."
+      },
+      {
+        "title": "Ahmed Bahr & Essam Sasa - Bayan Ham (Important Music Video from Mahmoud El Tani Film)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Kozbara)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-08-04T14:00:07Z",
+        "source_url": "https://www.youtube.com/watch?v=z7AO7VAsXFc",
+        "external_url": "https://www.youtube.com/watch?v=z7AO7VAsXFc",
+        "context": "Kozbara. Ahmed Bahr x Essam Sasa - Bayan Ham  \nاحمد بحر و عصام صاصا - بيان هام\n (فيديو كليب) باي باي يا اندال\n\"أغنية “بيان هام” من فيلم “محمود التاني\nاسمع اغنية بيان هام على كل المنصات: \nhttps://bfan.link/byn-hm\n\n:فريق العمل\n\nغناء: أحمد بحر × عصام صاصا\nكلمات: حازم إكس\nألحان: حازم إكس / فلسطيني\nتوزيع موسيقي: فلسطيني ريمكس\nميكس وماستر: أمير محروس\nسوشيال ميديا : sr.mediaa - سامو الارهابي / رحمه الحلو",
+        "short_explanation": "'Bayan Ham' music video highlights themes from the Egyptian film Mahmoud El Tani."
+      },
+      {
+        "title": "Official Trailer for Egyptian Film Mahmoud El Tani",
+        "platform": "youtube",
+        "source_label": "YouTube trending (TVision)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-31T15:00:07Z",
+        "source_url": "https://www.youtube.com/watch?v=eU0f7FPZ2zA",
+        "external_url": "https://www.youtube.com/watch?v=eU0f7FPZ2zA",
+        "context": "TVision. الإعلان الرسمي لفيلم #محمود_التاني \nفيلم #محمود_التاني ١٢ أغسطس بجميع دور العرض \n\nإنتاج: طارق الجنايني \nتأليف: إياد صالح \nإخراج: عبد العزيز النجار \n\nبطولة: أحمد بحر (كزبرة)، أحمد غزي - كاروليم عزمي - تامر هجرس - جنى الأشقر \n\n#محمود_التاني\n#كزبرة \n#أحمد_غزي \n#طارق_الجنايني\n\nاشترك الآن لمشاهدة فيديوهات أكتر: https://www.youtube.com/channel/UCIAeQiNoobuTYW2TlfomGsA?sub_confirmation=1 \n\nتابعو",
+        "short_explanation": "Official trailer for Mahmoud El Tani film, eagerly awaited by Egyptian cinema fans."
+      },
+      {
+        "title": "Assala Nasri - Assala (Official Music Video 2026)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Assala Nasri)",
+        "score_label": "trending #7",
+        "rank_score": 940,
+        "published_at": "2026-08-03T14:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=mz9F6mCFftI",
+        "external_url": "https://www.youtube.com/watch?v=mz9F6mCFftI",
+        "context": "Assala Nasri. #Rotana2026 #Rotana #Assala\nAssala - Assala | Official Music Video 2026 | أصالة - أصالة \n\n✶ Lyrics : Amjad Jomaa | أمجد جمعة\n✶ Composition : Amjad Jomaa | أمجد جمعة\n✶ Arrangement : Fouad Jned | فؤاد جنيد\n\nإشترك في قناة أصالة | Subscribe To Assala Channel\nhttps://bit.ly/3Cuwmw8\n\n✶ Lyrics | الكلمات \n\nكل ما طلعت هالشمس \nكل ما غيّب هالقمــــــر \nاتخيلك حدي وأحـــس \nيحلا ويطول السهــــر\nب",
+        "short_explanation": "Assala Nasri's 2026 official music video showcases popular Arabic pop music."
+      },
+      {
+        "title": "Exciting New Update for eFootball 2026 - Reasons to Look Forward to PES 2027",
+        "platform": "youtube",
+        "source_label": "YouTube trending (من بره التمنتاشر)",
+        "score_label": "trending #8",
+        "rank_score": 930,
+        "published_at": "2026-08-04T13:09:03Z",
+        "source_url": "https://www.youtube.com/watch?v=zDOZYWqoTz8",
+        "external_url": "https://www.youtube.com/watch?v=zDOZYWqoTz8",
+        "context": "من بره التمنتاشر. التحديث ده شكله مختلف وكونامي هتفاجئنا 🔥🤯 اسباب تخليك تتحمس لـ بيس 2027  😱|efootball 2026\n\nلو انت متعرفنيش فأنا بقدم محتوى عن لعبة اي فوتبل والعاب كره قدم \nفلو عجبك المحتوى متنساش تشترك في القناه وتفعل زر الجرس عشان يوصلك كل جديد ❤️\n\nومتنساش تتابعني على باقي منصات التواصل الاجتماعي هناك محتوي مختلف 🤞\n\nالفيس بوك :\nhttps://www.facebook.com/Moxgaming0\nالانستجرام\nhttps://www.instagra",
+        "short_explanation": "New eFootball 2026 update builds excitement for upcoming PES 2027 game release."
+      },
+      {
+        "title": "Controversy Over Quran Teacher Abusing Child Sparks Facebook Debate in Egypt",
+        "platform": "reddit",
+        "source_label": "r/Egypt",
+        "score_label": "r/Egypt hot #3",
+        "rank_score": 980,
+        "published_at": "2026-08-04T17:42:04+00:00",
+        "source_url": "https://www.reddit.com/r/Egypt/comments/1vfhdoh/محفظ_قرآن_إعتدي_علي_طفل_9_سنين_شوه_جسمه_و_بتوع/",
+        "external_url": "https://www.reddit.com/r/Egypt/comments/1vfhdoh/محفظ_قرآن_إعتدي_علي_طفل_9_سنين_شوه_جسمه_و_بتوع/",
+        "context": "من ثلاثة أشهر تقدمت ربة منزل ببلاغ ضد محفظ قرآن في الدقهلية و تم القبض على المحفظ الي كان مقيم بدائرة القسم أنه ضرب إبنها بإستخدام عصا علي ظهره بإستخدام عصا مسببآ له كدمات و الغريب أن السبب كان أ تخلف أخوه عن حضور الحصة و ده غالبآ لأنه كان غاضب أنه مش حيحصل علي فلوس الحصة من أخوه. طبعآ أي شخص عاقل حيشوف أن المُحفظ ده شخص عنيف و تصرفاته غير مبرره و لا يمكن التسامح بس مستخدمين فيسبوك كان لهم رأي آخر",
+        "short_explanation": "Facebook debate erupts over Quran teacher abusing child in Egypt's Dakahlia."
+      },
+      {
+        "title": "Ismail Ahmed - Veteran Egyptian Basketball Player Making Waves in Lebanon",
+        "platform": "reddit",
+        "source_label": "r/Egypt",
+        "score_label": "r/Egypt hot #5",
+        "rank_score": 960,
+        "published_at": "2026-08-04T09:24:43+00:00",
+        "source_url": "https://www.reddit.com/r/Egypt/comments/1vf5d1b/مصريين_لازم_تعرفهم_إسماعيل_أحمد/",
+        "external_url": "https://www.reddit.com/r/Egypt/comments/1vf5d1b/مصريين_لازم_تعرفهم_إسماعيل_أحمد/",
+        "context": "اسماعيل أحمد لاعب كرة سلة من اسكندرية بيلعب فى نادى الرياضى اللبنانى أكبر نادى فى لبنان. واللى مايعرفش فكرة السلة فى لبنان اهم رياضة والدورى والمنتخب اللبنانى اقوى من نظائرهم فى مصر. إسماعيل ما شاءالله عليه كلها كام شهر و يقفل ٥٠ سنة ولسه بيلعب احسن من الشباب. بيلعب سلة من اوائل التسعينيات. لعب لفترات قليلة فى الاتحاد السكندرى وخد معاه ٣ بطولات دورى مصرى وفى لبنان اخد ١٦ بطولة دورى لبنانى دا غير ب",
+        "short_explanation": "Ismail Ahmed, veteran Egyptian basketball star, excels playing in Lebanon's top league."
+      },
+      {
+        "title": "If It Rained Freedom, Some Slaves Would Carry Umbrellas (Political Commentary)",
+        "platform": "reddit",
+        "source_label": "r/Egypt",
+        "score_label": "r/Egypt hot #4",
+        "rank_score": 970,
+        "published_at": "2026-08-04T17:03:32+00:00",
+        "source_url": "https://www.reddit.com/r/Egypt/comments/1vfg9sw/لو_امطرت_السماء_حرية_لرأيت_بعض_العبيد_يحملون/",
+        "external_url": "https://www.reddit.com/r/Egypt/comments/1vfg9sw/لو_امطرت_السماء_حرية_لرأيت_بعض_العبيد_يحملون/",
+        "context": "طبعا بعيدا عن استخدام الجيوش دلوقتي للAi و التطور الحالي و احنا لسه مازالنا عايشين علي العروض العسكرية البدائية ايه المبرر اني اتهان و تبقا كرامتي في الارض و شغل الاستعباد ده لما اخش الجيش و الحجة بتاعتهم أنك كده بتبقا راجل و تستحمل الظروف طب مانت كده بتخليني اكره اني احارب لأجل بلدي انا فعلا مادام مبقيتش رهينة و اتهانت ليه انا اتهان من بلدي و الاعتراض طبعا معناه مصير مجهول ...... ليه بجد التبرير ",
+        "short_explanation": "Political commentary criticizes military service and personal dignity in Egypt today."
+      }
+    ]
+  }
+}

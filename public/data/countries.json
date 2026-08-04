@@ -1,6 +1,6 @@
 {
   "generated_from": "outputs/phase0/probe-results.json",
-  "updated_at": "2026-07-24T22:21:56+00:00",
+  "updated_at": "2026-08-04T21:03:56+00:00",
   "countries": [
     {
       "iso2": "US",
@@ -499,6 +499,406 @@
       "meme_title": "Why Northern Nigeria Is Underrepresented in Global Perceptions",
       "meme_tone": "political",
       "meme_confidence": 0.85,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "IT",
+      "iso3": "ITA",
+      "country_name": "Italy",
+      "flag": "🇮🇹",
+      "region": "Europe",
+      "coordinates": {
+        "lat": 41.8719,
+        "lon": 12.5674
+      },
+      "updated_at": "2026-08-04T20:49:19+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "heatwave",
+        "energy prices",
+        "Po river drought"
+      ],
+      "news_headline": "Il super caldo fa schizzare le bollette elettriche: Po in secca, centrali spente e prezzi ai massimi",
+      "news_confidence": 0.9,
+      "meme_title": "Neo-Nazi Attack on Hotel Hosting Jewish and Italian Teens in Bulgaria",
+      "meme_tone": "angry",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "ES",
+      "iso3": "ESP",
+      "country_name": "Spain",
+      "flag": "🇪🇸",
+      "region": "Europe",
+      "coordinates": {
+        "lat": 40.4637,
+        "lon": -3.7492
+      },
+      "updated_at": "2026-08-04T20:49:41+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "migration crisis",
+        "Ceuta",
+        "Spain-Morocco border"
+      ],
+      "news_headline": "Crisis migratoria en Ceuta: últimas noticias de la entrada de inmigrantes desde Marruecos",
+      "news_confidence": 0.9,
+      "meme_title": "Grupo Bimbo Censors Labor Rights Video",
+      "meme_tone": "political",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "NL",
+      "iso3": "NLD",
+      "country_name": "Netherlands",
+      "flag": "🇳🇱",
+      "region": "Europe",
+      "coordinates": {
+        "lat": 52.1326,
+        "lon": 5.2913
+      },
+      "updated_at": "2026-08-04T20:51:01+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "forest fire",
+        "Venray",
+        "WWII explosives"
+      ],
+      "news_headline": "No injuries in Venray forest fire, but campers deeply affected",
+      "news_confidence": 0.85,
+      "meme_title": "American Driver with 20 Years Experience Keeps Failing Dutch Driving Test",
+      "meme_tone": "ironic",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "PL",
+      "iso3": "POL",
+      "country_name": "Poland",
+      "flag": "🇵🇱",
+      "region": "Europe",
+      "coordinates": {
+        "lat": 51.9194,
+        "lon": 19.1451
+      },
+      "updated_at": "2026-08-04T20:51:49+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Morawiecki",
+        "Kaczyński",
+        "PiS internal conflict"
+      ],
+      "news_headline": "Morawiecki odsłania tajemnice PiS, Kaczyński czyta i się wścieka. To nowy poziom sporu na prawicy - WP Wiadomości",
+      "news_confidence": 0.9,
+      "meme_title": "SKOLIM & Zenek Martyniuk & RAIDER - Love (Official Video)",
+      "meme_tone": "funny",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "SE",
+      "iso3": "SWE",
+      "country_name": "Sweden",
+      "flag": "🇸🇪",
+      "region": "Europe",
+      "coordinates": {
+        "lat": 60.1282,
+        "lon": 18.6435
+      },
+      "updated_at": "2026-08-04T20:52:38+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "political conflict",
+        "polarization",
+        "Sweden politics"
+      ],
+      "news_headline": "Kommentar: Kom upp ur sandlådan, Jomshof och Andersson - Göteborgs-Posten",
+      "news_confidence": 0.9,
+      "meme_title": "r/ostbiff is Like Fifth Wave Feminism",
+      "meme_tone": "ironic",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "PT",
+      "iso3": "PRT",
+      "country_name": "Portugal",
+      "flag": "🇵🇹",
+      "region": "Europe",
+      "coordinates": {
+        "lat": 39.3999,
+        "lon": -8.2245
+      },
+      "updated_at": "2026-08-04T20:53:52+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "healthcare",
+        "long-term care",
+        "policy debate"
+      ],
+      "news_headline": "Ministra da Saúde admite aplicar taxa a quem recusar vaga nos cuidados continuados",
+      "news_confidence": 0.9,
+      "meme_title": "One in Three Portuguese Cannot Afford a Week's Vacation Outside Home",
+      "meme_tone": "sad",
+      "meme_confidence": 0.85,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "TH",
+      "iso3": "THA",
+      "country_name": "Thailand",
+      "flag": "🇹🇭",
+      "region": "Southeast Asia",
+      "coordinates": {
+        "lat": 15.87,
+        "lon": 100.9925
+      },
+      "updated_at": "2026-08-04T20:54:47+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "exam cheating",
+        "corruption",
+        "public trust"
+      ],
+      "news_headline": "Widespread exam cheating scandal implicates hundreds, including insiders",
+      "news_confidence": 0.9,
+      "meme_title": "Doraemon replaces real cat in Thai rain ritual",
+      "meme_tone": "funny",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "VN",
+      "iso3": "VNM",
+      "country_name": "Vietnam",
+      "flag": "🇻🇳",
+      "region": "Southeast Asia",
+      "coordinates": {
+        "lat": 14.0583,
+        "lon": 108.2772
+      },
+      "updated_at": "2026-08-04T20:55:35+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Vietnam War",
+        "mass graves",
+        "national memory"
+      ],
+      "news_headline": "Phát hiện thêm 2 vị trí mộ liệt sĩ tập thể tại công viên Lê Thị Riêng",
+      "news_confidence": 0.9,
+      "meme_title": "4-Year-Old's Arm Reattached After Motorcycle Accident in Vietnam",
+      "meme_tone": "sad",
+      "meme_confidence": 0.7,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "MY",
+      "iso3": "MYS",
+      "country_name": "Malaysia",
+      "flag": "🇲🇾",
+      "region": "Southeast Asia",
+      "coordinates": {
+        "lat": 4.2105,
+        "lon": 101.9758
+      },
+      "updated_at": "2026-08-04T20:56:49+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Tabung Haji",
+        "RCI findings",
+        "financial investigation"
+      ],
+      "news_headline": "Tabung Haji RCI findings: CCM must commence investigation — Hafiz Hassan",
+      "news_confidence": 0.9,
+      "meme_title": "Malaysian Muslim's Same-Sex Engagement Sparks Asylum Debate",
+      "meme_tone": "political",
+      "meme_confidence": 0.85,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "PK",
+      "iso3": "PAK",
+      "country_name": "Pakistan",
+      "flag": "🇵🇰",
+      "region": "South Asia",
+      "coordinates": {
+        "lat": 30.3753,
+        "lon": 69.3451
+      },
+      "updated_at": "2026-08-04T20:57:37+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "India-Pakistan relations",
+        "hybrid warfare",
+        "national security"
+      ],
+      "news_headline": "ACDC-ISSI launches new book on India’s Hybrid Warfare and implications for Pakistan’s national security",
+      "news_confidence": 0.9,
+      "meme_title": "Let's Read Books Together - Online Pakistani Book Club",
+      "meme_tone": "wholesome",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "EG",
+      "iso3": "EGY",
+      "country_name": "Egypt",
+      "flag": "🇪🇬",
+      "region": "Middle East",
+      "coordinates": {
+        "lat": 26.8206,
+        "lon": 30.8025
+      },
+      "updated_at": "2026-08-04T20:58:53+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "fake judge",
+        "judicial trust",
+        "law enforcement"
+      ],
+      "news_headline": "الداخلية: ضبط طبنجة صوت وكروت مزورة بحوزة منتحل الصفة القضائية - youm7.com",
+      "news_confidence": 0.85,
+      "meme_title": "Controversy Over Quran Teacher Abusing Child Sparks Facebook Debate in Egypt",
+      "meme_tone": "angry",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "IL",
+      "iso3": "ISR",
+      "country_name": "Israel",
+      "flag": "🇮🇱",
+      "region": "Middle East",
+      "coordinates": {
+        "lat": 31.0461,
+        "lon": 34.8516
+      },
+      "updated_at": "2026-08-04T20:59:45+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Gaza",
+        "Hamas",
+        "disarmament"
+      ],
+      "news_headline": "דיווח: כל עזתי שימסור את נשקו - יקבל אלפי דולרים - מקור ראשון",
+      "news_confidence": 0.85,
+      "meme_title": "Record Israeli Emigration Continues in 2025",
+      "meme_tone": "political",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "SA",
+      "iso3": "SAU",
+      "country_name": "Saudi Arabia",
+      "flag": "🇸🇦",
+      "region": "Middle East",
+      "coordinates": {
+        "lat": 23.8859,
+        "lon": 45.0792
+      },
+      "updated_at": "2026-08-04T21:00:37+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "مضيق هرمز",
+        "إيران",
+        "شحن النفط"
+      ],
+      "news_headline": "مصدر إيراني: طهران تسعى للسيطرة على حركة الشحن في هرمز - العربية",
+      "news_confidence": 0.9,
+      "meme_title": "Guide to Saudi Arabian Reddit Communities",
+      "meme_tone": "wholesome",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "KE",
+      "iso3": "KEN",
+      "country_name": "Kenya",
+      "flag": "🇰🇪",
+      "region": "Africa",
+      "coordinates": {
+        "lat": -0.0236,
+        "lon": 37.9062
+      },
+      "updated_at": "2026-08-04T21:01:50+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "cybercrime",
+        "SIM hijacking",
+        "cryptocurrency"
+      ],
+      "news_headline": "How Kenyans lost Sh491m, cryptos via SIM hijack - Business Daily",
+      "news_confidence": 0.9,
+      "meme_title": "Older Millennials' Mindset on Motherhood in Kenya",
+      "meme_tone": "funny",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "CO",
+      "iso3": "COL",
+      "country_name": "Colombia",
+      "flag": "🇨🇴",
+      "region": "South America",
+      "coordinates": {
+        "lat": 4.5709,
+        "lon": -74.2973
+      },
+      "updated_at": "2026-08-04T21:02:40+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Medellín",
+        "public transit",
+        "bonds"
+      ],
+      "news_headline": "Histórico: Metro de Medellín emitirá, por primera vez, bonos de hasta $330.000 millones",
+      "news_confidence": 0.9,
+      "meme_title": "Collective Boycott of Banco de Bogotá",
+      "meme_tone": "angry",
+      "meme_confidence": 0.8,
+      "has_top_news": true,
+      "has_meme": true
+    },
+    {
+      "iso2": "CL",
+      "iso3": "CHL",
+      "country_name": "Chile",
+      "flag": "🇨🇱",
+      "region": "South America",
+      "coordinates": {
+        "lat": -35.6751,
+        "lon": -71.543
+      },
+      "updated_at": "2026-08-04T21:03:56+00:00",
+      "probe_status": "ok",
+      "keywords": [
+        "Codelco",
+        "seismic risk",
+        "mining project suspension"
+      ],
+      "news_headline": "Codelco suspends El Teniente project due to emerging seismic risks",
+      "news_confidence": 0.9,
+      "meme_title": "Los Prisioneros - El Baile De Los Que Sobran (Iconic Chilean Song Lyric Video)",
+      "meme_tone": "political",
+      "meme_confidence": 0.9,
       "has_top_news": true,
       "has_meme": true
     }

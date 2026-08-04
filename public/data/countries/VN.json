@@ -1,0 +1,857 @@
+{
+  "iso2": "VN",
+  "iso3": "VNM",
+  "country_name": "Vietnam",
+  "flag": "🇻🇳",
+  "region": "Southeast Asia",
+  "coordinates": {
+    "lat": 14.0583,
+    "lon": 108.2772
+  },
+  "updated_at": "2026-08-04T20:55:35+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "Vietnam War",
+    "mass graves",
+    "national memory"
+  ],
+  "top_news": {
+    "headline": "Phát hiện thêm 2 vị trí mộ liệt sĩ tập thể tại công viên Lê Thị Riêng",
+    "summary": "New mass graves of war martyrs found in Ho Chi Minh City's Le Thi Rieng Park.",
+    "why_it_matters": "Reveals ongoing national reckoning with Vietnam War history and collective memory.",
+    "source_name": "Báo Thanh Niên",
+    "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXNoWmRsd3ZhRDJIWFdxVXpVcWZkTmpkXzRiT0RGWHdnV0RqUTFQWFNZaVdicEx2VkppbVljR2duTlA1dHVxczQ3VTMxU0hKVmVlZkU3SGNkNnpMaGl4VjhzazFjaGJ1N0U5RTJXMExZUkhoRV91N002V1ZZczJRaE9EelNNRW1QanZYNVVOdmtBclZkbDYwTktzb09wbGFaTTB5Mm5CVG9jQzBsQ0FDUTc3SQ?oc=5",
+    "published_at": "Tue, 04 Aug 2026 10:05:00 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "4-Year-Old's Arm Reattached After Motorcycle Accident in Vietnam",
+    "platform": "reddit",
+    "explanation": "A child's arm was severed by a sun-protective jacket caught in a motorcycle wheel, highlighting local traffic safety risks.",
+    "why_people_are_sharing_it": "Shows both tragedy and medical success in a common local accident scenario.",
+    "tone": "sad",
+    "local_context": "Motorcycle accidents and sun-protective jackets are common in Vietnam.",
+    "source_url": "https://www.reddit.com/r/VietNam/comments/1vf3t2y/4_year_olds_arm_torn_off_after_sunprotective/",
+    "media_url": "https://www.reddit.com/r/VietNam/comments/1vf3t2y/4_year_olds_arm_torn_off_after_sunprotective/",
+    "confidence": 0.7
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=vi&gl=VN&ceid=VN:vi",
+      "items_seen": 26,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Phát hiện thêm 2 vị trí mộ liệt sĩ tập thể tại công viên Lê Thị Riêng - Báo Thanh Niên",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Mỹ: Thỏa thuận mở lại eo biển Hormuz có thể đạt được ngay ngày mai - Báo Tuổi Trẻ",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Xung đột Nga - Ukraine leo thang gần Biển Đen - Báo VietNamNet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Nguyên nhân Tổng thống Mỹ Donald Trump liên tục rút đe dọa dùng vũ lực với Iran - baotintuc.vn",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Biển Đông có áp thấp nhiệt đới, hướng di chuyển hiếm thấy - Báo điện tử Tiền Phong",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Vụ gian lận điểm thi tại Tuyên Quang: Sáng mai (5/8), công bố phương án xử lý - Vietnam+ (VietnamPlus)",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Khoảnh khắc đất đá tràn xuống đường dẫn cầu Móng Sến ở Lào Cai - Báo điện tử VTC News",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ném đá làm vỡ kính ôtô chạy trên cao tốc - VnExpress",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Truy tố tài xế lấn làn gây tai nạn khiến nữ sinh tử vong ở Vĩnh Long - Báo VietNamNet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bắc Bộ đối mặt mưa lớn diện rộng, áp thấp nhiệt đới sắp mạnh lên thành bão - Báo Dân trí",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tổng thống Mỹ Trump: Đây là cơ hội cuối cùng của Iran - Báo điện tử Tiền Phong",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "19 người chết vì nắng nóng kỷ lục, Hàn Quốc tuyên bố thảm họa quốc gia - Báo Dân trí",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nghe theo tin giả, hàng chục ngàn người Morocco đổ về Ceuta, 83 người thiệt mạng - Báo Tuổi Trẻ",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Áp thấp mới mạnh lên gần Biển Đông khi bão Dolphin tiếp tục tăng cường độ - Laodong.vn",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Thống nhất trình Quốc hội thành lập thêm 2 thành phố trực thuộc Trung ương - Báo VietNamNet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Công an TPHCM tiếp nhận 47 công dân bị Mỹ trục xuất - Báo Dân trí",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Thành lập Mạng lưới chuyên gia AI Việt Nam toàn cầu - VnExpress",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sếp Viettel, Becamex, KN Holdings, Petrovietnam nói về cơ chế miễn trách nhiệm hình sự trong hoạt động kinh tế - Báo Tuổi Trẻ",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Danh tính nữ diễn viên tử vong từ tháng 4 do đột quỵ, đến nay mới công bố thông tin - kenh14.vn",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bom tấn 'Spider-Man: Brand New Day' nhắc đến bánh mì - VnExpress",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "VietNam",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=VN",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/vi.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 991,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "THẾ GIỚI CỦA ANH - Collaborative Music Performance by Vietnamese Artists",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The title refers to a music performance featuring multiple Vietnamese artists, which is a native cultural product and internet fixation in Vietnam."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Who Hurt You in Minecraft? - Vietnamese Gaming Content",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content with a catchy question title, likely popular among Vietnamese youth and internet culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "W/n - SSD ft. 267, Nguyenn, PAR SG: Vietnamese Music Release",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music release featuring Vietnamese artists, relevant to local internet culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Vietnamese Commentary on LCK 2026: DNS vs BRO and KT vs HLE",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Esports commentary in Vietnamese, relevant to local gaming culture and internet trends."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "LET ME GO - Collaborative Vietnamese Music Track by THƠM, VƯƠNG ANH TÚ, and Others",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music collaboration involving notable Vietnamese artists, relevant to local culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Discovery of Mysterious Verity Button in Keyboard +1 Keyboard Escape Threatens bqThanh & Óc",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A quirky and specific gaming/tech-related video with a narrative element, likely popular in Vietnamese internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Analysis and Predictions for Avengers: Doomsday Trailer",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A typical movie trailer analysis video; somewhat generic but relevant to pop culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "4-Year-Old's Arm Reattached After Motorcycle Accident in Vietnam",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A tragic but newsworthy event; more of a news headline than a cultural trend."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "đôi khi - Obito Official Music",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music title that is minimal but likely known in Vietnamese music circles; neutral adjustment."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "VERITY NHƯNG ONE BLOCK | Phong Cận",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "A Small Roadside Porridge & Coffee Shop in Rural Vietnam 🇻🇳",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Đen – Mùa hè 26 ft. Pink Frog (M/V)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Border run from Da Nang",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Viet-Kieu and Expats: What is a major difference between renting an apartment/house in Vietnam compared to renting an apartment/house from other countries you have lived in?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "What even was yesterday's match",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Passenger took a taxi, then said “I don’t have money” 😳",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Is Reddit banned in Vietnam?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jetstar changes carry-on baggage policy, luggage in overhead lockers no longer free",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Has anyone hiked Fansipan in the last week of August?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Best place to get anime merchandise is Saigon/hcmc?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hạ Long Bay/Ninh Binh or Phong Nha?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trying to deliver things to my long distance girlfriend.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Is it normal to not get a response when I say “thank you” ?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "HCMC to Da-Lat travel",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Obtaining dual citizenship. US/Vietnam",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "When you sleep in the elderly’s rooms",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Life After 3 Months of Military Recruit Training - Vietnamese Reddit Post",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A relatable social post but more of a niche or local interest than a broad cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hướng dẫn sử dụng r/Vietnam - How to r/Vietnam",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This is a generic subreddit usage guide, not a cultural trend or fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Accident in PHÚ GIÁO, BÌNH DƯƠNG. One casualty. Beware of trucks.",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic accident news headline with no cultural or trend significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "This garden lizard sleeping on a leaf",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A mundane observation post about a lizard; not a cultural trend or fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lê Giang Patrik",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Đài Truyền hình Kỹ thuật số VTC",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Giải vô địch bóng đá ASEAN 2026",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Giải vô địch bóng đá ASEAN",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Update on this tourist?",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too vague and opaque without context; likely just a personal or local incident."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "That kid fled the country",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too vague and opaque; no cultural significance evident."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "I mean, I guess 😭😭😭",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too vague and opaque; no cultural or trend significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Đỗ Hoàng Hên",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trang Chính",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Đặc biệt:Tìm kiếm",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Geovane Magno",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "đội tuyển bóng đá u-17 quốc gia việt nam",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "spider man no way home",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "kim cương",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "câu lạc bộ bóng đá real madrid",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "phim chiếu rạp",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "lịch âm 2026",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "c1",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Receptionist Prosecuted After Renting Motorcycle to Foreign Tourist Without a Valid IDP Who Caused a Fatal Drunk-Driving Crash",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_generic_tragedy",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "cody gakpo",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "lyon vs",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "al nassr",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Post your questions & inquiries here! - r/Vietnam monthly random discussion thread - F.A.Q",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Phát hiện thêm 2 vị trí mộ liệt sĩ tập thể tại công viên Lê Thị Riêng - Báo Thanh Niên",
+        "source_name": "Báo Thanh Niên",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXNoWmRsd3ZhRDJIWFdxVXpVcWZkTmpkXzRiT0RGWHdnV0RqUTFQWFNZaVdicEx2VkppbVljR2duTlA1dHVxczQ3VTMxU0hKVmVlZkU3SGNkNnpMaGl4VjhzazFjaGJ1N0U5RTJXMExZUkhoRV91N002V1ZZczJRaE9EelNNRW1QanZYNVVOdmtBclZkbDYwTktzb09wbGFaTTB5Mm5CVG9jQzBsQ0FDUTc3SQ?oc=5",
+        "published_at": "Tue, 04 Aug 2026 10:05:00 GMT",
+        "snippet": "Phát hiện thêm 2 vị trí mộ liệt sĩ tập thể tại công viên Lê Thị Riêng Báo Thanh Niên 197 bộ hài cốt liệt sĩ được tìm thấy tại công viên Lê Thị Riêng sau 1 tháng Báo Tuổi Trẻ Di dời 300 m3 đất, tìm thấy 14 bộ hài cốt ở công viên Lê Thị Riêng Znews Tiếp tục tìm thấy 15 bộ hài cốt liệt sĩ tại Công viên Lê Thị Riêng Tin tức 24h Quân khu 7 khảo sát khu vực có thông tin hài cốt liệt sĩ ở phường Lái Thiêu Báo Dân trí",
+        "short_explanation": "Discovery of mass war graves honors fallen soldiers, reflecting Vietnam's respect for war history."
+      },
+      {
+        "title": "Mỹ: Thỏa thuận mở lại eo biển Hormuz có thể đạt được ngay ngày mai - Báo Tuổi Trẻ",
+        "source_name": "Báo Tuổi Trẻ",
+        "source_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX0tZczVKaXUzSVMxWkpjbENseEw2M2wzeUNBY09FSWVWaGpsS3BZbllIUGF1Rk03aHgtQ1g4RFB3TmNNVzNyaFg4dGw0NFg3amdPazBWeHdVSWMxcm95LWl1RFNQRUNOZTF3eWdTNm5NM1UwUTZwclA0NE9OdEs4THRVc3BqYUxfYWpqajk1RjlHaEFnSFlGbVJjRXo0b2tLV3huaTF6bERjalk?oc=5",
+        "published_at": "Tue, 04 Aug 2026 15:37:00 GMT",
+        "snippet": "Mỹ: Thỏa thuận mở lại eo biển Hormuz có thể đạt được ngay ngày mai Báo Tuổi Trẻ Iran dọa tấn công tàu chiến Mỹ tìm cách thay đổi hải trình ở Hormuz VnExpress Nhiều hạ tầng năng lượng bị tấn công, nông nghiệp toàn cầu đối mặt khủng hoảng kép VTV.vn Iran, Oman tiến gần tới thỏa thuận kiểm soát eo biển Hormuz Báo VietNamNet Cách Iran mở chiến dịch gây sức ép buộc Mỹ nhượng bộ Báo Dân trí",
+        "short_explanation": "Potential US-Iran deal to reopen Hormuz Strait affects global energy and security concerns."
+      },
+      {
+        "title": "Xung đột Nga - Ukraine leo thang gần Biển Đen - Báo VietNamNet",
+        "source_name": "Báo VietNamNet",
+        "source_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOXYwRjhNSVNpb2FaMjcyTVUwMDF6d2FnYTVYRHFkVG1paTI4OFhfSC12R05sVk5rQ0U3UHhFbV82WURQY1ZUMFN2YzlSaVJZRzZwZW5wX1Q5REN6a3JVaDlZYjlHQ0VfYnFvYmpOMVhJYkJvSTAwcWxCSnprU3ctQzBlZWU?oc=5",
+        "published_at": "Tue, 04 Aug 2026 08:14:00 GMT",
+        "snippet": "Xung đột Nga - Ukraine leo thang gần Biển Đen Báo VietNamNet Chiến sự Ukraine 4/8: Nga giành kết quả kép ở Kharkov Báo Dân trí Sai phạm trong vụ nổ kho đạn xóa sổ khu dân cư ở Ukraine VnExpress Ukraine giáng đòn kép cực mạnh cho Moscow: Vừa tấn công sâu, vừa bóp nghẹt \"cỗ máy chiến tranh” Nga Tin tức 24h Nga tuyên bố đánh chặn 320 UAV Ukraina trong đêm Laodong.vn",
+        "short_explanation": "Escalation of Russia-Ukraine conflict near Black Sea impacts regional stability and global attention."
+      },
+      {
+        "title": "Nguyên nhân Tổng thống Mỹ Donald Trump liên tục rút đe dọa dùng vũ lực với Iran - baotintuc.vn",
+        "source_name": "baotintuc.vn",
+        "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUmxnd0Fpb3JjMzY5cVBwRkdLY0d6enItMmozZFRMSHYtOEFfYjlfaXZNbWFITVJzUmtQS2xpaTFDOG1GUEZzWFcxYUYwSEdGZV9MbkNkVERlUGZZbVdrNXU0WHdjb2JWZnFpaC1vVDVkeDVjMFJvaGIzcGh0aExGRi00LWhoRzFnT1o1Mk5DajB0RmxLNzgteXFqWVhiMUUzRDZybzlQNmNZcjB4TGQtRVZRN3JNX00waUVIUkphNGxpVmlOVjZPRXAtRkZmTnd1RFlFbkVVa2o?oc=5",
+        "published_at": "Tue, 04 Aug 2026 06:13:00 GMT",
+        "snippet": "Nguyên nhân Tổng thống Mỹ Donald Trump liên tục rút đe dọa dùng vũ lực với Iran baotintuc.vn Đài CNN: Có một sai lầm ông Trump chưa mắc phải ở Iran Báo Tuổi Trẻ Qatar: Có tiến bộ hướng tới đàm phán kết thúc cuộc chiến Mỹ-Iran Nguoi Viet Online Ông Trump: Mỹ đang cho Iran 'cơ hội cuối cùng' VnExpress Mỹ có thể gần cạn kiệt tên lửa chính xác tầm xa do cuộc chiến với Iran Báo Dân trí",
+        "short_explanation": "Trump's softened threats on Iran show complex US-Iran relations and war avoidance efforts."
+      },
+      {
+        "title": "Biển Đông có áp thấp nhiệt đới, hướng di chuyển hiếm thấy - Báo điện tử Tiền Phong",
+        "source_name": "Báo điện tử Tiền Phong",
+        "source_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNVlJMFA5alh2OTlvZ1hqMHJ0a0NCSDVqY3E4c3BIVi1pS08tLXRUWHJZejdvWklFSVdpenRNYWMwM2J5SXlyenU4SllRMnNzaWdHbUI5c1VleEpUczQzdkRhaHJnZlNKNHlvS0IwdWx4NjUydmRjcFl4OS00RkNUbFhCNVRsMExnZDBRcXFFdEdPTDRaVkppYw?oc=5",
+        "published_at": "Tue, 04 Aug 2026 09:45:02 GMT",
+        "snippet": "Biển Đông có áp thấp nhiệt đới, hướng di chuyển hiếm thấy Báo điện tử Tiền Phong 21 tỉnh thành chủ động ứng phó với áp thấp nhiệt đới trên Biển Đông Tin tức 24h Biển Đông có thể có bão số 3, đường đi kỳ lạ do bão Dolphin? Báo Tuổi Trẻ Áp thấp nhiệt đới khả năng mạnh lên thành bão; miền Bắc bắt đầu mưa lớn dồn dập Báo VietNamNet Áp thấp nhiệt đới hình thành trên Biển Đông VnExpress",
+        "short_explanation": "Rare tropical depression in South China Sea prompts local disaster preparedness and concern."
+      }
+    ],
+    "trends": [
+      {
+        "title": "THẾ GIỚI CỦA ANH - Collaborative Music Performance by Vietnamese Artists",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Vie Channel - MUSIC)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-26T06:00:07Z",
+        "source_url": "https://www.youtube.com/watch?v=l_uzEREOKfo",
+        "external_url": "https://www.youtube.com/watch?v=l_uzEREOKfo",
+        "context": "Vie Channel - MUSIC. THẾ GIỚI CỦA ANH - Dương Domic, buitruonglinh, CONGB, WEAN, Vận Toàn | TINH HÀ SAY HI [PERFORMANCE] \n---\n#TinhHaSayHi #tinhhasayhi #tinhha #sayhi #thegioicuaanh \n#anhtraisayhi #anhtrai \n#viechannelmusic #VieChannelMUSIC #VieChannel #VieON #DatVietVAC \n\n-------\nTINH HÀ \"SAY HI\" - Phát sóng định kì 20:00 Thứ Bảy hàng tuần\nTinh tú gặp gỡ - lấp lánh cả thiên hà\n\nXem Full Tại Đây:",
+        "short_explanation": "Popular Vietnamese music collaboration showcasing local artists' talents and cultural pride."
+      },
+      {
+        "title": "Who Hurt You in Minecraft? - Vietnamese Gaming Content",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Toga TV)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-08-03T10:27:27Z",
+        "source_url": "https://www.youtube.com/watch?v=YJdLm8uxFpA",
+        "external_url": "https://www.youtube.com/watch?v=YJdLm8uxFpA",
+        "context": "Toga TV. Ai Đã Làm Hại Bạn Trong Minecraft?\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n🎬 ĐĂNG KÝ TÔ GÀ TV ►: https://www.shorturl.at/kpQS0\n📰 FACEBOOK FANPAGE ►: https://www.shorturl.at/wyGTX\n📰 Liên hệ hợp tác và quảng cáo \n► Gmail : partners@kydstudio.com\n► Facebook : https://www.facebook.com/ngoc.hiep.77377\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ \n♦️ĐĂNG KÝ CHO SINH TỐ TEAM ♦️  : \n► 💟 Oops Hiha : http://bit.ly/Hihaaa\n► 🌀 Yu",
+        "short_explanation": "Vietnamese gaming video about Minecraft, popular among local youth gamers."
+      },
+      {
+        "title": "W/n - SSD ft. 267, Nguyenn, PAR SG: Vietnamese Music Release",
+        "platform": "youtube",
+        "source_label": "YouTube trending (W/n)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-31T16:32:06Z",
+        "source_url": "https://www.youtube.com/watch?v=7iG_k6-iCGA",
+        "external_url": "https://www.youtube.com/watch?v=7iG_k6-iCGA",
+        "context": "W/n. Link nhạc :  https://umvn.lnk.to/SSD \n#3107 \n\nA W NATION Production\n\nEXECUTIVE PRODUCER\nNGUYỄN QUÝ CAO NGUYÊN\n\nW NATION Creative Team\n\nDirector - Creative Director\n24\n\nArt Director\n24 & 44\n\nProduction Manager\nN#ky\n\nCinematographer\nLvF-ng\n\nSet design\nTLN\n\n\n\nW/n \n• Fanpage: https://wn.fanlink.to/fanpage_winhmm\n• Facebook: https://wn.fanlink.to/fb_winhmm\n• Instagram: https://wn.fanlink.to/instag",
+        "short_explanation": "New Vietnamese music release featuring popular local artists and creative production."
+      },
+      {
+        "title": "Vietnamese Commentary on LCK 2026: DNS vs BRO and KT vs HLE",
+        "platform": "youtube",
+        "source_label": "YouTube trending (LCK Tiếng Việt)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-08-02T14:38:04Z",
+        "source_url": "https://www.youtube.com/watch?v=obDZyAqswYY",
+        "external_url": "https://www.youtube.com/watch?v=obDZyAqswYY",
+        "context": "LCK Tiếng Việt. Bình Luận Tiếng Việt: DNS vs BRO l KT vs HLE | LCK 2026\n - - - - - - - - - - - - - - - - - \nLCK Tiếng Việt là Kênh giữ bản quyền giải đấu LCK duy nhất tại Việt Nam, được sự đồng ý và cấp phép bởi Riot Games Hàn Quốc.\n - Phát sóng các trận đấu trong LCK đau khổ. \n - Cập nhật các nội dung đa dạng, hấp dẫn.\n - - - - - - - - - - - - - - - - - - \n► Theo dõi LCK Tiếng Việt: https://faceb",
+        "short_explanation": "Vietnamese commentary channel for LCK esports, engaging local League of Legends fans."
+      },
+      {
+        "title": "LET ME GO - Collaborative Vietnamese Music Track by THƠM, VƯƠNG ANH TÚ, and Others",
+        "platform": "youtube",
+        "source_label": "YouTube trending (YEAH1 MUSIC)",
+        "score_label": "trending #6",
+        "rank_score": 950,
+        "published_at": "2026-07-26T05:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=lK_KgArI2NA",
+        "external_url": "https://www.youtube.com/watch?v=lK_KgArI2NA",
+        "context": "YEAH1 MUSIC. LET ME GO | THƠM (Da LAB), VƯƠNG ANH TÚ, HOÀNG ROB, HOÀNG DŨNG, CHENG | ATVNCG 2026\n#AnhTraiVuotNganChongGai2026 #ATVNCG2026 #CallMeByFire #YeaH1\n\n#CapDoiAnY\n#Revive\n\nAudio CÔNG DIỄN 1: https://ATVNCG.lnk.to/26CD1\nXem Tập 4 Tại Đây: https://youtu.be/snc1rgD5W1M?si=WYE2OpvWTNerzcc8\n\nTÊN BÀI HÁT: LET ME GO\nTRÌNH BÀY: THƠM (Da LAB), VƯƠNG ANH TÚ, HOÀNG ROB, HOÀNG DŨNG, CHENG\nTÁC GIẢ: KIM",
+        "short_explanation": "Collaborative Vietnamese music track by famous artists, highlighting modern pop culture."
+      },
+      {
+        "title": "4-Year-Old's Arm Reattached After Motorcycle Accident in Vietnam",
+        "platform": "reddit",
+        "source_label": "r/VietNam",
+        "score_label": "r/VietNam hot #5",
+        "rank_score": 960,
+        "published_at": "2026-08-04T07:53:14+00:00",
+        "source_url": "https://www.reddit.com/r/VietNam/comments/1vf3t2y/4_year_olds_arm_torn_off_after_sunprotective/",
+        "external_url": "https://www.reddit.com/r/VietNam/comments/1vf3t2y/4_year_olds_arm_torn_off_after_sunprotective/",
+        "context": "108 Military Central Hospital (Hanoi) recently received and successfully reattached the right arm of a 4-year-old child from Tuyên Quang after a severe accident caused by a sun-protective jacket getting caught in a motorcycle wheel. According to the family, on the morning of July 27, the child was sitting on the back of a motorcycle while wearing a sun-protective jacket. As the vehicle was moving,",
+        "short_explanation": "Successful medical reattachment of a 4-year-old's arm after a motorcycle accident."
+      },
+      {
+        "title": "A Small Roadside Porridge & Coffee Shop in Rural Vietnam 🇻🇳",
+        "platform": "reddit",
+        "source_label": "r/VietNam",
+        "score_label": "r/VietNam hot #10",
+        "rank_score": 910,
+        "published_at": "2026-08-04T14:34:40+00:00",
+        "source_url": "https://www.reddit.com/r/VietNam/comments/1vfc4b3/a_small_roadside_porridge_coffee_shop_in_rural/",
+        "external_url": "https://www.reddit.com/r/VietNam/comments/1vfc4b3/a_small_roadside_porridge_coffee_shop_in_rural/",
+        "context": "Every morning begins almost the same. We open our small family shop, cook fresh porridge, make Vietnamese coffee, and welcome anyone who stops by. Nothing fancy. Just honest food, simple conversations, and another ordinary day in rural Vietnam. A bowl of porridge costs 10,000 VND (about US$0.40), and a cup of Vietnamese coffee is also 10,000 VND. 📍Cư Jút, Đắk Nông, Vietnam submitted by /u/Turbulen",
+        "short_explanation": "Small rural Vietnamese shop serving affordable porridge and coffee, reflecting daily life."
+      },
+      {
+        "title": "Border run from Da Nang",
+        "platform": "reddit",
+        "source_label": "r/VietNam",
+        "score_label": "r/VietNam hot #11",
+        "rank_score": 900,
+        "published_at": "2026-08-04T19:51:49+00:00",
+        "source_url": "https://www.reddit.com/r/VietNam/comments/1vfl0pv/border_run_from_da_nang/",
+        "external_url": "https://www.reddit.com/r/VietNam/comments/1vfl0pv/border_run_from_da_nang/",
+        "context": "Im an Indonesian passport holder, i got a 14days free of stay in Vietnam. Apparently we want to stay longer so i need to do a little run. This is my very first time so im a but nervous since i plan to leave on the same day (ETA 10am and leave at 2pm). — I have read some reviews on google maps, and most of them are fine, some of them complained about the bribery. I’d like to know your visa run expe",
+        "short_explanation": "Visa border run experience from Da Nang, relevant for foreigners extending Vietnam stays."
+      }
+    ]
+  }
+}

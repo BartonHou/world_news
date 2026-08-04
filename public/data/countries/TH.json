@@ -1,0 +1,849 @@
+{
+  "iso2": "TH",
+  "iso3": "THA",
+  "country_name": "Thailand",
+  "flag": "🇹🇭",
+  "region": "Southeast Asia",
+  "coordinates": {
+    "lat": 15.87,
+    "lon": 100.9925
+  },
+  "updated_at": "2026-08-04T20:54:47+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "exam cheating",
+    "corruption",
+    "public trust"
+  ],
+  "top_news": {
+    "headline": "Widespread exam cheating scandal implicates hundreds, including insiders",
+    "summary": "Thailand uncovers massive exam fraud involving officials and outsiders, sparking public outrage.",
+    "why_it_matters": "Exam integrity debates reveal deep concerns about corruption and fairness in Thai society.",
+    "source_name": "spacebar.th",
+    "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPem0wc0ZTSzFtTGVuRm5wOFlfV09uamM0TkMzVUhDUTFfcktVM0NITHdZVkgyVElmTWlmMjV6NDFFNlA3UFpfSUxCTWgydVpMdDZwNGtDd0x1WXZxaVRfVEhDRl9qRldaX19JZE5nY095b05LX0RZNXpDSWx6RHQweEt0ejI5a0JsYzlGcjBZUXl5VkVZYmc?oc=5",
+    "published_at": "Tue, 04 Aug 2026 12:15:00 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Doraemon replaces real cat in Thai rain ritual",
+    "platform": "reddit",
+    "explanation": "A traditional rain ritual using a live cat is humorously replaced by a Doraemon toy, blending superstition with pop culture.",
+    "why_people_are_sharing_it": "Funny clash of old ritual and beloved cartoon character sparks amusement.",
+    "tone": "funny",
+    "local_context": "Thai rain rituals often involve animals; Doraemon is a popular Japanese cartoon cat.",
+    "source_url": "https://www.reddit.com/r/Thailand/comments/1vezgf1/doraemon_replaces_real_cat_in_thai_rain_ritual/",
+    "media_url": "https://www.reddit.com/r/Thailand/comments/1vezgf1/doraemon_replaces_real_cat_in_thai_rain_ritual/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=th&gl=TH&ceid=TH:th",
+      "items_seen": 35,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "ร่าง “ฮลุน โซโล่” ถึงไทย 6 ส.ค.นี้ สถานทูตฯ เร่งจอร์เจีย ส่งผลชันสูตรให้ทางการไทย - Thairath.co.th",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "โฆษก ตร. เผยเตรียมนำสาวทอม ชี้ตัวตำรวจชลบุรี พิสูจน์ปม \"ลูกพี่ป๋อง\" - เดลินิวส์",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "หนังยาวต้องจบ! โค้งสำคัญฟัน ‘โกงสอบ’ รั่วเกือบทุกขั้นตอน โยงคนใน-นอกนับร้อย - spacebar.th",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "รอบที่ล้าน! ทรัมป์ขู่อิหร่าน หากปฏิเสธโอกาสสุดท้ายอาจถูกตัดหัว - ไทยโพสต์",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "กรมอุตุฯ เตือน คลื่นลมแรงและฝนตกหนักถึงหนักมากบริเวณประเทศไทย ฉบับ 2 - amarin tv",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "“บิ๊กดุลย์” หารือ รมว.กลาโหมอินโดนีเซีย เดินหน้าสันติสุขชายแดนใต้ ย้ำไม่ใช่ความขัดแย้งทางศาสนา - สยามรัฐ",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "คนรุ่นใหม่ 'ของแท้' - ไทยโพสต์",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ผบช.ภ.9 เผยคืบหน้าคดียิงตำรวจตากใบ คุมตัวแล้ว 11 ราย ล่าอีก 3 คนร้าย เชื่อมโยงแก๊งยิงทหารพรานบูเก๊ะซามี - ผู้จัดการออนไลน์",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "สรุปถ้อยแถลงมินอ่องหล่าย 100 วันในตำแหน่งผู้นำรัฐบาลพลเรือน ‘ไม่สนฉันทามติ 5 ข้อ - เดินหน้าเลือกตั้งซ่อมเพิ่ม’ - thestandard.co",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"ยศชนัน\" ปัดข่าวลือจับขั้ว \"เขียว-แดง\" - thaitv5hd.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "โดรนยูเครนถล่มคลังสินค้าในรัสเซีย ดับ 5 ราย มอสโกยิงเรือในทะเลดำตอบโต้ - เดลินิวส์",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "เซวตารับไม่ไหว ผู้อพยพโมร็อกโกยังตกค้างนับพัน ศูนย์พักพิงล้น กระแสสังคมต่อต้าน - thestandard.co",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "NioCorp ลงนาม MOU กับ Lockheed Martin เพื่อจัดหาสแกนเดียม - Investing.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "สวนทางเกาหลีใต้! เกาหลีเหนือ แนะเมนูเนื้อสุนัข คลายร้อน ช่วงอากาศร้อนจัด - Matichon Online",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘ดาวโจนส์’ พุ่งกว่า 900 จุด รับราคาน้ำมันร่วง หลังสหรัฐ-อิหร่านจ่อเปิดฮอร์มุซ | The Bangkok Insight - LINE TODAY",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Xtrackers ประกาศจ่ายเงินปันผลสําหรับ ETF จํานวน 42 ประเภทหุ้น - Investing.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ทองคำผันผวนรายวัน! ปรับขึ้นลง 11 ครั้ง ปิดขยับขึ้น 50 บาท - Thunhoon",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "SpaceX จ่อเผชิญแรงกดดันหลังทยอยปลดล็อกหุ้น - eFinanceThai",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "OPPO A7 Pro Max 5G เปิดตัว สมาร์ตโฟนแบต 10,000mAh พร้อมชิป Snapdragon 4 Gen 5 รุ่นแรกของโลก - Thaimobilecenter",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "POCO M8 Power เปิดตัว มือถือแบต 8,000mAh จอ AMOLED 120Hz พร้อม Snapdragon 4 Gen 4 - Thaimobilecenter",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "Thailand",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=TH",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/th.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 1000,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "The Thai Interpreter: Indie Film on Thai-American Immigrant Justice",
+          "score": 11,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:This is a culturally rich indie film by a well-known author about Thai-American immigrant struggles, making it a meaningful cultural signal rather than generic news."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Jedz's Comeback Video: 'I Might Not Be the Same Anymore'",
+          "score": 9,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "ai:A personal YouTube creator's reflective comeback video, signaling a native internet culture moment in Thailand."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "BABYMONSTER - 'MOON' Official Music Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular K-pop group BABYMONSTER's music video trending in Thailand, a strong cultural internet fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "KISS OF LIFE - 'SWEAT' Official Music Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:K-pop group KISS OF LIFE's new single trending, a clear internet culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Red Velvet - 'Surfin' Boy' Music Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular K-pop group Red Velvet's new release, a strong cultural internet fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "God Skin Challenge: 'หมัดเทวา ท้าเดิมพัน' Official Action Movie Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:An action movie trailer with supernatural themes and notable Thai actors, relevant to local pop culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Resident Evil New Trailer Discussion on 'ซุยขิงขิง Hard Talk'",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A local YouTube show discussing a popular movie trailer, relevant to pop culture fans."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Final Clip with Heartbreak: 'กำแพง 700 ล้าน' | CookieRun Classic",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A personal or gaming-related video with emotional content, somewhat niche but interesting."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A gaming and comic culture related trailer, relevant to global pop culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Using 'Robux' to Attack Cities | Missiles vs Cities Gameplay",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A gaming video with a humorous twist, relevant to internet gaming culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Parent Complains About Excessive Homework in Thai Government School",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A personal complaint about education workload, somewhat generic but relatable."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "เงินเดินทางใจลิขิต (Live Concert) -【OFFICIAL MUSIC】 lyrics By ลูกพ่อแล",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Doraemon replaces real cat in Thai rain ritual",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "How did Thailand's healthcare become good (or got the international reputation of it being good) vs. the neighboring countries and other countries of similar cost of living?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Seeking recommendations: Care manager / patient advocate for my dad in Pattaya (alcohol-related dementia)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Thai justice system under fire after freed criminal confesses to killing 5",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "German-Turkish Tourist Reported Missing Since July 23 Found Safe in Chiang Mai",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bangkok Bank and international PromptPay - has this ever worked for anyone?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dual Citizen entered on foreign passport, do I need to leave / reenter on Thai passport?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Need some rental advice, or a rental lawyer.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ต้องการความช่วยเหลือในการแปลเกมภาษาไทย",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sweet Tooth Nation: How History Made Thais Obsessed with Sugar",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Place to stay near Sam Yan",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Thailand July births have fallen another 12.1%",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Some cute and funny signs",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Intereresting story about \"The RBSC\" one the Thailand elite's sport club.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Car Owners' Private Data Leak Including PM's Rolls-Royce",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News about a data leak involving private info, somewhat generic but with political relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Villa Buyer Warned About Dodgy Land Registration Price",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A consumer caution story about property transactions, more generic and less cultural."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Where to Buy New PS5 in Bangkok? Stock and Restock Info",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A generic consumer question about product availability, less cultural significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Chinese Man Sentenced to 46 Years for Illegal Arsenal in Pattaya",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A straightforward crime news headline with no deeper cultural or internet fixation significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Chinatown & Food",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too generic and vague, just a broad topic without a clear cultural or internet fixation signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Two Mae Sot Municipal Officials Arrested in Illegal 10-Year ID Card Scheme; Another Flees to Karen BGF Area",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "องค์การกระจายเสียงและแพร่ภาพสาธารณะแห่งประเทศไทย",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "สมเด็จพระนางเจ้าสิริกิติ์ พระบรมราชินีนาถ พระบรมราชชนนีพันปีหลวง",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "อสมท",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "พระบาทสมเด็จพระวชิรเกล้าเจ้าอยู่หัว",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "หี",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Police under fire over missing case updates",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_generic_tragedy"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "หน้าหลัก",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "พิเศษ:ค้นหา",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "สไปเดอร์แมน",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ไทย",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "netflix",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "spider man no way home",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ประภา ศ คง เอียด",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "โอลิมเปียกอส",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "s&p 500",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "บ้านปู",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "กรมอุตุนิยมวิทยาพยากรณ์อากาศ",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "pltr",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "พิเศษ:ปรับปรุงล่าสุด",
+          "score": -1,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Monthly FAQ thread for August, 2026",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate",
+            "boost_culture_signal"
+          ],
+          "passed": false,
+          "kept": false
+        },
+        {
+          "title": "People's Party rules out future cooperation with Bhumjaithai",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "ร่าง “ฮลุน โซโล่” ถึงไทย 6 ส.ค.นี้ สถานทูตฯ เร่งจอร์เจีย ส่งผลชันสูตรให้ทางการไทย - Thairath.co.th",
+        "source_name": "Thairath.co.th",
+        "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjMm4tWXkyRnFSbHhjWWpyRDNVSkN3OFF0RGlDYUxBQ0N1SkdzZmd4b2RpcWUxbDgxdkU4eGNrRmVJNGplMWFsWWJxNjV1WTctT3NlTHg3bmVtcDQ?oc=5",
+        "published_at": "Tue, 04 Aug 2026 11:35:00 GMT",
+        "snippet": "ร่าง “ฮลุน โซโล่” ถึงไทย 6 ส.ค.นี้ สถานทูตฯ เร่งจอร์เจีย ส่งผลชันสูตรให้ทางการไทย Thairath.co.th บรรจุร่าง ‘ฮลุน โซโล่’ เตรียมกลับประเทศไทย รอผลชันสูตรอย่างเป็นทางการ | สวพ.FM91 LINE TODAY พี่ชายแจ้งนำร่าง \"ฮลุน โซโล่\" ออกจากจอร์เจียกลับถึงไทย 6 ส.ค.นี้ Thai PBS กต. มอบ กงสุลดูแล ร่าง “ฮลุน โซโล่” เมื่อถึงไทย เร่งจอร์เจียเรื่องผลชันสูตร Thairath.co.th ข่าวเปิดขั้นตอนรับร่าง \"ฮลุน โซโล่\" กลับไทย Ch7.com",
+        "short_explanation": "Return of Hulun Solo's body to Thailand for official autopsy; important for family and justice."
+      },
+      {
+        "title": "โฆษก ตร. เผยเตรียมนำสาวทอม ชี้ตัวตำรวจชลบุรี พิสูจน์ปม \"ลูกพี่ป๋อง\" - เดลินิวส์",
+        "source_name": "เดลินิวส์",
+        "source_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3ZkpUYVdVZlI1aWdRdGJia2tqVGdlWHcxSFNMam5fN2ZjbE12MmU3OFlGUGhnQXhDd1dNcmxwTlZta2dUQVFmZXNqczkwM1pqYUgw?oc=5",
+        "published_at": "Tue, 04 Aug 2026 13:33:00 GMT",
+        "snippet": "โฆษก ตร. เผยเตรียมนำสาวทอม ชี้ตัวตำรวจชลบุรี พิสูจน์ปม \"ลูกพี่ป๋อง\" เดลินิวส์ หาตัวลูกพี่ “ไอ้ป๋อง” สางปมให้ยาบ้าไปขาย พาเหยื่อชี้ตัว ตำรวจ สภ.ห้วยใหญ่ ยกโรงพัก Thairath.co.th เงื่อนงำหลังฉาก \"ป๋อง\" ลือหนักโยง \"ยาเสพติด-ตร.\" ไขปมมีมากกว่า 5 ศพหรือไม่? | เสิร์ฟติดข่าว Thai PBS ผบ.ตร. สั่งสอบปม ป๋อง ฆาตกรรม 5 ศพ เป็นสายลับตำรวจ ลั่นฟันอาญาเด็ดขาดแม้เกษียณ ชี้ลบประวัติอาชญากรเองไม่ได้ thestandard.co ชาวบ้านชี้ ร.ต.ต. \"ษ.\" คือ ตร.ที่ \"ป๋อง\" เคารพ Ch7.com",
+        "short_explanation": "Police investigate drug-linked murders involving local officers; public demands transparency and justice."
+      },
+      {
+        "title": "หนังยาวต้องจบ! โค้งสำคัญฟัน ‘โกงสอบ’ รั่วเกือบทุกขั้นตอน โยงคนใน-นอกนับร้อย - spacebar.th",
+        "source_name": "spacebar.th",
+        "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPem0wc0ZTSzFtTGVuRm5wOFlfV09uamM0TkMzVUhDUTFfcktVM0NITHdZVkgyVElmTWlmMjV6NDFFNlA3UFpfSUxCTWgydVpMdDZwNGtDd0x1WXZxaVRfVEhDRl9qRldaX19JZE5nY095b05LX0RZNXpDSWx6RHQweEt0ejI5a0JsYzlGcjBZUXl5VkVZYmc?oc=5",
+        "published_at": "Tue, 04 Aug 2026 12:15:00 GMT",
+        "snippet": "หนังยาวต้องจบ! โค้งสำคัญฟัน ‘โกงสอบ’ รั่วเกือบทุกขั้นตอน โยงคนใน-นอกนับร้อย spacebar.th ผบช.ก. เผยคดีทุจริตสอบ แจ้งข้อหาแล้ว 5 ราย จับตา อดีตอธิบดี สถ. เตรียมเข้าพบสัปดาห์นี้ จ่อชง ป.ป.ช. ฟันต่อ thestandard.co กมธ.ป.ป.ช.ชี้เส้นเงิน 200 ชื่อโกงสอบถึง ป.ป.ช. จี้ บิ๊ก ขรก.โอกาสสุดท้ายซัดทอดคนชักใย ปปง.แย้มคดีอาจไม่ตรงใจสังคม ผู้จัดการออนไลน์ ข่าวปกรณ์ ประชุม คกก.โกงสอบนัดสุดท้าย Ch7.com อัปเดต!\"คดีโกงสอบท้องถิ่น\" ปปง. เช็กเส้นเงินแล้ว 200 รายชื่อ Workpoint News",
+        "short_explanation": "Major local government exam cheating scandal involves hundreds, threatening public trust in officials."
+      },
+      {
+        "title": "รอบที่ล้าน! ทรัมป์ขู่อิหร่าน หากปฏิเสธโอกาสสุดท้ายอาจถูกตัดหัว - ไทยโพสต์",
+        "source_name": "ไทยโพสต์",
+        "source_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNSXk2RldzOEJqUnR0VzB1RE5KSElaSXJJbFNXVHVDY1hhdk1jemJrWThvV1BSWVk3bjZ0Wmh5UDlLanZzLXpZYW04dlNhdkhHd0pZdHkwWUs?oc=5",
+        "published_at": "Mon, 03 Aug 2026 23:44:01 GMT",
+        "snippet": "รอบที่ล้าน! ทรัมป์ขู่อิหร่าน หากปฏิเสธโอกาสสุดท้ายอาจถูกตัดหัว ไทยโพสต์ สหรัฐฯ หวังปิดดีลช่องแคบฮอร์มุซภายในไม่กี่วัน หลังเรือสินค้าถูกโจมตี Thairath.co.th เจาะลึกสงครามอิหร่าน ยังเหลืออีกหนึ่ง \"ความผิดพลาด\" ที่ทรัมป์ยังไม่ยอมทำ Thai PBS “ทรัมป์” เบรกแผนโจมตีอิหร่าน เปิดทางเจรจาวันนี้ | 3 ส.ค. 69 | การเงินธนาคาร LINE TODAY ข่าวทรัมป์ ขู่เด็ดหัวอิหร่าน หากไม่รีบตกลงหยุดยิง Ch7.com",
+        "short_explanation": "Trump threatens Iran amid tense negotiations; global security concerns affect Thai awareness."
+      },
+      {
+        "title": "กรมอุตุฯ เตือน คลื่นลมแรงและฝนตกหนักถึงหนักมากบริเวณประเทศไทย ฉบับ 2 - amarin tv",
+        "source_name": "amarin tv",
+        "source_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9haXFFOHhEM1VLLWFNNHhtbUNSSGJhV3lYMmpRcHBkSDdGTVE4Vmd3azZOa29xUk8xdUZSbGZvU2JuMU1SSXV6WVlkN2dfWXBqV1h5Yzd3?oc=5",
+        "published_at": "Tue, 04 Aug 2026 10:48:00 GMT",
+        "snippet": "กรมอุตุฯ เตือน คลื่นลมแรงและฝนตกหนักถึงหนักมากบริเวณประเทศไทย ฉบับ 2 amarin tv ประกาศฉบับ 1 เตือนฝนตกหนักถึงหนักมาก ช่วง 6-9 ส.ค. เช็กจังหวัดที่ได้รับผลกระทบ Thairath.co.th สทนช.เตือน 27 จังหวัดเฝ้าระวังน้ำหลาก-น้ำท่วมขัง 6-9 ส.ค.นี้ Thai PBS \"สุริยะ\" กำชับกรมชลฯ บริหารน้ำเชิงรุก รับมือฝนเดือนสิงหาคม thaich8.com ฝนฟ้าอากาศ 4 ส.ค.69 | ภาคอีสาน เฝ้าระวังฝนตกหนักจนถึงปลายสัปดาห์ Ch7.com",
+        "short_explanation": "Meteorological warning of heavy storms and floods; crucial for public safety and preparedness."
+      }
+    ],
+    "trends": [
+      {
+        "title": "The Thai Interpreter: Indie Film on Thai-American Immigrant Justice",
+        "platform": "reddit",
+        "source_label": "r/Thailand",
+        "score_label": "r/Thailand hot #9",
+        "rank_score": 920,
+        "published_at": "2026-08-04T13:48:05+00:00",
+        "source_url": "https://www.reddit.com/r/Thailand/comments/1vfavfm/the_thai_interpreter_ลาม_cool_indie_film_by_a/",
+        "external_url": "https://www.reddit.com/r/Thailand/comments/1vfavfm/the_thai_interpreter_ลาม_cool_indie_film_by_a/",
+        "context": "Benjawan Poomsan Becker, author of the famous orange Thai for Beginners book and the Paiboon Thai-English dictionary apps, has been as incredibly busy as ever, and now completed her first indie film! It's about a Thai-American court interpreter's struggles for immigrant justice in the US legal system (and is somewhat autobiographical too). I saw a preview and found the courtroom and cross-cultural",
+        "short_explanation": "Indie film about Thai-American court interpreter fighting immigrant justice in the US."
+      },
+      {
+        "title": "Jedz's Comeback Video: 'I Might Not Be the Same Anymore'",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Jedz)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-08-04T14:49:38Z",
+        "source_url": "https://www.youtube.com/watch?v=iN14W3E9exE",
+        "external_url": "https://www.youtube.com/watch?v=iN14W3E9exE",
+        "context": "Jedz. ไม่รู้ว่ายังมีใครเหลืออยู่มั้ย สำหรับใครที่ยังเฝ้ารอคอยมาจนถึงทุกวันนี้นับตั้งคลิปหลังสุดนี่ยอมใจเลย\n\nเคยหมดใจกับการทำยูทูปไปแล้ว คาดหวังกับผลลัพธ์มากเกินไปจนเลิกไปเลย รอบนี้บอกกับตัวเองว่าไม่จำเป็นต้องไปสมบูรณ์แบบเหมือนเมื่อก่อนหรอก ค่อยๆเป็นค่อยๆไป\n\nหลังจากนี้คงจะมาแค่เป็นบางครั้งบางคราว ถ้ามีอะไรน่าสนใจเดี๋ยวก็ค่อยๆเอามาลง ไว้เจอกัน\n\n► Youtube : https://www.youtube.com/channel/UCjomRG2tBq",
+        "short_explanation": "YouTuber Jedz returns with a comeback video after pausing content creation."
+      },
+      {
+        "title": "BABYMONSTER - 'MOON' Official Music Video",
+        "platform": "youtube",
+        "source_label": "YouTube trending (BABYMONSTER)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-08-02T15:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=xXZwZ0DolJc",
+        "external_url": "https://www.youtube.com/watch?v=xXZwZ0DolJc",
+        "context": "BABYMONSTER. MOON \n\nI’m the moon\n보름달 뜨는 밤 On the loose\nZalabim zalabam zalaboom\nI shine so bright in the gloom\nI’m the moon, I’m the moon, I’m the moon\n\nFog thickens\nNight vision\nWhere we gonna end up is unwritten\nGrave digger\nGo figure\nBut if you’re killing my mood\nGood riddance\n\nIce in my veins\nYou’re gonna need to keep up with the pace\n더 빨리 더 높이\nWhen you, when you, when you at the crack of dawn",
+        "short_explanation": "BABYMONSTER's 'MOON' is a new K-pop music video popular in Thailand."
+      },
+      {
+        "title": "KISS OF LIFE - 'SWEAT' Official Music Video",
+        "platform": "youtube",
+        "source_label": "YouTube trending (KISS OF LIFE)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-08-04T09:00:07Z",
+        "source_url": "https://www.youtube.com/watch?v=eTvUZymLyGY",
+        "external_url": "https://www.youtube.com/watch?v=eTvUZymLyGY",
+        "context": "KISS OF LIFE. KISS OF LIFE\n3rd Single [SWEAT]\n\n'SWEAT' Official Music Video\nhttps://youtu.be/eTvUZymLyGY\n\n#KISSOFLIFE #키스오브라이프 #KIOF #키오프 \n#JULIE #NATTY #BELLE #HANEUL \n#쥴리 #나띠 #벨 #하늘 \n#SWEAT \n-\nKISS OF LIFE (키스오브라이프) 3rd Single [SWEAT] is OUT NOW!\n\n🎧 https://lnk.to/KISSOFLIFE_SWEAT\n\n#KISSOFLIFE #키스오브라이프 #KIOF\n#SWEAT\n-\n[KISS OF LIFE Official Channel]\nYouTube : https://www.youtube.com/channel/UCvEE",
+        "short_explanation": "KISS OF LIFE released their third single 'SWEAT' music video, gaining local attention."
+      },
+      {
+        "title": "Red Velvet - 'Surfin' Boy' Music Video",
+        "platform": "youtube",
+        "source_label": "YouTube trending (SMTOWN)",
+        "score_label": "trending #7",
+        "rank_score": 940,
+        "published_at": "2026-08-03T09:00:16Z",
+        "source_url": "https://www.youtube.com/watch?v=NZP153MUpHY",
+        "external_url": "https://www.youtube.com/watch?v=NZP153MUpHY",
+        "context": "SMTOWN. Red Velvet's summer mini album \"Velvet Summer\" is out!\nListen and download on your favorite plarform: https://RedVelvet.lnk.to/VelvetSummer\n\n[Tracklist]\n01Surfin' Boy\n02 Hot Girls Cold Vibe\n03 Orchestra\n04 Hula Hoop\n05 Hawaii\n\nRed Velvet Official\nhttps://www.youtube.com/redvelvet\nhttps://www.facebook.com/RedVelvet\nhttps://www.instagram.com/redvelvet.smtown\nhttps://www.tiktok.com/@redvelvet",
+        "short_explanation": "Red Velvet's summer mini album 'Velvet Summer' features the hit 'Surfin' Boy'."
+      },
+      {
+        "title": "God Skin Challenge: 'หมัดเทวา ท้าเดิมพัน' Official Action Movie Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Major Group)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T04:00:26Z",
+        "source_url": "https://www.youtube.com/watch?v=UEah0PyQdWM",
+        "external_url": "https://www.youtube.com/watch?v=UEah0PyQdWM",
+        "context": "Major Group. จะพิชิตสังเวียนนี้ได้ \nคุณต้องเป็นมากกว่า “คน”\n\nพบกับตัวอย่างจัดเต็ม “หมัดเทวา ท้าเดิมพัน”\n\nศึกเดิมพันชีวิตที่วัดกันแบบ หมัดต่อหมัด สัตว์ต่อสัตว์ พลังต่อพลัง เตรียมสักยันต์เทวาแล้วโอบรับพลังเหนือโลก\n\nนำแสดงโดย จี๋ สุทธิรักษ์, จ๋าย อิชณน์กร, เป้ อารักษ์ ร่วมด้วย มินนี่ ภันฑิรา และ บอลชอน ธนวัฒน์\n\nภาพยนตร์แอ็กชันพันธุ์ใหม่ โดย กอล์ฟ-ปวีณ ภูริจิตปัญญา ผู้กำกับ ‘บอดี้..ศพ 19’ ออกแบบความมั",
+        "short_explanation": "Action movie 'God Skin Challenge' trailer features supernatural martial arts battles."
+      },
+      {
+        "title": "Parent Complains About Excessive Homework in Thai Government School",
+        "platform": "reddit",
+        "source_label": "r/Thailand",
+        "score_label": "r/Thailand hot #4",
+        "rank_score": 970,
+        "published_at": "2026-08-04T06:57:14+00:00",
+        "source_url": "https://www.reddit.com/r/Thailand/comments/1vf2twd/i_cannot_believe_how_much_homework_my_child_has/",
+        "external_url": "https://www.reddit.com/r/Thailand/comments/1vf2twd/i_cannot_believe_how_much_homework_my_child_has/",
+        "context": "I have an 11 yr old in P6 in Thailand. She's in a govt school that has a full on Science/Maths/ English program. 2 years ago my wife told me she heard about a Maths teacher in P6 that is very strict and gives a ton of homework causing the kids to sleep at 11pm/ midnight. The rumours were correct. From Monday to Thu night theres 'optional' extra class to prepare the kids for the big M1 test in Nove",
+        "short_explanation": "Parent complains about excessive homework and strict teachers in Thai government school."
+      },
+      {
+        "title": "Doraemon replaces real cat in Thai rain ritual",
+        "platform": "reddit",
+        "source_label": "r/Thailand",
+        "score_label": "r/Thailand hot #11",
+        "rank_score": 900,
+        "published_at": "2026-08-04T03:55:09+00:00",
+        "source_url": "https://www.reddit.com/r/Thailand/comments/1vezgf1/doraemon_replaces_real_cat_in_thai_rain_ritual/",
+        "external_url": "https://www.reddit.com/r/Thailand/comments/1vezgf1/doraemon_replaces_real_cat_in_thai_rain_ritual/",
+        "context": "submitted by /u/mdsmqlk [link] [comments]",
+        "short_explanation": "Doraemon character replaces real cat in a traditional Thai rain ritual."
+      }
+    ]
+  }
+}

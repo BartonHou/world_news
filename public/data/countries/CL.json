@@ -1,0 +1,872 @@
+{
+  "iso2": "CL",
+  "iso3": "CHL",
+  "country_name": "Chile",
+  "flag": "🇨🇱",
+  "region": "South America",
+  "coordinates": {
+    "lat": -35.6751,
+    "lon": -71.543
+  },
+  "updated_at": "2026-08-04T21:03:56+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "Codelco",
+    "seismic risk",
+    "mining project suspension"
+  ],
+  "top_news": {
+    "headline": "Codelco suspends El Teniente project due to emerging seismic risks",
+    "summary": "Chile's state copper giant halts major mining project over new, unexpected earthquake threats.",
+    "why_it_matters": "Reveals local concerns about natural disaster risks impacting key industry and economy.",
+    "source_name": "BioBioChile",
+    "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORTZ5bkFlbVR0ZzlHS1NXNy1mczBxT0wwYUlneTlneFN4SzM3OE01V3lRaDNhVno4eXlhWEo0WHFTWmtlVmlmMDRTU3R2U0tyZkRNcVZJUFNJVXhCSktpUFg5aEI2aklMa2dWTVFmY3ZLOGdHX25YOXl6TURHdndWcmQ2WGhyMVlHTnRGOFpjLTlGcDhlQXNCQkZWczFhNFZoekNWemV6ZXFBRkdMZGtnNjZOcXRhdWd6RVNUakFrYVBxak8zdXN3N1c3T2pid2dDeFFnN29vM2pTWkFnTkZjYmRRTVpqMGNJaml0SEx1U3JYUnlPZl80UU5SUnpRMTI3VGVlWA?oc=5",
+    "published_at": "Tue, 04 Aug 2026 17:29:19 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Los Prisioneros - El Baile De Los Que Sobran (Iconic Chilean Song Lyric Video)",
+    "platform": "youtube",
+    "explanation": "This song critiques social inequality and youth unemployment in Chile, resonating deeply as a symbol of frustration and hope.",
+    "why_people_are_sharing_it": "It’s a cultural anthem reflecting ongoing social struggles and youth identity in Chile.",
+    "tone": "political",
+    "local_context": "1980s Chile under dictatorship, youth facing limited opportunities",
+    "source_url": "https://www.youtube.com/watch?v=-3NrwAhUmlo",
+    "media_url": "https://www.youtube.com/watch?v=-3NrwAhUmlo",
+    "confidence": 0.9
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=es-419&gl=CL&ceid=CL:es-419",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Por riesgo sísmico emergente: Codelco decide suspender temporalmente proyecto en División El Teniente - BioBioChile",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "El dólar retrocede con fuerza ante un cobre que no cede y marca precios históricos - BioBioChile",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Squella escala disputa con Alvarado: que \"busque otra actividad\" si toma decisiones así en política - BioBioChile",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Estudiantes secundarios se manifiestan en la Alameda en contra del gobierno: hay liceos emblemáticos en toma - La Tercera",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Lluvia, heladas y mucho frío: el pronóstico en Chile para los próximos días, según Meteochile - La Tercera",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Detienen a sujeto que intentó evadir control policial en el aeropuerto de Santiago - La Tercera",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Caso ProCultura: Suprema confirma multa a Aspor por no pago de $1.000 millones a Gobierno de Santiago - BioBioChile",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Detectan heroína por primera vez en la Penitenciaría de Santiago: iba dirigida a la Galería 11 - BioBioChile",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ceuta abre una grieta y deja al descubierto la desconfianza de la mayoría de la UE hacia las políticas migratorias de Pedro Sánchez - Infobae",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El gobierno de Trump anticipa acuerdo con Irán para reabrir Ormuz este martes o miércoles y el petróleo profundiza sus bajas - df.cl",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Estudio sugiere que eliminar el azúcar de la dieta puede ser perjudicial: ¿cuánta se puede consumir? - BioBioChile",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Militar ruso abre fuego contra compañeros y civiles en Crimea, dejando cuatro muertos - BioBioChile",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dólar se hunde más de $ 10 y cierra próximo a $ 910 por la expectativa de un pronto acuerdo de paz en Medio Oriente - df.cl",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "WOM se blinda tras arremetida de la Subtel y dice que analiza \"los pasos a seguir\" - BioBioChile",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Economía repuntará en segundo semestre tras mejor Imacec de junio, pero proyecciones para el año se ajustan bajo 1,5% - La Tercera",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Día del Niño: 10 ideas de regalos para sorprender a los más pequeños - Chócale",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Prime Video recibe gratis una nueva experiencia de streaming para miles de usuarios - ADSLZone",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Maximiliano Luksic: “Si se rechaza el proyecto significa que van a ser afectadas todas las municipalidades de Chile” - La Tercera",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Megarreforma: Gobierno dice es \"altamente probable\" que se ingrese un veto al pago a 30 días a pymes - BioBioChile",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Director de INDH y dichos del Presidente Kast tras confirmarse absolución de Crespo: “Naturalmente, discrepamos del fallo” - La Tercera",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "chile",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=CL",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/es.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 994,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Marvel character reveal, relevant to global pop culture and fandom."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Freddy's HappyLand: The New Pizzeria (Rubius Z Gameplay/Stream)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular internet streamer Rubius Z content; relevant to gaming and streaming culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "House of the Dragon S3E8 Trailer Analysis: The Battle of the Ridge",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular TV series analysis with fan interest; culturally relevant in global entertainment."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Never Go to the Cursed Slide with Mandarina in Brookhaven Roblox",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Roblox gameplay video with known streamer Lyna; relevant to gaming culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Los Prisioneros - El Baile De Los Que Sobran (Iconic Chilean Song Lyric Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Iconic Chilean rock song with strong cultural significance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "House of the Dragon S3E8 Trailer Breakdown: The Battle of the Ridge",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular TV series trailer analysis with fan interest; culturally relevant."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cristian Castro - Por Amarte Así (Classic Latin Pop Song)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A recognizable Latin pop classic by Cristian Castro; culturally relevant in Latin music circles."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Police Action Against Student March in Santiago Causes Damage",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Reflects a significant local event with social and political implications in Chile."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "High School Students Protest Against Government in Santiago",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Significant social movement involving emblematic schools; culturally relevant in Chile."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Tainy, Anuel AA, Ozuna - Adicto (Popular Latin Urban Song Lyrics)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Latin urban music collaboration, relevant in Latin music culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "How to Make a Nuclear Bomb in Your Backyard (JuegaGerman Humor Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Clearly a humorous or clickbait video by a popular YouTuber; relevant in internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Flooding Reported on Construction Site at Paicaví Wetland",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline about local environmental issue; somewhat generic without broader cultural impact."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Government Halts Public Transport Corridors Investment in Gran Concepción",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Local political news; somewhat generic without broader cultural resonance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Political Disagreement Over Subsecretary of Finance Appointment",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political news headline; generic without broader cultural impact."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "IA y revisión de errores",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Romeo Santos - Fui a Jamaica (Letra)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Megarreforma: Gobierno dice es \"altamente probable\" que se ingrese un veto al pago a 30 días a pymes",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La trama de un chileno de ascendencia palestina deportado por Israel - La Tercera",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Kast valora absolución de Claudio Crespo por lesiones a diputado Gustavo Gatica",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cuántas culiadas a delicuentas creen que hubiera dado si salia presidente?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "¿Por qué creen que pese a sus múltiples errores, el gobierno sigue teniendo una aprobación levemente superior a la de Boric en el mismo periodo?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Reportan alrededor de 4 mil personas aisladas en Carahue por desborde de río Damas",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cariñosas y plata",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Luz verde para primer data center sin evaluación ambiental",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "12 años de cárcel a 5 sujetos vinculados a la WAM por homicidio de comunero Manuel Huenupil en Carahue",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "“Calisto les entregó dinero en efectivo”: las pistas que vinculan a exdirigentes de Confenats con presuntas platas negras ligadas al senador",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La economía vuelve a crecer en junio, pero sin alentar mejores pronósticos para el año",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lección laboral aprendida",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La cofradía: el opaco circuito de financiamiento de los libertarios que se burlan de niños TEA.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Renunciado exseremi de las Culturas de Los Lagos por positivo a drogas reveló contramuestra negativa",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cows on My Property",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Barely a personal anecdote; too opaque and not culturally significant."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Weekly Random Discussion Thread",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too generic and opaque; it's a general discussion thread without a specific cultural or trending focus."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Me fueron infiel",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mi viejo encontró este banderín antiguo de Colo. ¿Alguien sabe algo de él?",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Calcetines buenos",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ceuta",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vuelo 103 de Pan Am",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Zendaya",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_hard_news_spillover",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tom Holland",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jean Grey",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "newport county - roma",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "union saint-gilloise - bodø/glimt",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "club atlético boca juniors",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "selección de fútbol de chile",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "rodri hernández",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ipswich - le havre",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Leoncio Prado",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_hard_news_spillover",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "el teniente",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "carabineros de chile",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "mauro icardi",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "guillermo barros schelotto",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La Odisea (película de 2026)",
+          "score": -4,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "penalize_hard_news_spillover",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Por riesgo sísmico emergente: Codelco decide suspender temporalmente proyecto en División El Teniente - BioBioChile",
+        "source_name": "BioBioChile",
+        "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORTZ5bkFlbVR0ZzlHS1NXNy1mczBxT0wwYUlneTlneFN4SzM3OE01V3lRaDNhVno4eXlhWEo0WHFTWmtlVmlmMDRTU3R2U0tyZkRNcVZJUFNJVXhCSktpUFg5aEI2aklMa2dWTVFmY3ZLOGdHX25YOXl6TURHdndWcmQ2WGhyMVlHTnRGOFpjLTlGcDhlQXNCQkZWczFhNFZoekNWemV6ZXFBRkdMZGtnNjZOcXRhdWd6RVNUakFrYVBxak8zdXN3N1c3T2pid2dDeFFnN29vM2pTWkFnTkZjYmRRTVpqMGNJaml0SEx1U3JYUnlPZl80UU5SUnpRMTI3VGVlWA?oc=5",
+        "published_at": "Tue, 04 Aug 2026 17:29:19 GMT",
+        "snippet": "Por riesgo sísmico emergente: Codelco decide suspender temporalmente proyecto en División El Teniente BioBioChile Codelco adopta medida preventiva de seguridad y suspende temporalmente el proyecto Andes Norte codelco.com A un año de fatal accidente, Codelco suspende proyecto estructural de El Teniente La Tercera Codelco suspende temporalmente proyecto Andes Norte por fenómeno sísmico emergente distinto “a riesgos históricamente conocidos” Teletrece Codelco suspende temporalmente el proyecto Andes Norte de El Teniente por riesgo sísmico CNN Chile",
+        "short_explanation": "Codelco halts mining project due to new earthquake risks, protecting workers and infrastructure."
+      },
+      {
+        "title": "El dólar retrocede con fuerza ante un cobre que no cede y marca precios históricos - BioBioChile",
+        "source_name": "BioBioChile",
+        "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOYl9OUTZzd1ZSSExHVV83VkFyRENQRWViQjZIMzJuVGc2QnFtUjgwWGtvYzFKVXcyS01iTzZWLWs5MXp1VzF4QnAzY1Y2V1NmcVNHZS1nVmgtMG5IRGU5U2UyR0hPSk5HajF5WmZTSi1CTTZFcnF4bl9LLXRoSkdHY25wUm9sUGJfblpWd2hUQmhZMzhDdVBNUUlnMHpqU3JsV2tKVkRTVWxhM0R6MFFHZzUzaXFSeDEyRzR6TERhMlJFTDQ0Z3AwSFBPcmFWeVdUMkVmaGxaZWp2b1huaWdNeFdtLTh0N0tsUEk2QnFaTlhtRzktNHJ5NA?oc=5",
+        "published_at": "Tue, 04 Aug 2026 18:41:57 GMT",
+        "snippet": "El dólar retrocede con fuerza ante un cobre que no cede y marca precios históricos BioBioChile El dólar bajó en medio del positivo Imacec de junio y borró todo lo que avanzó el viernes pasado La Tercera Dólar cae más de $10 en su apertura luego de que el cobre alcanzara máximos desde principios de junio CNN Chile Dólar cierra con fuerte caída en niveles de $ 925 tras positivo Imacec de junio y avance de conversaciones en Medio Oriente df.cl Dólar en Chile hoy martes 4 de agosto de 2026: cotización, variación y conversiones clave Portal Innova",
+        "short_explanation": "Copper prices hit record highs, causing Chilean peso to strengthen and dollar to drop."
+      },
+      {
+        "title": "Squella escala disputa con Alvarado: que \"busque otra actividad\" si toma decisiones así en política - BioBioChile",
+        "source_name": "BioBioChile",
+        "source_url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMFJ4LXN3WVhOaXhBZHk2OXRTZFY2NmJwckZlY0ZYeVp6cGxRSHhhTXBnWWRZRDdpbWdaU0ZGdkV1NTBCLUVYR09JZloyNDZ1YXotMURwNWJ3Y3BiWTJRLUJUT3U3ZnJ4NFd0NVpXUzlmNkIyVWJ3czcxT09hcXFlbmhkZ0cwMVY1OTI1dHkxMGxJcUlsRnExcUYzTkVDZC1yOW1GOGRQYjFxUDNsNEcxTHBZWkc2dDV2WDV0UlVXTER5TjQwRGYxdWhkLW84V0tmVDBYaFJmM051VDZGSlFTSzE2TThIU0ZKdkJmd3k0b045OHRtZGtj?oc=5",
+        "published_at": "Tue, 04 Aug 2026 19:33:52 GMT",
+        "snippet": "Squella escala disputa con Alvarado: que \"busque otra actividad\" si toma decisiones así en política BioBioChile Escala tensión oficialista: malestar republicano y dichos de Quiroz vuelven a enredar a La Moneda por salida de exsubsecretario Rodríguez La Tercera Chat reservado: Squella dice que Pavez tiene que pedir perdón a Rodríguez y que hay que sacar a “gente inmoral del gobierno” Ex-ante Filtran chats donde Squella sugiere que Pavez \"pida perdón\" a exsubsecretario de Hacienda Cooperativa Oficialismo se divide por caso “test de drogas”: UDI pide reconsiderar reincorporación del exsubsecretario Universidad de Chile",
+        "short_explanation": "Political dispute escalates over government decisions, reflecting tensions within ruling coalition."
+      },
+      {
+        "title": "Estudiantes secundarios se manifiestan en la Alameda en contra del gobierno: hay liceos emblemáticos en toma - La Tercera",
+        "source_name": "La Tercera",
+        "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNUm9LOVo0RzVGdkc5SVR1X3FjdzVYckVHeVcwQ1VnTTBaQlE3OFRZbzZVNGtTd0wydTJWZ3R5UXdXc2pDbF9NeUxaZGktZ1NraF9FM0Y3VVUxeXRKbUhmdm5qd012bzhWZGxGMW05NDNBeGJ4U3MwcE5HdTg0QU13Zmh5NEdiWnViUFMycjkzX3lsVVZFcldiem1VMFVfU0N6dnVUMWpSUlRlLXQxQ0FRVVVmcXdFd1kzdWtlQTlZbWl4c0hZM3BkcTFYdXFxNVN6SlVwQnVHamd3WDg1bXpBdF9tdXJId9IBhwJBVV95cUxQWDFNLWR4TWJ6YURRRFQwU1plY0hnRjRfNnEwa0dCZUxTRTN5QmxUVm1pNDBaR0FnYUtRWkh0OHFvS0hLZ3B1Y25paE5BY2Fqd2htWWlYbXg2LUREQXpVTzBMbTI0dm1JcDk4SzVOZEpqMDNQV08wQ1FPWVlYbGtZN05iSldVOE9mTDFYVWVVRGxGeUZTREZWNkY0YUZiOW45aGJXTEs4TDJWSTFUaURQN1FpWXl3NDBodkcxRHlqU2h3QVBCVUhkWUdjb2NjSHgwUWFQejFyalEzY2l4RVBXNGhBOUw4eXhTaHk3T2REQmo2cnBuOGdpZGxkV0VSZUF2Tm9ta2dTaw?oc=5",
+        "published_at": "Tue, 04 Aug 2026 16:08:20 GMT",
+        "snippet": "Estudiantes secundarios se manifiestan en la Alameda en contra del gobierno: hay liceos emblemáticos en toma La Tercera Cuatro liceos de Santiago fueron tomados y devueltos por alumnos mientras preparan marcha estudiantil BioBioChile Carabineros dispersa manifestación estudiantil en la Alameda: protestaban contra recortes en educación y megarreforma adnradio.cl Estudiantes secundarios marcharon por la Alameda Cooperativa Secundarios de liceos emblemáticos se movilizan este martes La Nación",
+        "short_explanation": "High school students protest government education policies, occupying key schools in Santiago."
+      },
+      {
+        "title": "Lluvia, heladas y mucho frío: el pronóstico en Chile para los próximos días, según Meteochile - La Tercera",
+        "source_name": "La Tercera",
+        "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3FPWWZCb2d5U2hrOF9DWE9iUnBQVW1sVEFjaDhXdl9tOXo2NFdVaW4xUXFFWXVIbWdRR0tuM3EzN3QycXNNdi1LeEhkVjc2RmFvYnR4ZTF3M1FjX05VaDIyQ2lMeXEwTjZmdGF6UGRuQlZISk42c21LbmJLTm51bG1sakFkSjBHa3FsT0VWdVoxQ0NvX21oQlRUdVV3VE9qNkcwVEJfZzJONTNWcjNqcDhPNE1OeHlQWjFMdElTeEtfU3hkNTE4aVRmZHVyUlp3dnfSAfMBQVVfeXFMTmxMWDhZdjZZS1BHZUN1Z3kwWHFuQzN1V2FfT3M2V3k2eWdLOWI1T0ZHWFlWOTdPWDRYVkJBY2dsLUNYSlh3dHhEX0MtQVFhUFhlS2pacWxNaUNMWHVvWmV0d2FvZlJBZUVybUxPR0huYzQtcGItdlBTVUx4ZkIyOXI3R2VFN0U5b0M4LUtuMzZNQ0lwYnZRdHY1T0o2Y25HMzRMd19JVlhteG1meklLU1lJeXU1VVpzLVJmOHlHV3lSM21rRFA0bDA3Mk9wd0N5OHZFV2l3NXhBdUQxVHJOX3RFRHY2eXVzLVJHMmpBT0xVaGtF?oc=5",
+        "published_at": "Tue, 04 Aug 2026 10:03:00 GMT",
+        "snippet": "Lluvia, heladas y mucho frío: el pronóstico en Chile para los próximos días, según Meteochile La Tercera Nuevo sistema frontal llegará a la RM en las próximas horas: dejaría más de 30 mm de lluvia BioBioChile Vuelven las lluvias a la Región Metropolitana: estos sectores podrían acumular más de 30 mm y rachas de hasta 100 km/h Meteored Chile Eduardo Sáez alerta sobre nuevo sistema frontal esta semana: Lluvia intensa afectaría zonas ya inundadas Chilevisión El día que vuelve la lluvia a Santiago: \"Será fuerte, pero en corto plazo\" 24horas",
+        "short_explanation": "Severe weather forecast with rain and frost threatens central Chile, impacting daily life."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Rivals)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T16:00:00Z",
+        "source_url": "https://www.youtube.com/watch?v=YMweqIzyB7s",
+        "external_url": "https://www.youtube.com/watch?v=YMweqIzyB7s",
+        "context": "Marvel Rivals. From the shadows of the New York underground comes the newest power-hungry villain. 🔥\n \nCloaked in a cursed mantle, Parker Robbins lost his faith in heroes alongside his father and his world's Captain America - replacing it with an insatiable appetite for the power to change the world. Stealing an enchanted cloak from the Vault, he remade himself as the feared crime lord, The Hood.",
+        "short_explanation": "Marvel reveals new villain The Hood, exciting Chilean fans of superhero games and stories."
+      },
+      {
+        "title": "Freddy's HappyLand: The New Pizzeria (Rubius Z Gameplay/Stream)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Rubius Z)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-08-04T18:08:52Z",
+        "source_url": "https://www.youtube.com/watch?v=8V0fTXwollQ",
+        "external_url": "https://www.youtube.com/watch?v=8V0fTXwollQ",
+        "context": "Rubius Z. Like si Foxy dormía más de lo que asustaba\n\nStreams: https://www.twitch.tv/Rubius\nMi Tienda: https://madkat.net\nDiscord: https://discord.gg/rubius",
+        "short_explanation": "Popular streamer Rubius Z plays Freddy's HappyLand pizzeria game, engaging Chilean gaming community."
+      },
+      {
+        "title": "House of the Dragon S3E8 Trailer Analysis: The Battle of the Ridge",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Jag Durán)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-08-04T17:04:21Z",
+        "source_url": "https://www.youtube.com/watch?v=0PZ3RN8r6lI",
+        "external_url": "https://www.youtube.com/watch?v=0PZ3RN8r6lI",
+        "context": "Jag Durán. En este video analizaremos las imágenes del avance del episodio 8 de la tercera temporada de House of the Dragon ¿Qué personajes morirán en la batalla de Ladera? ¿Rhaenyra se pasa al lado oscuro? ¿Dónde está Alicent? ¿Qué maldad le harán a Helaena? ¡Vamos allá!\n\nA Justified Doubt: https://youtu.be/YatAO7O0nko?si=277EUskUkTSXOnu4",
+        "short_explanation": "Chilean fans analyze House of the Dragon S3E8 trailer, debating character fates and plot twists."
+      },
+      {
+        "title": "Never Go to the Cursed Slide with Mandarina in Brookhaven Roblox",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Lyna)",
+        "score_label": "trending #6",
+        "rank_score": 950,
+        "published_at": "2026-08-03T19:06:27Z",
+        "source_url": "https://www.youtube.com/watch?v=ufHjJSJp15M",
+        "external_url": "https://www.youtube.com/watch?v=ufHjJSJp15M",
+        "context": "Lyna. 🩷Entradas BODA LYNIEL: https://linktr.ee/lynavallejos\nNUNCA VAYAS al TOBOGÁN MALDITO con Mandarina en Brookhaven Roblox!! Like y suscríbete a @Lyna y @YoSoyMandarina ✨\n\n○ Conviértete en Miembro del canal ahora mismo: https://www.youtube.com/channel/UC-cnbLlplnXA4oc7rR21qzg/join\n\n○ Únete a mi canal de Whatsapp: https://whatsapp.com/channel/0029VaDE0nN2P59fRkPhF30P\n\n○ Escucha mi música en Spot",
+        "short_explanation": "Chilean YouTubers warn about cursed slide in Brookhaven Roblox, popular among local gamers."
+      },
+      {
+        "title": "Los Prisioneros - El Baile De Los Que Sobran (Iconic Chilean Song Lyric Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (EstacionMusicalVEVO)",
+        "score_label": "trending #7",
+        "rank_score": 940,
+        "published_at": "2026-08-04T01:00:22Z",
+        "source_url": "https://www.youtube.com/watch?v=-3NrwAhUmlo",
+        "external_url": "https://www.youtube.com/watch?v=-3NrwAhUmlo",
+        "context": "EstacionMusicalVEVO. \"El baile de los que sobran\" es la canción más emblemática de la banda chilena Los Prisioneros, lanzada en 1986 en su segundo álbum, Pateando piedras.Escrita por Jorge González, la letra retrata de forma cruda la desigualdad social y la falta de oportunidades para los jóvenes de sectores vulnerables tras egresar de la enseñanza media (\"pateando piedras\" en lugar de un futuro a",
+        "short_explanation": "Iconic Chilean song by Los Prisioneros highlights youth inequality and social struggles since 1986."
+      },
+      {
+        "title": "Police Action Against Student March in Santiago Causes Damage",
+        "platform": "reddit",
+        "source_label": "r/chile",
+        "score_label": "r/chile hot #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T16:18:16+00:00",
+        "source_url": "https://www.reddit.com/r/chile/comments/1vfezfn/registro_de_actuar_de_carabineros/",
+        "external_url": "https://www.reddit.com/r/chile/comments/1vfezfn/registro_de_actuar_de_carabineros/",
+        "context": "Les cuento lo que acaba de pasar en calle curicó, santiago centro al mediodía. Estudiantes llegaron marchando calmadamente y los encerraron los pacos. Los cabros intentaron rodear y seguir hacia delante, pero los pacos empezaron a mojar todo y dejaron la cagá: la iglesia-internado (renovada este año), el colegio de básica, el edificio en construcción... ni la señalética se salvó. submitted by /u/A",
+        "short_explanation": "Police crackdown on student march in Santiago causes damage to local buildings and property."
+      },
+      {
+        "title": "High School Students Protest Against Government in Santiago",
+        "platform": "reddit",
+        "source_label": "r/chile",
+        "score_label": "r/chile hot #4",
+        "rank_score": 970,
+        "published_at": "2026-08-04T19:07:57+00:00",
+        "source_url": "https://www.reddit.com/r/chile/comments/1vfjspv/estudiantes_secundarios_se_manifiestan_en_la/",
+        "external_url": "https://www.reddit.com/r/chile/comments/1vfjspv/estudiantes_secundarios_se_manifiestan_en_la/",
+        "context": "submitted by /u/discometric [link] [comments]",
+        "short_explanation": "High school students protest government policies in Santiago, reflecting youth political activism in Chile."
+      },
+      {
+        "title": "Flooding Reported on Construction Site at Paicaví Wetland",
+        "platform": "reddit",
+        "source_label": "r/chile",
+        "score_label": "r/chile hot #3",
+        "rank_score": 980,
+        "published_at": "2026-08-04T19:35:54+00:00",
+        "source_url": "https://www.reddit.com/r/chile/comments/1vfkjzo/denuncian_que_terreno_donde_se_construirán/",
+        "external_url": "https://www.reddit.com/r/chile/comments/1vfkjzo/denuncian_que_terreno_donde_se_construirán/",
+        "context": "submitted by /u/No_Associate1021 [link] [comments]",
+        "short_explanation": "Flooding at Paicaví wetland construction site raises environmental concerns among Chilean locals."
+      }
+    ]
+  }
+}

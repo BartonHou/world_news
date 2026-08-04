@@ -1,0 +1,878 @@
+{
+  "iso2": "PT",
+  "iso3": "PRT",
+  "country_name": "Portugal",
+  "flag": "🇵🇹",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 39.3999,
+    "lon": -8.2245
+  },
+  "updated_at": "2026-08-04T20:53:52+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "healthcare",
+    "long-term care",
+    "policy debate"
+  ],
+  "top_news": {
+    "headline": "Ministra da Saúde admite aplicar taxa a quem recusar vaga nos cuidados continuados",
+    "summary": "Portugal considers charging patients who refuse long-term care placements amid healthcare system strain.",
+    "why_it_matters": "Highlights healthcare challenges and ethical debates on resource allocation in Portugal.",
+    "source_name": "Público",
+    "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2tCZ0VXMnY3aVoxelZRQ2U0NmxiQUYwNDd3eHlEMmJRRE5OUUFuMklQc0ljWDBuaVl1WVY0ek1TRDgzWEFiU2hieERzWXVKUzBUNXNJcGlabVpjZ0lGdjh1RUprZ2dqVC1RSTdiQ0E1UnlqNVB6ODcxN3BTaW81RjVRYVI5S3VtMGN2NnB5ZktZMTl5WlRxaTdCeGZDYjVVczFQdFhqMWE0eERlbjZZLTFRTTRtUlFoWG1jdk0xS04wZWwtMGFr?oc=5",
+    "published_at": "Tue, 04 Aug 2026 14:21:02 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "One in Three Portuguese Cannot Afford a Week's Vacation Outside Home",
+    "platform": "reddit",
+    "explanation": "A significant portion of Portuguese people struggle financially to afford even a short vacation away from home.",
+    "why_people_are_sharing_it": "Highlights economic hardship and sparks discussion on living costs in Portugal.",
+    "tone": "sad",
+    "local_context": "Reflects rising cost of living and economic challenges in Portugal.",
+    "source_url": "https://www.reddit.com/r/portugal/comments/1vffl08/um_em_cada_três_portugueses_não_consegue_pagar/",
+    "media_url": "https://www.reddit.com/r/portugal/comments/1vffl08/um_em_cada_três_portugueses_não_consegue_pagar/",
+    "confidence": 0.85
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=pt-PT&gl=PT&ceid=PT:pt-150",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Calor extremo fustiga três continentes e alimenta incêndios, secas e inflação - Público",
+          "score": 5,
+          "reasons": [
+            "boost_milestone_signal",
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Candidatos ao ensino superior ultrapassam 1ª fase do ano passado - RTP",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ministra da Saúde admite aplicar taxa a quem recusar vaga nos cuidados continuados - Público",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Volta a Portugal passa no coração do Gerês, mas parecer do ICNF não agrada a todos - Público",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Autocarro embate contra hospital em Tomar, uma pessoa morreu e três ficaram feridas - SIC Notícias",
+          "score": 0,
+          "reasons": [
+            "boost_milestone_signal",
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Águas de Portugal alvo de ciberataque de “elevada complexidade” - Pplware",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Empreiteiro no centro da polémica com Luís Neves recebeu quase €1 milhão do PRR para obras na PJ da Guarda - Expresso",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "UE abandona críticas a Espanha e quer \"reforçar fronteiras\" - Expresso",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Medida do Banco de Portugal tira acesso a bens de consumo a “bastantes famílias” - Público",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Depois do boom, turismo trava e perde peso na economia portuguesa - Expresso",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lisboa fecha no verde com BCP e Jerónimo Martins a impulsionar - Jornal de Negócios",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Óculos gratuitos para ver o eclipse solar de 12 de agosto já podem ser reservados - SIC Notícias",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Restos de foguetão da SpaceX colidem com a Lua e geram nova cratera - Forbes Portugal",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Montenegro critica Governo espanhol e diz-se contra \"falta de regulação do fluxo migratório\" - RTP",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "PJ faz buscas em porta-contentores arrestado ao largo de Sines - Jornal de Notícias",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "USF com gestão privada vão dar médico de família a 94 mil utentes - Correio da Manhã",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ana Moura, GNR, Fernando Daniel, Slow J e Anselmo Ralph na Noite Branca de Braga - O Minho",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Em Teerão e noutras capitais, deixou-se de perder o sono com as ameaças de Trump - Público",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"Não nos assustemos com os números da dívida\". Montenegro promete resultados que vão surpreender - Jornal de Negócios",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Já não há desaparecidos: 138 portugueses e lusodescendentes morreram na Venezuela - Jornal de Notícias",
+          "score": -6,
+          "reasons": [
+            "penalize_routine_politics",
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "portugal",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=PT",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/pt.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 999,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Ariana Grande - petal (Official Music Video)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A trending music video by a global pop star, clearly a native internet culture fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers: Doomsday | Official Trailer",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A major global pop culture event, a Marvel movie trailer trending worldwide."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Minecraft Dreamcore Mod: Exploring Liminal Spaces",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A niche but culturally relevant gaming trend about a popular Minecraft mod and dreamcore aesthetic."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:K-pop music video trending globally, a strong internet culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Namit Malhotra’s Ramayana - Hindi Trailer Featuring Ranbir Kapoor",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A major cultural and cinematic event from India, with global interest in epic storytelling."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Tekever Unicorn to Supply Drones to British Army for €467 Million",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Interesting tech and defense news involving a Portuguese company, somewhat niche but notable."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Cheap Car Repair #4 - I Fixed My Car (Parody Series)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular YouTube series with comedic appeal, a niche internet culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "MOTA JR – PASSA GERAL 3 (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Portuguese music video, part of a trilogy, relevant in local internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Marvel character reveal, relevant to global pop culture and gaming communities."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "One in Three Portuguese Cannot Afford a Week's Vacation Outside Home",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Socioeconomic statistic news, somewhat generic but relevant to Portuguese society."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Drug Trafficking Incidents in Portugal: Cocaine Seizures and Narcolancha Found",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News about drug trafficking in Portugal, interesting but more news than culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Aluno que recorreu à justiça ainda não tem exame completo. Ministro deu caso como resolvido",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Exploring My Abandoned Minecraft Server",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trânsito nos dois sentidos - Odivelas",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bárbara Bandeira - Manel",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ensaios de velocidade arrancam esta semana na LAV Évora – Caia – Portugal Ferroviário",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Just started painting these colorful little sardines...feels like Portugal! :)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Primeira unidade de Saúde Familiar com gestão privada abre em Torres Vedras",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sedes alerta para riscos estratégicos do acordo Galp-Moeve e defende intervenção do Estado",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mais uma investigação a Luís Neves. Procuradoria Europeia quer saber o que se passou com as obras na PJ",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Moscovo diz ter abatido \"raro drone\" de fabrico português",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Medicina, Engenharia Biomédica ou BCM",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"Witness to Disaster \"(National Geographic) - Incêndio de Pedrógão Grande",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Europe divided by how people answer - “How are you?”",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Xico-espertismo na direita também...",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Procuradoria Europeia investiga adjudicações de obras de Luís Neves",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Fábrica eseoese",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Solar foi a principal fonte de produção de eletricidade pela primeira vez em Portugal",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Portuguese Party Livre Opposes Hosting 2030 World Cup with Morocco",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This is a political news headline about Portugal's stance on co-hosting the 2030 World Cup with Morocco. It is somewhat opaque and not a native internet culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "DIGI Expands Further in Portugal",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic business expansion news, lacks cultural or internet trend significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lisbon Concerned Over Extinction of Paver Profession",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Local labor issue, somewhat generic and not a strong internet culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Local Governments Now Decide Public Utility Expropriations in Portugal",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political/legal news, generic and not a native internet culture fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Father Denies Minister's Claim: Son's Test Results Still Missing",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic news headline about a local dispute, lacks cultural signal or internet fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "CV Especialidade",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ceuta",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Assassinato de Marcos Matsunaga",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Pedido de Reembolso Zurich, devo pagar?",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_generic_tragedy"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wikipédia:Página principal",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "wiki.phtml",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Renan Santos",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bagre Fagundes",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Anthony Fauci",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "eclipse solar 2026",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "embarcação",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "santiago giménez",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "paços de ferreira",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "nakajima",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ciclismo",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "volta a portugal",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "vôlei",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "princesa eugenie",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "eugenia roccella",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Rafael Cardoso",
+          "score": -3,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_bio_context",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Calor extremo fustiga três continentes e alimenta incêndios, secas e inflação - Público",
+        "source_name": "Público",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZk1zLTZvYThkb1I0QWFodXFROWQ0dS1wYnhJcjJ0eXdaaUJMa19uVVRJMXFJMU1lSDlrMURpcXBXZ05UQ183empWbTM1QTBBWW1lLWFuMV9rdWZZTlc3bGdXNTJuR1N2WGVyN2hPTTJTcE10X0dtTmJXVk5vOGNRYkpESUY5bzkzcVVVTWtiMUxnWWduRjRfR0c0Y0Y4WTZPaUdNZUhCOGVhdkRTXzA0WEdPM19YbXpZdlBmUGJYSXkyT1ZnLWc?oc=5",
+        "published_at": "Tue, 04 Aug 2026 15:06:57 GMT",
+        "snippet": "Calor extremo fustiga três continentes e alimenta incêndios, secas e inflação Público Com incêndios, mortes e rios em níveis críticos, Europa enfrenta sua 4ª onda de calor desde maio; entenda as causas G1 Onda de calor bate recordes na Europa, nos EUA e na Ásia, provocando incêndios e mortes Brasil de Fato Incêndios e seca na Europa podem elevar preço global do azeite de oliva Terra Incêndio florestal e recorde de temperatura: calor extremo atinge 3 continentes; veja fotos Estadão",
+        "short_explanation": "Extreme heat causes fires, droughts, and inflation, impacting Portugal and Europe seriously."
+      },
+      {
+        "title": "Candidatos ao ensino superior ultrapassam 1ª fase do ano passado - RTP",
+        "source_name": "RTP",
+        "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUZNQ09sVktFdkVSSXV3U1JrdnEtdjMzOVBTY2ctMFBMVGNzT29GZWxIN3FkMUhDUzcydjBNb1ZiSmhXaDN5b21jOFFXTWl6eHV4UE5OZFVReVJBTHBUWmVYNlRtOW05dC1OYUdRbXUyaGlzQUN0NzVRRFZrZXNNNFlfeldnSWRmRlY5cnBSYVZZeFlWNnhnUk1sZk9GcjdrYTQ1RVFnUU5hQQ?oc=5",
+        "published_at": "Tue, 04 Aug 2026 16:44:49 GMT",
+        "snippet": "Candidatos ao ensino superior ultrapassam 1ª fase do ano passado RTP Candidaturas ao ensino superior aceleram e superam números de 2025 Diário de Notícias Candidatos ao Ensino Superior já ultrapassam os do mesmo período do ano passado Observador Conheça as datas a reter no processo de classificação de exames Jornal de Notícias Ministro garante que candidaturas ao ensino superior já superam 2025 ECO",
+        "short_explanation": "More students apply to Portuguese universities, showing rising demand for higher education."
+      },
+      {
+        "title": "Ministra da Saúde admite aplicar taxa a quem recusar vaga nos cuidados continuados - Público",
+        "source_name": "Público",
+        "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2tCZ0VXMnY3aVoxelZRQ2U0NmxiQUYwNDd3eHlEMmJRRE5OUUFuMklQc0ljWDBuaVl1WVY0ek1TRDgzWEFiU2hieERzWXVKUzBUNXNJcGlabVpjZ0lGdjh1RUprZ2dqVC1RSTdiQ0E1UnlqNVB6ODcxN3BTaW81RjVRYVI5S3VtMGN2NnB5ZktZMTl5WlRxaTdCeGZDYjVVczFQdFhqMWE0eERlbjZZLTFRTTRtUlFoWG1jdk0xS04wZWwtMGFr?oc=5",
+        "published_at": "Tue, 04 Aug 2026 14:21:02 GMT",
+        "snippet": "Ministra da Saúde admite aplicar taxa a quem recusar vaga nos cuidados continuados Público Conselho de Ética admite que hospitais possam cobrar taxa semanal a quem recuse vaga em cuidados continuados Público Quem recusar vaga em cuidados continuados pode ter de pagar taxa — mas há 3 mil à espera de vaga Observador ​Ministra da Saúde admite taxas para doentes que recusem deixar hospital depois de terem alta clínica Renascença Hoje nas notícias: cuidados continuados, cauções no arrendamento e renegociação de crédito ECO",
+        "short_explanation": "Health minister considers fees for patients refusing long-term care hospital beds."
+      },
+      {
+        "title": "Volta a Portugal passa no coração do Gerês, mas parecer do ICNF não agrada a todos - Público",
+        "source_name": "Público",
+        "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM2N2Zms4eGtlUE10azVfNHJyVm1LOEVjTVg1YUtiRHR5a0Z0UGVvaWw5cFVsTlFTdXNzbjctUk9KQ21DbVhxYkpaSElGamluY010RlY4Wmxoa0VqM2RDVnBWRjhiTHRrWldEbmhsVVNiNXg3NmN2eUpXSkEtLUZ0WWxzbnFvcklpSzFSWDliV1NVOG1maUZwWFZhUTJFVVJQd1p0QkhEQzhFYmgzTFBKX1RyTQ?oc=5",
+        "published_at": "Tue, 04 Aug 2026 15:38:32 GMT",
+        "snippet": "Volta a Portugal passa no coração do Gerês, mas parecer do ICNF não agrada a todos Público Instituto da Conservação da Natureza e Florestas permite passagem da Volta a Portugal pelo coração do Gerês Diário de Notícias Zero aprova condicionantes do ICNF para a Volta a Portugal no Parque Nacional da Peneda-Gerês Observador Volta a Portugal em Bicicleta - ZERO satisfeita com fortes condicionantes impostas a passagem no Gerês ZERO - Associação Sistema Terrestre Sustentável Volta a Portugal vai passar na Mata da Albergaria mas não terá público, diz ICNF O Amarense – Jornal",
+        "short_explanation": "Volta a Portugal bike race passes Gerês park, sparking environmental concerns locally."
+      },
+      {
+        "title": "Autocarro embate contra hospital em Tomar, uma pessoa morreu e três ficaram feridas - SIC Notícias",
+        "source_name": "SIC Notícias",
+        "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSHJLMG9ZUzJCRzEtbTJJVkhnNFRRNVQwWkJEX0U3bzRlZlVWTlNVTENwRk9kbmJrNzhENUE5Wi1tQ3E4aVR4WDV6Z1dPUWdIQkpfZE12MDh2Z2x3SmFhNnI5ZWd1bU1Da1BCT1lxdHBvWFduQXhwZEp4WndiM1VyT0RXSWM5X05GYTd4WlBjOUI3b2JxMi1wd0dkT1lXSVFEUHN4Q2xDNlF4TEdPTnhoWDBiTEpWeHZOVlFJQkM5S0Fvckk0a2xrYU1aSU1FdnFqTVE?oc=5",
+        "published_at": "Tue, 04 Aug 2026 15:25:35 GMT",
+        "snippet": "Autocarro embate contra hospital em Tomar, uma pessoa morreu e três ficaram feridas SIC Notícias Autocarro embate no hospital de Tomar e provoca uma vítima mortal e três feridos Público Já é conhecida a identidade da vítima mortal do acidente com o autocarro em Tomar otemplario.pt Quatro feridos em acidente junto ao Hospital de Tomar Mais Ribatejo Autocarro desgovernado embate contra hospital de Tomar e faz quatro feridos Record",
+        "short_explanation": "Bus crash at Tomar hospital kills one and injures three, shocking local community."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Ariana Grande - petal (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (ArianaGrandeVevo)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-31T15:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=afSgBNwmZrQ",
+        "external_url": "https://www.youtube.com/watch?v=afSgBNwmZrQ",
+        "context": "ArianaGrandeVevo. The official music video for Ariana Grande’s “petal” out july 31 at 11am et. \n\n'petal’: https://arianagrande.lnk.to/petal\n\nShop the ‘petal’ collection: https://arianagrande.lnk.to/shop\n\n► Follow Ariana Grande:\nhttps://www.arianagrande.com\nhttps://instagram.com/arianagrande\nhttps://tiktok.com/@arianagrande \nhttps://facebook.com/arianagrande\n\n► Subscribe to Ariana Grande: https://a",
+        "short_explanation": "Ariana Grande's new music video 'petal' excites Portuguese pop music fans."
+      },
+      {
+        "title": "Avengers: Doomsday | Official Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Entertainment)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-20T13:00:20Z",
+        "source_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "external_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "context": "Marvel Entertainment. Doomsday arrives December 18th.\n \nExperience Avengers: Doomsday on bigger, brighter, & more immersive screens. Tickets are now on sale exclusively for Infinity Vision certified theaters: fandango.com/avengersdoomsday \n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stre",
+        "short_explanation": "Marvel's Avengers: Doomsday trailer sparks excitement among Portuguese superhero moviegoers."
+      },
+      {
+        "title": "Minecraft Dreamcore Mod: Exploring Liminal Spaces",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Jazzghost)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-08-03T15:00:08Z",
+        "source_url": "https://www.youtube.com/watch?v=Z172W8it9nU",
+        "external_url": "https://www.youtube.com/watch?v=Z172W8it9nU",
+        "context": "Jazzghost. E se você estivesse jogando seu Minecraft normalmente, e quando de repente o bloco que você pisa não tem colisão e você acaba atravessando ele e indo parar num mundo dos sonhos Um mundo que parece fazer sentido ao mesmo tempo que não faz? Esse é o Dreamcore. CONFIRA E SARAIVA O LIKE!\n●Nome do Jogo: Minecraft (MOD Dreamshift)\n======================\n●Instagram: julianoab\n●Email de contato",
+        "short_explanation": "Minecraft Dreamcore mod offers Portuguese gamers surreal, dreamlike gameplay experiences."
+      },
+      {
+        "title": "KATSEYE (캣츠아이) \"Animal\" Official MV",
+        "platform": "youtube",
+        "source_label": "YouTube trending (HYBE LABELS)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-24T03:59:06Z",
+        "source_url": "https://www.youtube.com/watch?v=m7k9UMcHbr0",
+        "external_url": "https://www.youtube.com/watch?v=m7k9UMcHbr0",
+        "context": "HYBE LABELS. KATSEYE (캣츠아이) \"Animal\" Official MV\n\nListen to KATSEYE’s new single Animal now: https://KATSEYE.lnk.to/Animal \nPre-order KATSEYE's Third EP ‘WILD’: https://KATSEYE.lnk.to/WILD  \n\nShop KATSEYE: https://KATSEYE.lnk.to/Shop\n\nFollow KATSEYE\n\nInstagram: https://www.instagram.com/katseyeworld/    \nTikTok: https://www.tiktok.com/@katseyeworld   \nTwitter: https://twitter.com/katseyeworld   \nY",
+        "short_explanation": "KATSEYE's new K-pop single 'Animal' gains attention among Portuguese youth fans."
+      },
+      {
+        "title": "Namit Malhotra’s Ramayana - Hindi Trailer Featuring Ranbir Kapoor",
+        "platform": "youtube",
+        "source_label": "YouTube trending (World Of Ramayana)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-29T22:45:03Z",
+        "source_url": "https://www.youtube.com/watch?v=lNaSdnz2I8g",
+        "external_url": "https://www.youtube.com/watch?v=lNaSdnz2I8g",
+        "context": "World Of Ramayana. The Ramayana Trailer.\nThis is where the EPIC BEGINS. 🏹 \n\nNamit Malhotra's Ramayana\nDirected by Nitesh Tiwari\n\nIn Cinemas Worldwide, Diwali 2026.\n\n---------------------------------------------------\n\nNamit Malhotra’s Ramayana\nOur Truth. Our History.\n\nDirected by Nitesh Tiwari\n\nStarring: \nRanbir Kapoor as Rama \nYash as Ravana \nSai Pallavi as Sita \nRavie Dubey as Lakshman \nSunny De",
+        "short_explanation": "Upcoming Hindi film Ramayana trailer features Ranbir Kapoor, intriguing Portuguese cinema fans."
+      },
+      {
+        "title": "Tekever Unicorn to Supply Drones to British Army for €467 Million",
+        "platform": "reddit",
+        "source_label": "r/portugal",
+        "score_label": "r/portugal hot #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T18:46:47+00:00",
+        "source_url": "https://www.reddit.com/r/portugal/comments/1vfj7us/unicórnio_tekever_vai_fornecer_drones_ao_exército/",
+        "external_url": "https://www.reddit.com/r/portugal/comments/1vfj7us/unicórnio_tekever_vai_fornecer_drones_ao_exército/",
+        "context": "submitted by /u/PikachuTuga [link] [comments]",
+        "short_explanation": "Portuguese company Tekever wins €467M British Army drone supply contract."
+      },
+      {
+        "title": "One in Three Portuguese Cannot Afford a Week's Vacation Outside Home",
+        "platform": "reddit",
+        "source_label": "r/portugal",
+        "score_label": "r/portugal hot #4",
+        "rank_score": 970,
+        "published_at": "2026-08-04T16:39:16+00:00",
+        "source_url": "https://www.reddit.com/r/portugal/comments/1vffl08/um_em_cada_três_portugueses_não_consegue_pagar/",
+        "external_url": "https://www.reddit.com/r/portugal/comments/1vffl08/um_em_cada_três_portugueses_não_consegue_pagar/",
+        "context": "Um em cada três portugueses não consegue pagar uma semana de férias fora de casa? Verdadeiro Informação do Eurostat referente a 2025 corrobora a afirmação dita nesta segunda-feira, na Assembleia da República, por Angélique Da Teresa, deputada da Iniciativa Liberal. https://www.publico.pt/2026/08/04/politica/noticia/tres-portugueses-nao-consegue-pagar-semana-ferias-casa-verdadeiro-2183966 submitted",
+        "short_explanation": "One in three Portuguese cannot afford a week-long vacation away from home."
+      },
+      {
+        "title": "Drug Trafficking Incidents in Portugal: Cocaine Seizures and Narcolancha Found",
+        "platform": "reddit",
+        "source_label": "r/portugal",
+        "score_label": "r/portugal hot #8",
+        "rank_score": 930,
+        "published_at": "2026-08-04T16:39:06+00:00",
+        "source_url": "https://www.reddit.com/r/portugal/comments/1vffkus/só_notícias_de_hoje_pj_faz_buscas_em/",
+        "external_url": "https://www.reddit.com/r/portugal/comments/1vffkus/só_notícias_de_hoje_pj_faz_buscas_em/",
+        "context": "A indústria de Portugal é turismo e tráfico de droga (e lavagem de dinheiro). Basicamente, somos um mapa de GTA. Narcolancha encontrada dentro de camião abandonado em Caminha https://sicnoticias.pt/pais/2026-08-04-video-narcolancha-encontrada-dentro-de-camiao-abandonado-em-caminha-cb229e88#Echobox=1785860735 PJ faz buscas em porta-contentores carregado com cocaína no porto de Sines https://sicnoti",
+        "short_explanation": "Portugal faces drug trafficking issues with cocaine seizures and narcolancha discoveries."
+      }
+    ]
+  }
+}

@@ -135,6 +135,22 @@ COUNTRIES: dict[str, CountryConfig] = {
     "PH": CountryConfig("PH", "Philippines", "en-PH", "PH", "PH:en", "en.wikipedia", False, ("Philippines",)),
     "ZA": CountryConfig("ZA", "South Africa", "en-ZA", "ZA", "ZA:en", "en.wikipedia", False, ("southafrica",)),
     "NG": CountryConfig("NG", "Nigeria", "en-NG", "NG", "NG:en", "en.wikipedia", False, ("Nigeria",)),
+    "IT": CountryConfig("IT", "Italy", "it", "IT", "IT:it", "it.wikipedia", True, ("italy",)),
+    "ES": CountryConfig("ES", "Spain", "es", "ES", "ES:es", "es.wikipedia", True, ("es", "spain")),
+    "NL": CountryConfig("NL", "Netherlands", "nl", "NL", "NL:nl", "nl.wikipedia", True, ("thenetherlands",)),
+    "PL": CountryConfig("PL", "Poland", "pl", "PL", "PL:pl", "pl.wikipedia", True, ("Polska",)),
+    "SE": CountryConfig("SE", "Sweden", "sv", "SE", "SE:sv", "sv.wikipedia", True, ("sweden",)),
+    "PT": CountryConfig("PT", "Portugal", "pt-PT", "PT", "PT:pt-150", "pt.wikipedia", True, ("portugal",)),
+    "TH": CountryConfig("TH", "Thailand", "th", "TH", "TH:th", "th.wikipedia", True, ("Thailand",)),
+    "VN": CountryConfig("VN", "Vietnam", "vi", "VN", "VN:vi", "vi.wikipedia", True, ("VietNam",)),
+    "MY": CountryConfig("MY", "Malaysia", "en-MY", "MY", "MY:en", "en.wikipedia", False, ("malaysia",)),
+    "PK": CountryConfig("PK", "Pakistan", "en-PK", "PK", "PK:en", "en.wikipedia", False, ("pakistan",)),
+    "EG": CountryConfig("EG", "Egypt", "ar", "EG", "EG:ar", "ar.wikipedia", True, ("Egypt",)),
+    "IL": CountryConfig("IL", "Israel", "he", "IL", "IL:he", "he.wikipedia", True, ("Israel",)),
+    "SA": CountryConfig("SA", "Saudi Arabia", "ar", "SA", "SA:ar", "ar.wikipedia", True, ("saudiarabia",)),
+    "KE": CountryConfig("KE", "Kenya", "en-KE", "KE", "KE:en", "en.wikipedia", False, ("Kenya",)),
+    "CO": CountryConfig("CO", "Colombia", "es-419", "CO", "CO:es-419", "es.wikipedia", True, ("Colombia",)),
+    "CL": CountryConfig("CL", "Chile", "es-419", "CL", "CL:es-419", "es.wikipedia", True, ("chile",)),
 }
 
 

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T22:21:56+00:00",
+  "updated_at": "2026-08-04T21:03:56+00:00",
   "countries": [
     {
       "iso2": "US",
@@ -200,6 +200,166 @@
       "confidence": 0.85,
       "source_url": "https://www.reddit.com/r/Nigeria/comments/1v5bhuy/why_does_the_north_have_such_a_minimal_presence/",
       "media_url": "https://www.reddit.com/r/Nigeria/comments/1v5bhuy/why_does_the_north_have_such_a_minimal_presence/"
+    },
+    {
+      "iso2": "IT",
+      "country_name": "Italy",
+      "title": "Neo-Nazi Attack on Hotel Hosting Jewish and Italian Teens in Bulgaria",
+      "tone": "angry",
+      "explanation": "Neo-Nazis attacked a hotel with Jewish and Italian teens, shocking for its blatant hate and youth targeting.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/italy/comments/1vfia9b/bulgaria_naziskin_assaltano_hotel_con_adolescenti/",
+      "media_url": "https://www.reddit.com/r/italy/comments/1vfia9b/bulgaria_naziskin_assaltano_hotel_con_adolescenti/"
+    },
+    {
+      "iso2": "ES",
+      "country_name": "Spain",
+      "title": "Grupo Bimbo Censors Labor Rights Video",
+      "tone": "political",
+      "explanation": "A major bakery company censored a video about workers' rights, sparking debate on corporate control and labor issues in Spain.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/es/comments/1vffjls/grupo_bimbo_censura_video_derechos_laborales/",
+      "media_url": "https://www.reddit.com/r/es/comments/1vffjls/grupo_bimbo_censura_video_derechos_laborales/"
+    },
+    {
+      "iso2": "NL",
+      "country_name": "Netherlands",
+      "title": "American Driver with 20 Years Experience Keeps Failing Dutch Driving Test",
+      "tone": "ironic",
+      "explanation": "An experienced American driver repeatedly fails Dutch driving tests due to stricter local observation rules, highlighting cultural differences in driving norms.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/thenetherlands/comments/1veb20a/american_driver_with_20_years_of_experience_keeps/",
+      "media_url": "https://www.reddit.com/r/thenetherlands/comments/1veb20a/american_driver_with_20_years_of_experience_keeps/"
+    },
+    {
+      "iso2": "PL",
+      "country_name": "Poland",
+      "title": "SKOLIM & Zenek Martyniuk & RAIDER - Love (Official Video)",
+      "tone": "funny",
+      "explanation": "A surprising collaboration mixing disco polo legend Zenek Martyniuk with modern artists, blending nostalgic and contemporary Polish pop culture.",
+      "confidence": 0.8,
+      "source_url": "https://www.youtube.com/watch?v=0UBIiNIZlDg",
+      "media_url": "https://www.youtube.com/watch?v=0UBIiNIZlDg"
+    },
+    {
+      "iso2": "SE",
+      "country_name": "Sweden",
+      "title": "r/ostbiff is Like Fifth Wave Feminism",
+      "tone": "ironic",
+      "explanation": "A new subreddit r/ostbiff humorously claims to be 'fifth wave feminism,' mocking intense online feminist debates with absurdity and playful chaos.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/sweden/comments/1vfejnv/rostbiff_är_fan_femtevågsfeminismen/",
+      "media_url": "https://www.reddit.com/r/sweden/comments/1vfejnv/rostbiff_är_fan_femtevågsfeminismen/"
+    },
+    {
+      "iso2": "PT",
+      "country_name": "Portugal",
+      "title": "One in Three Portuguese Cannot Afford a Week's Vacation Outside Home",
+      "tone": "sad",
+      "explanation": "A significant portion of Portuguese people struggle financially to afford even a short vacation away from home.",
+      "confidence": 0.85,
+      "source_url": "https://www.reddit.com/r/portugal/comments/1vffl08/um_em_cada_três_portugueses_não_consegue_pagar/",
+      "media_url": "https://www.reddit.com/r/portugal/comments/1vffl08/um_em_cada_três_portugueses_não_consegue_pagar/"
+    },
+    {
+      "iso2": "TH",
+      "country_name": "Thailand",
+      "title": "Doraemon replaces real cat in Thai rain ritual",
+      "tone": "funny",
+      "explanation": "A traditional rain ritual using a live cat is humorously replaced by a Doraemon toy, blending superstition with pop culture.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/Thailand/comments/1vezgf1/doraemon_replaces_real_cat_in_thai_rain_ritual/",
+      "media_url": "https://www.reddit.com/r/Thailand/comments/1vezgf1/doraemon_replaces_real_cat_in_thai_rain_ritual/"
+    },
+    {
+      "iso2": "VN",
+      "country_name": "Vietnam",
+      "title": "4-Year-Old's Arm Reattached After Motorcycle Accident in Vietnam",
+      "tone": "sad",
+      "explanation": "A child's arm was severed by a sun-protective jacket caught in a motorcycle wheel, highlighting local traffic safety risks.",
+      "confidence": 0.7,
+      "source_url": "https://www.reddit.com/r/VietNam/comments/1vf3t2y/4_year_olds_arm_torn_off_after_sunprotective/",
+      "media_url": "https://www.reddit.com/r/VietNam/comments/1vf3t2y/4_year_olds_arm_torn_off_after_sunprotective/"
+    },
+    {
+      "iso2": "MY",
+      "country_name": "Malaysia",
+      "title": "Malaysian Muslim's Same-Sex Engagement Sparks Asylum Debate",
+      "tone": "political",
+      "explanation": "A Malaysian Muslim publicly announces a same-sex engagement, challenging strict local laws and sparking debate on LGBTQ+ rights and asylum.",
+      "confidence": 0.85,
+      "source_url": "https://www.reddit.com/r/malaysia/comments/1vf1oxz/msian_muslim_unveils_same_sx_engagement_on_social/",
+      "media_url": "https://www.reddit.com/r/malaysia/comments/1vf1oxz/msian_muslim_unveils_same_sx_engagement_on_social/"
+    },
+    {
+      "iso2": "PK",
+      "country_name": "Pakistan",
+      "title": "Let's Read Books Together - Online Pakistani Book Club",
+      "tone": "wholesome",
+      "explanation": "A young Pakistani Redditor starts an online book club to connect over reading and art, highlighting a niche but growing literary community.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/pakistan/comments/1vfgvt7/lets_read_books_together/",
+      "media_url": "https://www.reddit.com/r/pakistan/comments/1vfgvt7/lets_read_books_together/"
+    },
+    {
+      "iso2": "EG",
+      "country_name": "Egypt",
+      "title": "Controversy Over Quran Teacher Abusing Child Sparks Facebook Debate in Egypt",
+      "tone": "angry",
+      "explanation": "A Quran teacher physically abused a child, sparking heated online debate about discipline and abuse in religious education.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/Egypt/comments/1vfhdoh/محفظ_قرآن_إعتدي_علي_طفل_9_سنين_شوه_جسمه_و_بتوع/",
+      "media_url": "https://www.reddit.com/r/Egypt/comments/1vfhdoh/محفظ_قرآن_إعتدي_علي_طفل_9_سنين_شوه_جسمه_و_بتوع/"
+    },
+    {
+      "iso2": "IL",
+      "country_name": "Israel",
+      "title": "Record Israeli Emigration Continues in 2025",
+      "tone": "political",
+      "explanation": "Many Israelis are leaving the country due to ongoing conflict and political tensions, sparking debate about national stability.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/Israel/comments/1veexwq/record_israeli_emigration_continued_for_third/",
+      "media_url": "https://www.reddit.com/r/Israel/comments/1veexwq/record_israeli_emigration_continued_for_third/"
+    },
+    {
+      "iso2": "SA",
+      "country_name": "Saudi Arabia",
+      "title": "Guide to Saudi Arabian Reddit Communities",
+      "tone": "wholesome",
+      "explanation": "A Reddit post mapping Saudi Arabia's local subreddits reveals how Saudis use Reddit to connect regionally and share local culture online.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/saudiarabia/comments/1mmhjnl/دليل_المجتمعات_السعودية/",
+      "media_url": "https://www.reddit.com/r/saudiarabia/comments/1mmhjnl/دليل_المجتمعات_السعودية/"
+    },
+    {
+      "iso2": "KE",
+      "country_name": "Kenya",
+      "title": "Older Millennials' Mindset on Motherhood in Kenya",
+      "tone": "funny",
+      "explanation": "A Reddit post humorously critiques older Kenyan women's traditional views on motherhood, highlighting generational clashes over family and social expectations.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/Kenya/comments/1vfk7nd/older_millenials_is_this_the_way_most_of_you_think/",
+      "media_url": "https://www.reddit.com/r/Kenya/comments/1vfk7nd/older_millenials_is_this_the_way_most_of_you_think/"
+    },
+    {
+      "iso2": "CO",
+      "country_name": "Colombia",
+      "title": "Collective Boycott of Banco de Bogotá",
+      "tone": "angry",
+      "explanation": "Many customers are upset after Itaú merged with Banco de Bogotá, fearing worse service and sharing their frustrations online.",
+      "confidence": 0.8,
+      "source_url": "https://www.reddit.com/r/Colombia/comments/1vfeff6/boicot_colectivo_banco_de_bogotá/",
+      "media_url": "https://www.reddit.com/r/Colombia/comments/1vfeff6/boicot_colectivo_banco_de_bogotá/"
+    },
+    {
+      "iso2": "CL",
+      "country_name": "Chile",
+      "title": "Los Prisioneros - El Baile De Los Que Sobran (Iconic Chilean Song Lyric Video)",
+      "tone": "political",
+      "explanation": "This song critiques social inequality and youth unemployment in Chile, resonating deeply as a symbol of frustration and hope.",
+      "confidence": 0.9,
+      "source_url": "https://www.youtube.com/watch?v=-3NrwAhUmlo",
+      "media_url": "https://www.youtube.com/watch?v=-3NrwAhUmlo"
     }
   ]
 }

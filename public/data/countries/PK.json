@@ -1,0 +1,799 @@
+{
+  "iso2": "PK",
+  "iso3": "PAK",
+  "country_name": "Pakistan",
+  "flag": "🇵🇰",
+  "region": "South Asia",
+  "coordinates": {
+    "lat": 30.3753,
+    "lon": 69.3451
+  },
+  "updated_at": "2026-08-04T20:57:37+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "India-Pakistan relations",
+    "hybrid warfare",
+    "national security"
+  ],
+  "top_news": {
+    "headline": "ACDC-ISSI launches new book on India’s Hybrid Warfare and implications for Pakistan’s national security",
+    "summary": "New book explores India’s hybrid warfare tactics and their impact on Pakistan’s security concerns.",
+    "why_it_matters": "Reveals ongoing security anxieties shaping Pakistani public and strategic debates.",
+    "source_name": "| Associated Press Of Pakistan",
+    "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb281V05meWFJM3NwaXdmaVh5VU1JUWRrODkxb0hoTUEyQnRLcmdvdHBTa0tEODJSemF5ckNfQzl4Y00tbWt2eFNrcXRBRVo1MFZWbXdFdlRCU19uWGNCM3k0MExObkpOR0tFV1prSUREc2dja2prUDlwQ29FblNKLTEydnlTMnhISnZoR3IwZ29KVFRYQkpYQmQtb0JIb0gxLVFIM21ibzRoLVZKdTdCZFJqV0pqUVJfZU1WUUxHQk9mSFFwSjgwdQ?oc=5",
+    "published_at": "Tue, 04 Aug 2026 12:25:48 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Let's Read Books Together - Online Pakistani Book Club",
+    "platform": "reddit",
+    "explanation": "A young Pakistani Redditor starts an online book club to connect over reading and art, highlighting a niche but growing literary community.",
+    "why_people_are_sharing_it": "It shows a wholesome, creative way to bond beyond typical social media trends.",
+    "tone": "wholesome",
+    "local_context": "Reflects rising youth interest in literature and community-building online in Pakistan.",
+    "source_url": "https://www.reddit.com/r/pakistan/comments/1vfgvt7/lets_read_books_together/",
+    "media_url": "https://www.reddit.com/r/pakistan/comments/1vfgvt7/lets_read_books_together/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=en-PK&gl=PK&ceid=PK:en",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "ACDC-ISSI launches new book on “India’s Hybrid Warfare: implications for Pakistan national security” - | Associated Press Of Pakistan",
+          "score": 3,
+          "reasons": [
+            "boost_culture_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Stocks Rally, Oil Drops after Bessent Signals Iran Deal on Hormuz - WSJ",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Govt reduces petrol price by Rs3.39, high-speed diesel by Rs4.07 - Dawn",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Wall Street gains, oil prices tumble after Trump says he'll order forces to ease up on Iran attacks - ABC News - Breaking News, Latest News and Videos",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "US and Qatar report progress on Iran ceasefire and reopening Hormuz strait - The Guardian",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Armed Forces ready to assist NDMA in relief operations: Field Marshal - RADIO PAKISTAN",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "River flows expected to rise across Pakistan in next 24 hours: NEOC - RADIO PAKISTAN",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Afghan child malnutrition surges as aid cuts force clinics to turn families away, WFP says - Reuters",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump Tells Iran He Wants Deal on Hormuz Agreed to Immediately - Bloomberg.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Seventh round of Israel-Lebanon talks begins – what’s on the agenda? - Al Jazeera",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "EU chief criticises Spain’s migrant plan after Ceuta crisis meeting - The Guardian",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Morning Report - Westpac IQ",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Breakingviews - Aramco’s profit boom rests on fragile status quo - Reuters",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "US manufacturing activity jumps to more than four-year high in July - hr.economictimes.indiatimes.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Oppo A7 Pro Max goes official with a 10,000mAh battery, starting at $325 - Notebookcheck",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "New Drone Can ‘Disappear’ Via Motion Blur - Tech Briefs",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Pakistan-administered Kashmir elections and protests – all you need to know - Al Jazeera",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jerusalem’s most important Muslim religious site facing ‘imminent’ threat of Israeli takeover, says Jordan - The Guardian",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cop allegedly rapes woman inside Lahore police station; entire staff suspended - Dawn",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Iran eyes Pakistani ports as route around US blockade - Iran International",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "pakistan",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=PK",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "status": "disabled",
+        "message": "disabled for countries where language wiki is too global"
+      },
+      "filters": [
+        {
+          "title": "Let's Read Books Together - Online Pakistani Book Club",
+          "score": 10,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:A genuine community-driven initiative to form an online book club for Pakistani readers, reflecting a cultural trend of shared literary engagement."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "MY FIRST DAY OF AGENT TRAINING | 007 FIRST LIGHT #2",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "ai:A typical gaming video title, popular on YouTube but not a distinct cultural signal beyond gaming content."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Al Jazeera Report on AJK Elections Leading to Ban in Pakistan",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A significant political news story with cultural and media freedom implications in Pakistan."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ramayana - Official Trailer for Epic Indian Film",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A major film release based on a culturally significant epic, relevant to South Asian audiences including Pakistan."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Lahore Police Station Staff Suspended After Alleged Rape Incident",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A serious and impactful social issue trending in Pakistan, reflecting public concern over police misconduct."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Cambridge A-Level Exam Leak Scandal Affecting Thousands of Pakistani Students",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A major education scandal affecting Pakistani students, widely discussed and culturally relevant."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Rana Ji 2.0 - New Music Video Featuring Mahira Sharma",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A trending music video remix featuring well-known artists, representing a cultural entertainment signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Raatan Kaaliyan - New Punjabi Song by Gippy Grewal & Sargun Mehta",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Punjabi music release, culturally significant in the region."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers: Doomsday - Official Trailer for December Release",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A major global entertainment franchise release, relevant to global pop culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Interview with Nawab Zulfikar Magsi on Pakistani Politics",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A candid political interview with a notable figure, culturally significant in Pakistan."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "New NOC Requirement for Foreign Media Coverage Outside Major Pakistani Cities",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A policy change with implications for media freedom and state control, culturally relevant."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Muhafiz Full OST by Sahir Ali Bagga",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular soundtrack release, culturally relevant in Pakistani entertainment."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Big Curriculum Update",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "penalize_bare_person_name_title",
+            "ai:Too generic and opaque without further context; the title alone does not convey a clear cultural or trending topic."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "My Cousin Wants Revenge After University Ragging Incident",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A personal story shared on Reddit, somewhat generic and not a broad cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Surviving SUPERHERO ONE BLOCK Minecraft Battle",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Typical gaming content, not a distinct cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Free Fire: Daybreak | Official Anime Trailer 1 | Spring 2027 ON AIR",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Meeting My Teenage Ex Almost a Decade Later.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Franklin Opened a New Lamborghini Showroom in GTA 5 | SHINCHAN and CHOP",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sickening to see, but its true",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Awarapan x Saiyaara - Mashup | Toh Phir Aao | Barbaad | Mustafa Zahid | Latest 4K Songs",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Thoughts on this clip of Waseem Badami asking \"Who killed Bhutto?\"",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Fellas our fielding is set 🤩",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "“Every division in Pakistan should become a province so people can be served better.” Imran Khan was years ahead.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Childhood obesity is neglect.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dyna Needs Your Help: Pakistani-Filipina Toddler Abandoned in UAE",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Why is everyone faking it?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Pakistan’s Kashmir Problem",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The Dark Reality of AJK’s 12 Refugee Seats, And Why Kashmiris Are Completely Right to Protest. Let me understand you this reality...",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Prayer leader accused of raping minor girl in Chakwal injured, arrested after 'pistol goes off in trousers': police",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "What is there to celebrate on August 14th?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "revolution our homes needed",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Did The Premature Death of Pakistan's Early Founding Leaders Have a Long Lasting Impact on the Modern Pakistani State?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Need to send GoPro to US",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The Irony of Sending This Message",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too vague and opaque without additional context, not clearly a cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "bank",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "genetics",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "sports",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "jomel warrican",
+          "score": -1,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "pradeep rawat",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "faysal quraishi",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "missile",
+          "score": -2,
+          "reasons": [
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "live match",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "pak bs wi",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Daily Discussion Thread (August 05, 2026)",
+          "score": -1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "drop_reddit_boilerplate"
+          ],
+          "passed": false,
+          "kept": false
+        },
+        {
+          "title": "pak vs wi live score",
+          "score": -4,
+          "reasons": [
+            "drop_generic_query",
+            "boost_strong_traffic"
+          ],
+          "passed": false,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "ACDC-ISSI launches new book on “India’s Hybrid Warfare: implications for Pakistan national security” - | Associated Press Of Pakistan",
+        "source_name": "| Associated Press Of Pakistan",
+        "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb281V05meWFJM3NwaXdmaVh5VU1JUWRrODkxb0hoTUEyQnRLcmdvdHBTa0tEODJSemF5ckNfQzl4Y00tbWt2eFNrcXRBRVo1MFZWbXdFdlRCU19uWGNCM3k0MExObkpOR0tFV1prSUREc2dja2prUDlwQ29FblNKLTEydnlTMnhISnZoR3IwZ29KVFRYQkpYQmQtb0JIb0gxLVFIM21ibzRoLVZKdTdCZFJqV0pqUVJfZU1WUUxHQk9mSFFwSjgwdQ?oc=5",
+        "published_at": "Tue, 04 Aug 2026 12:25:48 GMT",
+        "snippet": "ACDC-ISSI launches new book on “India’s Hybrid Warfare: implications for Pakistan national security” | Associated Press Of Pakistan The next war will not begin at the border India must prepare for a China–Pakistan hybrid threat The Times of India Book Launch titled: “India’s Hybrid Warfare Implications for Pakistan’s National Security” Institute of Strategic Studies Islamabad (ISSI) ISSI Launches Book on India’s Hybrid Warfare and Its Implications for Pakistan’s National Security dailyindependent.com.pk",
+        "short_explanation": "New book warns Pakistan about India's hybrid warfare threats affecting national security."
+      },
+      {
+        "title": "Stocks Rally, Oil Drops after Bessent Signals Iran Deal on Hormuz - WSJ",
+        "source_name": "WSJ",
+        "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNFRaRmJ2MlFSZUxaQlhBTGotOGZfMTZfMWtyT0ctU2QtRjdzZU9uZHhua3h5UHNaOC1Wa2NLQUZIRnIxZERNY0NKdEtFQXpfbnVnZzk4d0JiZFp6d3hQemFSS2h0Wkl3YkdNME1UOE5oMk9rUWlDZmlRQmRjYkYxbG4tWnNmT2dSZjVMZlZvV2tfTjFpSjYtejM4WkJYUG1KMlBMaTA3MDdEa1N0?oc=5",
+        "published_at": "Tue, 04 Aug 2026 20:18:00 GMT",
+        "snippet": "Stocks Rally, Oil Drops after Bessent Signals Iran Deal on Hormuz WSJ Oil prices fall on hopes Strait of Hormuz could reopen BBC Bessent says there may be deal Tuesday or Wednesday to open Strait of Hormuz with 'freedom of movement' CNBC Middle East crisis live: Rubio hopes US can reach Hormuz deal with Iran ‘very shortly’ as officials say progress has been made The Guardian Qatar Signals Progress Toward Short-Term Deal Between US, Iran Bloomberg.com",
+        "short_explanation": "Oil prices drop as talks hint at reopening Strait of Hormuz, easing regional tensions."
+      },
+      {
+        "title": "Govt reduces petrol price by Rs3.39, high-speed diesel by Rs4.07 - Dawn",
+        "source_name": "Dawn",
+        "source_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1lOEpqNWZid2tTdUItNmRWR3l3MlhpMGVmQ2xDakdNR0w4RV9UWjBQWmNQZU1ibG8xVWt0QWZVMC1oWE13UHBNQdIBTkFVX3lxTE9ZRG85YlVyemphSVN3blBhSVNDVGd6NmpteGpuT3pZZVR1QnF4RTVuanEycXYtbGZORUpvYUpPQzVJVEVqMkhtb1JNVExvZw?oc=5",
+        "published_at": "Tue, 04 Aug 2026 18:04:16 GMT",
+        "snippet": "Govt reduces petrol price by Rs3.39, high-speed diesel by Rs4.07 Dawn Govt reduces petrol price by Rs3.39, HSD by Rs4.07 for August 5 The Express Tribune Governance Crisis Pakistan | Mismanagement vs Resources Debate - Aaj News Aaj English TV Relief for motorists as petrol, diesel prices slashed Dunya News Pakistan slashes petrol price by Rs4 per liter as Middle East tensions ease arabnews.pk",
+        "short_explanation": "Government lowers petrol and diesel prices, providing financial relief to Pakistani motorists."
+      },
+      {
+        "title": "Wall Street gains, oil prices tumble after Trump says he'll order forces to ease up on Iran attacks - ABC News - Breaking News, Latest News and Videos",
+        "source_name": "ABC News - Breaking News, Latest News and Videos",
+        "source_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnBMZU1PR0YxT3VvQVozXy0zRkxESUM0SEdjeHZCaTNpYm00ZVFDTG5rQVZXZ0g1TlZPOGNGeDNFRzNmR3k2bUNVcER0QnBvQW1vQ0dSeE9BUHhwMXFod2ZuRVFxS1hhZmswQTVrd1hlbmtrbG13WVN5R0tiYVg5azFlbEE0bWg2WDBSX1Q3REdXakZyaTN6YW1aWdIBoAFBVV95cUxQTW85VGFWaHlCc1FoNFlOSG53VWlWNUdVcUFMOHNyb3lHLUg4eFNxMENBRWdRWkc1MUptRXQ3d3FWOF9yODFacVZNSlhmenhLaGtUZHVXWmNoZmJuODJzcGZzTU91U0lHcWNvNGY2WFY4a2VfMXFpckQyUlJfd0NIQjVwTTU3Rk9xdXlWRmxMTlVNQ1dVWmhvVndYdU9fdzZm?oc=5",
+        "published_at": "Mon, 03 Aug 2026 06:01:02 GMT",
+        "snippet": "Wall Street gains, oil prices tumble after Trump says he'll order forces to ease up on Iran attacks ABC News - Breaking News, Latest News and Videos Oil tumbles as Trump cancels attack on Iran to reach deal aimed at reopening Hormuz Dawn Oil prices drop 7% to three-week low after Trump cancels attack on Iran Reuters Iran peace hopes boost stocks, weaken Brent crude oil The Express Tribune ‘In Trump we trust’: Why the oil market keeps believing him CNN",
+        "short_explanation": "Trump's de-escalation on Iran attacks causes oil prices to fall and stock markets to rise."
+      },
+      {
+        "title": "US and Qatar report progress on Iran ceasefire and reopening Hormuz strait - The Guardian",
+        "source_name": "The Guardian",
+        "source_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWTVMMnh1ZVlSQWZwaXlfVGJyQW9JN1pPYnFhTEFuVmZuYktUSURQMkpSRVlTTS1xbUtPbnNHbVZNOVBDSGs1RlM2MU5mOGZROHRMbmJHcFNZV3VobkdNQTh0d1B6YmJKMVR0LVFheUh6ekhUVm91NkVDWDBfSHFDT1otdUZSTW95bEtHdWxyaV83cmlnYkRn?oc=5",
+        "published_at": "Tue, 04 Aug 2026 16:23:00 GMT",
+        "snippet": "US and Qatar report progress on Iran ceasefire and reopening Hormuz strait The Guardian See more headlines and perspectives on Google News",
+        "short_explanation": "US and Qatar progress on Iran ceasefire and reopening Hormuz strait impacts regional stability."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Let's Read Books Together - Online Pakistani Book Club",
+        "platform": "reddit",
+        "source_label": "r/pakistan",
+        "score_label": "r/pakistan hot #24",
+        "rank_score": 770,
+        "published_at": "2026-08-04T17:24:52+00:00",
+        "source_url": "https://www.reddit.com/r/pakistan/comments/1vfgvt7/lets_read_books_together/",
+        "external_url": "https://www.reddit.com/r/pakistan/comments/1vfgvt7/lets_read_books_together/",
+        "context": "LETS READ BOOKS TOGETHER Hey yall, an avid reader here. i am 20 and so far havent found anyone i could read books with and discuss them later. So i was thinking, how about we make an online bookclub where we can choose a book every week, read it together, discuss them and also maybe show our visual art and side notes we make while reading the book. Every genre could be read. i feel like this could",
+        "short_explanation": "Online Pakistani book club for shared reading and discussion among young readers."
+      },
+      {
+        "title": "MY FIRST DAY OF AGENT TRAINING | 007 FIRST LIGHT #2",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Techno Gamerz)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-07-30T03:30:36Z",
+        "source_url": "https://www.youtube.com/watch?v=N3ySdpmqF9Y",
+        "external_url": "https://www.youtube.com/watch?v=N3ySdpmqF9Y",
+        "context": "Techno Gamerz. MY FIRST DAY OF AGENT TRAINING | 007 FIRST LIGHT #2\n#firstlight #technogamerz \n\nSubscribe to our Second YouTube Channel: https://www.youtube.com/c/UjjwalGamer\n\n\nShare, Support, Subscribe!!!\nSubscribe: http://bit.ly/technogamerz\nDiscord : https://bit.ly/ujjwaldiscord\nYoutube: https://www.youtube.com/c/TechnoGamerzOfficial\nTwitter:  https://www.twitter.com/ujjwalgamer\nFacebook: https:",
+        "short_explanation": "Gaming video by popular YouTuber Techno Gamerz playing 007 First Light."
+      },
+      {
+        "title": "Al Jazeera Report on AJK Elections Leading to Ban in Pakistan",
+        "platform": "reddit",
+        "source_label": "r/pakistan",
+        "score_label": "r/pakistan hot #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T18:07:16+00:00",
+        "source_url": "https://www.reddit.com/r/pakistan/comments/1vfi3ov/this_is_the_al_jazeera_report_on_the_ajk/",
+        "external_url": "https://www.reddit.com/r/pakistan/comments/1vfi3ov/this_is_the_al_jazeera_report_on_the_ajk/",
+        "context": "submitted by /u/PralineTight3489 [link] [comments]",
+        "short_explanation": "Pakistani ban on Al Jazeera after controversial coverage of Azad Jammu Kashmir elections."
+      },
+      {
+        "title": "Ramayana - Official Trailer for Epic Indian Film",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Sony Pictures Entertainment)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-30T05:13:28Z",
+        "source_url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
+        "external_url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
+        "context": "Sony Pictures Entertainment. The Ramayana Trailer.\nThis is where the EPIC BEGINS. 🏹 \n\nNamit Malhotra's Ramayana\nDirected by Nitesh Tiwari\n\nIn Cinemas Worldwide, Diwali 2026.\n\n---------------------------------------------------\n\nStarring: \nRanbir Kapoor as Rama \nYash as Ravana \nSai Pallavi as Sita \nRavie Dubey as Lakshman \nSunny Deol as Hanuman\n\nCo-Produced by Monster Mind Creations\nAdapted for Scr",
+        "short_explanation": "Upcoming Indian epic film Ramayana retelling ancient Hindu epic story."
+      },
+      {
+        "title": "Lahore Police Station Staff Suspended After Alleged Rape Incident",
+        "platform": "reddit",
+        "source_label": "r/pakistan",
+        "score_label": "r/pakistan hot #3",
+        "rank_score": 980,
+        "published_at": "2026-08-04T16:18:44+00:00",
+        "source_url": "https://www.reddit.com/r/pakistan/comments/1vfezxx/cop_allegedly_rpes_woman_inside_lahore_police/",
+        "external_url": "https://www.reddit.com/r/pakistan/comments/1vfezxx/cop_allegedly_rpes_woman_inside_lahore_police/",
+        "context": "TLDR : The woman allegedly identified the exact room inside the police station where she said she was r*ped, in the presence of senior police officials. DIG Lahore Faisal Kamran suspended the entire police station staff (over 70 personnel), saying they were collectively responsible for preventing misconduct and no one questioned why an ASI had brought a young woman to the station without any femal",
+        "short_explanation": "Lahore police staff suspended after alleged rape incident inside police station."
+      },
+      {
+        "title": "Cambridge A-Level Exam Leak Scandal Affecting Thousands of Pakistani Students",
+        "platform": "reddit",
+        "source_label": "r/pakistan",
+        "score_label": "r/pakistan hot #4",
+        "rank_score": 970,
+        "published_at": "2026-08-04T16:58:33+00:00",
+        "source_url": "https://www.reddit.com/r/pakistan/comments/1vfg4jn/please_read_cambridge_just_screwed_over_thousands/",
+        "external_url": "https://www.reddit.com/r/pakistan/comments/1vfg4jn/please_read_cambridge_just_screwed_over_thousands/",
+        "context": "If you haven't been following the CAIE mess, here is what happened During exams, both A-Level Maths papers (P1 and S1) were leaked. Because S1 was severely compromised 2 hours prior to exam start time many of us didn’t attempt it seriously because we were sure its was gonna get cancelled And so a few days later Cambridge gave clear signals that it wouldn't be counted and promised fair assessed mar",
+        "short_explanation": "Leak of Cambridge A-Level exam papers disrupts thousands of Pakistani students' tests."
+      },
+      {
+        "title": "Rana Ji 2.0 - New Music Video Featuring Mahira Sharma",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Tips Official)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-27T06:30:23Z",
+        "source_url": "https://www.youtube.com/watch?v=hPZcZpNn3KY",
+        "external_url": "https://www.youtube.com/watch?v=hPZcZpNn3KY",
+        "context": "Tips Official. Tips Music & Kumar Taurani Presents Rana Ji 2.0 💃✨\n\nGet ready to groove to Rana Ji 2.0, a vibrant reimagining of the iconic 90s classic. Featuring the stunning Mahira Sharma, this energetic track blends nostalgic melodies with a fresh, contemporary sound, making it the perfect song for every music lover.\n\nSong Details : \nSingers: Ila Arun, Alka Yagnik\nMusic: Tanishk Bagchi\nOriginal",
+        "short_explanation": "New music video Rana Ji 2.0 featuring Mahira Sharma revives 90s classic song."
+      },
+      {
+        "title": "Raatan Kaaliyan - New Punjabi Song by Gippy Grewal & Sargun Mehta",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Moviebox Record Label)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-07-28T07:55:45Z",
+        "source_url": "https://www.youtube.com/watch?v=ZtuQc72qf-s",
+        "external_url": "https://www.youtube.com/watch?v=ZtuQc72qf-s",
+        "context": "Moviebox Record Label. Presenting the official lyrical video of \"Raatan Kaaliyan\" - a charming Punjabi romantic melody from Carry On Jatta 4, beautifully sung by Gippy Grewal and Simran Choudhary. Featuring Gippy Grewal and Sargun Mehta, this heartfelt track blends playful romance with unforgettable melodies.\n\nSubscribe to @MOVIEBOXrecordLABEL \n\nCredits:\n\nSong - Rataan Kaliyaan \nSinger - Gippy Gre",
+        "short_explanation": "Punjabi romantic song Raatan Kaaliyan by Gippy Grewal and Sargun Mehta."
+      }
+    ]
+  }
+}

@@ -1,0 +1,869 @@
+{
+  "iso2": "ES",
+  "iso3": "ESP",
+  "country_name": "Spain",
+  "flag": "🇪🇸",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 40.4637,
+    "lon": -3.7492
+  },
+  "updated_at": "2026-08-04T20:49:41+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "migration crisis",
+    "Ceuta",
+    "Spain-Morocco border"
+  ],
+  "top_news": {
+    "headline": "Crisis migratoria en Ceuta: últimas noticias de la entrada de inmigrantes desde Marruecos",
+    "summary": "Tensiones rise as 72,000 migrants crossed into Ceuta, sparking debates on migration and border control.",
+    "why_it_matters": "Reveals deep social and political tensions over migration in Spain.",
+    "source_name": "El Confidencial",
+    "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEUzcWZQc0NNUkZYbDQzNlhndi1iNWdoNjl6N3lyN2xzV3RxLTRnaUx3c2QzUHcydk1NbmpmcDFOeG43WWtaT05KWXg5TzRuS0FsZlppeFUySFIwT2pILWNGRGU3d3lFQk9FOUxpRzlrOTl3aUFQOG5fbE9RMGRGNHdXN2V1Sl93M3JVTEEyMEZ3eF9GRWQwZ1RNeWdtMUNZLVhsWFFPUXlDVHowaDdrSw?oc=5",
+    "published_at": "Tue, 04 Aug 2026 18:42:19 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Grupo Bimbo Censors Labor Rights Video",
+    "platform": "reddit",
+    "explanation": "A major bakery company censored a video about workers' rights, sparking debate on corporate control and labor issues in Spain.",
+    "why_people_are_sharing_it": "It highlights tensions between big business and labor activism, resonating with workers and activists.",
+    "tone": "political",
+    "local_context": "Spain's labor rights and corporate influence debates",
+    "source_url": "https://www.reddit.com/r/es/comments/1vffjls/grupo_bimbo_censura_video_derechos_laborales/",
+    "media_url": "https://www.reddit.com/r/es/comments/1vffjls/grupo_bimbo_censura_video_derechos_laborales/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=es&gl=ES&ceid=ES:es",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Crisis migratoria en Ceuta: últimas noticias de la entrada de inmigrantes desde Marruecos, hoy en directo - El Confidencial",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "El Gobierno de España emitirá a través de la Aemet una predicción meteorológica especial para el eclipse total de sol del 12 de agosto - ciencia.gob.es",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "“¿Has visto a mi hijo?”: el drama de las familias que buscan a los desaparecidos tras su intento de llegar a Ceuta - france24.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Manuel Sánchez Rubal, optometrista: “Con las gafas adecuadas, podemos mirar el eclipse entre 20 y 25 segundos - Diario AS",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Industria abre el plazo para solicitar las ayudas del Programa Auto+ para la compra de vehículos eléctricos - La Moncloa",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "La Virgen de los Reyes ya está preparada para el primer besamanos con el Manto de los Apóstoles - Catedral de Sevilla",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "España supera por primera vez los 22,5 millones de afiliados medios, tras crear más de 642.500 empleos en el último año - La Moncloa",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nerea Melgosa, Amaia Barredo y Javier Hurtado asisten a la Bajada de Celedón - Euskadi.eus",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La Comunidad de Madrid presta asesoramiento laboral a los empresarios, trabajadores y autónomos afectados por los incendios de la Sierra Oeste - Comunidad de Madrid |",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Erupción del volcán de Fuego, en imágenes - EL PAÍS",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Rumanía detona una carga explosiva para aumentar el flujo de agua del Danubio hacia una central nuclear - La Voz de Galicia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gaza entierra a 112 personas de la misma familia en el mayor funeral de la historia de Palestina - RTVE.es",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El Ibex conquista los 20.000 puntos con unas Bolsas en nuevos máximos - Cinco Días",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La rentabilidad de las Letras a doce meses se dispara hasta máximos de casi dos años - Expansión",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wall Street está a punto de recibir el primer informe de ganancias de SpaceX - CNN en Español",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bonoloto hoy: comprobar resultados del sorteo del 4 de agosto y números premiados, en directo - El Confidencial",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El pozo Sotón reúne a expertos de diez países para impulsar la industria espacial en Asturias - La Voz de Asturias",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Primer gameplay de Hombre de Honor, la primera expansión de Mafia: El Viejo Continente - GameIt ES",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El PP exige el cese de los ministros Grande-Marlaska y Margarita Robles por \"no haber actuado\" en la crisis de Ceuta - heraldo.es",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La designación de Todd Blanche como secretario de Justicia avanza en el Senado tras superar un obstáculo clave - CNN en Español",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "es",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=ES",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/es.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 994,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Tainy, Anuel AA, Ozuna - Adicto (Popular Latin Music Track)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular music collaboration with major artists; strong internet and cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Rubius Z - You Have a Debt of $100,000,000 (Gaming Content)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Spanish-speaking streamer with engaging content; strong internet culture signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "The Odyssey Official Trailer",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "penalize_hard_news_spillover",
+            "ai:Clear title referencing a known cultural epic; suitable for global culture map."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Grupo Bimbo Censors Labor Rights Video",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Relevant social issue with a recognizable brand; interesting cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Marvel character reveal; relevant to global pop culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Aitana - SUPERESTRELLA (Live Edit)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Spanish singer with trending music video; relevant cultural content."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "DjMaRiiO - First Open World Video (THE GROUNDS) in FC 27",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Spanish YouTuber with gaming content; relevant internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ariana Grande - petal (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global pop star with new music video; relevant for global culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jurassic World Evolution 3 | Crocodilia Coast Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular game franchise update; relevant to gaming culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Pokémon PROLOCKE 2 Episode 9 - LIGA POKÉMON",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Pokémon content creator; relevant internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "I am a Mason, AMA",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Interesting cultural topic but niche; moderate relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Cristian Castro — Por Amarte Así (Letra/Lyrics)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El verano y sus cosas",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Un poco de historia 65: Asesino en serie noble.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El asesino silencioso de las baterías industriales",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Puerta [OC]",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Feria en Santander, ofrecen como premio una bufanda de Franco",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Yo con 20 tareas pendientes",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Noticias [OC]",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Que flojos son los Argentinos!",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "¡SOMOS CAMPEONES DEL MUNDO, JODER! ¡LA SEGUNDA ESTRELLA YA ESTÁ AQUÍ! ⭐️⭐️",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Caraja[OC]",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ferran Torres saved the world 🔥🏆",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cuando te lías pidiendo por AliExpress",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Donde ver la Final Mundial en Londres",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Inteligencia artificial y empleo",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Basque Country Energy Projects Update",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic news headline about energy projects; less cultural fixation."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nueva palabra inventada",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "RPG literario",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mother's Store Liquidation - Personal Story",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Personal story, less relevant for global culture map; more local interest."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nuevo en Reddit.",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Posible estafa",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ceuta",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vuelo 103 de Pan Am",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Zendaya",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sin título [OC]",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too opaque and generic title with no clear cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Señor[OC]",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Bare person name with no additional context; too generic."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Monstruo [OC]",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too opaque and generic title with no clear cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "bonoloto",
+          "score": 1,
+          "reasons": [
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_hard_news_spillover",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tom Holland",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jean Grey",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "spacex stock",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "sofía de borbón",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "salmonella",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "basura",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "amd stock",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "álava",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Leoncio Prado",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_hard_news_spillover",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "pepe habichuela",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "fonsi nieto",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "joao amaral",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La Odisea (película de 2026)",
+          "score": -4,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "penalize_hard_news_spillover",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Crisis migratoria en Ceuta: últimas noticias de la entrada de inmigrantes desde Marruecos, hoy en directo - El Confidencial",
+        "source_name": "El Confidencial",
+        "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEUzcWZQc0NNUkZYbDQzNlhndi1iNWdoNjl6N3lyN2xzV3RxLTRnaUx3c2QzUHcydk1NbmpmcDFOeG43WWtaT05KWXg5TzRuS0FsZlppeFUySFIwT2pILWNGRGU3d3lFQk9FOUxpRzlrOTl3aUFQOG5fbE9RMGRGNHdXN2V1Sl93M3JVTEEyMEZ3eF9GRWQwZ1RNeWdtMUNZLVhsWFFPUXlDVHowaDdrSw?oc=5",
+        "published_at": "Tue, 04 Aug 2026 18:42:19 GMT",
+        "snippet": "Crisis migratoria en Ceuta: últimas noticias de la entrada de inmigrantes desde Marruecos, hoy en directo El Confidencial Marlaska insiste en que no hubo ningún \"informe, aviso, ni publicación\" del CNI sobre \"nada parecido\" a la llegada de 72.000 personas a Ceuta El Mundo Marlaska insiste en que el CNI no alertó de una llegada masiva de migrantes a Ceuta EL PAÍS Marlaska confirma que 70.000 de los 72.000 migrantes que entraron en Ceuta han vuelto a Marruecos La Vanguardia Marlaska da por zanjada la crisis con la UE e insiste en que el CNI no dio la alerta: \"Hubiéramos activado la emergencia\" elDiario.es",
+        "short_explanation": "Massive migrant influx from Morocco to Ceuta causes political and humanitarian tensions in Spain."
+      },
+      {
+        "title": "El Gobierno de España emitirá a través de la Aemet una predicción meteorológica especial para el eclipse total de sol del 12 de agosto - ciencia.gob.es",
+        "source_name": "ciencia.gob.es",
+        "source_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORUpJMkRFZWVfNElQZkk4WXlnd1ptb0ttenMtTUI2U1NVUEJHTHVCT0p0RDlGaF9ud25MekVfbl9sM0VJemRQeFUwcW0yN3pzREdFZk55Sy1fSzFWa0hhckRfMVhVSjgyeWwxbXRCdVdzT2ktcjdvTmF1ZnBYeXZKR01NczB1M3BVbmlvVzhUTjFrdjUzcGRDMThYakN3dw?oc=5",
+        "published_at": "Tue, 04 Aug 2026 09:52:24 GMT",
+        "snippet": "El Gobierno de España emitirá a través de la Aemet una predicción meteorológica especial para el eclipse total de sol del 12 de agosto ciencia.gob.es La NASA hará experimentos desde aviones y globos en España e Islandia durante el eclipse Atresmedia Roberto Brasero alerta a los españoles sobre lo que no deben hacer durante el eclipse total del 12 de agosto: «Compraos unas gafas y disfrutad» ABC ¿Te preocupa el tiempo que hará donde vas a ver el eclipse? De momento, incertidumbre, sobre todo en la costa norte EL PAÍS ¿Con cuánta antelación podremos saber si las nubes dejarán ver el eclipse de 2026? Aemetblog",
+        "short_explanation": "Spain issues special weather forecast for August 12 solar eclipse to aid public viewing plans."
+      },
+      {
+        "title": "“¿Has visto a mi hijo?”: el drama de las familias que buscan a los desaparecidos tras su intento de llegar a Ceuta - france24.com",
+        "source_name": "france24.com",
+        "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOdnExU3NxNXBpcDhuRzJTbGJYS0tRYW81UU91bmZRTWJDR0VtV0gtZmtCam9MM1FQSFVqUlBuTnNoRVpiLXlxWkxaTTYzSjBLUzlNWFdLNkVXd2hFYVV3MkRNQ19OdmJ4UEgzYUlqN2VwZzBBRTF0RERyU3cwbDVVNkpLZzZnRTN0djMyZDRnNTAtZWdYYUVYM2tZQnhUU2hYczhnSk9TNFg2TW9HWXUzUmNtU3pfajBkVTBUV0d6RmdpdmVEUUQ2amxxcmVSUkdDYy13dlZCOUR6OFNuZjYzNWdpWkN2UVJp?oc=5",
+        "published_at": "Tue, 04 Aug 2026 17:52:31 GMT",
+        "snippet": "“¿Has visto a mi hijo?”: el drama de las familias que buscan a los desaparecidos tras su intento de llegar a Ceuta france24.com Sin techo en Ceuta: la realidad de los migrantes que solicitan asilo, en imágenes El Mundo Marruecos afirma que avisó a España de las repercusiones de la decisión del Supremo antes de la crisis en Ceuta RTVE.es Atención: “La frontera de Ceuta está abierta” La Vanguardia Fotos de desaparecidos en Ceuta en las mismas redes sociales que alentaron su éxodo EL PAÍS",
+        "short_explanation": "Families search for missing migrants after dangerous attempts to cross into Ceuta from Morocco."
+      },
+      {
+        "title": "Manuel Sánchez Rubal, optometrista: “Con las gafas adecuadas, podemos mirar el eclipse entre 20 y 25 segundos - Diario AS",
+        "source_name": "Diario AS",
+        "source_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOcl9DR0l1QlA1UXpobVZpNE5fOWFDZC1uc3BfVzdlOURSeS1YZUQtTEdoWE42Zm42OHo4MDNKVTF1LU53dkRIWjdaX1Y1a2tBaXJIcWJXWlA1dURDLTRVaS1ZLVhjWU1BQXI2bGQ1N0M1NC11ckxyTVI1YkpmT0NqYVRKUXR6N3JYME85bWp2ODFqUjJNVzRFVEdrcTZNYnBCX21fcGhwQkxtNl9GVWlXZjdiYTBVX0EzTEowRWRLanJVSzVjbnlHWEZaeE9vSEZZLVRObE9pLWtuMEo1RjZ5Q2lvX2Vfclk5V0lWdGpKTGx6NzhqWUd4emxzVdIBjwJBVV95cUxOdkZmcFBKMmpkYTZPV3ZXeGg5RWs3aWRFRlpHRTJWcEJhVmhDbmFSLS1vQzhXSVBWWFp5eUpKZ2FpTElPQUl6amdBcGpnblI2QVBpUVBLZjFYaHBQalFPZnlFN2VrOU1fNFRpRF9CY3BWODVyUlNXdWFJQnFpcUJVWk5nSzdVc2VhUmEwbFloRXpzYmkxY29COTRIWGNLbm5NN2ZRekR2VjR1c1BtMWZoQWNzUU1md3BFaUxFT2xhUDBpZUljT0FOYzZtcDF3YTAyNk9lbWZsRllqQ0N0SlZnRi1CMVc0c1c4bFdRME9mQWtIeENObUZXTHQyYmRVS3hvY3BQUjhkaGdKYXpWN2Vv?oc=5",
+        "published_at": "Tue, 04 Aug 2026 07:23:02 GMT",
+        "snippet": "Manuel Sánchez Rubal, optometrista: “Con las gafas adecuadas, podemos mirar el eclipse entre 20 y 25 segundos Diario AS El Gobierno y el Grupo Social ONCE repartirán de manera gratuita dos millones de gafas seguras para ver el eclipse total de sol del próximo 12 de agosto ciencia.gob.es Estas son las mejores gafas para ver el eclipse solar: homologadas y recomendadas por National Geographic Diario AS Todo lo que debes saber para proteger los ojos del eclipse, según un oftalmólogo: \"Mirar al sol siempre es malo\" elDiario.es No compres gafas para el eclipse si no llevan este símbolo escrito: es un requisito para su homologación OkDiario",
+        "short_explanation": "Experts stress using certified glasses to safely view the August 12 solar eclipse in Spain."
+      },
+      {
+        "title": "Industria abre el plazo para solicitar las ayudas del Programa Auto+ para la compra de vehículos eléctricos - La Moncloa",
+        "source_name": "La Moncloa",
+        "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNejFrbXVPQ3RYV2pkdldvemdJYldBSTNxdTVoekdLeHotSnp0QldrX2U0SDdZSTRpd0tPOU5faU1FZlBlbVZMaU81dTdVbTJ4cWJnWHppWXNDMUc5QTU3TklRaHVUQ0pTY2l5bjFyQVg2ZFh0V1RMRFBLV2Q1dVhmWTBwYzVFV2h4bVVSNGxOenRLWGJta21vZEZDRVZxT0xHRTdCNkp3VldJQWVmSUoxNnlUWjllTXIwZ185NjJPdDktcXp0UHd5bzFIemJRUU12cm5xZURxREk?oc=5",
+        "published_at": "Tue, 04 Aug 2026 17:10:46 GMT",
+        "snippet": "Industria abre el plazo para solicitar las ayudas del Programa Auto+ para la compra de vehículos eléctricos La Moncloa Ya se pueden solicitar las ayudas al coche eléctrico: requisitos y condiciones del plan Auto+ EL PAÍS El Gobierno publica la lista de los coches eléctricos que pueden acceder a las ayudas del Plan Auto+ Expansión Los particulares podrán solicitar las ayudas de hasta 4.500 euros para coches eléctricos del Auto+ desde este martes RTVE.es Ya se pueden pedir las ayudas de hasta 4.500 euros para coches eléctricos del Plan Auto+: cómo funcionan y cómo solicitarlas elDiario.es",
+        "short_explanation": "Government opens applications for subsidies to buy electric vehicles under the Auto+ program."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Tainy, Anuel AA, Ozuna - Adicto (Popular Latin Music Track)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (GroovLatn)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-08-03T17:45:39Z",
+        "source_url": "https://www.youtube.com/watch?v=JWnYiriuNUw",
+        "external_url": "https://www.youtube.com/watch?v=JWnYiriuNUw",
+        "context": "GroovLatn. Check out our Playlist:\nhttps://open.spotify.com/playlist/1oJZ98sB3FbQAbrZkEbdtQ?si=_xvuL7hdQlu_oQySAWsv2A\n\nStream/Descargar:\n\n🎤Letra:\n\nHan pasado varios días y estoy enfermo de ti\nDime qué me hiciste mal\nDe mi memoria yo no te puedo borrar\nDios me va a castigar, le prometí te iba a olvidar\nNo hay porqué seguir mintiendo\nEl tiempo está corriendo y no se puede parar\nLa soledad me sigue c",
+        "short_explanation": "Popular Latin music track by top artists, reflecting current Spanish-speaking youth tastes."
+      },
+      {
+        "title": "Rubius Z - You Have a Debt of $100,000,000 (Gaming Content)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Rubius Z)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-08-02T16:08:10Z",
+        "source_url": "https://www.youtube.com/watch?v=zR_IrCjuQos",
+        "external_url": "https://www.youtube.com/watch?v=zR_IrCjuQos",
+        "context": "Rubius Z. Like si este juego curó tu TDAH.. Oink!..Oink!\n\nStreams: https://www.twitch.tv/Rubius\nMi Tienda: https://madkat.net\nDiscord: https://discord.gg/rubius",
+        "short_explanation": "Famous Spanish gamer Rubius Z creates entertaining content, engaging millions of fans."
+      },
+      {
+        "title": "The Odyssey Official Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (The Asylum Movie Channel)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-06T19:29:01Z",
+        "source_url": "https://www.youtube.com/watch?v=wD5w48WT3uo",
+        "external_url": "https://www.youtube.com/watch?v=wD5w48WT3uo",
+        "context": "The Asylum Movie Channel. Releasing: 07/03/2026 | Director: Marcel Walz | Stars: Dominic Keating, Myrom Kingery, Morgan Flanagan\n\nBased on the Ancient Greek epic. After ten years of war, King Odysseus sets sail for Ithaca, eager to reunite with his beloved. But his journey home is far more treacherous than the battlefield, as he must face deadly monsters and vengeful gods to survive.\n\n\n___________",
+        "short_explanation": "Upcoming movie trailer about Odysseus' epic journey, linking Spain to classic mythology."
+      },
+      {
+        "title": "Grupo Bimbo Censors Labor Rights Video",
+        "platform": "reddit",
+        "source_label": "r/es",
+        "score_label": "r/es hot #1",
+        "rank_score": 1000,
+        "published_at": "2026-08-04T16:37:54+00:00",
+        "source_url": "https://www.reddit.com/r/es/comments/1vffjls/grupo_bimbo_censura_video_derechos_laborales/",
+        "external_url": "https://www.reddit.com/r/es/comments/1vffjls/grupo_bimbo_censura_video_derechos_laborales/",
+        "context": "submitted by /u/AdEcstatic431 [link] [comments]",
+        "short_explanation": "Controversy over Grupo Bimbo censoring a video about workers' rights in Spain."
+      },
+      {
+        "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Rivals)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T16:00:00Z",
+        "source_url": "https://www.youtube.com/watch?v=YMweqIzyB7s",
+        "external_url": "https://www.youtube.com/watch?v=YMweqIzyB7s",
+        "context": "Marvel Rivals. From the shadows of the New York underground comes the newest power-hungry villain. 🔥\n \nCloaked in a cursed mantle, Parker Robbins lost his faith in heroes alongside his father and his world's Captain America - replacing it with an insatiable appetite for the power to change the world. Stealing an enchanted cloak from the Vault, he remade himself as the feared crime lord, The Hood.",
+        "short_explanation": "New Marvel villain reveal excites Spanish fans of superhero and comic culture."
+      },
+      {
+        "title": "Aitana - SUPERESTRELLA (Live Edit)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (AitanaVEVO)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-08-03T18:00:26Z",
+        "source_url": "https://www.youtube.com/watch?v=llZJ-9e4Yeo",
+        "external_url": "https://www.youtube.com/watch?v=llZJ-9e4Yeo",
+        "context": "AitanaVEVO. Music video by Aitana performing SUPERESTRELLA.© 2026 Universal Music Spain, S.L.U.",
+        "short_explanation": "Live music video of Aitana, a popular Spanish singer, showcasing contemporary pop."
+      },
+      {
+        "title": "I am a Mason, AMA",
+        "platform": "reddit",
+        "source_label": "r/es",
+        "score_label": "r/es hot #8",
+        "rank_score": 930,
+        "published_at": "2026-07-27T17:26:48+00:00",
+        "source_url": "https://www.reddit.com/r/es/comments/1v86zvr/soy_masón_ama/",
+        "external_url": "https://www.reddit.com/r/es/comments/1v86zvr/soy_masón_ama/",
+        "context": "submitted by /u/ordep147 [link] [comments]",
+        "short_explanation": "Unclear local trend."
+      },
+      {
+        "title": "El verano y sus cosas",
+        "platform": "reddit",
+        "source_label": "r/es",
+        "score_label": "r/es hot #11",
+        "rank_score": 900,
+        "published_at": "2026-07-26T09:29:30+00:00",
+        "source_url": "https://www.reddit.com/r/es/comments/1v6z1pt/el_verano_y_sus_cosas/",
+        "external_url": "https://www.reddit.com/r/es/comments/1v6z1pt/el_verano_y_sus_cosas/",
+        "context": "submitted by /u/Humble_Ability_6621 [link] [comments]",
+        "short_explanation": "Unclear local trend."
+      }
+    ]
+  }
+}

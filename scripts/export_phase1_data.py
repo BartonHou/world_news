@@ -32,6 +32,22 @@ COUNTRY_META: dict[str, dict[str, Any]] = {
     "PH": {"iso3": "PHL", "region": "Southeast Asia", "coordinates": {"lat": 12.8797, "lon": 121.7740}},
     "ZA": {"iso3": "ZAF", "region": "Africa", "coordinates": {"lat": -30.5595, "lon": 22.9375}},
     "NG": {"iso3": "NGA", "region": "Africa", "coordinates": {"lat": 9.0820, "lon": 8.6753}},
+    "IT": {"iso3": "ITA", "region": "Europe", "coordinates": {"lat": 41.8719, "lon": 12.5674}},
+    "ES": {"iso3": "ESP", "region": "Europe", "coordinates": {"lat": 40.4637, "lon": -3.7492}},
+    "NL": {"iso3": "NLD", "region": "Europe", "coordinates": {"lat": 52.1326, "lon": 5.2913}},
+    "PL": {"iso3": "POL", "region": "Europe", "coordinates": {"lat": 51.9194, "lon": 19.1451}},
+    "SE": {"iso3": "SWE", "region": "Europe", "coordinates": {"lat": 60.1282, "lon": 18.6435}},
+    "PT": {"iso3": "PRT", "region": "Europe", "coordinates": {"lat": 39.3999, "lon": -8.2245}},
+    "TH": {"iso3": "THA", "region": "Southeast Asia", "coordinates": {"lat": 15.8700, "lon": 100.9925}},
+    "VN": {"iso3": "VNM", "region": "Southeast Asia", "coordinates": {"lat": 14.0583, "lon": 108.2772}},
+    "MY": {"iso3": "MYS", "region": "Southeast Asia", "coordinates": {"lat": 4.2105, "lon": 101.9758}},
+    "PK": {"iso3": "PAK", "region": "South Asia", "coordinates": {"lat": 30.3753, "lon": 69.3451}},
+    "EG": {"iso3": "EGY", "region": "Middle East", "coordinates": {"lat": 26.8206, "lon": 30.8025}},
+    "IL": {"iso3": "ISR", "region": "Middle East", "coordinates": {"lat": 31.0461, "lon": 34.8516}},
+    "SA": {"iso3": "SAU", "region": "Middle East", "coordinates": {"lat": 23.8859, "lon": 45.0792}},
+    "KE": {"iso3": "KEN", "region": "Africa", "coordinates": {"lat": -0.0236, "lon": 37.9062}},
+    "CO": {"iso3": "COL", "region": "South America", "coordinates": {"lat": 4.5709, "lon": -74.2973}},
+    "CL": {"iso3": "CHL", "region": "South America", "coordinates": {"lat": -35.6751, "lon": -71.5430}},
 }
 
 

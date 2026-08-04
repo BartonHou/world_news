@@ -1,0 +1,851 @@
+{
+  "iso2": "SE",
+  "iso3": "SWE",
+  "country_name": "Sweden",
+  "flag": "🇸🇪",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 60.1282,
+    "lon": 18.6435
+  },
+  "updated_at": "2026-08-04T20:52:38+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "political conflict",
+    "polarization",
+    "Sweden politics"
+  ],
+  "top_news": {
+    "headline": "Kommentar: Kom upp ur sandlådan, Jomshof och Andersson - Göteborgs-Posten",
+    "summary": "Sharp political clashes highlight deep divisions and heated debates in Sweden's public discourse.",
+    "why_it_matters": "Reveals current political polarization and public fixation on political conflicts.",
+    "source_name": "Göteborgs-Posten",
+    "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUJSeFZlZWZ0TGc1aU1uYWktczE4Sm9aRkxkNkZJRnVvdC1Tb0ZXVFhDcFFXbFFUMHR5T0tYalY0clB2ci16clZkRUlqNlJPZDV4eE45aUVkZTBUUjJlWi1ZREh6cE1YQWNFX1VVcjFXSjJDUU01bWxnMDVzZEpDWWlxNzl4ZWtmQVVqdjJLNXZwaElHQVN2VjlaNS1vd0pIR3owcnc1UDE?oc=5",
+    "published_at": "Tue, 04 Aug 2026 14:28:05 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "r/ostbiff is Like Fifth Wave Feminism",
+    "platform": "reddit",
+    "explanation": "A new subreddit r/ostbiff humorously claims to be 'fifth wave feminism,' mocking intense online feminist debates with absurdity and playful chaos.",
+    "why_people_are_sharing_it": "It satirizes feminist internet culture with a quirky, unexpected meme format.",
+    "tone": "ironic",
+    "local_context": "Swedish Reddit's niche humor and feminist discourse blending with food-themed memes.",
+    "source_url": "https://www.reddit.com/r/sweden/comments/1vfejnv/rostbiff_är_fan_femtevågsfeminismen/",
+    "media_url": "https://www.reddit.com/r/sweden/comments/1vfejnv/rostbiff_är_fan_femtevågsfeminismen/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=sv&gl=SE&ceid=SE:sv",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Kommentar: Kom upp ur sandlådan, Jomshof och Andersson - Göteborgs-Posten",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Lotsen delgiven misstanke för brott efter båtolyckan utanför Tjörn - SVT Nyheter",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Forssell efter EU:s krismöte: Får inte hända igen - Västerbottens-Kuriren",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Stor polisinsats på skärgårdsö – uppgifter om skadad kvinna - Nacka Värmdö Posten",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ingmar Nevéus: Kusliga likheter mellan 2026 och tiden före första världskriget - Dagens Nyheter",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Svensk kvinna gripen i Thailand för mångmiljonbedrägeri - TV4 Nyheterna",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Två skadade på Kebnekaise - Expressen",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Just nu: Rådjur på vägen kan skapa fara på E4 - NT",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Magdalena Andersson knackar på: ”Vilken överraskning!” - Värmlands Folkblad",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Uppgifter till SVT: Foxtrot-bröder från Nyköping dömda till livstids fängelse i Irak - SVT Nyheter",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vulkanutbrott i Guatemala – röd varning utfärdad - SVT Nyheter",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Uppgifter: Han var måltavlan för Moskvabomb - Dagens Nyheter",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Granater hittade efter jättebranden i Frankrike - Hufvudstadsbladet – HBL",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Space X gör förlust – men slår förväntningarna - Svenska Dagbladet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ny vändning i Teslakonflikten – anställda ska strejka igen - Arbetet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wall Street klättrar – teknikaktier leder uppgångarna - EFN",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dyrare att dejta i Stockholm än New York - Svenska Dagbladet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Per Grankvist: Så dricker en riktig gentleman - Svenska Dagbladet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Microsoft chockhöjer priserna på Xbox Series - Aftonbladet",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Brasiliens val 2026: Lula mot Flavio Bolsonaro - Sveriges Radio",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "sweden",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=SE",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/sv.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 989,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Ariana Grande Drops New Single 'petal'",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular global pop culture figure with a new release; strong internet fixation."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers: Doomsday Official Trailer Released",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global blockbuster movie trailer; strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Jumanji: Open World Official Trailer Released",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global movie trailer with popular franchise; strong cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "MrBeast Explores His Abandoned Minecraft Server",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular YouTuber with gaming content; strong internet culture relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Would You Rather Celebrity Tower in Roblox?",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming and internet culture reference with a playful title; moderately interesting."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Yasin Releases Official Video for 'Matadoren'",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Swedish rapper with new music video; relevant cultural figure."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "KATSEYE Releases 'Animal' Official Music Video",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:K-pop related music video; relevant in global youth culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Marvel Rivals Reveals Villain 'The Hood' Character Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Marvel character reveal; relevant to global comic and gaming culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gang Leader Ali Shehab Sentenced to Life in Iraq",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News about a specific person involved in crime; somewhat opaque outside Sweden/Iraq context."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Personal Story: Parents Refuse to Integrate into Swedish Society",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Personal anecdote on integration; interesting but more niche and local."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "r/ostbiff is Like Fifth Wave Feminism",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Opaque Reddit community reference; niche internet culture but unclear outside context."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "A Sailor's Lament About Declining Swedish Crew on Ships",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Personal story with local labor context; interesting but niche."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Left Party Member Praised Terrorist – 'It Was a Mistake'",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political news headline; somewhat generic and local."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jag Hittade En Begravd Villager I Minecraft!",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Fler unga behöver förtida arv för att köpa bostad",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tony Iommi – World Alone (Official Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jag vet inte hur jag ska berätta det här för min kompis",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "SD-toppen kallar politisk chefredaktör för quisling",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Oron tilltar på bostadsmarknaden – allt färre tror på prisuppgångar",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Använda erbjudande för att höja sin lön?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vem är ansvarig för Arlandas nya hämta/lämna?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "VA kostnaderna väntas öka 3x till 2040, kan du tänka dig betala 36.000/per år?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ann kämpar för Söderåsen – vill stoppa omtalad bergtäkt",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vem kontaktar man för att anlägga ett övergångställe?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hur mycket tjänar en foodora anställd som kör sin egen bil",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hur bra \"\"ska\"\" man trivas på jobbet?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Han kämpar för dialekten på Österlen – skrivit lokal ordbok",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "RUNDA TVÅ av hjälp en man med tummen mitt i handen",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vad är jobbigast med att vara förälder idag?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Privat terapi för relationsuppbrott, alltså förhållandevis \"triviala\" grejer",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Högskoleprov",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Majority of Sweden Democrats Voters Reject Climate Change Link to Heat Records",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:News headline with political survey data; somewhat generic and not a strong cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "59% of Climate Deniers Are Non-Binary, According to SVT",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Unusual statistic but presented as news; somewhat opaque and niche."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "18-Pack Egg Carton Fits Perfectly in Lager 157 Bag",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Very niche and trivial consumer observation; too generic and local."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jehovas vittnen",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Svärtan",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ceuta",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Opinionsundersökningar inför riksdagsvalet i Sverige 2026",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lockerbieattentatet",
+          "score": 1,
+          "reasons": [
+            "boost_native_culture_source"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "robin kovács",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "spacex stock",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "zlatan ibrahimović",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "disney+",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "amd stock",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "الطقس غدًا",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "David Wiberg",
+          "score": -1,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Albin Olsson",
+          "score": -1,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gianni Infantino",
+          "score": -1,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dolly Style",
+          "score": -1,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "sander ringberg",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "netflix problem",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "tottenham hotspur fc",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "elliot stroud",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Kommentar: Kom upp ur sandlådan, Jomshof och Andersson - Göteborgs-Posten",
+        "source_name": "Göteborgs-Posten",
+        "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUJSeFZlZWZ0TGc1aU1uYWktczE4Sm9aRkxkNkZJRnVvdC1Tb0ZXVFhDcFFXbFFUMHR5T0tYalY0clB2ci16clZkRUlqNlJPZDV4eE45aUVkZTBUUjJlWi1ZREh6cE1YQWNFX1VVcjFXSjJDUU01bWxnMDVzZEpDWWlxNzl4ZWtmQVVqdjJLNXZwaElHQVN2VjlaNS1vd0pIR3owcnc1UDE?oc=5",
+        "published_at": "Tue, 04 Aug 2026 14:28:05 GMT",
+        "snippet": "Kommentar: Kom upp ur sandlådan, Jomshof och Andersson Göteborgs-Posten Storbråk efter Jomshofs attack: ”Avskyvärda” Aftonbladet Statsvetare om quislingdramat: ”Sandlådeeffekt – alla riskerar dras med” Dagens Nyheter Åkesson: ”Krokodiltårar” har aldrig varit mer passande Omni – Alla nyheter. Alla perspektiv. Därför är Richard Jomshof Socialdemokraternas bästa valarbetare | Henrik Torehammar Svenska Dagbladet",
+        "short_explanation": "Political dispute involving Jomshof and Andersson reflects deep party conflicts in Sweden."
+      },
+      {
+        "title": "Lotsen delgiven misstanke för brott efter båtolyckan utanför Tjörn - SVT Nyheter",
+        "source_name": "SVT Nyheter",
+        "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVlZKVnhUeXhTTUY5bW14TjZtWEN4MlhMSnFQVWtzc2o3N0xKbDYtaWlRUXhaako0YU8weGlRZUo0TS01bXpYX1hIYzVPdjQ2QTNPYm44S29vUEdoUFZaZ2cta3NYNTNtcjFyOGMtZ0FJSnJvWXctZW13MERBd0w5Y3R5UWFFYk1GZTR1UHdUcWZMVU5NX3VtSm5aTjI?oc=5",
+        "published_at": "Tue, 04 Aug 2026 07:39:45 GMT",
+        "snippet": "Lotsen delgiven misstanke för brott efter båtolyckan utanför Tjörn SVT Nyheter Rebecca, 18, var på plats efter båtolyckan: ”Min första skarpa insats” Aftonbladet Ytterligare misstänkt efter båtolyckan vid Tjörn Expressen Åklagaren: Bilderna visar att båten blev överkörd i Hakefjorden Göteborgs-Posten Befann sig 90 meter från fören – såg inte båten Dagens Nyheter",
+        "short_explanation": "Pilot suspected of crime after serious boat accident near Tjörn, raising safety concerns."
+      },
+      {
+        "title": "Forssell efter EU:s krismöte: Får inte hända igen - Västerbottens-Kuriren",
+        "source_name": "Västerbottens-Kuriren",
+        "source_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU1FfS3Baa2MxOC1PcDVhcUxJdzduYy1QNk5NZDNzRnNIUGRidTNpTnRLN3VMdWRUa1VkOHgyZFZKd0FDcXRBd1dkR21Pc1JvOGFIOC1DRkZQalNsa2J0a05TVGZjY08zdjh0dDJyRjFoS3c1bU9MalZoUzV5MWVERHdtdzktMEZkZUE?oc=5",
+        "published_at": "Tue, 04 Aug 2026 12:38:36 GMT",
+        "snippet": "Forssell efter EU:s krismöte: Får inte hända igen Västerbottens-Kuriren EU efter krismötet: Berömmer Spanien Aftonbladet Forssell (M) ser tecken på ny flyktingkris – som 2015 Göteborgs-Posten Trump: ”Är två saker som dödar Europa” Expressen Somar Al Naher: Kristerssons totala haveri i Spanienkrisen är genant ETC.se",
+        "short_explanation": "Swedish politician warns of new refugee crisis after EU emergency meeting."
+      },
+      {
+        "title": "Stor polisinsats på skärgårdsö – uppgifter om skadad kvinna - Nacka Värmdö Posten",
+        "source_name": "Nacka Värmdö Posten",
+        "source_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2JkTFd0d2FBZFA3QlZDU1NMM0pidHlXYWdsR2JDQzRLd0dHa0xObkRvTG9Fd2M1VGd6R3d6bThpT3BaRUZmNTN3bTFyYm5lMjJ2SWhTTGZyVHpMdEhOVWZNWVFBSzJfVUs1VXItRVRCRl81aE9LN3hpcmFRaE1TMGY3dWM0bUU?oc=5",
+        "published_at": "Tue, 04 Aug 2026 15:41:55 GMT",
+        "snippet": "Stor polisinsats på skärgårdsö – uppgifter om skadad kvinna Nacka Värmdö Posten Kvinna hittad skadad på skärgårdsö – stor insats Aftonbladet Stor insats i skärgården Expressen Stor insats i skärgården – helikopter och sjöpolis deltar Sveriges Radio Uppgifter: Kvinna hittad med knivskador i skärgården TV4 Nyheterna",
+        "short_explanation": "Major police operation on archipelago island after woman found injured, causing local alarm."
+      },
+      {
+        "title": "Ingmar Nevéus: Kusliga likheter mellan 2026 och tiden före första världskriget - Dagens Nyheter",
+        "source_name": "Dagens Nyheter",
+        "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVnA5aXZPVGlLd0xKZkF0cm42Sm4xQmZaNWc4a0xxeTIzaXFIaTZRTFNjUC1veGlkSWNFNmNzR3F6OHY4ODRlNEEtZVFvM2xsSWpKSGZ1RGVnd1lHRlZkMkhTTzJDVGY1QVh2eFJ2V0paWmRZSjAxaFJTNkhjMUtjOXJ6ZF82ZFdCaXU1YTFrZGhpRHF5V2x3T0l1dklNLXk5RG5VZjYyOA?oc=5",
+        "published_at": "Tue, 04 Aug 2026 18:45:58 GMT",
+        "snippet": "Ingmar Nevéus: Kusliga likheter mellan 2026 och tiden före första världskriget Dagens Nyheter",
+        "short_explanation": "Opinion piece compares current global tensions to pre-World War I era."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Ariana Grande Drops New Single 'petal'",
+        "platform": "youtube",
+        "source_label": "YouTube trending (ArianaGrandeVevo)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-31T15:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=afSgBNwmZrQ",
+        "external_url": "https://www.youtube.com/watch?v=afSgBNwmZrQ",
+        "context": "ArianaGrandeVevo. The official music video for Ariana Grande’s “petal” out july 31 at 11am et. \n\n'petal’: https://arianagrande.lnk.to/petal\n\nShop the ‘petal’ collection: https://arianagrande.lnk.to/shop\n\n► Follow Ariana Grande:\nhttps://www.arianagrande.com\nhttps://instagram.com/arianagrande\nhttps://tiktok.com/@arianagrande \nhttps://facebook.com/arianagrande\n\n► Subscribe to Ariana Grande: https://a",
+        "short_explanation": "Ariana Grande releases new single 'petal', popular among Swedish pop music fans."
+      },
+      {
+        "title": "Avengers: Doomsday Official Trailer Released",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Entertainment)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-20T13:00:20Z",
+        "source_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "external_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "context": "Marvel Entertainment. Doomsday arrives December 18th.\n \nExperience Avengers: Doomsday on bigger, brighter, & more immersive screens. Tickets are now on sale exclusively for Infinity Vision certified theaters: fandango.com/avengersdoomsday \n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stre",
+        "short_explanation": "Marvel's Avengers: Doomsday trailer excites Swedish superhero movie enthusiasts."
+      },
+      {
+        "title": "Jumanji: Open World Official Trailer Released",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Sony Pictures Entertainment)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-29T00:59:43Z",
+        "source_url": "https://www.youtube.com/watch?v=zhApeaHMvfs",
+        "external_url": "https://www.youtube.com/watch?v=zhApeaHMvfs",
+        "context": "Sony Pictures Entertainment. One. Last. Game.\n\nThe final countdown begins. Watch the new trailer for #Jumanji: Open World - exclusively in theatres Christmas Day.\n\nFollow Us On Social:\nhttps://www.facebook.com/JumanjiMovie\nhttps://www.twitter.com/JumanjiMovie\nhttps://www.instagram.com/JumanjiMovie\nhttps://www.tiktok.com/@jumanjimovie\n\nThis Christmas, Dwayne Johnson, Kevin Hart, Jack Black, and Kar",
+        "short_explanation": "Jumanji: Open World trailer released, Swedish audiences anticipate holiday movie."
+      },
+      {
+        "title": "MrBeast Explores His Abandoned Minecraft Server",
+        "platform": "youtube",
+        "source_label": "YouTube trending (MrBeast Gaming)",
+        "score_label": "trending #6",
+        "rank_score": 950,
+        "published_at": "2026-08-01T16:00:03Z",
+        "source_url": "https://www.youtube.com/watch?v=PRp5Y543LN0",
+        "external_url": "https://www.youtube.com/watch?v=PRp5Y543LN0",
+        "context": "MrBeast Gaming. I can't believe a random video 6 years ago started all this\n\nI want to make it clear that I don't own this Minecraft server anymore, it's now in the hands of the community. So be warned that if you go on this server, you may see profanity or other things that I have no control over. The community I met on the server was so wholesome, so if you go on the server, let's try and keep i",
+        "short_explanation": "MrBeast revisits his old Minecraft server, engaging Swedish gaming community."
+      },
+      {
+        "title": "Would You Rather Celebrity Tower in Roblox?",
+        "platform": "youtube",
+        "source_label": "YouTube trending (AffeDoom)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-08-03T14:00:21Z",
+        "source_url": "https://www.youtube.com/watch?v=8EtVWT-FWIY",
+        "external_url": "https://www.youtube.com/watch?v=8EtVWT-FWIY",
+        "context": "AffeDoom. Min Merch! 👕- https://affedoom.shop/\nSteelseries Gear 🔥- https://filify.link/affedoom-general-webhallen\nPRENUMERERA ❤️- https://www.youtube.com/@affedoom\nHade Du Hellre KÄNDIS TORN i Roblox!",
+        "short_explanation": "Roblox game 'Would You Rather Celebrity Tower' popular among Swedish youth gamers."
+      },
+      {
+        "title": "Gang Leader Ali Shehab Sentenced to Life in Iraq",
+        "platform": "reddit",
+        "source_label": "r/sweden",
+        "score_label": "r/sweden hot #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T19:35:49+00:00",
+        "source_url": "https://www.reddit.com/r/sweden/comments/1vfkjwv/gängtoppen_ali_shehab_döms_till_livstids_fängelse/",
+        "external_url": "https://www.reddit.com/r/sweden/comments/1vfkjwv/gängtoppen_ali_shehab_döms_till_livstids_fängelse/",
+        "context": "submitted by /u/Icanintosphess [link] [comments]",
+        "short_explanation": "Gang leader Ali Shehab sentenced to life in Iraq, noted in Swedish news."
+      },
+      {
+        "title": "Personal Story: Parents Refuse to Integrate into Swedish Society",
+        "platform": "reddit",
+        "source_label": "r/sweden",
+        "score_label": "r/sweden hot #3",
+        "rank_score": 980,
+        "published_at": "2026-08-04T12:44:10+00:00",
+        "source_url": "https://www.reddit.com/r/sweden/comments/1vf9at9/hjälp_mina_föräldrar_vägrar_integrera_sig_i/",
+        "external_url": "https://www.reddit.com/r/sweden/comments/1vf9at9/hjälp_mina_föräldrar_vägrar_integrera_sig_i/",
+        "context": "Jag känner inget hat mot invandrare, tvärtom är jag själv barn till invandrare från Somalia och är född i Sverige. Mina föräldrar har bott här i över 26 år. Nästan alla deras barn är födda och uppvuxna här. De kom hit från ett Somalia präglat av krig och fattigdom, och jag förstår att deras historia och erfarenheter har varit svåra osv osv. Självklart finns det saker att känna empati för. Men det ",
+        "short_explanation": "Story highlights immigrant parents' struggle to integrate into Swedish society."
+      },
+      {
+        "title": "r/ostbiff is Like Fifth Wave Feminism",
+        "platform": "reddit",
+        "source_label": "r/sweden",
+        "score_label": "r/sweden hot #4",
+        "rank_score": 970,
+        "published_at": "2026-08-04T16:02:40+00:00",
+        "source_url": "https://www.reddit.com/r/sweden/comments/1vfejnv/rostbiff_är_fan_femtevågsfeminismen/",
+        "external_url": "https://www.reddit.com/r/sweden/comments/1vfejnv/rostbiff_är_fan_femtevågsfeminismen/",
+        "context": "Nån skapade r/ostbiff efter att nån tjej frågade hos r/unket om hon fick vara med, men inlägget togs bort. Tjejer kan också shitposta! submitted by /u/BanverketSE [link] [comments]",
+        "short_explanation": "r/ostbiff subreddit created for female gamers to share content, reflecting Swedish online culture."
+      }
+    ]
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-24T22:21:56+00:00",
+  "updated_at": "2026-08-04T21:03:56+00:00",
   "countries": [
     {
       "iso2": "US",
@@ -152,6 +152,134 @@
       "summary": "U.S. adds 12.5% tariff on Nigerian goods citing forced labor concerns, impacting trade relations.",
       "confidence": 0.9,
       "source_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZC13N01NalNsRG5KWmxnLU1hRlozZFhxMmFZR0ZqS096STdITjQ5Z0pQSk00dGtHYXhGXzc2ZGZtUXlwYS1xZHdRVkZCX3BfR0ZxQTR3UlBxeVZVaW5GTzVGMkpqWE55aU8wZDRVc1BIR3lBZ1M0R0Vab2RmNVl4LUVGQXc1bTFVYlcwZnpMU3BrU0lEeVFjZnEta3poZVlLOGc?oc=5"
+    },
+    {
+      "iso2": "IT",
+      "country_name": "Italy",
+      "headline": "Il super caldo fa schizzare le bollette elettriche: Po in secca, centrali spente e prezzi ai massimi",
+      "summary": "Extreme heat dries Po river, forcing power plant shutdowns and causing record electricity prices in Italy.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0VPbXJKc1BTb0JyNWk1OXlIaGtYV3dPS3VnVnhXVjdDSTkzV1Rjcnh5RndYM2RGYTRpVmJpVmxoQ3J1Xzc2MHFrNngxc0ZFRnRXV1ZPQW9vcnFtYUpQY0hRRmg4X2NVSVYzYUExVWM2Q1BjRmpxNjNrSUxWMHR5dGtzQWhud3BWTnNxM09JV0hWR3FLa0lmOHBwZ0pBZ3F3WTVHREpNLU1HUzByTlk0elB1WW9RWnNGT2ozM0RCYXBuVjdSUFNZUjJtRU1ncHM?oc=5"
+    },
+    {
+      "iso2": "ES",
+      "country_name": "Spain",
+      "headline": "Crisis migratoria en Ceuta: últimas noticias de la entrada de inmigrantes desde Marruecos",
+      "summary": "Tensiones rise as 72,000 migrants crossed into Ceuta, sparking debates on migration and border control.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNEUzcWZQc0NNUkZYbDQzNlhndi1iNWdoNjl6N3lyN2xzV3RxLTRnaUx3c2QzUHcydk1NbmpmcDFOeG43WWtaT05KWXg5TzRuS0FsZlppeFUySFIwT2pILWNGRGU3d3lFQk9FOUxpRzlrOTl3aUFQOG5fbE9RMGRGNHdXN2V1Sl93M3JVTEEyMEZ3eF9GRWQwZ1RNeWdtMUNZLVhsWFFPUXlDVHowaDdrSw?oc=5"
+    },
+    {
+      "iso2": "NL",
+      "country_name": "Netherlands",
+      "headline": "No injuries in Venray forest fire, but campers deeply affected",
+      "summary": "A forest fire near Venray caused no injuries but unsettled campers amid fears of WWII explosives.",
+      "confidence": 0.85,
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRVZNdDVvZkU3RXcwNjVhNFRhc0tfYVlvRDdiTnVvQWxuYzl4OUtoVGRGaU1oRnltMGlrYi1JNFRYY1ZrS01YTzhYTV93MFZEZ0JKZVpjYkV2SDZGU1FnUVBySHhiemRkZFZ1aTNoak0tYV9LczVLaFVNTjVpaHF6Q19PWEVDNUJ5Q0sxeWtBWXlVYTM2U09NZXR1cDZJVmpXdTc0akNIcmt0SzZFQ3ZmTXZCREtqV3U4NW5td0R6YWxKUHMxeG5kTVM3UEplRDdNenJfV0JBa0lEQ2VnVV9MMlVCSEZmT2wwWjE2UGxR?oc=5"
+    },
+    {
+      "iso2": "PL",
+      "country_name": "Poland",
+      "headline": "Morawiecki odsłania tajemnice PiS, Kaczyński czyta i się wścieka. To nowy poziom sporu na prawicy - WP Wiadomości",
+      "summary": "Polish Prime Minister Morawiecki reveals internal PiS conflicts, sparking anger from party leader Kaczyński.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOQS0zcndRckFvT1ZuRXg0cnM2NHNMbk9FSGstNWc5WDhmams2UWJ5cXN0ODF6VmdKeUlzWkFXZnpqM1poUndxUHVsem90NjZFd2NTTVBqRU1EZG8wUTNvV0hCX1VsaVZYUk9Ici0xbHZJS0JjRjdBOXNVMjRlRHZCNXFLTTJoNlhDbEdtWVRndUNkQXM2TWNqMlFTX2s5TE5lMUplbEUzVDBEeTYweHpjZ2FZMmowV0oxdHplSFAzeFM2S25xdGEza3ZOaDVfZVd4WkxpOA?oc=5"
+    },
+    {
+      "iso2": "SE",
+      "country_name": "Sweden",
+      "headline": "Kommentar: Kom upp ur sandlådan, Jomshof och Andersson - Göteborgs-Posten",
+      "summary": "Sharp political clashes highlight deep divisions and heated debates in Sweden's public discourse.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNLUJSeFZlZWZ0TGc1aU1uYWktczE4Sm9aRkxkNkZJRnVvdC1Tb0ZXVFhDcFFXbFFUMHR5T0tYalY0clB2ci16clZkRUlqNlJPZDV4eE45aUVkZTBUUjJlWi1ZREh6cE1YQWNFX1VVcjFXSjJDUU01bWxnMDVzZEpDWWlxNzl4ZWtmQVVqdjJLNXZwaElHQVN2VjlaNS1vd0pIR3owcnc1UDE?oc=5"
+    },
+    {
+      "iso2": "PT",
+      "country_name": "Portugal",
+      "headline": "Ministra da Saúde admite aplicar taxa a quem recusar vaga nos cuidados continuados",
+      "summary": "Portugal considers charging patients who refuse long-term care placements amid healthcare system strain.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2tCZ0VXMnY3aVoxelZRQ2U0NmxiQUYwNDd3eHlEMmJRRE5OUUFuMklQc0ljWDBuaVl1WVY0ek1TRDgzWEFiU2hieERzWXVKUzBUNXNJcGlabVpjZ0lGdjh1RUprZ2dqVC1RSTdiQ0E1UnlqNVB6ODcxN3BTaW81RjVRYVI5S3VtMGN2NnB5ZktZMTl5WlRxaTdCeGZDYjVVczFQdFhqMWE0eERlbjZZLTFRTTRtUlFoWG1jdk0xS04wZWwtMGFr?oc=5"
+    },
+    {
+      "iso2": "TH",
+      "country_name": "Thailand",
+      "headline": "Widespread exam cheating scandal implicates hundreds, including insiders",
+      "summary": "Thailand uncovers massive exam fraud involving officials and outsiders, sparking public outrage.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPem0wc0ZTSzFtTGVuRm5wOFlfV09uamM0TkMzVUhDUTFfcktVM0NITHdZVkgyVElmTWlmMjV6NDFFNlA3UFpfSUxCTWgydVpMdDZwNGtDd0x1WXZxaVRfVEhDRl9qRldaX19JZE5nY095b05LX0RZNXpDSWx6RHQweEt0ejI5a0JsYzlGcjBZUXl5VkVZYmc?oc=5"
+    },
+    {
+      "iso2": "VN",
+      "country_name": "Vietnam",
+      "headline": "Phát hiện thêm 2 vị trí mộ liệt sĩ tập thể tại công viên Lê Thị Riêng",
+      "summary": "New mass graves of war martyrs found in Ho Chi Minh City's Le Thi Rieng Park.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWXNoWmRsd3ZhRDJIWFdxVXpVcWZkTmpkXzRiT0RGWHdnV0RqUTFQWFNZaVdicEx2VkppbVljR2duTlA1dHVxczQ3VTMxU0hKVmVlZkU3SGNkNnpMaGl4VjhzazFjaGJ1N0U5RTJXMExZUkhoRV91N002V1ZZczJRaE9EelNNRW1QanZYNVVOdmtBclZkbDYwTktzb09wbGFaTTB5Mm5CVG9jQzBsQ0FDUTc3SQ?oc=5"
+    },
+    {
+      "iso2": "MY",
+      "country_name": "Malaysia",
+      "headline": "Tabung Haji RCI findings: CCM must commence investigation — Hafiz Hassan",
+      "summary": "Calls grow for investigation into Tabung Haji's RM1.4 billion loss discrepancy revealed by RCI.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEdVMGQ5ZE13clZUMjZadU1tU0tuQnYtRHJUTTMzamNHXzREd2lES1RzY0cydGRqSkgtMzJqc0VReERxYXdpVmJpYXdnTFR6SERrdHM1OVVLdFR5M203a1ZGeHNoaFRVM3lYWExLRXVPaUg1dWpOUExnZjNpUnl6LTZTY01XSnlfeHoxa28zdko5aEtZOXdHc1ZEalNycXI0X2dhcE13ZFV5a25aWnFpWDBCb1F0SVd5TUxHVGRPZkNka2FaQWQ5N1JQc2FRQdIB0wFBVV95cUxOMnIzQmhtUk5HdnNlcU1IS05rWmMxRlZrbEFERnA0MmVlUXBseTBSeDlTLTlkOGJEa2k0bXZJT0xVOERLRlJKTUFaNGh5ZFFIRzBIU1pEdjVRUnJHR2F5bFA4QXBFc3VaQklUOUZ3TnpLcFRReE9FeFJlbk02SWo2UHYwWUhDTXdsWkpBNmtJUmxGY2pEWW5DTElvY2c5aERjRlpJUFZzWUttMEpkeW1kbTI3R2ctWWFYTHZIM2gxajNONWRZRy1sejVuZlJxSzFMcjU0?oc=5"
+    },
+    {
+      "iso2": "PK",
+      "country_name": "Pakistan",
+      "headline": "ACDC-ISSI launches new book on India’s Hybrid Warfare and implications for Pakistan’s national security",
+      "summary": "New book explores India’s hybrid warfare tactics and their impact on Pakistan’s security concerns.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb281V05meWFJM3NwaXdmaVh5VU1JUWRrODkxb0hoTUEyQnRLcmdvdHBTa0tEODJSemF5ckNfQzl4Y00tbWt2eFNrcXRBRVo1MFZWbXdFdlRCU19uWGNCM3k0MExObkpOR0tFV1prSUREc2dja2prUDlwQ29FblNKLTEydnlTMnhISnZoR3IwZ29KVFRYQkpYQmQtb0JIb0gxLVFIM21ibzRoLVZKdTdCZFJqV0pqUVJfZU1WUUxHQk9mSFFwSjgwdQ?oc=5"
+    },
+    {
+      "iso2": "EG",
+      "country_name": "Egypt",
+      "headline": "الداخلية: ضبط طبنجة صوت وكروت مزورة بحوزة منتحل الصفة القضائية - youm7.com",
+      "summary": "Egypt cracks down on a fake judge using a sound gun and forged cards, sparking public debate on judicial trust.",
+      "confidence": 0.85,
+      "source_url": "https://news.google.com/rss/articles/CBMihARBVV95cUxNSXI5Ql9fa3EyNE5mWFdtZWhGaVI0ODBEZzg4TUF0ZVhsWWRkT29IcmdLY1ZJcldUOGIteGVUSlZLUno5eE0zbnNsNlJYME1QRGVLQm94UVE4WXRmdUc1RDBNamhxNVVhMDhwOWdydjRUV2J4TEVtMkp0aVpZZEpfcFY0WHozcElkRjhKVVJzVWxGRjVpMXZtelZQVHRFU2l0alVRazdrTTdUcHV4R1RpUDh3MGhWUGU1ODJPMlp3YVJWRERrNUJ5TFhMcTZDQ2JJY25GVlhMcU03cVVKS2hjT2xuZktSNnp1NFo2SWFGWUZHM2FHVGl5Smx6RUFpdjdhWlltb1BZbVQ0NTVLeV83cmxZdXc4TTBWZlk2ai1xR2plcVlTYjA0a3NkZkkzaVVoNG5JUlVCcVFuLVhpdnlEWHZPbi03alFCM1pKNEt3THZNUkxUSHFlQi1oN0pGaDhULUJZUG9rYkhyNl9pXzh2X1pCV09ZYWtQRlBLRFZaN2FYaVJGWldiSV9fV3ZJMUY4VTliVlg4NkJwa3pDNFZyb1RVSy1wSm5OUUJGNTVibVdoM0RNdWwxa0FGLURCZkhHellYOENRYkNzQzdRMVNGeGNXOGJtclVfME9pRE1fMXlBcjgwRy02cU41N3h0YUVBbU5kS2FCTlltVDBVM0VoNzZzaUHSAf8DQVVfeXFMTjNITk1UVEw0XzdrUEFKRFlSdUNhZWJDU3ZiV1VySGNLQVY4WTlxY3BFM0JVYUsyTE1SMm50NWxxbFpHYmJjTlhrM21xczFINTB3V2V0cy1zYUo3WHpQWGRzZU9DTU5sbG9XTnVMNkRzQkwzUzI2RjFId2locXgtXzRadi00d3BwMWF1NGk3Q09uMUlrYkxsdWZpS1dhX3JLaUo0bVFlcnBpUzQ2ZGF4akw5TlNXTXQ5YWtmUmtrejdLVzBZSmZoWFJzbTI1b0tudTEzNk1LNzZ0TE1LYU54SkdaRVdxbjkzaEw2SkNSTVlGLWR2VGpuWWYtaVZmVFM1VlJUWXFad0JLODczZ0h0aG50RThLLU11dGluMEpoT1B0YVhndTk0bXBSalhvcFpCak0xODI5Z2EyZGxxX0loNkdOVE1GVTNkMzhMdlZ2R3NvQVhxUmc0dndzM0tQWUkwajBBazdWMklvOUxENjZZOGRsZlh3eXdRWjdhLWVSMC00UXVmUWU4ZDhuNncyRWJhdTNRbHl4S2hSeXJSQlBYOHJQU1Rwd3czS29vWEdWcVVvTXJMdnhFZU5kMExKU19Id2p1WUdnZ3ZHLWQ1UXJRbjJURm52dHV1UVRkc3Z2NjM0bDBLdGFQTzhCQmNvN0xsYXBCMDU2MzVJblA4bnhGSQ?oc=5"
+    },
+    {
+      "iso2": "IL",
+      "country_name": "Israel",
+      "headline": "דיווח: כל עזתי שימסור את נשקו - יקבל אלפי דולרים - מקור ראשון",
+      "summary": "Israel reportedly offers thousands of dollars to Gaza militants surrendering weapons amid renewed Hamas talks.",
+      "confidence": 0.85,
+      "source_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qSTJ1S2Z2TGlCWER2SlZTV21rTHhlQ3VrUkJPUVJCT0xWbm9MX1VIX0xRUTNweV9uMkowWTlQblZzb09SR21VcUpCQThSMEhkY1Y4Z24zaWo2Vk11QUx5NG1VaDVhTlNXdk5tbHp3?oc=5"
+    },
+    {
+      "iso2": "SA",
+      "country_name": "Saudi Arabia",
+      "headline": "مصدر إيراني: طهران تسعى للسيطرة على حركة الشحن في هرمز - العربية",
+      "summary": "إيران تسعى للسيطرة على مضيق هرمز الحيوي لشحن النفط وسط توترات إقليمية متصاعدة.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPMzh5UWtqNGNTMm9TUlR2bVI1V0JXZmVBNnVkd0JXVDZRUEQ0aVlvQ0JOQ1A4VG5NQmEtTVFlYWdwOW1jQ0VrZzBKcGpBQkpYQmtTS3RtTUJhODFpQmg1TXQtc3Y1NXVlcWY5REwtN0N5RFdQS2hYa0ZYc1JDaHRIZi1kRDhGTmpxWUZHVVg3WVV1WE1DNmhHMWRpZDFBenkyUXJyN0dZbk90YWlhTFhVVjJfcHFjR1VsdlBvSkFzNlpJZWl2TlFGZE5PZVhLWm4ydVI2WlRRWnVBcnZuZHZWejBFZ2xGVk1IYVJzLUNnOGdkLVc3bkhCSDI3NEMtcXVIVXlzNVlaMkViTFVkU3lCbVRfSmNsVENVQXlibHU4dG93Z0MxNlhxaTJoSjFhaFhFbzk5VE1KNkZNNFFaSGwzM18tMWh3Z3UybEZHUjJzUXJza1Ruc2dvemVvZmp3eTZyOFdYOFRIbndnblNzQ3ZHNHF2R1NaVjZwaVVaQ1B5YmludHNaMEZFVDM3YVhyVThZeTA0em9pNm04R0g0NUYtV05FaE1lU3ZaWGt0YWpJS1A4U3lmZ2M3akxuMmFGa1lj0gHGA0FVX3lxTFBDN0R5WVhxUWRheExtcDJTcno3YUJTeTM3bS1wb0UwNzRTd2RuUThZN1c2cDdWWE1GSnRlU3YxY01URmtmamhnZWNjUW5pWU5RQVZfZlFCeTFndjJwSTRqQ0lGZUdHc21xSG9NY0Q2Zm9oZnlSM0ZQZ1dGaUhsdHRVT3dfeG9tZFVmWU9qQm03YjZLWVNOX3NEamd4OV9hZ09yZEEtZHlaT2lHdmt4aVpHYkhLVGxfdlEtXzltRXRSRDhEQXZ4ZzFxMWZQcnhTOG5acEF6Y2NvRXZ6RnkwRmNuWHhmSW85dUxwdWVMYWJHVkp3TS1PWHoyV2xGdnhSUGdTRUZKR054MWFISHd2MFoydEJRYmF2MERKaVd4RGNaYUlqb1NPb0FoWGJZSGdGYnRGcjhFQjczeWpLU0NXOXpaVE1XR1F0RFBmYzVUMndJUkMyUlVwTllJcFg0b1hVOXFiMExNQkFwXzZ0MmJoUWFWRGRZenRiamVpMWJNVUJ3SG56eHkwVm8yZnJzWGoxX29JUVk2OHlfTlpUdjVvbUx2UkVaNzRPcDJ2Z2tsa3VIZFFGdnJLYjBtTnpnYU95bENCNzAtMWc?oc=5"
+    },
+    {
+      "iso2": "KE",
+      "country_name": "Kenya",
+      "headline": "How Kenyans lost Sh491m, cryptos via SIM hijack - Business Daily",
+      "summary": "Kenyans lost Sh491 million in cryptocurrency through SIM hijacking scams amid rising AI-linked cybercrime.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb2tPU2xEN2U1ZDRVcmhHOTRfVVMwSWdFWlZsbmZWSHJZekNRQlJMcXZDSTQwajY0WUc0bzRYWmRfajRrMmlOb19CUGRxVkxPczRPRmpNZi04dl9VNGtJTmdCMmU0X0RZVV9IQjN3SkFIdUVkbzZvYjdtUE0tRTY1MFhQMFJWdG1jNnZidnMxUDJMaGtHb0JnZldiSDFENGUtRHNlb0g0UUUzY2xOa0MxZTVxU0g?oc=5"
+    },
+    {
+      "iso2": "CO",
+      "country_name": "Colombia",
+      "headline": "Histórico: Metro de Medellín emitirá, por primera vez, bonos de hasta $330.000 millones",
+      "summary": "Metro de Medellín issues bonds to fund expansion, marking a historic financial milestone for public transit.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnRZVEF0eWt0S1lHaTBaRGpQRXFLcVpiMjJOc2ZIcmtQRUV2cGhOSDR6dnNJaVpsaHJLbUxqTlAycWxFSTgyY3N2VzhIQkJsM0Zhbl93aGJ4VF9SRGE2R2IyLV91RjFwNkdFbEkxZVY3Y25sYkh6ODNEWXhNYWRvang4a1E1TGhsNXZYUzNic1kwQWRDRzUydzZBclRVLXJ3MHZUMmY4emNxbmNvcEJQeGNXX1hETll0UDZnRVlWWjZSTUNPS25DT1RJd9IB0AFBVV95cUxPOFFZTUstZUZ6cWxjMzhGYjRHcWtXYWZFbnloOE9EamNsczJFdUZSNnYtTldpeGh1aUhUbHBlS3hETmY5T3pGTG50TXhrdXZHaVJwVzFFVWlNNWRScG5JRlV0Z1ZQYVVhanJCRjZWdDFMYklJdTl1TkkzRjRfNFdKclFkRVU5SGQxbkpaNnlPakJDWFpuUVdCcmdHTGU3ZHI2SWRZVEVLWF9hZ2x4SkE3RlgwbFZGX25NSnY1bEt2NFNBeW1FczdXMHlFSWpSWXEt?oc=5"
+    },
+    {
+      "iso2": "CL",
+      "country_name": "Chile",
+      "headline": "Codelco suspends El Teniente project due to emerging seismic risks",
+      "summary": "Chile's state copper giant halts major mining project over new, unexpected earthquake threats.",
+      "confidence": 0.9,
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxORTZ5bkFlbVR0ZzlHS1NXNy1mczBxT0wwYUlneTlneFN4SzM3OE01V3lRaDNhVno4eXlhWEo0WHFTWmtlVmlmMDRTU3R2U0tyZkRNcVZJUFNJVXhCSktpUFg5aEI2aklMa2dWTVFmY3ZLOGdHX25YOXl6TURHdndWcmQ2WGhyMVlHTnRGOFpjLTlGcDhlQXNCQkZWczFhNFZoekNWemV6ZXFBRkdMZGtnNjZOcXRhdWd6RVNUakFrYVBxak8zdXN3N1c3T2pid2dDeFFnN29vM2pTWkFnTkZjYmRRTVpqMGNJaml0SEx1U3JYUnlPZl80UU5SUnpRMTI3VGVlWA?oc=5"
     }
   ]
 }

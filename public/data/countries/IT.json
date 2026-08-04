@@ -1,0 +1,877 @@
+{
+  "iso2": "IT",
+  "iso3": "ITA",
+  "country_name": "Italy",
+  "flag": "🇮🇹",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 41.8719,
+    "lon": 12.5674
+  },
+  "updated_at": "2026-08-04T20:49:19+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "heatwave",
+    "energy prices",
+    "Po river drought"
+  ],
+  "top_news": {
+    "headline": "Il super caldo fa schizzare le bollette elettriche: Po in secca, centrali spente e prezzi ai massimi",
+    "summary": "Extreme heat dries Po river, forcing power plant shutdowns and causing record electricity prices in Italy.",
+    "why_it_matters": "Highlights climate impact on energy costs and daily life in Italy.",
+    "source_name": "DDay.it",
+    "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0VPbXJKc1BTb0JyNWk1OXlIaGtYV3dPS3VnVnhXVjdDSTkzV1Rjcnh5RndYM2RGYTRpVmJpVmxoQ3J1Xzc2MHFrNngxc0ZFRnRXV1ZPQW9vcnFtYUpQY0hRRmg4X2NVSVYzYUExVWM2Q1BjRmpxNjNrSUxWMHR5dGtzQWhud3BWTnNxM09JV0hWR3FLa0lmOHBwZ0pBZ3F3WTVHREpNLU1HUzByTlk0elB1WW9RWnNGT2ozM0RCYXBuVjdSUFNZUjJtRU1ncHM?oc=5",
+    "published_at": "Tue, 04 Aug 2026 14:07:00 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Neo-Nazi Attack on Hotel Hosting Jewish and Italian Teens in Bulgaria",
+    "platform": "reddit",
+    "explanation": "Neo-Nazis attacked a hotel with Jewish and Italian teens, shocking for its blatant hate and youth targeting.",
+    "why_people_are_sharing_it": "Highlights rising extremist violence and solidarity with victims.",
+    "tone": "angry",
+    "local_context": "Italy’s sensitivity to fascism and anti-Semitism history.",
+    "source_url": "https://www.reddit.com/r/italy/comments/1vfia9b/bulgaria_naziskin_assaltano_hotel_con_adolescenti/",
+    "media_url": "https://www.reddit.com/r/italy/comments/1vfia9b/bulgaria_naziskin_assaltano_hotel_con_adolescenti/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=it&gl=IT&ceid=IT:it",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Borse europee chiudono in verde con calo petrolio, FTSE MIB su nuovi record - Borsa Italiana",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Il super caldo fa schizzare le bollette elettriche: Po in secca, centrali spente e prezzi ai massimi - DDay.it",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "SpaceX è da acquistare prima dello sblocco da 104 miliardi di dollari? Elon Musk risponde - Yahoo Finanza",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Meloni vede Salvini, Tajani e Giorgetti prima del Cdm - ANSA",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Meteo Giuliacci: «Svolta clamorosa, addio all'anticiclone africano: ecco da quando». Dopo il picco (e tutta Italia da bollino rosso)... - Leggo.it",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "I giudici contro la riforma della Corte dei Conti: 'Mina l'indipendenza delle toghe' - ANSA",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Padre e figlio piccolo rischiano di annegare nel lago: soccorsi in azione - il Dolomiti",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Campi Flegrei: 100 milioni stanziati, più assunzioni nella scuola - Il Fatto Quotidiano",
+          "score": 0,
+          "reasons": [
+            "penalize_routine_politics",
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Terremoto, forte scossa di magnitudo 4.3 avvertita a Lucca Pisa e Massa Carrara, persone in strada - RaiNews",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lago di Vico, recuperato il corpo di Luigi Cavallari dai sommozzatori della Polizia di Stato a 18 metri di profondità - Il Sole 24 ORE",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bessent: 'Possibile accordo per riaprire Hormuz oggi o domani'. Rubio: 'Sono stati fatti progressi, ma non si è ancora giunti a una conclusione definitiva' - ANSA",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Blanche «cancella» il Fondo per Trump e va verso la conferma alla Giustizia - Il Sole 24 ORE",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Le frasi choc e l'ambiguità su Israele. Ma il «provocatore» dem El-Sayed convince il Michigan - corriere.it",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Banca Ifis, utile semestrale a 8 milioni e sinergie illimity da 75 milioni - SoldiOnline.it",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Eclissi solare del 12 agosto, come guardarla senza danneggiare gli occhi: i consigli - Sky TG24",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "EA Sports FC 27, ecco come funziona The Grounds: minigiochi, quartieri e Alex Hunter - Multiplayer",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vertice Ue su Ceuta, in diretta | Cosa è successo. La Ue: «Nessun migrante ha raggiunto la Spagna da Ceuta». Madrid: «Ora l'Italia revochi i controlli alle frontiere». Nuovi appelli social per un ingresso di massa il 15 agosto - corriere.it",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Chat Delmastro bloccate: il non voto di Azione fa la differenza - Il Fatto Quotidiano",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Il Cdm approva un nuovo taglio delle accise sul gasolio fino al 25 agosto - ANSA",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Basilea, un morto, 27 infettati e 7 in terapia intensiva: focolaio di Legionella nel supermercato - la Repubblica",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "italy",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=IT",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/it.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 997,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Neo-Nazi Attack on Hotel Hosting Jewish and Italian Teens in Bulgaria",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A serious and specific incident with cultural and political implications, notable beyond Italy."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Linkin Park: UNSHATTER Documentary Official Trailer - Worldwide Theaters Sept 30",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Highly anticipated documentary about a major global band; strong cultural relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ervis Behari & Deivis Myslymi - Më Çmënde (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music video trending on YouTube with named artists; relevant for music culture but limited global impact."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A pop culture entertainment reveal with global Marvel fandom relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Welcome to Favelas Page Shift and US Government Funding Controversy",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A politically charged story involving social media, propaganda, and international politics."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "EU Launches Infringement Procedure Against Italy and 13 States Over SLAPP Directive",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Important political/legal news with EU-wide implications."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Bending Spoons Acquires Airtable for $1.3 Billion After Nasdaq IPO",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Significant business acquisition with tech industry relevance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Italian Parliament Approves Day Honoring Enzo Tortora and Victims of Judicial Errors",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Cultural and historical recognition with national significance."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ariana Grande - petal (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global pop star music video; strong cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Firefighters Robbed of Equipment While Fighting Novate Milanese Blaze; Online Fundraiser Launched",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Unusual and impactful local news with emotional and social resonance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Brookhaven Players Helping Animals on Roblox?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A niche gaming-related video; relevant to Roblox community but limited broader cultural impact."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Yung Snapp - Dale feat. Frezza, G.Mineiro, R3versal (Official Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music video with named artists; relevant in music culture but not a strong global signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Un'Altra Notte Violenta e Silenziosa - Official Trailer",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Movie trailer title; generic as a headline but relevant in entertainment culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Perfect Neighbor Horror Game Based on Absurd True Story (Full Game)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content with a horror theme; niche interest."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Map Comparing City Ratings from Franchino and Pratt Food Reviews",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Useful but niche content for food lovers; not a broad cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "HO INVITATO LOCO PER COSTRUIRE UN PASSAGGIO SEGRETO - ImperoCraft Ep. 271",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ceuta: identificati agenti dei servizi segreti marocchini tra i migranti",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ben E. King - Stand By Me (Afro House Remix by LABACK)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Istat: nel 2025 gli espatri di italiani calano del 22,7%, il saldo migratorio con l’estero sale a +296mila (+12,5%) grazie all’immigrazione e l'ingresso di 88.000 giovani laureati stranieri compensa la perdita di 78.000 laureati italiani",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dissonanza di opinioni fra emigrazione ed immigrazione",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Il codice verde a Fakir non l'ha deciso un operatore, l'ha prodotto un software",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "L'inflazione torna a erodere gli stipendi, dopo che dal 2022 quest'ultimi erano in risalita",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Strumento per scaricare facilmente i libri presi in prestito da MLOL, aggiornato",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Incredibile performance del box office italiano: fra Odissea e Spider Man è il miglior luglio di sempre",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La stretta di Xi sui paradisi fiscali: è finita la pacchia per i ricchi cinesi",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "[Pippone da 40 minuti, avvisati] Un'opera sola, quattro procedure VIA separate: come si autorizza un porto crociere in mezzo alla laguna di Venezia.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "L'Alto Adige va verso il divieto dei social per gli under 15",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Numeri del Superbonus: 52% nel Nord Italia, fotovoltaico al 10%",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Capsule e cialde di caffè: dal 12 agosto le nuove regole per la differenziata",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Commercio, si aprono sempre meno negozi: -45% rispetto al 2014 e -5,7% sul 2025, si contano quasi 1,8 chiusure per ogni apertura",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Attenzione a noleggiare un monopattino Dott a Padova: la mia esperienza mi è costata una multa pesantissima.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nave della Marina italiana abborda una petroliera della 'flotta ombra' russa - Notizie",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Conte: “No alle armi per l’Ucraina. Io premier? Chiamo Zelensky e Putin per fare pace”",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Caffè Italia - Italian Reddit Daily Chat",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:The title is quite generic and opaque without context; it refers to a recurring discussion thread on r/italy, which is a common internet culture format but not a strong global culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sparatoria in Crimea occupata: militare russo apre il fuoco sui commilitoni e sui civili, quattro morti",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ceuta",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Odissea (film)",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Episodi di House of the Dragon (terza stagione)",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Speciale:Ricerca",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Franco Baresi",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Linee di Nazca",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "levante",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "rapina",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "virus",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "demirovic",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "bono",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Pagina principale",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "lorenzo sonego",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "zac efron",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "tania cagnotto",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "jack draper",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ricina",
+          "score": -4,
+          "reasons": [
+            "penalize_generic_tragedy"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Borse europee chiudono in verde con calo petrolio, FTSE MIB su nuovi record - Borsa Italiana",
+        "source_name": "Borsa Italiana",
+        "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPcGQ3T3BvWENkS2ZDZ0V4b3VGREpESDg2dF9xWG1RdWFDbEVUMkNURjBoeUdpLXZBSXVMVE9heHNHVXd0VmhhQncyRXhQMDc2UzVoSFVnUmdxcnNFWXdCak5CakhfZEszYy11TTVvR09lRmMtTlRHSDFWc2J0WmhEcGY4bEZ4ZXVoZmhGYzV2ZVExRHFnUHRwUEd2R052cEg3dk9XdWVUWFFGQTNuT3BqVFF2dU5HajVnRGZwNjZrR2lFd3lNeElxenZVZkZHRFBKREdOSjV3bEtSVmZXcWFZOG9hZ0lHZ2dza1pIYkNHZmJQRmc?oc=5",
+        "published_at": "Tue, 04 Aug 2026 16:02:00 GMT",
+        "snippet": "Borse europee chiudono in verde con calo petrolio, FTSE MIB su nuovi record Borsa Italiana Brillante Piazza Affari che supera gli Eurolistini Borsa Italiana Borse del 4 agosto | Europa in rialzo, Milano record sopra 53 mila punti. Greggio cala a 80 dollari dopo le parole di Bessent corriere.it Borsa Milano ai massimi storici: Ftse Mib vola a 53.540 punti SoldiOnline.it Piazza Affari chiude in rialzo (+1,28%) trainata da difesa e tech RaiNews",
+        "short_explanation": "Italian stock market hits record highs, reflecting strong investor confidence and economic optimism."
+      },
+      {
+        "title": "Il super caldo fa schizzare le bollette elettriche: Po in secca, centrali spente e prezzi ai massimi - DDay.it",
+        "source_name": "DDay.it",
+        "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQc0VPbXJKc1BTb0JyNWk1OXlIaGtYV3dPS3VnVnhXVjdDSTkzV1Rjcnh5RndYM2RGYTRpVmJpVmxoQ3J1Xzc2MHFrNngxc0ZFRnRXV1ZPQW9vcnFtYUpQY0hRRmg4X2NVSVYzYUExVWM2Q1BjRmpxNjNrSUxWMHR5dGtzQWhud3BWTnNxM09JV0hWR3FLa0lmOHBwZ0pBZ3F3WTVHREpNLU1HUzByTlk0elB1WW9RWnNGT2ozM0RCYXBuVjdSUFNZUjJtRU1ncHM?oc=5",
+        "published_at": "Tue, 04 Aug 2026 14:07:00 GMT",
+        "snippet": "Il super caldo fa schizzare le bollette elettriche: Po in secca, centrali spente e prezzi ai massimi DDay.it Elettricità, prezzo ai massimi: pesano gas e condizionatori Il Sole 24 ORE Luce, oggi prezzo record da tre anni e mezzo: il caldo costringe a staccare centrali sul Po, reattori nucleari spenti in Francia e Ungheria corriere.it Aggiornamento PUN e PSV di oggi, 4 agosto: di quanto sono calati i prezzi? facile.it Gme, il prezzo dell'elettricità sale a 177,16 euro al Mwh ANSA",
+        "short_explanation": "Extreme heat dries Po river, forcing power plant shutdowns and causing electricity bills to soar."
+      },
+      {
+        "title": "SpaceX è da acquistare prima dello sblocco da 104 miliardi di dollari? Elon Musk risponde - Yahoo Finanza",
+        "source_name": "Yahoo Finanza",
+        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOUhsaHZ3eVBHcGlQcGlkUnJGdXJsMDFWRHFtMzZTdWRQQm11QXF1Ynd4WVI1WWNxZHdwNDUySnNpWnBNTXpCanpjazJtb1oybVItSUFydmpHRl8yMmRrQnB5V1k3TVhuVkRIUndyWXJIZHRSX0NRQVFiZENObHY5VmRSb2stRzFNZTNfZkln?oc=5",
+        "published_at": "Mon, 03 Aug 2026 21:21:55 GMT",
+        "snippet": "SpaceX è da acquistare prima dello sblocco da 104 miliardi di dollari? Elon Musk risponde Yahoo Finanza SpaceX supera le stime, impennata nei ricavi trimestrali Il Sole 24 ORE SpaceX risponde alla domanda più grande di Wall Street con utili trimestrali da record Yahoo Finanza Elon Musk ha perso 650 miliardi di dollari: il suo patrimonio è crollato (in poche settimane). Ecco perché Il Messaggero Patrimonio dimezzato per Elon Musk. Tra Tesla e SpaceX perde 684 miliardi di dollari la Repubblica",
+        "short_explanation": "SpaceX's financial success sparks debate on investment timing amid Elon Musk's wealth fluctuations."
+      },
+      {
+        "title": "Meloni vede Salvini, Tajani e Giorgetti prima del Cdm - ANSA",
+        "source_name": "ANSA",
+        "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcUZtY3dlaVJBejlkaWFLOHhZcmk4enVqQXk0RndUVVB5a0xIbmpiU1E4RzUxalR6ZHVPVEpHWlZwT2hLbkNTcDhGa1hoNGVuakd5WEhmSno2SU40VmpoWGN0eXZJSW1mVHJ4dVVBa1JBSW1LeTc3cmc3TExVb0VYN2htUExhOUEtdXdaZHNocEIwdmZPRUdQbjd1ZGNURHlrcnJRTjRrTS1xa2l2dXdyWlhOMzE2SjNwMndoQ082bkFkMjlkVWlYdTRlc2FEZFY4UXBod2N3X0VCbEtXSWdFaUF3?oc=5",
+        "published_at": "Tue, 04 Aug 2026 15:20:00 GMT",
+        "snippet": "Meloni vede Salvini, Tajani e Giorgetti prima del Cdm ANSA Visualizza altri titoli e punti di vista su Google News",
+        "short_explanation": "Prime Minister Meloni meets key ministers before cabinet meeting to discuss government policies."
+      },
+      {
+        "title": "Meteo Giuliacci: «Svolta clamorosa, addio all'anticiclone africano: ecco da quando». Dopo il picco (e tutta Italia da bollino rosso)... - Leggo.it",
+        "source_name": "Leggo.it",
+        "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQTF9GR01ROW8yVmRHU2Nuc1VUOVVjLVRtTE1BNWYyQ2Q5YkZqV19rZWNkSkVJQTQ5ZS0yc0tja3lIRzhuVl9DOWdMQURsbzhrQ21JTVVOYnJWdjFNTmV0bE9XdzVMNThlMGhyRklKTlFRSS1DaDFxTGVKOEs4NDcxcXp5TjN1a2ZqS1Jmb29sSjFaNHBzYklodi1JbWZGVmU4MXAyOVAtMHpkRGxfNzB4elg5WEJ3X29fWUNvRmpIQktfamZJZlNGTGhOUFTSAb4BQVVfeXFMTWM3bS1ucGRsSXRmTExKVlpHNURvZXVDZ3AwanExTU5pc0ZQZ3NMZ2xNay1vTE9PMnItSU5UWGlZOFNQTjVvT2dUTXJWSUZnaENoLXhBalN1ZjFvTDVMS3VaV2M3ZWJIVWVtd1BkSi04aklOb1NlUXF1M25CcUJFRjFBaWxqWThQdVFUREtyeGNfNEhqa2lMTE1BZERuNjZ5OHJ3VktZcmllY3NseDhoNHdocm5pdHJpU0ZuZERYQQ?oc=5",
+        "published_at": "Tue, 04 Aug 2026 14:22:05 GMT",
+        "snippet": "Meteo Giuliacci: «Svolta clamorosa, addio all'anticiclone africano: ecco da quando». Dopo il picco (e tutta Italia da bollino rosso)... Leggo.it Caldo, prosegue l’allerta gialla in Veneto anche domani TrevisoToday CPOSP ed emergenza caldo Il portale delle Prefetture Caldo al picco con notti infuocate. E nel Vicentino arrivano le prime multe nei cantieri Il Giornale di Vicenza Prosegue l'allerta per il caldo: le raccomandazioni della protezione civile VeneziaToday",
+        "short_explanation": "Weather shift ends African heatwave, easing Italy's intense summer heat and related alerts."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Neo-Nazi Attack on Hotel Hosting Jewish and Italian Teens in Bulgaria",
+        "platform": "reddit",
+        "source_label": "r/italy",
+        "score_label": "r/italy hot #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T18:13:45+00:00",
+        "source_url": "https://www.reddit.com/r/italy/comments/1vfia9b/bulgaria_naziskin_assaltano_hotel_con_adolescenti/",
+        "external_url": "https://www.reddit.com/r/italy/comments/1vfia9b/bulgaria_naziskin_assaltano_hotel_con_adolescenti/",
+        "context": "Domenica 2 agosto, un gruppo di naziskin con le magliette nere e il teschio, al grido \"Sieg Heil!\" ha cercato di forzare l'ingresso di un albergo di Sofia, in Bulgaria, dove si trovavano 200 studenti tra i 15 e 16 anni, in vacanza, provenienti da mezza Europa e delle Comunità ebraiche di Roma e Milano submitted by /u/sr_local [link] [comments]",
+        "short_explanation": "Neo-Nazi attack targeted Jewish and Italian teens in Bulgaria, raising concerns about rising hate crimes."
+      },
+      {
+        "title": "Linkin Park: UNSHATTER Documentary Official Trailer - Worldwide Theaters Sept 30",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Linkin Park)",
+        "score_label": "trending #8",
+        "rank_score": 930,
+        "published_at": "2026-08-04T16:00:04Z",
+        "source_url": "https://www.youtube.com/watch?v=K9Lpxc7bVTM",
+        "external_url": "https://www.youtube.com/watch?v=K9Lpxc7bVTM",
+        "context": "Linkin Park. UNSHATTER follows our journey through loss, resilience and creative reinvention. From studio sessions in 2022 to a sold out FROM ZERO album release show in São Paulo, this is the story of how we started over. \n\nDirected by Joe Hahn. Experience UNSHATTER in theaters worldwide for a limited run beginning September 30. Tickets on sale August 13. Sign up for early access to tickets at htt",
+        "short_explanation": "Linkin Park's UNSHATTER documentary shows band's resilience after loss, premiering worldwide September 30."
+      },
+      {
+        "title": "Ervis Behari & Deivis Myslymi - Më Çmënde (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Ervis Behari Official)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-08-03T09:11:06Z",
+        "source_url": "https://www.youtube.com/watch?v=YyooxGx-t-Y",
+        "external_url": "https://www.youtube.com/watch?v=YyooxGx-t-Y",
+        "context": "Ervis Behari Official. Ervis Behari & Deivis Myslymi - Me Cmende (Official Music Video 4K)\n...\n🎹 Muzika: Engli Versal & Adrian Hila\n✍️ Teksti: Deivis Myslymi, Romir Llanaj, Adrian Hila\n🎛️ Produksioni: Adrian Hila\n🎶 Solo: Kejdi Musta\n🎥 Video: AR Visual\n🎬 Regjia: Edlira Baholli\n...\nERVIS BEHARI\n▶️ SUBSCRIBE: https://www.youtube.com/channel/UC6oOkNNLWn3fBAZvHBfECSQ?sub_confirmation=1\nFollow: https://",
+        "short_explanation": "Unclear local trend."
+      },
+      {
+        "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Rivals)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T16:00:00Z",
+        "source_url": "https://www.youtube.com/watch?v=YMweqIzyB7s",
+        "external_url": "https://www.youtube.com/watch?v=YMweqIzyB7s",
+        "context": "Marvel Rivals. From the shadows of the New York underground comes the newest power-hungry villain. 🔥\n \nCloaked in a cursed mantle, Parker Robbins lost his faith in heroes alongside his father and his world's Captain America - replacing it with an insatiable appetite for the power to change the world. Stealing an enchanted cloak from the Vault, he remade himself as the feared crime lord, The Hood.",
+        "short_explanation": "Marvel reveals villain The Hood, a crime lord with cursed powers, in new game trailer."
+      },
+      {
+        "title": "Welcome to Favelas Page Shift and US Government Funding Controversy",
+        "platform": "reddit",
+        "source_label": "r/italy",
+        "score_label": "r/italy hot #3",
+        "rank_score": 980,
+        "published_at": "2026-08-04T06:24:41+00:00",
+        "source_url": "https://www.reddit.com/r/italy/comments/1vf28y1/dal_degrado_urbano_alla_propaganda_maga_la/",
+        "external_url": "https://www.reddit.com/r/italy/comments/1vf28y1/dal_degrado_urbano_alla_propaganda_maga_la/",
+        "context": "Poco dopo il ritorno di Trump alla Casa Bianca, i fondatori della pagina hanno incontrato un emissario di Elon Musk. Da quel momento, la linea editoriale sarebbe cambiata radicalmente Il premier spagnolo Pedro Sánchez? Un «criminale». Giorgia Meloni? Una vera leader che «alza la testa». La crisi migratoria a Ceuta? «Sostituzione etnica». C’è una pagina molto seguita su Instagram che da qualche tem",
+        "short_explanation": "Instagram page shifts editorial line after Elon Musk meeting, sparking political controversy in Italy."
+      },
+      {
+        "title": "EU Launches Infringement Procedure Against Italy and 13 States Over SLAPP Directive",
+        "platform": "reddit",
+        "source_label": "r/italy",
+        "score_label": "r/italy hot #4",
+        "rank_score": 970,
+        "published_at": "2026-08-04T11:27:23+00:00",
+        "source_url": "https://www.reddit.com/r/italy/comments/1vf7n71/la_commissione_eu_ha_avviato_una_procedura/",
+        "external_url": "https://www.reddit.com/r/italy/comments/1vf7n71/la_commissione_eu_ha_avviato_una_procedura/",
+        "context": "È una notizia di un paio di settimane fa, ora l’Italia e gli altri stati hanno 2 mesi di tempo per rispondere ed evitare il deferimento alla Corte di giustizia dell'Unione europe: Oltre all'Italia, la Commissione ha inviato lettere di costituzione in mora a Bulgaria, Repubblica Ceca, Germania, Irlanda, Grecia, Spagna, Lussemburgo, Ungheria, Paesi Bassi, Austria, Portogallo, Romania e Slovacchia. S",
+        "short_explanation": "EU starts legal action against Italy and others for not implementing anti-SLAPP protections properly."
+      },
+      {
+        "title": "Bending Spoons Acquires Airtable for $1.3 Billion After Nasdaq IPO",
+        "platform": "reddit",
+        "source_label": "r/italy",
+        "score_label": "r/italy hot #6",
+        "rank_score": 950,
+        "published_at": "2026-08-04T07:55:46+00:00",
+        "source_url": "https://www.reddit.com/r/italy/comments/1vf3ulq/bending_spoons_compra_airtable_per_quasi_13/",
+        "external_url": "https://www.reddit.com/r/italy/comments/1vf3ulq/bending_spoons_compra_airtable_per_quasi_13/",
+        "context": "submitted by /u/besil [link] [comments]",
+        "short_explanation": "Unclear local trend."
+      },
+      {
+        "title": "Italian Parliament Approves Day Honoring Enzo Tortora and Victims of Judicial Errors",
+        "platform": "reddit",
+        "source_label": "r/italy",
+        "score_label": "r/italy hot #7",
+        "rank_score": 940,
+        "published_at": "2026-08-04T12:05:15+00:00",
+        "source_url": "https://www.reddit.com/r/italy/comments/1vf8fot/ok_della_camera_a_giornata_per_enzo_tortora_e/",
+        "external_url": "https://www.reddit.com/r/italy/comments/1vf8fot/ok_della_camera_a_giornata_per_enzo_tortora_e/",
+        "context": "Via libera con i voti di centrodestra, Iv e Azione. Pd, M5s e Avs si astengono La data scelta è quella in cui nel 1983 Tortora - giornalista e popolare conduttore televisivo - fu arrestato con un'accusa pesantissima da cui poi fu completamente assolto, dopo un calvario giudiziario. submitted by /u/swindlerxxx [link] [comments]",
+        "short_explanation": "Italy honors Enzo Tortora and judicial error victims with a new parliamentary commemorative day."
+      }
+    ]
+  }
+}

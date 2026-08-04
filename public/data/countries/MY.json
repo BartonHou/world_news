@@ -1,0 +1,781 @@
+{
+  "iso2": "MY",
+  "iso3": "MYS",
+  "country_name": "Malaysia",
+  "flag": "🇲🇾",
+  "region": "Southeast Asia",
+  "coordinates": {
+    "lat": 4.2105,
+    "lon": 101.9758
+  },
+  "updated_at": "2026-08-04T20:56:49+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "Tabung Haji",
+    "RCI findings",
+    "financial investigation"
+  ],
+  "top_news": {
+    "headline": "Tabung Haji RCI findings: CCM must commence investigation — Hafiz Hassan",
+    "summary": "Calls grow for investigation into Tabung Haji's RM1.4 billion loss discrepancy revealed by RCI.",
+    "why_it_matters": "Tabung Haji is a major Islamic savings fund affecting millions of Malaysians' finances.",
+    "source_name": "Malay Mail",
+    "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEdVMGQ5ZE13clZUMjZadU1tU0tuQnYtRHJUTTMzamNHXzREd2lES1RzY0cydGRqSkgtMzJqc0VReERxYXdpVmJpYXdnTFR6SERrdHM1OVVLdFR5M203a1ZGeHNoaFRVM3lYWExLRXVPaUg1dWpOUExnZjNpUnl6LTZTY01XSnlfeHoxa28zdko5aEtZOXdHc1ZEalNycXI0X2dhcE13ZFV5a25aWnFpWDBCb1F0SVd5TUxHVGRPZkNka2FaQWQ5N1JQc2FRQdIB0wFBVV95cUxOMnIzQmhtUk5HdnNlcU1IS05rWmMxRlZrbEFERnA0MmVlUXBseTBSeDlTLTlkOGJEa2k0bXZJT0xVOERLRlJKTUFaNGh5ZFFIRzBIU1pEdjVRUnJHR2F5bFA4QXBFc3VaQklUOUZ3TnpLcFRReE9FeFJlbk02SWo2UHYwWUhDTXdsWkpBNmtJUmxGY2pEWW5DTElvY2c5aERjRlpJUFZzWUttMEpkeW1kbTI3R2ctWWFYTHZIM2gxajNONWRZRy1sejVuZlJxSzFMcjU0?oc=5",
+    "published_at": "Tue, 04 Aug 2026 04:05:34 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Malaysian Muslim's Same-Sex Engagement Sparks Asylum Debate",
+    "platform": "reddit",
+    "explanation": "A Malaysian Muslim publicly announces a same-sex engagement, challenging strict local laws and sparking debate on LGBTQ+ rights and asylum.",
+    "why_people_are_sharing_it": "It highlights taboo LGBTQ+ issues and legal conflicts in Malaysia's conservative society.",
+    "tone": "political",
+    "local_context": "Malaysia criminalizes same-sex acts, especially under Sharia law for Muslims.",
+    "source_url": "https://www.reddit.com/r/malaysia/comments/1vf1oxz/msian_muslim_unveils_same_sx_engagement_on_social/",
+    "media_url": "https://www.reddit.com/r/malaysia/comments/1vf1oxz/msian_muslim_unveils_same_sx_engagement_on_social/",
+    "confidence": 0.85
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=en-MY&gl=MY&ceid=MY:en",
+      "items_seen": 38,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Hartalega's 1Q profit rises to highest since 2022 as better selling prices lift margins - The Edge Malaysia",
+          "score": 2,
+          "reasons": [
+            "boost_daily_life_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Tabung Haji RCI findings: CCM must commence investigation — Hafiz Hassan - Malay Mail",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "1MDB trial: No check if Najib got back 'returned' US$620mil, admits UK-based investigator - The Star",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Sarawak wants all pending MA63 issues resolved by December - Free Malaysia Today",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ringgit opens higher against major currencies, nearly unchanged against US$ - The Star",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Two Sri Lankans hurt in George Town building structure collapse - nst.com.my",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Trump says Iran facing ‘last chance before decapitation’ - Free Malaysia Today",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Joint operation unearths offences in Brunei - The Star",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Cambodia expands cross-border QR payment links with five Asean countries, including Malaysia - The Star",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Govt mulls levy on EV sales to fund public charging network - The Star",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vantris Energy secures RM830 mil contracts from PETRONAS units - The Edge Malaysia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "AI boom helps 19 Malaysian firms make Forbes Asia’s Best Under A Billion list - Malay Mail",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sony Xperia 1 VIII Launched With New Telephoto Camera And Updated Looks - Pokde.Net",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "An Interview With Seiko Watch Designer Masanori Kawamura - AugustMan Singapore",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Security expert: Malaysian pilot arrested in Jakarta jeopardised lives by flying 'high' - nst.com.my",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Malaysia’s Anthony Loke quits as Negeri Sembilan DAP chief after poll loss - South China Morning Post",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "MACC arrests five more immigration officers over alleged MyIMMs hacking - Malay Mail",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "[UPDATED] Company director remanded over alleged RM300,000 bribe linked to Tabung Haji projects - nst.com.my",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "222 Motorcycles seized during RXZ gathering returned to owners - The Star",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Real Madrid thank UEFA for 'protecting football' after FIFA abandon private equity proposal - ESPN",
+          "score": -7,
+          "reasons": [
+            "penalize_routine_politics",
+            "penalize_routine_sports"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "malaysia",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 9
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=MY",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "status": "disabled",
+        "message": "disabled for countries where language wiki is too global"
+      },
+      "filters": [
+        {
+          "title": "Namit Malhotra’s Ramayana Tamil Trailer Featuring Ranbir Kapoor and Hans Zimmer",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:High-profile cultural and cinematic event with global interest."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Guan Eng Receives Rare Applause for Saving Tabung Haji",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Significant political and financial development with cultural impact."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers: Doomsday Official Trailer - December 18 Release",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Global blockbuster movie trailer, strong cultural signal."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Malaysian Muslim's Same-Sex Engagement Sparks Asylum Debate",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Significant social and legal issue in Malaysia with wider cultural implications."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Memorindu - Arghpiez ft. Edrie Hashim (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Music video from local artists, relevant to Malaysian pop culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "GOF MLBB 2026 Esports Matches: VAMOS vs BTR and SRG vs AURORA",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Esports event trending in Malaysia, relevant to gaming culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "BABYMONSTER - 'MOON' Music Video",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular K-pop group BABYMONSTER's new release, relevant globally."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "'Mandarin Required' Job Ads Exposed as Code for 'Chinese Only'",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Social issue with cultural and ethnic implications in Malaysia."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "MLBB MSC at EWC 2026 Final Day Live Stream",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Major esports event with regional interest."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bellestrelle ft. Harry Azrul - Jiwa Yang Mengalah (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Locally relevant emotional music video with cultural resonance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sardar 2 Teaser Featuring Karthi and SJ Suryah",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular South Indian film teaser with regional interest."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "RM60 Banknote Given as Speaker Token Now Valuable",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Interesting but niche collector's item, limited cultural impact."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Katy Perry - The One That Got Away (Lyrics)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular international song but generic lyric video, limited local cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Another M’sian nabbed at Indonesian airport for alleged drug smuggling",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Leaked EC proposal of Sarawak 17 new state seats",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "22-year-old arrested after more than 10kg of drugs found in car at Woodlands Checkpoint",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "RM1,700 To RM4,830 A Night: What F1's Return To Sepang Is Doing To Hotel Prices | TRP",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Muffled voice of woman allegedly heard from utility room of M Tower @ Empire City",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "TH probe leads to arrest over alleged free renovations for ex-COO",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Please be careful all confusion, Vi and MBS students",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "God i hate this country's heat",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Camera Traps Reveal Secret Life of World's Oldest Sunda Clouded Leopard [Sabah]",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bro just get to spend more time with his grandkids",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The rocket still flies; now it must chart its next course",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Question kepada orang utara",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Pilot arrested with drugs in Indonesia had cleared checks at KLIA: Malaysia border control agency",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "DAP to put govt role to vote as delegates decide whether party stays until Parliament ends",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Building facade collapses in Penang, two injured",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Petaling Jaya Board Game Night Meetup",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Local event announcement, too niche and not a broad cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Well well well",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "3 men arrested for smashing car windows in Desa Mentari",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_hard_news_spillover"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Blue on Blue Violence Caught on Camera",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic and vague title, no clear cultural significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vios Sudden Lane Switch Causes Rear Impact with Bike",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic traffic incident, not a cultural trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Malayan Special Constable 1948-1960",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_generic_tragedy"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "bg pathum united vs aston villa",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "briohny smyth singapore airlines",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "zeekr malaysia 5000 vehicle deliveries",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "petir",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "spiderman far from home",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "sajid khan",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "philippines vs thailand",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "dmk udhayanidhi stalin",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "tentera darat malaysia",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "vantris energy",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Hartalega's 1Q profit rises to highest since 2022 as better selling prices lift margins - The Edge Malaysia",
+        "source_name": "The Edge Malaysia",
+        "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9NOElVVWdPSnh4MVBxSWI4aFBfelRJeEo3M25tM0ZCTm80eTBOTURyNTJ4Tm93eGFQb1ZpQ1Q5QzZQS0lpbjlhelNGQnlJY29v?oc=5",
+        "published_at": "Tue, 04 Aug 2026 05:46:27 GMT",
+        "snippet": "Hartalega's 1Q profit rises to highest since 2022 as better selling prices lift margins The Edge Malaysia Hartalega delivers strong 1Q net profit of RM70.03mil The Star Natural gas tariff adjustment to raise Hartalega costs, ASP gains seen limited nst.com.my Hartalega Saw Q1FY2027 Profit Surge Six Fold To RM70 Million BusinessToday Malaysia Hartalega 1Q net profit surges more than fivefold on stronger sales, margins The Malaysian Reserve",
+        "short_explanation": "Hartalega's profit rise shows Malaysia's strong rubber glove industry and economic recovery."
+      },
+      {
+        "title": "Tabung Haji RCI findings: CCM must commence investigation — Hafiz Hassan - Malay Mail",
+        "source_name": "Malay Mail",
+        "source_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEdVMGQ5ZE13clZUMjZadU1tU0tuQnYtRHJUTTMzamNHXzREd2lES1RzY0cydGRqSkgtMzJqc0VReERxYXdpVmJpYXdnTFR6SERrdHM1OVVLdFR5M203a1ZGeHNoaFRVM3lYWExLRXVPaUg1dWpOUExnZjNpUnl6LTZTY01XSnlfeHoxa28zdko5aEtZOXdHc1ZEalNycXI0X2dhcE13ZFV5a25aWnFpWDBCb1F0SVd5TUxHVGRPZkNka2FaQWQ5N1JQc2FRQdIB0wFBVV95cUxOMnIzQmhtUk5HdnNlcU1IS05rWmMxRlZrbEFERnA0MmVlUXBseTBSeDlTLTlkOGJEa2k0bXZJT0xVOERLRlJKTUFaNGh5ZFFIRzBIU1pEdjVRUnJHR2F5bFA4QXBFc3VaQklUOUZ3TnpLcFRReE9FeFJlbk02SWo2UHYwWUhDTXdsWkpBNmtJUmxGY2pEWW5DTElvY2c5aERjRlpJUFZzWUttMEpkeW1kbTI3R2ctWWFYTHZIM2gxajNONWRZRy1sejVuZlJxSzFMcjU0?oc=5",
+        "published_at": "Tue, 04 Aug 2026 04:05:34 GMT",
+        "snippet": "Tabung Haji RCI findings: CCM must commence investigation — Hafiz Hassan Malay Mail 'Sakau' or not? Five key takeaways from Tabung Haji RCI Malaysiakini TH moves to audited profits after RM1.4b loss discrepancy flagged by RCI nst.com.my 13-month bonus for loss-making Tabung Haji is treachery, says Anwar The Star Reinvestigate me if necessary, says ex-TH chairman Azeez Free Malaysia Today",
+        "short_explanation": "Tabung Haji scandal investigation affects trust in Malaysia's Islamic pilgrimage fund management."
+      },
+      {
+        "title": "1MDB trial: No check if Najib got back 'returned' US$620mil, admits UK-based investigator - The Star",
+        "source_name": "The Star",
+        "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEVyaGR0N2lmS1ZXakkyNHV0YldrVG5sY0lhNEpIUDA2VjdING9KNi1mN2V1NzYzQ1d4WDNpQ0k4TXR4LWY1RjFMZDJBUHpnMzc2SVgzelgzOGlMQ2hVeE1nUi1QWm43bmI4Y3BtbWRJcTc0T1N2Uk9iazBaSlFnaGgzM0NFcTJTaEtYd3hCVHFFeXFveW8xN05SUFVYTUFYckxfd1dscnFhempVVW9LQnpHcDMtd01CQS1jRm9lSEQ3dG1Jdk43d1VsRUFHY2QwUkFBQVRNSQ?oc=5",
+        "published_at": "Tue, 04 Aug 2026 10:28:00 GMT",
+        "snippet": "1MDB trial: No check if Najib got back 'returned' US$620mil, admits UK-based investigator The Star 1MDB trial: Najib Razak accused of US$5.6b fraud The Straits Times Investigator didn't trace whether US$620m returned to Tanore reached Najib again, court told Malaysiakini 1MDB trial: Shafee presses investigator on missing US$620mil trail nst.com.my Najib challenges 1MDB fraud investigator over US$620mil fund movement Free Malaysia Today",
+        "short_explanation": "1MDB trial reveals corruption concerns involving former PM Najib Razak and missing funds."
+      },
+      {
+        "title": "Sarawak wants all pending MA63 issues resolved by December - Free Malaysia Today",
+        "source_name": "Free Malaysia Today",
+        "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTjFfcUFkODVjdG5yaFBaQ2tJdmtrcVIyTzc2WXdhOUVRd1JwTnd4VjFYekk1OV9fX2hGOG9ra1drdEUtdXhxU04zNVFTMkt2Ym5fMDd2VTZmOW4zT3o3c3dzNy1tVlRocjJMRW9JUEVlVThJSFJzMy1CRmNWWnZ3c3pPckhKdlYyb3N4Uk10Tm5LbWNERjlHX3NQVDMyMWlXdERsVDhjQWRYeExmalprQjA2aXBfLXRoMzhj?oc=5",
+        "published_at": "Tue, 04 Aug 2026 12:43:00 GMT",
+        "snippet": "Sarawak wants all pending MA63 issues resolved by December Free Malaysia Today MA63 Technical Committee orders swift resolution of outstanding issues The Edge Malaysia Sarawak Faces Nearly 5,900 Healthcare Vacancies Sarawak Tribune Dr Sim: Sarawak to continue pressing for greater health autonomy under MA63 Borneo Post Ministries told to speed up remaining MA63 implementation Daily Express Malaysia",
+        "short_explanation": "Sarawak demands resolution of MA63 issues for state autonomy and development rights."
+      },
+      {
+        "title": "Ringgit opens higher against major currencies, nearly unchanged against US$ - The Star",
+        "source_name": "The Star",
+        "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT3Vra1lOcGNZSEowUmx4ZDEwdXROMDFDTjduQ2M1R0lzQ3JqOXBHM1I0encyQ2lJNzhRell2RndPZ1Z1TkxFamp0dFJBWGRPS1lUb2hJRHUxRm1rVDZ5WE5IMF9HeHNIcWhJSXhjZ0NSQzhkYkF2SzFuaGhYSHY0SE1uN29kY0gyN080enB1YkJ1V0p3MGpSa2JOSlBpZ1lsNTZ0XzdnTWhNNjVKNVE0dmxpWXRSSEFpNkNteXM0OTd3bUdNTXdXMFJHLWgyVXM?oc=5",
+        "published_at": "Tue, 04 Aug 2026 01:17:00 GMT",
+        "snippet": "Ringgit opens higher against major currencies, nearly unchanged against US$ The Star Ringgit seen averaging RM4.01 in 2026, easing to RM4.03 by end-2026 The Star Ringgit Ends Lower Against US Dollar, Major Currencies As US Treasury Yields Rise Bernama Fed Pause Lifts Ringgit In Early Thursday Trade Moomoo Ringgit opens higher against US dollar ahead of key US economic data The Malaysian Reserve",
+        "short_explanation": "Ringgit currency fluctuations impact Malaysia's economy and international trade confidence."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Namit Malhotra’s Ramayana Tamil Trailer Featuring Ranbir Kapoor and Hans Zimmer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (World Of Ramayana)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-29T22:49:08Z",
+        "source_url": "https://www.youtube.com/watch?v=K7zjRJ_0sgk",
+        "external_url": "https://www.youtube.com/watch?v=K7zjRJ_0sgk",
+        "context": "World Of Ramayana. The Ramayana Trailer.\nThis is where the EPIC BEGINS. 🏹 \n\nNamit Malhotra's Ramayana\nDirected by Nitesh Tiwari\n\nIn Cinemas Worldwide, Diwali 2026.\n\n---------------------------------------------------\n\nNamit Malhotra’s Ramayana\nOur Truth. Our History.\n\nDirected by Nitesh Tiwari\n\nStarring: \nRanbir Kapoor as Rama \nYash as Ravana \nSai Pallavi as Sita \nRavie Dubey as Lakshman \nSunny De",
+        "short_explanation": "Upcoming Indian epic film Ramayana trailer excites locals for cultural and historical storytelling."
+      },
+      {
+        "title": "Guan Eng Receives Rare Applause for Saving Tabung Haji",
+        "platform": "reddit",
+        "source_label": "r/malaysia",
+        "score_label": "r/malaysia hot #5",
+        "rank_score": 960,
+        "published_at": "2026-08-04T08:16:24+00:00",
+        "source_url": "https://www.reddit.com/r/malaysia/comments/1vf47dy/guan_eng_receives_rare_applause_for_efforts_to/",
+        "external_url": "https://www.reddit.com/r/malaysia/comments/1vf47dy/guan_eng_receives_rare_applause_for_efforts_to/",
+        "context": "FORMER finance minister Lim Guan Eng has strangely received praises from rational Muslims for wholesome efforts to restore the financial health of ailing Tabung Haji from mismanagement under the Barisan Nasional (BN) administration. submitted by /u/stormy001 [link] [comments]",
+        "short_explanation": "Ex-finance minister praised for rescuing Tabung Haji, a key Muslim pilgrimage fund."
+      },
+      {
+        "title": "Avengers: Doomsday Official Trailer - December 18 Release",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Entertainment)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-20T13:00:20Z",
+        "source_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "external_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "context": "Marvel Entertainment. Doomsday arrives December 18th.\n \nExperience Avengers: Doomsday on bigger, brighter, & more immersive screens. Tickets are now on sale exclusively for Infinity Vision certified theaters: fandango.com/avengersdoomsday \n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stre",
+        "short_explanation": "New Avengers movie trailer released, popular among Malaysian Marvel fans."
+      },
+      {
+        "title": "Malaysian Muslim's Same-Sex Engagement Sparks Asylum Debate",
+        "platform": "reddit",
+        "source_label": "r/malaysia",
+        "score_label": "r/malaysia hot #9",
+        "rank_score": 920,
+        "published_at": "2026-08-04T05:53:44+00:00",
+        "source_url": "https://www.reddit.com/r/malaysia/comments/1vf1oxz/msian_muslim_unveils_same_sx_engagement_on_social/",
+        "external_url": "https://www.reddit.com/r/malaysia/comments/1vf1oxz/msian_muslim_unveils_same_sx_engagement_on_social/",
+        "context": "Malaysia strictly prohibits same-sex marriage and has no legal provisions to recognise gay marriage engagements. In Malaysia, consensual same-sex acts remain illegal under Section 377 of the Penal Code and various state-level Sharia laws that apply to Muslims. submitted by /u/stormy001 [link] [comments]",
+        "short_explanation": "Same-sex engagement by Malaysian Muslim sparks asylum debate due to strict local laws."
+      },
+      {
+        "title": "Memorindu - Arghpiez ft. Edrie Hashim (Official Music Video)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Rhunut Music)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-31T12:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=Xq1OAd0UqZc",
+        "external_url": "https://www.youtube.com/watch?v=Xq1OAd0UqZc",
+        "context": "Rhunut Music. Rhunut Music Sdn. Bhd. Mempersembahkan \nMemorindu - Arghpiez ft. Edrie Hashim\n\nPenaja Pakaian: Femmes.Glemmer\nPenaja Lokasi: Worldwide Property Management Sdn. Bhd.\nPenerbit Eksekutif: Rhunut Music Sdn. Bhd.\nPenerbit: Takefive Studio\nPengarah: Apanto\nPengarah Fotografi: Hazem Nadzmy\nPengarah Seni: Azwan Zainal\nPengurus Produksi: Cazrin Isa\nPembantu Kamera: Fairuz Ismail\nKetua Pencaha",
+        "short_explanation": "New Malaysian music video 'Memorindu' by Arghpiez ft. Edrie Hashim gains attention."
+      },
+      {
+        "title": "GOF MLBB 2026 Esports Matches: VAMOS vs BTR and SRG vs AURORA",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Ombong Haha)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-08-04T16:28:25Z",
+        "source_url": "https://www.youtube.com/watch?v=Yf4GL19ApI0",
+        "external_url": "https://www.youtube.com/watch?v=Yf4GL19ApI0",
+        "context": "Ombong Haha. DONATION : https://sociabuzz.com/ombonghaha\nMEMBERSHIP: https://www.youtube.com/channel/UCARbWxfbkoKaEuaoyEz8HiA/join",
+        "short_explanation": "Upcoming Malaysian Mobile Legends esports matches excite local gaming community."
+      },
+      {
+        "title": "BABYMONSTER - 'MOON' Music Video",
+        "platform": "youtube",
+        "source_label": "YouTube trending (BABYMONSTER)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-08-02T15:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=xXZwZ0DolJc",
+        "external_url": "https://www.youtube.com/watch?v=xXZwZ0DolJc",
+        "context": "BABYMONSTER. MOON \n\nI’m the moon\n보름달 뜨는 밤 On the loose\nZalabim zalabam zalaboom\nI shine so bright in the gloom\nI’m the moon, I’m the moon, I’m the moon\n\nFog thickens\nNight vision\nWhere we gonna end up is unwritten\nGrave digger\nGo figure\nBut if you’re killing my mood\nGood riddance\n\nIce in my veins\nYou’re gonna need to keep up with the pace\n더 빨리 더 높이\nWhen you, when you, when you at the crack of dawn",
+        "short_explanation": "BABYMONSTER's 'MOON' music video popular among K-pop fans in Malaysia."
+      },
+      {
+        "title": "'Mandarin Required' Job Ads Exposed as Code for 'Chinese Only'",
+        "platform": "reddit",
+        "source_label": "r/malaysia",
+        "score_label": "r/malaysia hot #6",
+        "rank_score": 950,
+        "published_at": "2026-08-04T03:30:57+00:00",
+        "source_url": "https://www.reddit.com/r/malaysia/comments/1veyz3u/mandarin_required_job_ads_exposed_study_says_its/",
+        "external_url": "https://www.reddit.com/r/malaysia/comments/1veyz3u/mandarin_required_job_ads_exposed_study_says_its/",
+        "context": "submitted by /u/Venkie2Maybach [link] [comments]",
+        "short_explanation": "Job ads requiring Mandarin criticized as covertly excluding non-Chinese applicants."
+      }
+    ]
+  }
+}

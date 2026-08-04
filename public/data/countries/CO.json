@@ -1,0 +1,861 @@
+{
+  "iso2": "CO",
+  "iso3": "COL",
+  "country_name": "Colombia",
+  "flag": "🇨🇴",
+  "region": "South America",
+  "coordinates": {
+    "lat": 4.5709,
+    "lon": -74.2973
+  },
+  "updated_at": "2026-08-04T21:02:40+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "Medellín",
+    "public transit",
+    "bonds"
+  ],
+  "top_news": {
+    "headline": "Histórico: Metro de Medellín emitirá, por primera vez, bonos de hasta $330.000 millones",
+    "summary": "Metro de Medellín issues bonds to fund expansion, marking a historic financial milestone for public transit.",
+    "why_it_matters": "Shows urban growth and public investment priorities in Colombia's second-largest city.",
+    "source_name": "El Colombiano",
+    "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnRZVEF0eWt0S1lHaTBaRGpQRXFLcVpiMjJOc2ZIcmtQRUV2cGhOSDR6dnNJaVpsaHJLbUxqTlAycWxFSTgyY3N2VzhIQkJsM0Zhbl93aGJ4VF9SRGE2R2IyLV91RjFwNkdFbEkxZVY3Y25sYkh6ODNEWXhNYWRvang4a1E1TGhsNXZYUzNic1kwQWRDRzUydzZBclRVLXJ3MHZUMmY4emNxbmNvcEJQeGNXX1hETll0UDZnRVlWWjZSTUNPS25DT1RJd9IB0AFBVV95cUxPOFFZTUstZUZ6cWxjMzhGYjRHcWtXYWZFbnloOE9EamNsczJFdUZSNnYtTldpeGh1aUhUbHBlS3hETmY5T3pGTG50TXhrdXZHaVJwVzFFVWlNNWRScG5JRlV0Z1ZQYVVhanJCRjZWdDFMYklJdTl1TkkzRjRfNFdKclFkRVU5SGQxbkpaNnlPakJDWFpuUVdCcmdHTGU3ZHI2SWRZVEVLWF9hZ2x4SkE3RlgwbFZGX25NSnY1bEt2NFNBeW1FczdXMHlFSWpSWXEt?oc=5",
+    "published_at": "Tue, 04 Aug 2026 02:11:06 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Collective Boycott of Banco de Bogotá",
+    "platform": "reddit",
+    "explanation": "Many customers are upset after Itaú merged with Banco de Bogotá, fearing worse service and sharing their frustrations online.",
+    "why_people_are_sharing_it": "Relatable anger about forced bank changes and poor customer experiences.",
+    "tone": "angry",
+    "local_context": "Bank mergers often spark distrust in Colombia's financial services.",
+    "source_url": "https://www.reddit.com/r/Colombia/comments/1vfeff6/boicot_colectivo_banco_de_bogotá/",
+    "media_url": "https://www.reddit.com/r/Colombia/comments/1vfeff6/boicot_colectivo_banco_de_bogotá/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=es-419&gl=CO&ceid=CO:es-419",
+      "items_seen": 31,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Histórico: Metro de Medellín emitirá, por primera vez, bonos de hasta $330.000 millones | El Colombiano - El Colombiano",
+          "score": 3,
+          "reasons": [
+            "boost_milestone_signal"
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Atención: Tribunal aceptó demanda que busca tumbar posesión de Abelardo De La Espriella en Cali - El Tiempo",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "En imputación de cargos contra Jorge Alfredo Vargas jueza tomó sorpresiva decisión: la audiencia tuvo un giro - Infobae",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Minuto a minuto: así asesinaron a empresario aguacatero en mall de Envigado | El Colombiano - El Colombiano",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Se agudiza tensión en el Centro Democrático tras personería de Defensores de la Patria - El Espectador",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ya puede descargar el certificado del RUI: así funciona el sistema que reemplaza al Sisbén | El Colombiano - El Colombiano",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Barrios de Bogotá con cortes de agua este martes 4 de agosto ¡Conoce detalles! - Bogota.gov.co",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El volcán Puracé, en alerta naranja: “Toda su actividad está exacerbada” - EL PAÍS",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Bogotá alista reforma tributaria para recaudar $1,2 billones: cambiarían el predial y el ICA - El Espectador",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gobierno Petro compró 4 aeronaves militares por $1,5 billones a última hora, ¿cuáles son? | El Colombiano - El Colombiano",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Guerra de EE.UU. con Irán, en vivo: ataques, noticias del estrecho de Ormuz, acuerdo con Omán y más - CNN en Español",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Brote de ciclosporiasis en EE. UU. deja sus primeras víctimas mortales en Michigan - Vanguardia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Abogado de Max Miller se disculpa por divulgar imagen \"sensible\" de la hija del congresista - CNN en Español",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "El dólar retomó su senda bajista y cerró en a $3.204,61, es decir, $25,83 por debajo de la TRM - LaRepublica.co",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Relevante | Grupo Cibest (Bancolombia) compró la fintech especializada en créditos por libranza Avista - Valora Analitik",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ecopetrol reporta utilidades por $6,1 billones en segundo trimestre de 2026 - lasillavacia.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Un cohete de SpaceX está a punto de estrellarse contra la Luna - CNN en Español",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "NASA captó un inesperado fenómeno que iluminó el cielo nocturno: la imagen sorprendió a los expertos - Revista Semana",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Abelardo De La Espriella hoy 4 de agosto: presidente electo anunció su cúpula militar; nombró a los generales (r) Alejandro Barrera y Norberto Mujica - El Tiempo",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Exministro Alejandro Gaviria habló del “estado mental” de Gustavo Petro tras su insistencia en el fraude de las elecciones - Revista Semana",
+          "score": -3,
+          "reasons": [
+            "penalize_routine_politics"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "Colombia",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=CO",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/es.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 994,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Adicto - Tainy, Anuel AA, Ozuna (Song Lyrics)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Latin music collaboration with strong cultural relevance in Colombia and Latin America."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Collective Boycott of Banco de Bogotá",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Current social and economic protest relevant to Colombian internet users."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Ronald Longa Wins Gold Medal in 100m at Central American and Caribbean Games",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Sports achievement by a Colombian athlete, relevant culturally but somewhat niche."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Found an Abandoned Airplane in Minecraft!",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular gaming content with broad appeal, relevant to internet culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Controversy Over Election Fraud Claims in Colombia",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Reflects ongoing political discourse and internet debate in Colombia."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Cristian Castro - Por Amarte Así (Lyrics)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Classic Latin pop song with cultural resonance, though not a new trend."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "House of the Dragon Episode 8 Trailer Analysis: The Battle of Ladera",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular TV series analysis with cultural interest among fans."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Petro's Analyst Silences Critics on Electoral Fraud Claims",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Political commentary relevant to Colombian internet culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Romeo Santos - Fui a Jamaica (Lyrics)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Latin music artist with cultural relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Interesting Facts About Colombia",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Potentially culturally relevant if content is engaging, but somewhat generic."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "House of the Dragon Season 3 Episode 8 Trailer Breakdown: The Battle of Ladera",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular TV series content with cultural interest among fans."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The Hood Character Reveal Trailer - Marvel Rivals",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Marvel content but not specifically Colombian or culturally unique to Colombia."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The New Pizzeria | Freddy's HappyLand",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic gaming or entertainment content, no clear cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Help",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "NUNCA VAYAS al TOBOGÁN MALDITO con Mandarina en Brookhaven Roblox",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Se les nota de una El acento paisa",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Los Prisioneros - El Baile De Los Que Sobran (Lyric Video)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mujeres que valen oro",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gianni Infantino asistirá a la posesión de Abelardo De La Espriella en Cali ¿Opiniones?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Recomienden libros así",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Estando completo todo el gabinete de De La Espriella, ¿Qué tal les parece?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "¿de que trabajan los graduados de estudios globales?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tener un CI alto sirve de algo a la hora de conseguir un trabajo?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Que tan fácil es hacer traspaso de la Javeriana de cali a la javeriana de bogota?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "¿Tienen familiares que sobrevivieron a la violencia? ¿Que historias les cuentan?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Mi novio no me baja",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "¿Quien ha pasado al hacer el examen para estudiar un técnico o tecnologo virtual en el sena, pero no ha sido seleccionado?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Acusación de sapo-chota",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "¡TRUCO AI! Encontrar cualquier Película o Serie GRATIS",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "¿Que shampoo o tratamiento recomiendan que sea facil de encontrar aqui en colombia?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Que concentrado darle a mi perro",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Un país que no invierte en ciencia y tecnología esta condenado al fracaso.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Being Introverted on the Coast",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic personal statement, lacks clear cultural or internet trend significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Lo mas gracioso de la semana...",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too generic and vague, 'funniest of the week' without context."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ceuta",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Vuelo 103 de Pan Am",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Zendaya",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Anuncio: Estas son las Reglas",
+          "score": 2,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Too opaque and generic announcement about community rules, not a cultural or internet trend."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_hard_news_spillover",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tom Holland",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Jean Grey",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "asesinato",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "llaneros - fortaleza",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "alcalde de villa de leyva",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "newport county - roma",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "accidente",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "selección femenina de fútbol de colombia",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "josé néstor pékerman",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "liga de campeones de la uefa",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Leoncio Prado",
+          "score": -2,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_hard_news_spillover",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "general alejandro barrera",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "nairo quintana",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "La Odisea (película de 2026)",
+          "score": -4,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_generic_tragedy",
+            "penalize_hard_news_spillover",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Histórico: Metro de Medellín emitirá, por primera vez, bonos de hasta $330.000 millones | El Colombiano - El Colombiano",
+        "source_name": "El Colombiano",
+        "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnRZVEF0eWt0S1lHaTBaRGpQRXFLcVpiMjJOc2ZIcmtQRUV2cGhOSDR6dnNJaVpsaHJLbUxqTlAycWxFSTgyY3N2VzhIQkJsM0Zhbl93aGJ4VF9SRGE2R2IyLV91RjFwNkdFbEkxZVY3Y25sYkh6ODNEWXhNYWRvang4a1E1TGhsNXZYUzNic1kwQWRDRzUydzZBclRVLXJ3MHZUMmY4emNxbmNvcEJQeGNXX1hETll0UDZnRVlWWjZSTUNPS25DT1RJd9IB0AFBVV95cUxPOFFZTUstZUZ6cWxjMzhGYjRHcWtXYWZFbnloOE9EamNsczJFdUZSNnYtTldpeGh1aUhUbHBlS3hETmY5T3pGTG50TXhrdXZHaVJwVzFFVWlNNWRScG5JRlV0Z1ZQYVVhanJCRjZWdDFMYklJdTl1TkkzRjRfNFdKclFkRVU5SGQxbkpaNnlPakJDWFpuUVdCcmdHTGU3ZHI2SWRZVEVLWF9hZ2x4SkE3RlgwbFZGX25NSnY1bEt2NFNBeW1FczdXMHlFSWpSWXEt?oc=5",
+        "published_at": "Tue, 04 Aug 2026 02:11:06 GMT",
+        "snippet": "Histórico: Metro de Medellín emitirá, por primera vez, bonos de hasta $330.000 millones | El Colombiano El Colombiano Metro de Medellín marca un hito: emitió bonos en la Bolsa de Valores para financiar nuevos proyectos Telemedellín Metro de Medellín logró histórica colocación de bonos sostenibles y aseguró millonaria inversión para su expansión IFM Noticias",
+        "short_explanation": "Metro de Medellín issues bonds to fund expansion, marking a financial milestone locals support."
+      },
+      {
+        "title": "Atención: Tribunal aceptó demanda que busca tumbar posesión de Abelardo De La Espriella en Cali - El Tiempo",
+        "source_name": "El Tiempo",
+        "source_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQWZaeDVZSUdIOG9vdC1aYjMzbDNxUDg0MDRGLWJ3bXNnRXIwSWgtWGNVczUtUG1fM3NYRlpUcjF4RnRiX1phUmhWMXp3eGctNnB5aDVZLUNZMnR4TkY0Z2VBRTBQbG5qOHJFcHJnVU05eVVaamRhNkdjMUZ2M3ZWQW1jamE3N2NsdlBiOE5YcWY5dkQ3SWZORFJndzE5NDRjU3RaSXZUVENVemx4MVZyZDBIbDRxbjdpRUo5WFNmQm5wdExMRnpnTktTOXhlSTJhNUlrdnpkREp2RkVwR2VuMmtYNjHSAeoBQVVfeXFMUG1UWkd0cWtfX0p0TEpqOWROTTVMT2NxeVdqMzlmQ1p0SHJBZEdUT3kwSnh1WlRfekIzSmNZalFidUc0ZWtnOEw3YVlEdXlXcDJObkVHT3NJMzJId2FyUTV2bHlVUWxzdUN2SFlUa0p4NEg5ZU5tYkNXSGV4WGR0dHBQbzJxUXBGM2tTdnVkSmNnMjQ2dzAzaXZfaVpQV0ZkZnZsSThYNWlsSVdfekc5VlZqdXJKX1lFbkdLc0NQcmdZNjk2c3lFSW41cnJHTGg1WVZmRVM1YWJoYURrNVVEamNnblRaYzg2NUR3?oc=5",
+        "published_at": "Tue, 04 Aug 2026 12:13:14 GMT",
+        "snippet": "Atención: Tribunal aceptó demanda que busca tumbar posesión de Abelardo De La Espriella en Cali El Tiempo Rtvc no hará la producción de la posesión presidencial lasillavacia.com Se mantiene posesión de Abelardo De La Espriella en Cali: Consejo de Estado negó petición que pretendía suspenderla Revista Semana ¿Qué jefes de Estado asistirán a la toma de posesión de Abelardo de la Espriella? EL PAÍS Así se ve la invitación a la posesión de Abelardo de la Espriella El Espectador",
+        "short_explanation": "Court accepted lawsuit challenging Abelardo De La Espriella's Cali leadership, stirring political debate."
+      },
+      {
+        "title": "En imputación de cargos contra Jorge Alfredo Vargas jueza tomó sorpresiva decisión: la audiencia tuvo un giro - Infobae",
+        "source_name": "Infobae",
+        "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMndpNzNfdUNwemQxcmRxaDBtcGsxUWF5aVEtSFhUX0RvOFBUeEd6YWtpMXBxQUhPU2dPUzVnb2tfRXZkYmNrbVJuMTRaNVJnUVp2eGt3cy1hQTlTM29GSHRPc0tVdmtTZ0s2aU1PREt0NjdFdGppeHdZOWVGSk9ub3lURmFuRWpXdkpyTWRnRjl1OExnTk1FZUtnOGVDQlJDNUpoTXFWcF9lMlF4UGIzZmJzUmplTE5JVW5sQnJJb1UweHNwWTNFRUdjNWozMTFCQ0FtUUtUWmlqd3dIM0FoWWU1dHd4Ukl1?oc=5",
+        "published_at": "Tue, 04 Aug 2026 16:56:00 GMT",
+        "snippet": "En imputación de cargos contra Jorge Alfredo Vargas jueza tomó sorpresiva decisión: la audiencia tuvo un giro Infobae Imputación contra el presentador Jorge Alfredo Vargas por supuesto acoso sexual será reservada El Tiempo Fiscalía ya imputó el delito de acoso sexual al periodista Jorge Alfredo Vargas | El Colombiano El Colombiano Por protección a las cuatro presuntas víctimas: juez ordena que las audiencias contra Jorge Alfredo Vargas sean reservadas CAMBIO Colombia Fiscalía imputó a Jorge Alfredo Vargas: no aceptó los cargos Vanguardia",
+        "short_explanation": "Judge orders secrecy in sexual harassment case against journalist Jorge Alfredo Vargas."
+      },
+      {
+        "title": "Minuto a minuto: así asesinaron a empresario aguacatero en mall de Envigado | El Colombiano - El Colombiano",
+        "source_name": "El Colombiano",
+        "source_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRThtdWtmNGY4bnJpY3VyTjFzdGhKNzNSaFczMnQtYk5YSFV1ekxLaDZOZHU1Y2c5SzdLU0pLcENhd3UwTlhlSnNXSEprcVQ2NUQxUFVOa21iTFQ4VHlBdjNhUnk1YXdmWDZxNDRqVnRrb1RwNDRxa0Z1c0ZaT1NkbTNNNEJtWjdOZUo1UTRzU09veDJiaUkyV193cWFQempiTWw5WS1FajFzSFotRUl4THA3SjltTXg5cERMLTRUaklIR2tES3F3VHNB?oc=5",
+        "published_at": "Tue, 04 Aug 2026 14:58:39 GMT",
+        "snippet": "Minuto a minuto: así asesinaron a empresario aguacatero en mall de Envigado | El Colombiano El Colombiano Primicia: Él era el exportador de aguacates asesinado afuera de una camioneta blindada en un mall de Envigado El Colombiano Estos son los detalles que se conocen del crimen de un empresario del aguacate en Las Palmas, Envigado Revista Semana La identidad y negocios del hombre asesinado en Medellín dentro de una camioneta de alta gama de propiedad de su socio El Tiempo Quién era el empresario asesinado por sicarios en exclusivo centro comercial de Envigado: recibió 24 impatos de bala Infobae",
+        "short_explanation": "Avocado businessman murdered in Envigado mall shocks community and highlights security concerns."
+      },
+      {
+        "title": "Se agudiza tensión en el Centro Democrático tras personería de Defensores de la Patria - El Espectador",
+        "source_name": "El Espectador",
+        "source_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWo5TTQ4clNQMUxBNk9Ub3gtaFU2WGlfSjZrYWVySThsNkJ6SURfMTVlOVQ2RHF6TWREaEhmOENiTzVDb2duUS1ONF94SUJjMTIySkowczdyVnFqRk5NTWhBb3dqRFY5RkFBSUU4QUMzd1ItUFg4QmNkTmdDVjlqVS02Z1FtTV85ZS1Sd05TQWFIT2tVdkxRYVhlOGRXYmlwWDZFeENwSDAtUXJ5XzViRjZPd3BidkhFcEJJMkh0UXQ1aEU?oc=5",
+        "published_at": "Tue, 04 Aug 2026 09:48:00 GMT",
+        "snippet": "Se agudiza tensión en el Centro Democrático tras personería de Defensores de la Patria El Espectador Expansión de Defensores de la Patria aumenta divisiones en el Centro Democrático: este es el panorama | El Colombiano El Colombiano “No comparto esa simplificación de izquierda a derecha”: Uribe tras polémica de Paloma Valencia Caracol Radio Polémica en el Centro Democrático por frase de Paloma Valencia: 'Decir que no es de derecha no significa que sea de centro y menos de izquierda' El Tiempo María Fernanda Cabal advierte en vivo que el “centro desapareció” y dice qué pasó con la derecha: “Población que hay que conquistar” Revista Semana",
+        "short_explanation": "Political tensions rise in Centro Democrático over Defensores de la Patria's legal status."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Adicto - Tainy, Anuel AA, Ozuna (Song Lyrics)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (GroovLatn)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-08-03T17:45:39Z",
+        "source_url": "https://www.youtube.com/watch?v=JWnYiriuNUw",
+        "external_url": "https://www.youtube.com/watch?v=JWnYiriuNUw",
+        "context": "GroovLatn. Check out our Playlist:\nhttps://open.spotify.com/playlist/1oJZ98sB3FbQAbrZkEbdtQ?si=_xvuL7hdQlu_oQySAWsv2A\n\nStream/Descargar:\n\n🎤Letra:\n\nHan pasado varios días y estoy enfermo de ti\nDime qué me hiciste mal\nDe mi memoria yo no te puedo borrar\nDios me va a castigar, le prometí te iba a olvidar\nNo hay porqué seguir mintiendo\nEl tiempo está corriendo y no se puede parar\nLa soledad me sigue c",
+        "short_explanation": "Popular song by Tainy, Anuel AA, Ozuna expressing heartbreak and emotional pain."
+      },
+      {
+        "title": "Collective Boycott of Banco de Bogotá",
+        "platform": "reddit",
+        "source_label": "r/Colombia",
+        "score_label": "r/Colombia hot #5",
+        "rank_score": 960,
+        "published_at": "2026-08-04T15:58:39+00:00",
+        "source_url": "https://www.reddit.com/r/Colombia/comments/1vfeff6/boicot_colectivo_banco_de_bogotá/",
+        "external_url": "https://www.reddit.com/r/Colombia/comments/1vfeff6/boicot_colectivo_banco_de_bogotá/",
+        "context": "Hola Como muchos acá, era cliente Itaú por el cashback, los retiros ilimitados en casi cualquier cajero y los bolsillos de alta rentabilidad. Debo admitir que me tomó completamente desprevenido el cambio hacia el Banco de Bogotá. De haberlo sabido, y con la fama de ese banco, habría huido a Nu lo antes posible. Mi tragedia no tiene nada de distinto a lo que estamos viviendo 250.000 personas en est",
+        "short_explanation": "Massive customer boycott against Banco de Bogotá due to dissatisfaction with service changes."
+      },
+      {
+        "title": "Ronald Longa Wins Gold Medal in 100m at Central American and Caribbean Games",
+        "platform": "reddit",
+        "source_label": "r/Colombia",
+        "score_label": "r/Colombia hot #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T14:18:33+00:00",
+        "source_url": "https://www.reddit.com/r/Colombia/comments/1vfbogm/les_presento_a_ronald_longa_ganó_una_medalla_de/",
+        "external_url": "https://www.reddit.com/r/Colombia/comments/1vfbogm/les_presento_a_ronald_longa_ganó_una_medalla_de/",
+        "context": "submitted by /u/xRed-Eaglex [link] [comments]",
+        "short_explanation": "Ronald Longa won 100m gold at Central American and Caribbean Games, a national sports pride."
+      },
+      {
+        "title": "Found an Abandoned Airplane in Minecraft!",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Dagar)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-08-03T19:11:49Z",
+        "source_url": "https://www.youtube.com/watch?v=OguATLr5-q4",
+        "external_url": "https://www.youtube.com/watch?v=OguATLr5-q4",
+        "context": "Dagar. Hoy, Nacho y Dagar están atrapados en una isla desierta! Tendrán que escapar en un avión abandonado que han encontrado en el fondo del mar... pero le faltan muchas piezas. ¿Qué pasará? ¡Descúbrelo!\n\n\n#Minecraft #MinecraftMod #Dagar #NachoyDagar",
+        "short_explanation": "Minecraft players found an abandoned airplane, sparking adventure and creativity in gameplay."
+      },
+      {
+        "title": "Controversy Over Election Fraud Claims in Colombia",
+        "platform": "reddit",
+        "source_label": "r/Colombia",
+        "score_label": "r/Colombia hot #4",
+        "rank_score": 970,
+        "published_at": "2026-08-04T18:25:08+00:00",
+        "source_url": "https://www.reddit.com/r/Colombia/comments/1vfim3r/que_hacemos_con_este_tipo_si_yo_gano_esta_bien/",
+        "external_url": "https://www.reddit.com/r/Colombia/comments/1vfim3r/que_hacemos_con_este_tipo_si_yo_gano_esta_bien/",
+        "context": "Fuente: X Independientemente de la inclinacion politica, no deberiamos permitir que discursos asi sigan convenciendo a las personas. Tanta insistidera con un fraude cuando esta re demostrado quen no fue asi. Eso es lavarle la cabeza a las bases para que piensen que lo unico que esta bien, es lo que les dice su lider y nada mas. Solo el tiene derecho a ganar, solo el hace las cosas bien, solo el me",
+        "short_explanation": "Ongoing political controversy over unproven election fraud claims dividing Colombian society."
+      },
+      {
+        "title": "Cristian Castro - Por Amarte Así (Lyrics)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Richie Classics)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-08-03T20:22:07Z",
+        "source_url": "https://www.youtube.com/watch?v=x9tLMceMhME",
+        "external_url": "https://www.youtube.com/watch?v=x9tLMceMhME",
+        "context": "Richie Classics. ╰► 𝗕𝗔𝗦𝗜𝗖 𝗜𝗡𝗙𝗢 ❥\nCristian Castro - Por Amarte Así\nReleased 10/08/2006\n#CristianCastro #latin #poramarteasi #pop #lyrics \n\n🌅 Video de fondo: https://mx.pinterest.com/pin/914864111811917752/\n\n💿 Sigue al artista: @CristianCastroOficial \n\n🍃 Sígueme a mí (chi?)\nInstagram: https://www.instagram.com/richii.almazan/\nCanal Principal:\nCanal Música Indie/Pop/Alternative/Rock: https://www.yout",
+        "short_explanation": "Cristian Castro's romantic song 'Por Amarte Así' remains popular in Latin music culture."
+      },
+      {
+        "title": "House of the Dragon Episode 8 Trailer Analysis: The Battle of Ladera",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Jag Durán)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-08-04T17:04:21Z",
+        "source_url": "https://www.youtube.com/watch?v=0PZ3RN8r6lI",
+        "external_url": "https://www.youtube.com/watch?v=0PZ3RN8r6lI",
+        "context": "Jag Durán. En este video analizaremos las imágenes del avance del episodio 8 de la tercera temporada de House of the Dragon ¿Qué personajes morirán en la batalla de Ladera? ¿Rhaenyra se pasa al lado oscuro? ¿Dónde está Alicent? ¿Qué maldad le harán a Helaena? ¡Vamos allá!\n\nA Justified Doubt: https://youtu.be/YatAO7O0nko?si=277EUskUkTSXOnu4",
+        "short_explanation": "Trailer analysis of House of the Dragon episode 8 explores key battle and character fates."
+      },
+      {
+        "title": "Petro's Analyst Silences Critics on Electoral Fraud Claims",
+        "platform": "reddit",
+        "source_label": "r/Colombia",
+        "score_label": "r/Colombia hot #6",
+        "rank_score": 950,
+        "published_at": "2026-08-04T20:42:31+00:00",
+        "source_url": "https://www.reddit.com/r/Colombia/comments/1vfmeb6/el_analista_de_petro_dejó_calladitos_a_todos_los/",
+        "external_url": "https://www.reddit.com/r/Colombia/comments/1vfmeb6/el_analista_de_petro_dejó_calladitos_a_todos_los/",
+        "context": "Este man es un crack, Petro contrató a este analista para explicar el fraude electoral y nos dejó a todos callados. Deberíamos aprender a aceptar la derrota y entender que los 150mil pueblos colombianos debemos estar unidos para lograr derrocar a estos corruptos de derecha jajajajajaja Alguien podría recomendarme una agencia turística para visitar los 138890 pueblos que no había conocido? submitte",
+        "short_explanation": "Petro's analyst debunks electoral fraud claims, urging unity against political corruption."
+      }
+    ]
+  }
+}

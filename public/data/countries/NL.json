@@ -1,0 +1,867 @@
+{
+  "iso2": "NL",
+  "iso3": "NLD",
+  "country_name": "Netherlands",
+  "flag": "🇳🇱",
+  "region": "Europe",
+  "coordinates": {
+    "lat": 52.1326,
+    "lon": 5.2913
+  },
+  "updated_at": "2026-08-04T20:51:01+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "forest fire",
+    "Venray",
+    "WWII explosives"
+  ],
+  "top_news": {
+    "headline": "No injuries in Venray forest fire, but campers deeply affected",
+    "summary": "A forest fire near Venray caused no injuries but unsettled campers amid fears of WWII explosives.",
+    "why_it_matters": "Reflects local trauma and WWII legacy impacting daily life and emergency responses.",
+    "source_name": "volkskrant.nl",
+    "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRVZNdDVvZkU3RXcwNjVhNFRhc0tfYVlvRDdiTnVvQWxuYzl4OUtoVGRGaU1oRnltMGlrYi1JNFRYY1ZrS01YTzhYTV93MFZEZ0JKZVpjYkV2SDZGU1FnUVBySHhiemRkZFZ1aTNoak0tYV9LczVLaFVNTjVpaHF6Q19PWEVDNUJ5Q0sxeWtBWXlVYTM2U09NZXR1cDZJVmpXdTc0akNIcmt0SzZFQ3ZmTXZCREtqV3U4NW5td0R6YWxKUHMxeG5kTVM3UEplRDdNenJfV0JBa0lEQ2VnVV9MMlVCSEZmT2wwWjE2UGxR?oc=5",
+    "published_at": "Tue, 04 Aug 2026 12:20:00 GMT",
+    "confidence": 0.85
+  },
+  "meme": {
+    "title": "American Driver with 20 Years Experience Keeps Failing Dutch Driving Test",
+    "platform": "reddit",
+    "explanation": "An experienced American driver repeatedly fails Dutch driving tests due to stricter local observation rules, highlighting cultural differences in driving norms.",
+    "why_people_are_sharing_it": "Relatable clash of driving cultures and surprising strictness of Dutch tests.",
+    "tone": "ironic",
+    "local_context": "Dutch driving exams emphasize thorough observation and safety.",
+    "source_url": "https://www.reddit.com/r/thenetherlands/comments/1veb20a/american_driver_with_20_years_of_experience_keeps/",
+    "media_url": "https://www.reddit.com/r/thenetherlands/comments/1veb20a/american_driver_with_20_years_of_experience_keeps/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=nl&gl=NL&ceid=NL:nl",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "Persoon overleden voor kust van Callantsoog, andere zwemmer nog vermist - NU",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Geen gewonden bij bosbrand Venray, maar campinggasten aangedaan: ‘Of ik nou hier of daar doodga, wat maakt dat uit?’ - volkskrant.nl",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "EU-leiders schreeuwden na Ceuta moord en brand, maar geen enkele migrant bereikte Europa - AD.nl",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Doden door drones bij Moskou, webwinkel bij Sint-Petersburg getroffen - rtl.nl",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Drie leeuwinnen dood door hitte in Japanse dierentuin - NOS",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Bosbrand in Valkenswaard, brandweer rukt groots uit - Omroep Brabant",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Veiligheidsregio's: meer grote natuurbranden tegelijkertijd kunnen we niet aan - NOS",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Wethouder gaat asielminister uitleggen dat hij in geval van Hellendoorn de plank volledig misslaat - tubantia.nl",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Protest tegen privatisering Turkse stranden: 'Ze worden bezet' - NOS",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Evacuaties in Guatemala vanwege uitbarsting vulkaan Fuego - NOS",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Palestijnen houden massabegrafenis voor 112 slachtoffers van aanval uit 2023 - NU",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Oekraïne woedend over video waarin Russische drone burger achtervolgt en verwondt: ’Barbaarse oorlogsmisdaad’ - DVHN",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Palantir doet wat nog weinig softwarebedrijven lukt: dik verdienen aan de verkoop van AI - Het Financieele Dagblad",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Droogtemonitor: ‘Uitzonderlijke situatie van langdurige droogte’, kwaliteit van water neemt af - NRC - Nieuws, achtergronden en onderzoeksjournalistiek",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tweede Kamerlid Mona Keijzer in de bres voor de tuinbouw - WOS Nieuws",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Zonsverduistering spotten ongekend populair: ’Eclipsbrillen gaan met duizenden per dag de deur uit’ - De Telegraaf",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Raketafval op de maan: waarom afspraken daarover belangrijker worden - EenVandaag",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Man (18) uit Kesteren opgepakt in lopend terrorismeonderzoek, al eerder drie tieners aangehouden - De Gelderlander",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Koopzegels of punten: bij deze supermarkt haal je straks het meeste voordeel uit je boodschappen - AD.nl",
+          "score": -3,
+          "reasons": [
+            "penalize_generic_crime_or_disaster"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Euforie in Athene slaat even om in ongeloof bij NEC-supporters: ‘Maar we zijn hier niet voor FC Sano’ - De Gelderlander",
+          "score": -4,
+          "reasons": [
+            "penalize_routine_sports"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "thenetherlands",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=NL",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/nl.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 995,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Ariana Grande - 'petal' Official Music Video",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A trending official music video from a globally recognized pop star, clearly relevant to internet culture and fandom."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Avengers: Doomsday | Official Trailer (Marvel, December 18 Release)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A major global entertainment franchise trailer, highly relevant to internet culture and fandom."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Exploring My Abandoned Minecraft Server (MrBeast Gaming)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A popular YouTube gaming creator revisiting a community server, relevant to internet and gaming culture."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "RAMAYANA - Official Trailer (Epic Indian Film, Diwali 2026)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A major film trailer with global cultural significance, especially in South Asian and diaspora communities."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "KATSEYE (캣츠아이) - 'Animal' Official Music Video (HYBE LABELS)",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:K-pop music video from a major label, highly relevant to global internet culture and fandom."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "The Hood: The World is His | Marvel Rivals Character Reveal Trailer",
+          "score": 7,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A Marvel character reveal trailer, relevant to global fandom and internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tinder & Friendship Thread August '26 (Netherlands Reddit Monthly)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:This is a recurring, community-driven social thread on Reddit in the Netherlands, serving as a native internet culture signal for social connections and friendships."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Tuesday Thread (Dutch Reddit Community Open Discussion)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A regular open discussion thread on Dutch Reddit, a native internet culture format for community engagement."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Yung Felix - Baff Baff ft. Oomto & GP UIT G (Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A music video from Dutch artists, relevant to local internet and music culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "American Driver with 20 Years Experience Keeps Failing Dutch Driving Test",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A relatable, somewhat humorous cultural story about adaptation to Dutch driving norms, interesting for global culture mapping."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Smallest vs Largest Staircase (Alex Klein Minecraft Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A creative Minecraft video by a known YouTuber, relevant to gaming and internet culture."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Farmers' Protest on Almelo Highway Goes Unpunished: No Fines Issued",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Local protest news; somewhat generic but may have cultural relevance in Dutch context; borderline."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "‘Opportunistic’ Stork Nearly Extinct Once, Now Breeding Abundantly",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Local wildlife story; interesting but more news than internet culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Is the Warmest Time of Day Shifting in Recent Years? (Dutch Reddit Discussion)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A local community discussion about climate perception; interesting but more niche and discussion-based."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ervaringen met het homologeren/legaliseren van diplomas in EU",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The Search For The Leviathan",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hulp/advies gevraagd over bushalte Tienmaatsweg in Grolloo",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Dopebwoy & AJ Tracey - Stupid (Move it) - Official Video",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Grote natuurbrand in Noord-Limburg, geen treinen tussen Nijmegen en Venray",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Shell casht zijn subsidies door verkoop groene projecten",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hypotheekrente op hoogste stand dit jaar door Iran-oorlog - NRC",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Als LHBT'er reservist bij Defensie?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Grootste zonsverduistering in Nederland sinds 1999 op komst",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Gemiddelde benodigde inkomen per provincie",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Grote zorgen over 'gluurbrillen' van Meta",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hoe een West-Friese psycholoog een gezin ontwrichtte, vier meldingen kreeg en de inspectie toch niet kan voorkomen dat ze opnieuw de fout ingaat",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Meer ziekenhuizen doen late abortussen: 'Emotionele druk groot' | NOS",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Introductiemarkten worstelen met omstreden rechts-nationalistische vereniging",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Op sociale media bejubelde afslankprik triggert eetstoornissen: 'Is geen quick fix'",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Question for people who bought a house after 2022, and has interest rate above 3.5%",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Extra maatregelen tegen droogte: sluizen rond Den Haag en Rotterdam gaan dicht",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Albert Heijn Loyalty Stamp Changes: One Stamp After Double Purchases",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:A local news headline about supermarket loyalty program changes; too generic and news-focused without broader cultural signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Less Space for Wheelchairs in New Buses: 'We Are Totally Shocked'",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Local news about public transport accessibility; important but generic and less a culture signal."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Maandagse optimismedraad",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ceuta",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "The Odyssey (2026)",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Zonsverduistering van 12 augustus 2026",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Kinder/tienerboek, fictie, over Japan",
+          "score": 1,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "penalize_generic_tragedy"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Hoofdpagina",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Speciaal:Zoeken",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Ariana Grande",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Nasrah Habiballah",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Sigrid Haugset",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "netflix",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "spacex stock",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "botic van de zandschulp",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "amd stock",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "datacenter",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "tallon griekspoor",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "live aid",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "eugenie van york",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "spelen bij beelen",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "alex pastoor",
+          "score": -2,
+          "reasons": [
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "Persoon overleden voor kust van Callantsoog, andere zwemmer nog vermist - NU",
+        "source_name": "NU",
+        "source_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbUlDSm4xN0xKOHRNNk10QS11MWJjbzdzT2pqZzJrd1d1bVJRN2F3ODk5dmhYMzB3emxka3Z1N0RYM19PZ3BQRVRMZE9xMVJpYTYtYXBXa3V5WVpxS3J5ekx6ME9pX1BHRFpUVkxsQV91MXZpZ2NLcmE0NWNmeVI1d2g1SVJrNFB5Q041elNTT0ZneDRsR3E1YUs2Y1NCSVlPYWQxYXBNSjZHOG9nNjE3ZXF3?oc=5",
+        "published_at": "Tue, 04 Aug 2026 20:08:04 GMT",
+        "snippet": "Persoon overleden voor kust van Callantsoog, andere zwemmer nog vermist NU Zwemmers in problemen bij Callantsoog: één persoon overleden, één nog vermist NOS Zwemmers in de problemen in zee bij Callantsoog: dode, vermiste en twee mensen gered AD.nl Drama voor kust van Callantsoog: één dode, zoektocht naar vermiste De Telegraaf Grote reddingsactie voor meerdere zwemmers bij Callantsoog, nog één persoon vermist nhnieuws.nl",
+        "short_explanation": "Fatal swimming accident near Callantsoog highlights local beach safety concerns."
+      },
+      {
+        "title": "Geen gewonden bij bosbrand Venray, maar campinggasten aangedaan: ‘Of ik nou hier of daar doodga, wat maakt dat uit?’ - volkskrant.nl",
+        "source_name": "volkskrant.nl",
+        "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRVZNdDVvZkU3RXcwNjVhNFRhc0tfYVlvRDdiTnVvQWxuYzl4OUtoVGRGaU1oRnltMGlrYi1JNFRYY1ZrS01YTzhYTV93MFZEZ0JKZVpjYkV2SDZGU1FnUVBySHhiemRkZFZ1aTNoak0tYV9LczVLaFVNTjVpaHF6Q19PWEVDNUJ5Q0sxeWtBWXlVYTM2U09NZXR1cDZJVmpXdTc0akNIcmt0SzZFQ3ZmTXZCREtqV3U4NW5td0R6YWxKUHMxeG5kTVM3UEplRDdNenJfV0JBa0lEQ2VnVV9MMlVCSEZmT2wwWjE2UGxR?oc=5",
+        "published_at": "Tue, 04 Aug 2026 12:20:00 GMT",
+        "snippet": "Geen gewonden bij bosbrand Venray, maar campinggasten aangedaan: ‘Of ik nou hier of daar doodga, wat maakt dat uit?’ volkskrant.nl Brandweer voorzichtig, mogelijk explosieven gevonden • Chinooks dropten al 900.000 liter water NOS Hulp EOD ingeschakeld bij natuurbrand Venray uit vrees voor WOII-munitie NU LIVEBLOG: Noodverordening van kracht, Chinooks droppen bijna 900.000 liter water l1nieuws.nl Natuurbrand Oostrum natuurgebied Boschhuizerbergen Veiligheidsregio Limburg-Noord",
+        "short_explanation": "Forest fire near Venray alarms locals due to possible WWII explosives and evacuations."
+      },
+      {
+        "title": "EU-leiders schreeuwden na Ceuta moord en brand, maar geen enkele migrant bereikte Europa - AD.nl",
+        "source_name": "AD.nl",
+        "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTzItaXpIM09VanJTeVdjaUw3Tkc5VnRpWnZqRzlMUVlyOE1QSEd6RExDelFQdkZwSWJudlY2X0t1MHdWR3pGSjFSM2YzU3hYcDRvQTV3c1RPdEFIRnRDQ2x4R2dnU29jWFBXeDZtcUlKNmhwb2ZHMGNjaGxpTWJtOGRlOXI4U0VTcHBGSUQ4eXdEcE9iVWdfOWo1a3dBR2dxazQxWFNTTDhocUNWdnlRUUhYTFV3YW92X1EyWVAwbjZVbi1ocEE?oc=5",
+        "published_at": "Tue, 04 Aug 2026 16:30:00 GMT",
+        "snippet": "EU-leiders schreeuwden na Ceuta moord en brand, maar geen enkele migrant bereikte Europa AD.nl 'Dubbel slot' Ceuta deed zijn werk, ongeacht chaos en paniek bij Europese leiders NU Ceuta was een nieuw voorbeeld van chantage van de EU, dit keer door Marokko trouw.nl Teleurstelling in plaats van taekwondo-droom voor Zoubeir na zes dagen in Ceuta NOS Marokkaanse jongeren zien Europa als paradijs, maar de realiteit is keihard AD.nl",
+        "short_explanation": "EU leaders react to migrant crisis at Ceuta, reflecting immigration tensions in Europe."
+      },
+      {
+        "title": "Doden door drones bij Moskou, webwinkel bij Sint-Petersburg getroffen - rtl.nl",
+        "source_name": "rtl.nl",
+        "source_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUN1OXpGcHJaY1ZadmdDbnQzcnlRSVFzbnhWUkFLQUpReE82TWRRbVVBU1VzTHhETTZiUTJFb01WcU96dy1jeHl0VUVYY2JRU0ZTSTdpUVhmRk5rT00xcXVtaHdCcGZYUVJ2ZkpUN2FqR1I3Q2FIa2RHa1VGT2o5QWxtdXNBTlU0VEJ4QWxlZ3VOSjFPRDM3M2VoeXpWcVY1WmkyN1pUcUZpSm5PcVZv?oc=5",
+        "published_at": "Tue, 04 Aug 2026 08:14:46 GMT",
+        "snippet": "Doden door drones bij Moskou, webwinkel bij Sint-Petersburg getroffen rtl.nl Doden en gewonden bij Oekraïense aanvallen op Moskou en Sint-Petersburg NOS Liveblog Oekraïne | Massale droneaanval op Russische hoofdstad Moskou bnr.nl LIVE Oorlog Oekraïne | Meerdere doden en gewonden door droneaanval bij Moskou AD.nl Oekraïense drones slopen ‘het Russische Amazon’ Het Financieele Dagblad",
+        "short_explanation": "Drone attacks near Moscow and St. Petersburg show ongoing Ukraine-Russia conflict impact."
+      },
+      {
+        "title": "Drie leeuwinnen dood door hitte in Japanse dierentuin - NOS",
+        "source_name": "NOS",
+        "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWVhva0VqejQ1QzJHYm0xTFR5bThvZUhYU2lmYUloSWNyUl9YSEhPX2Y3ZnBmcnd3cGg0aWNXVGtBei1uVERIMXUzQmRIT19aM3pURFJoUEhYV0dmeDBVSFg0WlpqZXMwVlRkcHpJVjVObWM1RmZJVUloTXNRdk5Fa1E2aUIwLXpGTURXQg?oc=5",
+        "published_at": "Tue, 04 Aug 2026 12:49:42 GMT",
+        "snippet": "Drie leeuwinnen dood door hitte in Japanse dierentuin NOS In korte broek naar kantoor en speciale nevelzones. Zo gaat Oost-Azië de strijd aan met de hitte trouw.nl Drie leeuwinnen vermoedelijk door hitte overleden in dierentuin in Tokio NU Drie leeuwen sterven vermoedelijk door hitte in Tokio, ondanks plaatsen van mobiele airconditioners De Telegraaf Drie leeuwinnen dood in dierentuin in Tokio, vermoedelijk door hitteberoerte rtl.nl",
+        "short_explanation": "Heatwave kills three lionesses in Tokyo zoo, raising awareness of climate effects."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Ariana Grande - 'petal' Official Music Video",
+        "platform": "youtube",
+        "source_label": "YouTube trending (ArianaGrandeVevo)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-07-31T15:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=afSgBNwmZrQ",
+        "external_url": "https://www.youtube.com/watch?v=afSgBNwmZrQ",
+        "context": "ArianaGrandeVevo. The official music video for Ariana Grande’s “petal” out july 31 at 11am et. \n\n'petal’: https://arianagrande.lnk.to/petal\n\nShop the ‘petal’ collection: https://arianagrande.lnk.to/shop\n\n► Follow Ariana Grande:\nhttps://www.arianagrande.com\nhttps://instagram.com/arianagrande\nhttps://tiktok.com/@arianagrande \nhttps://facebook.com/arianagrande\n\n► Subscribe to Ariana Grande: https://a",
+        "short_explanation": "Ariana Grande's new music video 'petal' excites Dutch fans of global pop culture."
+      },
+      {
+        "title": "Avengers: Doomsday | Official Trailer (Marvel, December 18 Release)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Entertainment)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-07-20T13:00:20Z",
+        "source_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "external_url": "https://www.youtube.com/watch?v=irVNGjRFZGk",
+        "context": "Marvel Entertainment. Doomsday arrives December 18th.\n \nExperience Avengers: Doomsday on bigger, brighter, & more immersive screens. Tickets are now on sale exclusively for Infinity Vision certified theaters: fandango.com/avengersdoomsday \n\n► SUBSCRIBE to the channel to get notified when new Marvel videos are posted: https://www.youtube.com/marvel?sub_confirmation=1\n\n► SUBSCRIBE to Disney+ to stre",
+        "short_explanation": "Marvel's Avengers: Doomsday trailer sparks excitement for December superhero movie release."
+      },
+      {
+        "title": "Exploring My Abandoned Minecraft Server (MrBeast Gaming)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (MrBeast Gaming)",
+        "score_label": "trending #3",
+        "rank_score": 980,
+        "published_at": "2026-08-01T16:00:03Z",
+        "source_url": "https://www.youtube.com/watch?v=PRp5Y543LN0",
+        "external_url": "https://www.youtube.com/watch?v=PRp5Y543LN0",
+        "context": "MrBeast Gaming. I can't believe a random video 6 years ago started all this\n\nI want to make it clear that I don't own this Minecraft server anymore, it's now in the hands of the community. So be warned that if you go on this server, you may see profanity or other things that I have no control over. The community I met on the server was so wholesome, so if you go on the server, let's try and keep i",
+        "short_explanation": "MrBeast revisits abandoned Minecraft server, highlighting community-driven gaming culture."
+      },
+      {
+        "title": "RAMAYANA - Official Trailer (Epic Indian Film, Diwali 2026)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Sony Pictures Entertainment)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-07-30T05:13:28Z",
+        "source_url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
+        "external_url": "https://www.youtube.com/watch?v=1zip1rNaNYs",
+        "context": "Sony Pictures Entertainment. The Ramayana Trailer.\nThis is where the EPIC BEGINS. 🏹 \n\nNamit Malhotra's Ramayana\nDirected by Nitesh Tiwari\n\nIn Cinemas Worldwide, Diwali 2026.\n\n---------------------------------------------------\n\nStarring: \nRanbir Kapoor as Rama \nYash as Ravana \nSai Pallavi as Sita \nRavie Dubey as Lakshman \nSunny Deol as Hanuman\n\nCo-Produced by Monster Mind Creations\nAdapted for Scr",
+        "short_explanation": "Epic Indian film Ramayana trailer draws interest for its 2026 Diwali release."
+      },
+      {
+        "title": "KATSEYE (캣츠아이) - 'Animal' Official Music Video (HYBE LABELS)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (HYBE LABELS)",
+        "score_label": "trending #7",
+        "rank_score": 940,
+        "published_at": "2026-07-24T03:59:06Z",
+        "source_url": "https://www.youtube.com/watch?v=m7k9UMcHbr0",
+        "external_url": "https://www.youtube.com/watch?v=m7k9UMcHbr0",
+        "context": "HYBE LABELS. KATSEYE (캣츠아이) \"Animal\" Official MV\n\nListen to KATSEYE’s new single Animal now: https://KATSEYE.lnk.to/Animal \nPre-order KATSEYE's Third EP ‘WILD’: https://KATSEYE.lnk.to/WILD  \n\nShop KATSEYE: https://KATSEYE.lnk.to/Shop\n\nFollow KATSEYE\n\nInstagram: https://www.instagram.com/katseyeworld/    \nTikTok: https://www.tiktok.com/@katseyeworld   \nTwitter: https://twitter.com/katseyeworld   \nY",
+        "short_explanation": "KATSEYE's 'Animal' MV gains attention among Dutch K-pop and HYBE fans."
+      },
+      {
+        "title": "Tinder & Friendship Thread August '26 (Netherlands Reddit Monthly)",
+        "platform": "reddit",
+        "source_label": "r/thenetherlands",
+        "score_label": "r/thenetherlands hot #1",
+        "rank_score": 1000,
+        "published_at": "2026-08-01T07:05:15+00:00",
+        "source_url": "https://www.reddit.com/r/thenetherlands/comments/1vcg9bs/tinder_vriendschapsdraadje_augustus_26/",
+        "external_url": "https://www.reddit.com/r/thenetherlands/comments/1vcg9bs/tinder_vriendschapsdraadje_augustus_26/",
+        "context": "Nieuwe maand, nieuwe draad! Als je je vakantieliefde nog niet ontmoet hebt, wie weet vind je hem/haar/hen hier! Of misschien zoek je enkel iets vriendschappelijks of online - het mag allemaal! Wie ben je? Wie, wat en waar zoek je? Veel plezier iedereen! Link naar vorige draadje: https://www.reddit.com/r/thenetherlands/comments/1ukpjtt/tinder_vriendschapsdraadje_juli_26/ En neem de waarschuwing van",
+        "short_explanation": "Monthly Reddit thread connects Dutch users seeking love or friendship online."
+      },
+      {
+        "title": "Tuesday Thread (Dutch Reddit Community Open Discussion)",
+        "platform": "reddit",
+        "source_label": "r/thenetherlands",
+        "score_label": "r/thenetherlands hot #2",
+        "rank_score": 990,
+        "published_at": "2026-08-04T07:03:11+00:00",
+        "source_url": "https://www.reddit.com/r/thenetherlands/comments/1vf2xyk/dinsdagdraadje/",
+        "external_url": "https://www.reddit.com/r/thenetherlands/comments/1vf2xyk/dinsdagdraadje/",
+        "context": "Wat willen jullie kwijt? Positief, negatief of gewoon iets. Gooi het op dit semi-anonieme platform. submitted by /u/Btreeb [link] [comments]",
+        "short_explanation": "Dutch Reddit Tuesday Thread offers open space for community discussions and opinions."
+      },
+      {
+        "title": "American Driver with 20 Years Experience Keeps Failing Dutch Driving Test",
+        "platform": "reddit",
+        "source_label": "r/thenetherlands",
+        "score_label": "r/thenetherlands hot #5",
+        "rank_score": 960,
+        "published_at": "2026-08-03T11:43:00+00:00",
+        "source_url": "https://www.reddit.com/r/thenetherlands/comments/1veb20a/american_driver_with_20_years_of_experience_keeps/",
+        "external_url": "https://www.reddit.com/r/thenetherlands/comments/1veb20a/american_driver_with_20_years_of_experience_keeps/",
+        "context": "My husband has been driving in the US for almost 20 years and is now trying to get his Dutch driver's license. Over the past year, he has unfortunately failed his practical driving test four times. The feedback is always the same: his observation and driving behaviour don't meet Dutch standards. The examiners say he doesn't \"look\" enough—checking mirrors, looking over his shoulder, and making his ",
+        "short_explanation": "American driver struggles with Dutch driving test due to local road rules and habits."
+      }
+    ]
+  }
+}

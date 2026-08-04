@@ -1,0 +1,856 @@
+{
+  "iso2": "SA",
+  "iso3": "SAU",
+  "country_name": "Saudi Arabia",
+  "flag": "🇸🇦",
+  "region": "Middle East",
+  "coordinates": {
+    "lat": 23.8859,
+    "lon": 45.0792
+  },
+  "updated_at": "2026-08-04T21:00:37+00:00",
+  "probe_status": "ok",
+  "keywords": [
+    "مضيق هرمز",
+    "إيران",
+    "شحن النفط"
+  ],
+  "top_news": {
+    "headline": "مصدر إيراني: طهران تسعى للسيطرة على حركة الشحن في هرمز - العربية",
+    "summary": "إيران تسعى للسيطرة على مضيق هرمز الحيوي لشحن النفط وسط توترات إقليمية متصاعدة.",
+    "why_it_matters": "مضيق هرمز محور حيوي لتجارة النفط العالمية وتأثيره يعكس صراعات إقليمية.",
+    "source_name": "العربية",
+    "source_url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPMzh5UWtqNGNTMm9TUlR2bVI1V0JXZmVBNnVkd0JXVDZRUEQ0aVlvQ0JOQ1A4VG5NQmEtTVFlYWdwOW1jQ0VrZzBKcGpBQkpYQmtTS3RtTUJhODFpQmg1TXQtc3Y1NXVlcWY5REwtN0N5RFdQS2hYa0ZYc1JDaHRIZi1kRDhGTmpxWUZHVVg3WVV1WE1DNmhHMWRpZDFBenkyUXJyN0dZbk90YWlhTFhVVjJfcHFjR1VsdlBvSkFzNlpJZWl2TlFGZE5PZVhLWm4ydVI2WlRRWnVBcnZuZHZWejBFZ2xGVk1IYVJzLUNnOGdkLVc3bkhCSDI3NEMtcXVIVXlzNVlaMkViTFVkU3lCbVRfSmNsVENVQXlibHU4dG93Z0MxNlhxaTJoSjFhaFhFbzk5VE1KNkZNNFFaSGwzM18tMWh3Z3UybEZHUjJzUXJza1Ruc2dvemVvZmp3eTZyOFdYOFRIbndnblNzQ3ZHNHF2R1NaVjZwaVVaQ1B5YmludHNaMEZFVDM3YVhyVThZeTA0em9pNm04R0g0NUYtV05FaE1lU3ZaWGt0YWpJS1A4U3lmZ2M3akxuMmFGa1lj0gHGA0FVX3lxTFBDN0R5WVhxUWRheExtcDJTcno3YUJTeTM3bS1wb0UwNzRTd2RuUThZN1c2cDdWWE1GSnRlU3YxY01URmtmamhnZWNjUW5pWU5RQVZfZlFCeTFndjJwSTRqQ0lGZUdHc21xSG9NY0Q2Zm9oZnlSM0ZQZ1dGaUhsdHRVT3dfeG9tZFVmWU9qQm03YjZLWVNOX3NEamd4OV9hZ09yZEEtZHlaT2lHdmt4aVpHYkhLVGxfdlEtXzltRXRSRDhEQXZ4ZzFxMWZQcnhTOG5acEF6Y2NvRXZ6RnkwRmNuWHhmSW85dUxwdWVMYWJHVkp3TS1PWHoyV2xGdnhSUGdTRUZKR054MWFISHd2MFoydEJRYmF2MERKaVd4RGNaYUlqb1NPb0FoWGJZSGdGYnRGcjhFQjczeWpLU0NXOXpaVE1XR1F0RFBmYzVUMndJUkMyUlVwTllJcFg0b1hVOXFiMExNQkFwXzZ0MmJoUWFWRGRZenRiamVpMWJNVUJ3SG56eHkwVm8yZnJzWGoxX29JUVk2OHlfTlpUdjVvbUx2UkVaNzRPcDJ2Z2tsa3VIZFFGdnJLYjBtTnpnYU95bENCNzAtMWc?oc=5",
+    "published_at": "Tue, 04 Aug 2026 10:07:00 GMT",
+    "confidence": 0.9
+  },
+  "meme": {
+    "title": "Guide to Saudi Arabian Reddit Communities",
+    "platform": "reddit",
+    "explanation": "A Reddit post mapping Saudi Arabia's local subreddits reveals how Saudis use Reddit to connect regionally and share local culture online.",
+    "why_people_are_sharing_it": "It helps newcomers find relevant Saudi communities and boosts local content on Reddit.",
+    "tone": "wholesome",
+    "local_context": "Saudi Arabia's regional identities reflected in distinct online communities.",
+    "source_url": "https://www.reddit.com/r/saudiarabia/comments/1mmhjnl/دليل_المجتمعات_السعودية/",
+    "media_url": "https://www.reddit.com/r/saudiarabia/comments/1mmhjnl/دليل_المجتمعات_السعودية/",
+    "confidence": 0.8
+  },
+  "fetch_diagnostics": {
+    "news": {
+      "source": "google_news_top_rss",
+      "url": "https://news.google.com/rss?hl=ar&gl=SA&ceid=SA:ar",
+      "items_seen": 34,
+      "items_kept": 20,
+      "filters": [
+        {
+          "title": "مصدر إيراني: طهران تسعى للسيطرة على حركة الشحن في هرمز - العربية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "بعدما منح ترامب إيران \"الفرصة الأخيرة\".. إليكم آخر المستجدات - CNN Arabic",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "الأرصاد: أمطار رعدية على مرتفعات الجنوب ورياح مثيرة للغبار في عدة مناطق - صحيفة سبق الإلكترونية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "مفاوضات روما: لبنان \"لم يتلقَّ أجوبة من المستوى السياسي الإسرائيلي\" بشأن الالتزام بوقف إطلاق النار - BBC",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "قطر تكشف عن \"تقدم ملحوظ ومسودات اتفاق\" لحل أزمة إيران وأمريكا - CNN Arabic",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "قطر: حماس التزمت بما عليها وعلى المجتمع الدولي الضغط على إسرائيل - الجزيرة نت",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "أمر سامٍ بتعيين أعضاء مجالس مناطق المملكة الـ13 لدعم مسيرة التنمية الشاملة لمدة 4 سنوات - صحيفة سبق الإلكترونية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "تحليل.. دوران الشحن السعودي حول البحر الأحمر له تكلفة باهظة - CNN Arabic",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "الديوان الملكي: وفاة والدة صاحب السمو الملكي الأمير حمود بن سعود بن عبدالعزيز آل سعود - صحيفة سبق الإلكترونية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "اقتصادي / شركة القدية للاستثمار تُطلق \"مسار اللعب\" لتطوير الكفاءات الهندسية السعودية وصناعة قيادات المستقبل - وكالة الأنباء السعودية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "تخدم 20 مليون طلب.. مسيّرات أوكرانيا تضرب أمازون روسيا - سكاي نيوز عربية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "\"مأساة سبتة\".. قصة مراهقة مغربية لطمتها الأمواج وفقدت شقيقها في عرض البحر - العربية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "استهداف سفينة بضائع بمقذوف قرب هرمز.. وفقدان بحار - العربية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "حرب بلا نهاية في السماء.. سباق غربي لإنتاج \"بديل باتريوت\" - سكاي نيوز عربية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "أرباح \"أرامكو السعودية\" تقفز 42% في الربع الثاني إلى 32.4 مليار دولار - العربية",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "تاسي يرتفع 0.3% عند 10858 نقطة.. بتداولات 6 مليارات ريال - ارقام",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "سر مستوى 4,000 دولار.. لماذا لا ينهار الذهب أدنى هذا السعر؟ - Investing.com",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "تغيرات كبار الملاك في السوق السعودي ليوم الأحد 02 أغسطس (لجام - أيان - صادرات - تهامة - دي آر سي - بنان) - ارقام",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "واجهة جديدة لتثبيت المحادثات بـ \"رسائل Google\" - أخبار 24",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "«مايكروسوفت» تعيد هندسة ويندوز 11 لتقليل استهلاك الذاكرة - جريدة الرياض",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    },
+    "trends": {
+      "reddit": {
+        "source": "reddit_rss",
+        "subreddits": [
+          {
+            "subreddit": "saudiarabia",
+            "status": 200,
+            "items_kept": 25
+          }
+        ],
+        "items_kept": 25
+      },
+      "youtube": {
+        "source": "youtube_trending",
+        "url": "youtube.data.api",
+        "items_kept": 10
+      },
+      "google_trends": {
+        "source": "google_trends_rss",
+        "url": "https://trends.google.com/trending/rss?geo=SA",
+        "items_seen": 10,
+        "items_kept": 10
+      },
+      "wikipedia_pageviews": {
+        "source": "wikimedia_pageviews_top",
+        "url": "https://wikimedia.org/api/rest_v1/metrics/pageviews/top/ar.wikipedia/all-access/2026/08/03",
+        "data_date": "2026-08-03",
+        "items_seen": 996,
+        "items_kept": 8
+      },
+      "filters": [
+        {
+          "title": "Thudakkam Official Trailer - Malayalam Movie Release August 7, 2026",
+          "score": 10,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:This is a movie trailer with notable regional film personalities, relevant for cultural interest beyond just a news headline."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "SRK Prabhas aur Yash ko yaad aayegi NANI 😎 | #Yogipedia 265 | Yogi Bolta Hai",
+          "score": 8,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_culture_signal",
+            "ai:Opaque title mixing several Bollywood stars and internet slang without clear cultural signal or story."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Guide to Saudi Arabian Reddit Communities",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Useful cultural resource for Saudi Arabia Reddit users, showing local community engagement."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Cairokee - Tata Tata (Official Song)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Arabic music band Cairokee's trending song, relevant cultural content."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Assala Nasri - Assala (Official Music Video 2026)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Arabic singer's new official music video, culturally significant."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular global franchise Marvel content, relevant for global culture mapping."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Balqees - Zahr Laymoon (Official Music Video)",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Popular Arabic singer Balqees' new official music video, culturally relevant."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ابي افضل ساعة ذكيه تحت 300",
+          "score": 6,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "boost_milestone_signal",
+            "ai:A generic request for a smartwatch under 300 (currency not specified), too generic and local."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Seeking Help to Exit Saudi Arabia Without Iqama",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Personal legal/immigration issue, relevant but niche and sensitive."
+          ],
+          "passed": true,
+          "kept": true
+        },
+        {
+          "title": "Roblox Gameplay: Secure the Supermarket",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content popular among youth, but generic game title and gameplay."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ROBLOX Escape Keyboard - Completing World 3",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Gaming content with some local creator relevance, but generic gameplay."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "هل انا هطف؟",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "فضفضة",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "أكبر غميضة في ماب الكيبورد!👀 | Speed Keyboard Escape",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "How?",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "BABYMONSTER - 'MOON' PERFORMANCE VIDEO",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "اسويها؟",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "رخصة السواقة اونلاين والسواقة بالخارج",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "هل فيه منصة لبيع اثاث وادوات منزل؟. غير حراج",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "التعلق.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "هل تصرفي صح ؟",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ايش تصنيف هذا النوع من الرجال؟",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "دكاترة ريديت (الاسنان) احتاح مساعدتكم",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "الخليجي يقدر يفتح مكتب تدقيق في السعودية؟",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Home Needed for Two Cats (1 Month)",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ضاقت فلما استحكمت حلقاتها فرجت وكنت أظنها لا تفرج",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "Tired.",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "مابي اجرح عاملتنا",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "همم🤔..",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "عرض وظيفي في الرياض",
+          "score": 5,
+          "reasons": [
+            "boost_reddit_youtube_culture"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "سيارة في موقفي ٥ ايام",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Local complaint about a car parked for 5 days, too generic and local."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ودي أستثمر بس محتارة وين أبدأ",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic personal finance question about investment, local and generic."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "[FIX] STC 5G Hotspot on S24 Ultra – Apps like EZVIZ not working (Ping fails too)? Here's the solution.",
+          "score": 4,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Technical troubleshooting post about STC 5G hotspot, too niche and local."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "خرعه بالبطن؟",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Generic health question about stomach anxiety, no broader cultural relevance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "الوتر! مابينك وبين أحلامك الا دعوة مستجابة",
+          "score": 3,
+          "reasons": [
+            "boost_reddit_youtube_culture",
+            "ai:Very generic personal prayer request, no cultural or trend significance."
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "زلزال القاهرة 1992",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "قائمة الزلازل في مصر",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "زلزال",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "في السابعة عشرة",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "منصة حجز العملة الأجنبية",
+          "score": 2,
+          "reasons": [
+            "boost_native_culture_source",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "خاص:بحث",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "الصفحة الرئيسة",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "ملف:Elissa - August 24, 2012 (2).jpg",
+          "score": 0,
+          "reasons": [
+            "boost_native_culture_source",
+            "penalize_thin_context",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "সৌদি আরব",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "محمد صلاح",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "محمد هنيدي",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "برنامج خدمة ضيوف الرحمن",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "قوقل",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "صحراء",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "sparta praha vs ol",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "انجي بوستيكوجلو",
+          "score": 0,
+          "reasons": [],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "roston chase",
+          "score": -1,
+          "reasons": [
+            "penalize_bare_person_name_title",
+            "boost_strong_traffic"
+          ],
+          "passed": true,
+          "kept": false
+        },
+        {
+          "title": "pradeep rawat",
+          "score": -6,
+          "reasons": [
+            "penalize_generic_tragedy",
+            "penalize_bare_person_name_title"
+          ],
+          "passed": true,
+          "kept": false
+        }
+      ]
+    }
+  },
+  "raw_candidates": {
+    "news": [
+      {
+        "title": "مصدر إيراني: طهران تسعى للسيطرة على حركة الشحن في هرمز - العربية",
+        "source_name": "العربية",
+        "source_url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxPMzh5UWtqNGNTMm9TUlR2bVI1V0JXZmVBNnVkd0JXVDZRUEQ0aVlvQ0JOQ1A4VG5NQmEtTVFlYWdwOW1jQ0VrZzBKcGpBQkpYQmtTS3RtTUJhODFpQmg1TXQtc3Y1NXVlcWY5REwtN0N5RFdQS2hYa0ZYc1JDaHRIZi1kRDhGTmpxWUZHVVg3WVV1WE1DNmhHMWRpZDFBenkyUXJyN0dZbk90YWlhTFhVVjJfcHFjR1VsdlBvSkFzNlpJZWl2TlFGZE5PZVhLWm4ydVI2WlRRWnVBcnZuZHZWejBFZ2xGVk1IYVJzLUNnOGdkLVc3bkhCSDI3NEMtcXVIVXlzNVlaMkViTFVkU3lCbVRfSmNsVENVQXlibHU4dG93Z0MxNlhxaTJoSjFhaFhFbzk5VE1KNkZNNFFaSGwzM18tMWh3Z3UybEZHUjJzUXJza1Ruc2dvemVvZmp3eTZyOFdYOFRIbndnblNzQ3ZHNHF2R1NaVjZwaVVaQ1B5YmludHNaMEZFVDM3YVhyVThZeTA0em9pNm04R0g0NUYtV05FaE1lU3ZaWGt0YWpJS1A4U3lmZ2M3akxuMmFGa1lj0gHGA0FVX3lxTFBDN0R5WVhxUWRheExtcDJTcno3YUJTeTM3bS1wb0UwNzRTd2RuUThZN1c2cDdWWE1GSnRlU3YxY01URmtmamhnZWNjUW5pWU5RQVZfZlFCeTFndjJwSTRqQ0lGZUdHc21xSG9NY0Q2Zm9oZnlSM0ZQZ1dGaUhsdHRVT3dfeG9tZFVmWU9qQm03YjZLWVNOX3NEamd4OV9hZ09yZEEtZHlaT2lHdmt4aVpHYkhLVGxfdlEtXzltRXRSRDhEQXZ4ZzFxMWZQcnhTOG5acEF6Y2NvRXZ6RnkwRmNuWHhmSW85dUxwdWVMYWJHVkp3TS1PWHoyV2xGdnhSUGdTRUZKR054MWFISHd2MFoydEJRYmF2MERKaVd4RGNaYUlqb1NPb0FoWGJZSGdGYnRGcjhFQjczeWpLU0NXOXpaVE1XR1F0RFBmYzVUMndJUkMyUlVwTllJcFg0b1hVOXFiMExNQkFwXzZ0MmJoUWFWRGRZenRiamVpMWJNVUJ3SG56eHkwVm8yZnJzWGoxX29JUVk2OHlfTlpUdjVvbUx2UkVaNzRPcDJ2Z2tsa3VIZFFGdnJLYjBtTnpnYU95bENCNzAtMWc?oc=5",
+        "published_at": "Tue, 04 Aug 2026 10:07:00 GMT",
+        "snippet": "مصدر إيراني: طهران تسعى للسيطرة على حركة الشحن في هرمز العربية إيران تقترح «سيطرة جزئية» على مضيق هرمز الشرق الأوسط الحرس الثوري: الأوضاع في مضيق هرمز لن تعود إلى ما كانت عليه دون إنهاء الحصار الأمريكي عاجل مسؤول إيراني: مضيق هرمز لن يعود لوضع قبل الحرب وسيخضع لسيطرتنا CNN Arabic إيران نفت إجراء مباحثات مع الولايات المتحدة.. وتجري محادثات مع عُمان جريدة الرياض",
+        "short_explanation": "Iran aims to control Strait of Hormuz shipping, crucial for regional trade and security."
+      },
+      {
+        "title": "بعدما منح ترامب إيران \"الفرصة الأخيرة\".. إليكم آخر المستجدات - CNN Arabic",
+        "source_name": "CNN Arabic",
+        "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa2NzaHBDQVluWVZRRDljcVhzSEdWRHRkcUFULWlxcjNzZ1FiRmV2Njgxc0dHbUVYNllwdUNxb3JkNWdWSUJfWnlycE5lbHhlV0RGTHBKaERVdHRHOGpUbjNLZkpkMkk5Q1BqYmYtbEcza0lrMVh0NWl2TTVIa0xjNVhvYktJWDBia2tuU3YwN1hLLWJ6aTR4U1o1VHkyUGdOVExka2s0NFE1MUV6dUtQeGpqc1ZIQdIBwAFBVV95cUxOX0ZMMUlJM3hBS0N0Qkt0OXNSWlRHSUVhMXY5aHdfdTlHYjI4NGs5aFBzMFg5NUpLU3ZQVUlPQWtfMXFYV2o5SjVCeWtHN0s2S3VMendxSl85bHRlU0xXaV80TWg2aWFiZDdaaUR1czM3ZXA3YkZPOGNKOVM2Vk5lYW5Va0NHLWluN0ZtMmNzeGcxV1h3RzJONHZjZjFmemFOaTRGakxUcVFaQi1ULWxYb2JCTFo3ZlQ1VTFDa1F3M0E?oc=5",
+        "published_at": "Tue, 04 Aug 2026 06:05:46 GMT",
+        "snippet": "بعدما منح ترامب إيران \"الفرصة الأخيرة\".. إليكم آخر المستجدات CNN Arabic إيران مباشر.. تفاؤل أمريكي بفتح مضيق هرمز وطهران تؤكد إيجابية مفاوضاتها مع مسقط الجزيرة نت واشنطن وطهران على أعتاب اتفاق لإعادة فتح مضيق هرمز صحيفة سبق الإلكترونية أسعار النفط تهبط بأكثر من 3% عقب تصريحات بيسنت ارقام حديث أميركي عن موعد إعادة فتح هرمز.. وتوقيع الاتفاق سكاي نيوز عربية",
+        "short_explanation": "US-Iran talks on reopening Strait of Hormuz affect oil prices and regional stability."
+      },
+      {
+        "title": "الأرصاد: أمطار رعدية على مرتفعات الجنوب ورياح مثيرة للغبار في عدة مناطق - صحيفة سبق الإلكترونية",
+        "source_name": "صحيفة سبق الإلكترونية",
+        "source_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9FRWo4Q1I0QlozTDNmSnpjTHgwU0NNaktPcWJWZldsd3hQdUpMWWhJNHpYVlNpaVhodmlSUG9xZkQzT1g1MzhB?oc=5",
+        "published_at": "Mon, 03 Aug 2026 22:46:00 GMT",
+        "snippet": "الأرصاد: أمطار رعدية على مرتفعات الجنوب ورياح مثيرة للغبار في عدة مناطق صحيفة سبق الإلكترونية الأرصاد يحذّر من أتربة مثارة ورياح نشطة تضرب 7 محافظات في الرياض صحيفة سبق الإلكترونية \"الأرصاد\" تنبه من أتربة مثارة على أجزاء من منطقة الرياض جريدة الرياض حالة الطقس اليوم الثلاثاء على مناطق المملكة - جريدة المدينة جريدة المدينة تنبيه حتى العاشرة مساء: أتربة ورياح شديدة في الرياض و18 محافظة عكاظ",
+        "short_explanation": "Weather warnings for southern rain and dust storms impact daily life and safety."
+      },
+      {
+        "title": "مفاوضات روما: لبنان \"لم يتلقَّ أجوبة من المستوى السياسي الإسرائيلي\" بشأن الالتزام بوقف إطلاق النار - BBC",
+        "source_name": "BBC",
+        "source_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GbDBFcGdxb3o3S3EtZmFWWlNGaE9RNGRtNko4WEhHWXBURThLNVpKd2l1T0dNLWcwOVl5ekxjakNrQTJ4a1Y3Nm9PWWI2Z1FuYVVSdkdqY3pRSVR50gFiQVVfeXFMTXFBMjlTYll2a3l0czhXVThiWkpHdXE0VlcxMWJHNGZiZTI5d1VFRnZOM3VoMHpZT05Vb3dWNzlnREhlRVgxakZ3cjd3X1VXX0lXTGtKYl9aSE81WDhBWVZqTnc?oc=5",
+        "published_at": "Tue, 04 Aug 2026 17:00:44 GMT",
+        "snippet": "مفاوضات روما: لبنان \"لم يتلقَّ أجوبة من المستوى السياسي الإسرائيلي\" بشأن الالتزام بوقف إطلاق النار BBC بارعة الأحمر تكتب: رهانات لبنان في روما.. كيف تبدأ السيادة؟ CNN Arabic إيطاليا بين المرشحين.. مفاوضات روما تبحث الجهة التي ستتولى التحقق من نزع سلاح حزب الله arabic.euronews.com إسرائيل ولبنان يستأنفان محادثات روما وسط توترات مع حزب الله صحيفة سبق الإلكترونية مفاوضات بين لبنان وإسرائيل في روما.. وسلاح حزب الله على الطاولة العربية",
+        "short_explanation": "Lebanon-Israel talks in Rome focus on ceasefire and Hezbollah disarmament tensions."
+      },
+      {
+        "title": "قطر تكشف عن \"تقدم ملحوظ ومسودات اتفاق\" لحل أزمة إيران وأمريكا - CNN Arabic",
+        "source_name": "CNN Arabic",
+        "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMnoxY281dlFRSEk5Vmp0R3NpdUhTQmFaTGE0dHlCRGZRVHQwR2NyMFpBSk1BQjMxcUxhanNxaUxjR1JDSGhsbGVObWpVRHFCWFZ6ekdFemROZjNZM0ZfYVVuSjNRNHlKLUFISC1CeU5UbHNhMzNxaVBtVUQ5VGlsa0dOU0c5aDBYSjhNZi1pV1BYSUNGbkxlSE16QWhDRG9kR3REM2RXTi01dlBFdnE5ZVRDS25wN2Iwenk1c0xveGlSTzFYY1VrT1MtWdIB1gFBVV95cUxPZU1TTmM0N2pGRV9BZUctODZXZmo2anc0VWdwb1g5YUQtMmNHb2xOZE1SY3dHS2FWTVU0bVNaSTJaUlpDcHJySUJfNFEtSmFab1BXS29jWWxPRW1fNnktYm05OGNiRFdJU3pQU2Q2bVc1S1pNLS1EU3FlY1Rfa0FkZzBWR0V2NGxySlBqM1d2c1d1SW1FNC04TEc0Rk5pUV9jMTN2bFBtOU5NQmE4VFh4QXhDNVJzaHp1ZGFYVm03RXdaUG5zbWZHZ3ZPemxMOWFzb3dxLU5n?oc=5",
+        "published_at": "Tue, 04 Aug 2026 12:57:41 GMT",
+        "snippet": "قطر تكشف عن \"تقدم ملحوظ ومسودات اتفاق\" لحل أزمة إيران وأمريكا CNN Arabic اتصال هاتفي بين ترامب وأمير قطر وسط \"تقدم\" في مفاوضات إيران CNN Arabic أمير قطر والرئيس الأميركي يناقشان جهود خفض التصعيد الشرق الأوسط سياسي / سمو وزير الخارجية يتلقى اتصالين هاتفيين من وزيري خارجية قطر والأردن وكالة الأنباء السعودية متحدث «الخارجية القطرية»: لا اتفاق حتى الآن بين واشنطن وطهران عكاظ",
+        "short_explanation": "Qatar reports progress in US-Iran talks, key for reducing Middle East conflict."
+      }
+    ],
+    "trends": [
+      {
+        "title": "Thudakkam Official Trailer - Malayalam Movie Release August 7, 2026",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Aashirvad Cinemas)",
+        "score_label": "trending #2",
+        "rank_score": 990,
+        "published_at": "2026-08-03T13:38:33Z",
+        "source_url": "https://www.youtube.com/watch?v=ivZ2c69D69E",
+        "external_url": "https://www.youtube.com/watch?v=ivZ2c69D69E",
+        "context": "Aashirvad Cinemas. #Thudakkam #VismayaMohanlal #JudeAnthanyJoseph #AashishJoeAntony #AashirvadCinemas #Mohanlal #JakesBejoy #ThudakkamTrailer #ThudakkamMovie \n\nPresenting Thudakkam - Official Trailer | Vismaya Mohanlal | Jude Anthany Joseph | Aashish Joe Antony \n\nWorldwide Release  - August 7, 2026\n\nMovie : Thudakkam\nDirector : Jude Anthany Joseph\nProducer : Antony Perumbavoor\nProduction : Aashirv",
+        "short_explanation": "Malayalam movie trailer releasing in 2026, showing growing interest in diverse cinema."
+      },
+      {
+        "title": "SRK Prabhas aur Yash ko yaad aayegi NANI 😎 | #Yogipedia 265 | Yogi Bolta Hai",
+        "platform": "youtube",
+        "source_label": "YouTube trending (YOGI BOLTA HAI)",
+        "score_label": "trending #8",
+        "rank_score": 930,
+        "published_at": "2026-08-03T03:38:43Z",
+        "source_url": "https://www.youtube.com/watch?v=dEz-lLo7fF0",
+        "external_url": "https://www.youtube.com/watch?v=dEz-lLo7fF0",
+        "context": "YOGI BOLTA HAI. Toxic Trailer Release Date\nToxic Movie\nThe Paradise Movie Release Date\nThe Paradise Movie Update\nThe Paradise Teaser\nMirzapur The Movie Trailer Release Date\nRamayana Update\nYeh Prem Moh Liya\nKing Movie Update\nShahrukh Khan New Movie\nFauzi Casting Update\nElvish Yadav Debut Movie\nSpiderman Brand New Day Collection\nVaranasi and Mahesh Babu Craze \nYogipedia\nYogipedia by Yogi Bolta Hai",
+        "short_explanation": "Unclear local trend."
+      },
+      {
+        "title": "Guide to Saudi Arabian Reddit Communities",
+        "platform": "reddit",
+        "source_label": "r/saudiarabia",
+        "score_label": "r/saudiarabia hot #1",
+        "rank_score": 1000,
+        "published_at": "2025-08-10T12:40:41+00:00",
+        "source_url": "https://www.reddit.com/r/saudiarabia/comments/1mmhjnl/دليل_المجتمعات_السعودية/",
+        "external_url": "https://www.reddit.com/r/saudiarabia/comments/1mmhjnl/دليل_المجتمعات_السعودية/",
+        "context": "معًا لإثراء المحتوى السعودي والعربي على ريديت. أقدّم لكم بعض المجتمعات المفيدة، آملًا أن تنال إعجابكم وتحظى بدعمكم ونشركم لها. 1. المدن والمناطق السعودية ‏- r/jeddahnolimits – جدة بلا حدود ‏- r/Riyadh – مجتمع الرياض، أخبار وفعاليات ‏- r/yanbu – يخص أهل ينبع ‏- r/tabuk – مجتمع أهل تبوك ‏- r/ShababAlMadinah – شباب المدينة المنورة ‏- r/Sakakah – مجتمع مدينة سكاكا ‏- r/Hailsaudi – عن حائل وأهلها ‏- r/",
+        "short_explanation": "Reddit communities for Saudi cities share local news and culture online."
+      },
+      {
+        "title": "Cairokee - Tata Tata (Official Song)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (CairokeeOfficial)",
+        "score_label": "trending #1",
+        "rank_score": 1000,
+        "published_at": "2026-08-03T18:00:30Z",
+        "source_url": "https://www.youtube.com/watch?v=eJpTFp0dbqk",
+        "external_url": "https://www.youtube.com/watch?v=eJpTFp0dbqk",
+        "context": "CairokeeOfficial. ماتيجي تيجي تيجي \nتاخدي بايدي \nليل نهار انا هحب فيكي \nنهرب ونسيب الدنيا \nنروح مكان لسه حقيقي \n\nعندي عربية روسي لادا \nحمالة قسية دبابة \nفيها محبة رغم المشقة \nماتيجي بقي حبة نتشاقى \n\nهاخدك اماكن فيها ساكن \nاحلام قديمة بتقاتل\nالناس بتجري انا مش قادر \nلذلك بطلت احاول \n\nماشي بشويش جدا تاتا تاتا \nتاتا تاتا تاتا \nالناس بتجري وتتغابى\nغابة غابة غابة \n\nماشي بشويش جدا تاتا تاتا \nتاتا تاتا ت",
+        "short_explanation": "Popular Arabic song by Cairokee expressing love and life's struggles."
+      },
+      {
+        "title": "Assala Nasri - Assala (Official Music Video 2026)",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Assala Nasri)",
+        "score_label": "trending #4",
+        "rank_score": 970,
+        "published_at": "2026-08-03T14:00:06Z",
+        "source_url": "https://www.youtube.com/watch?v=mz9F6mCFftI",
+        "external_url": "https://www.youtube.com/watch?v=mz9F6mCFftI",
+        "context": "Assala Nasri. #Rotana2026 #Rotana #Assala\nAssala - Assala | Official Music Video 2026 | أصالة - أصالة \n\n✶ Lyrics : Amjad Jomaa | أمجد جمعة\n✶ Composition : Amjad Jomaa | أمجد جمعة\n✶ Arrangement : Fouad Jned | فؤاد جنيد\n\nإشترك في قناة أصالة | Subscribe To Assala Channel\nhttps://bit.ly/3Cuwmw8\n\n✶ Lyrics | الكلمات \n\nكل ما طلعت هالشمس \nكل ما غيّب هالقمــــــر \nاتخيلك حدي وأحـــس \nيحلا ويطول السهــــر\nب",
+        "short_explanation": "New 2026 music video by famous Arab singer Assala Nasri."
+      },
+      {
+        "title": "Marvel Rivals: The Hood Character Reveal Trailer",
+        "platform": "youtube",
+        "source_label": "YouTube trending (Marvel Rivals)",
+        "score_label": "trending #5",
+        "rank_score": 960,
+        "published_at": "2026-08-04T16:00:00Z",
+        "source_url": "https://www.youtube.com/watch?v=YMweqIzyB7s",
+        "external_url": "https://www.youtube.com/watch?v=YMweqIzyB7s",
+        "context": "Marvel Rivals. From the shadows of the New York underground comes the newest power-hungry villain. 🔥\n \nCloaked in a cursed mantle, Parker Robbins lost his faith in heroes alongside his father and his world's Captain America - replacing it with an insatiable appetite for the power to change the world. Stealing an enchanted cloak from the Vault, he remade himself as the feared crime lord, The Hood.",
+        "short_explanation": "Trailer reveals Marvel villain The Hood, popular in global comic culture."
+      },
+      {
+        "title": "ابي افضل ساعة ذكيه تحت 300",
+        "platform": "reddit",
+        "source_label": "r/saudiarabia",
+        "score_label": "r/saudiarabia hot #25",
+        "rank_score": 760,
+        "published_at": "2026-08-04T12:38:15+00:00",
+        "source_url": "https://www.reddit.com/r/saudiarabia/comments/1vf95us/ابي_افضل_ساعة_ذكيه_تحت_300/",
+        "external_url": "https://www.reddit.com/r/saudiarabia/comments/1vf95us/ابي_افضل_ساعة_ذكيه_تحت_300/",
+        "context": "submitted by /u/Just-ARandom_Guyy [link] [comments]",
+        "short_explanation": "Request for best smart watch under 300 SAR, showing tech interest."
+      },
+      {
+        "title": "Seeking Help to Exit Saudi Arabia Without Iqama",
+        "platform": "reddit",
+        "source_label": "r/saudiarabia",
+        "score_label": "r/saudiarabia hot #3",
+        "rank_score": 980,
+        "published_at": "2026-08-04T19:42:55+00:00",
+        "source_url": "https://www.reddit.com/r/saudiarabia/comments/1vfkr3z/please_help_me_on_how_to_get_exit_without_iqama/",
+        "external_url": "https://www.reddit.com/r/saudiarabia/comments/1vfkr3z/please_help_me_on_how_to_get_exit_without_iqama/",
+        "context": "Please HELP ME ON HOW TO GET EXIT WITH BORDER NUMBER. Hi , i am a civil engineer came to saudi on engineer visa, because of mosadaqa my degree did not get verified and the iqama cannot be issued without saudi council of engineers approval. My 90 days after entering saudi has been passed, its been 7 months now without iqama. Could you please help me or guide me on how to get the exit. submitted by ",
+        "short_explanation": "Person seeks advice to leave Saudi without official residency permit."
+      }
+    ]
+  }
+}
