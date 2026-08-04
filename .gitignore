@@ -1,5 +1,6 @@
 # Secrets
 key.txt
+reddit_key.txt
 .env
 .env.*
 !.env.example

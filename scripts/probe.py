@@ -46,6 +46,13 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 REDDIT_MIN_INTERVAL = float(os.getenv("REDDIT_MIN_INTERVAL", "25"))
 _last_reddit_request = 0.0
 
+# Reddit wants a unique, descriptive User-Agent for OAuth requests.
+REDDIT_USER_AGENT = os.getenv(
+    "REDDIT_USER_AGENT", "python:world-signals:0.2 (by /u/worldsignals)"
+)
+_reddit_token: str | None = None
+_reddit_token_tried = False
+
 
 def reddit_throttle() -> None:
     global _last_reddit_request
@@ -540,17 +547,137 @@ def load_youtube_api_key() -> str | None:
     return None
 
 
+def load_reddit_credentials() -> tuple[str, str] | None:
+    """Read-only Reddit app credentials (client_id, client_secret) from env or a
+    reddit_key.txt file (two lines, or `id:secret`)."""
+    cid = os.getenv("REDDIT_CLIENT_ID")
+    csec = os.getenv("REDDIT_CLIENT_SECRET")
+    if cid and csec:
+        return cid.strip(), csec.strip()
+    for path in [Path.cwd() / "reddit_key.txt", PROJECT_ROOT / "reddit_key.txt"]:
+        if not path.exists():
+            continue
+        lines = [line.strip() for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
+        if len(lines) >= 2:
+            return lines[0], lines[1]
+        if len(lines) == 1 and ":" in lines[0]:
+            cid, csec = lines[0].split(":", 1)
+            return cid.strip(), csec.strip()
+    return None
+
+
+def get_reddit_token(client_id: str, client_secret: str, timeout: float) -> str | None:
+    """App-only OAuth token (client_credentials grant). Cached for the run.
+    Authenticated requests aren't IP-blocked like anonymous ones, so this is
+    what lets a datacenter/CI runner read Reddit reliably."""
+    global _reddit_token, _reddit_token_tried
+    if _reddit_token or _reddit_token_tried:
+        return _reddit_token
+    _reddit_token_tried = True
+    try:
+        response = requests.post(
+            "https://www.reddit.com/api/v1/access_token",
+            auth=(client_id, client_secret),
+            data={"grant_type": "client_credentials"},
+            headers={"User-Agent": REDDIT_USER_AGENT},
+            timeout=timeout,
+        )
+        response.raise_for_status()
+        _reddit_token = response.json().get("access_token")
+    except Exception as exc:  # noqa: BLE001
+        print(f"[probe] reddit oauth token failed: {exc}", file=sys.stderr)
+        _reddit_token = None
+    return _reddit_token
+
+
+def fetch_reddit_via_oauth(
+    config: CountryConfig,
+    limit: int,
+    timeout: float,
+    token: str,
+) -> tuple[list[TrendCandidate], dict[str, Any]]:
+    """Authenticated JSON listing via oauth.reddit.com. Richer than RSS (score,
+    stickied flag) and not IP-blocked, so it works from CI."""
+    candidates: list[TrendCandidate] = []
+    seen: set[str] = set()
+    per_sub_diag: list[dict[str, Any]] = []
+    headers = {"Authorization": f"Bearer {token}", "User-Agent": REDDIT_USER_AGENT}
+
+    for sub in config.subreddits:
+        if len(candidates) >= limit:
+            break
+        time.sleep(0.6)  # polite; OAuth allows ~100 requests/minute
+        url = f"https://oauth.reddit.com/r/{sub}/hot?limit=25&raw_json=1"
+        try:
+            response = requests.get(url, headers=headers, timeout=timeout)
+            response.raise_for_status()
+            children = response.json().get("data", {}).get("children", [])
+        except Exception as exc:  # noqa: BLE001
+            per_sub_diag.append({"subreddit": sub, "status": "error", "message": str(exc)})
+            continue
+
+        kept = 0
+        for rank, child in enumerate(children):
+            data = child.get("data", {})
+            if data.get("stickied"):
+                continue  # skip pinned mod/announcement posts (precise here)
+            title = (data.get("title") or "").strip()
+            if not title:
+                continue
+            dedupe_key = normalize_key(title)
+            if not dedupe_key or dedupe_key in seen:
+                continue
+            seen.add(dedupe_key)
+            permalink = data.get("permalink") or ""
+            post_url = f"https://www.reddit.com{permalink}" if permalink else ""
+            external = (data.get("url") or "").strip()
+            candidates.append(
+                TrendCandidate(
+                    title=title,
+                    platform="reddit",
+                    source_label=f"r/{sub}",
+                    score_label=f"r/{sub} · {data.get('score', 0)} upvotes",
+                    rank_score=max(0, 1000 - rank * 10),
+                    published_at=utc_from_timestamp(data.get("created_utc") or 0),
+                    source_url=post_url or external,
+                    external_url=external or post_url,
+                    context=strip_html(data.get("selftext") or "")[:400],
+                )
+            )
+            kept += 1
+        per_sub_diag.append({"subreddit": sub, "status": "ok", "items_kept": kept})
+
+    diagnostic = {"source": "reddit_oauth", "subreddits": per_sub_diag, "items_kept": len(candidates)}
+    return candidates, diagnostic
+
+
 def fetch_reddit_candidates(
     config: CountryConfig,
     limit: int,
     timeout: float,
 ) -> tuple[list[TrendCandidate], dict[str, Any]]:
-    """Country/culture subreddit hot posts via the .rss feed (the .json API is
-    403-blocked for anonymous clients). Rate-limited, so we sleep between subs
-    and back off once on 429."""
+    """Country/culture subreddit hot posts. Uses authenticated OAuth if
+    credentials are available (works from CI/datacenter IPs); otherwise falls
+    back to the anonymous .rss feed (fine on residential IPs, may 403 in CI)."""
     if not config.subreddits:
-        return [], {"source": "reddit_rss", "status": "disabled", "message": "no subreddits configured"}
+        return [], {"source": "reddit", "status": "disabled", "message": "no subreddits configured"}
 
+    creds = load_reddit_credentials()
+    if creds:
+        token = get_reddit_token(creds[0], creds[1], timeout)
+        if token:
+            return fetch_reddit_via_oauth(config, limit, timeout, token)
+
+    return fetch_reddit_via_rss(config, limit, timeout)
+
+
+def fetch_reddit_via_rss(
+    config: CountryConfig,
+    limit: int,
+    timeout: float,
+) -> tuple[list[TrendCandidate], dict[str, Any]]:
+    """Anonymous fallback: the .rss feed (the .json API is 403 for anonymous
+    clients). Rate-limited, so we throttle between subs and back off on 429."""
     atom = {"a": "http://www.w3.org/2005/Atom"}
     candidates: list[TrendCandidate] = []
     seen: set[str] = set()

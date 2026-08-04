@@ -108,19 +108,27 @@ python -m http.server 8766     # http://127.0.0.1:8766/
 Faster iteration: `--country US --country JP` to limit scope, `--dry-run` to
 skip the LLM and just inspect candidate fetching.
 
-**Keys** come from env vars (or gitignored `key.txt` / `youtube_key.txt`):
-`OPENAI_API_KEY`, `YOUTUBE_API_KEY`.
+**Keys** come from env vars (or gitignored `key.txt` / `youtube_key.txt` /
+`reddit_key.txt`):
+
+- `OPENAI_API_KEY` — news/meme summarization
+- `YOUTUBE_API_KEY` — YouTube Data API v3 (free quota)
+- `REDDIT_CLIENT_ID` / `REDDIT_CLIENT_SECRET` — *optional* read-only Reddit app.
+  Without them the probe falls back to Reddit's anonymous RSS feed, which works
+  locally but is IP-blocked from datacenter/CI runners.
 
 ## Deployment
 
 `.github/workflows/deploy.yml` refreshes the data weekly (Mondays 08:00 UTC),
 rebuilds the JSON, and deploys the static site to GitHub Pages. It also deploys
-on push (reusing committed data, no API cost). One-time setup: add the two API
-keys as Actions secrets, and set Pages → Source → *GitHub Actions*.
+on push (reusing committed data, no API cost). One-time setup: add the API keys
+as Actions secrets (`OPENAI_API_KEY`, `YOUTUBE_API_KEY`, and — to keep Reddit
+working from CI — `REDDIT_CLIENT_ID` / `REDDIT_CLIENT_SECRET`), and set
+Pages → Source → *GitHub Actions*.
 
-> Reddit blocks datacenter IPs, so a CI refresh may lose its Reddit half (it
-> degrades to YouTube + news). For full-quality Reddit data, run the refresh
-> locally and commit `public/data/`.
+> Reddit IP-blocks datacenter runners for *anonymous* requests, so the pipeline
+> uses read-only Reddit OAuth in CI. Without those two secrets it degrades
+> gracefully to YouTube + news.
 
 ## Honest limitations
 
