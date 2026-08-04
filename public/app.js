@@ -466,8 +466,32 @@ function bindLayerSwitcher() {
   }
 }
 
+function bindAboutModal() {
+  const modal = document.querySelector("#about-modal");
+  const openBtn = document.querySelector("#about-btn");
+  const closeBtn = document.querySelector("#about-close");
+  if (!modal || !openBtn) return;
+
+  const open = () => {
+    modal.hidden = false;
+  };
+  const close = () => {
+    modal.hidden = true;
+  };
+
+  openBtn.addEventListener("click", open);
+  closeBtn?.addEventListener("click", close);
+  modal.addEventListener("click", (event) => {
+    if (event.target instanceof HTMLElement && event.target.dataset.close) close();
+  });
+  document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && !modal.hidden) close();
+  });
+}
+
 async function bootstrap() {
   bindLayerSwitcher();
+  bindAboutModal();
 
   try {
     const [payload, world] = await Promise.all([fetchJson(DATA_URL), fetchJson(WORLD_URL)]);

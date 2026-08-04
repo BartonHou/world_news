@@ -3,19 +3,47 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>World Signals Prototype</title>
+    <title>World Signals — a live map of what the world is talking about</title>
+    <meta
+      name="description"
+      content="Hover any of 20 countries to see today's top news and a piece of real internet culture (Reddit / YouTube), explained for a global audience by AI."
+    />
+
+    <!-- Emoji favicon (no file needed) -->
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🌍</text></svg>"
+    />
+
+    <!-- Social share preview -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="World Signals — a live map of what the world is talking about" />
+    <meta
+      property="og:description"
+      content="20 countries, today's top news + real internet culture (Reddit / YouTube), explained by AI."
+    />
+    <meta property="og:url" content="https://bartonhou.github.io/world_news/" />
+    <meta property="og:image" content="https://bartonhou.github.io/world_news/public/og.png" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="World Signals" />
+    <meta
+      name="twitter:description"
+      content="A live map of what the world is talking, laughing, and arguing about."
+    />
+    <meta name="twitter:image" content="https://bartonhou.github.io/world_news/public/og.png" />
+
     <link rel="stylesheet" href="./public/styles.css" />
   </head>
   <body>
     <div class="page-shell">
       <header class="hero">
         <div class="hero-copy">
-          <p class="eyebrow">Phase 1 Static Prototype</p>
+          <p class="eyebrow">Live · 20 countries · refreshed weekly</p>
           <h1>World Signals</h1>
           <p class="hero-text">
-            A zero-backend map for testing whether country cards feel worth
-            exploring. Hover a lit-up country for a quick read. Click for the
-            full card.
+            What each country is talking, laughing, and arguing about today.
+            Hover a lit-up country for a quick read; click for the full story.
+            <button id="about-btn" class="about-link" type="button">How it works ↗</button>
           </p>
         </div>
         <div class="layer-switcher" role="tablist" aria-label="Signal layer">
@@ -69,6 +97,36 @@
           </div>
         </aside>
       </main>
+    </div>
+
+    <div id="about-modal" class="modal" hidden>
+      <div class="modal-backdrop" data-close="1"></div>
+      <div class="modal-card" role="dialog" aria-modal="true" aria-label="How it works">
+        <button id="about-close" class="modal-close" type="button" aria-label="Close">×</button>
+        <h2>How it works</h2>
+        <p>
+          Every week, an automated pipeline pulls fresh signals for 20 countries
+          and asks an LLM to turn them into short, outsider-friendly cards.
+        </p>
+        <ul class="about-list">
+          <li><strong>News</strong> — top stories from Google News, summarized.</li>
+          <li>
+            <strong>Internet culture</strong> — real posts from each country's
+            Reddit communities and its trending YouTube videos, balanced so you
+            get both discussion and what people are watching.
+          </li>
+          <li>
+            <strong>Everything is pre-generated</strong> — the map only reads
+            static JSON, so browsing never calls an API.
+          </li>
+        </ul>
+        <p class="about-disclaimer">
+          Summaries are AI-generated and can be incomplete or imperfect — always
+          check the original source. Built by
+          <a href="https://github.com/BartonHou" target="_blank" rel="noreferrer">Jingyuan Hou</a>.
+          <a href="https://github.com/BartonHou/world_news" target="_blank" rel="noreferrer">Source on GitHub</a>.
+        </p>
+      </div>
     </div>
 
     <script type="module" src="./public/app.js"></script>
