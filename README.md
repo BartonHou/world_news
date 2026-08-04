@@ -1,5 +1,7 @@
 # World Signals
 
+[![tests](https://github.com/BartonHou/world_news/actions/workflows/tests.yml/badge.svg)](https://github.com/BartonHou/world_news/actions/workflows/tests.yml)
+
 **A live map of what the world is talking, laughing, and arguing about.**
 
 Hover any of 20 countries to see, for *today*: its top news story and a piece of
@@ -107,6 +109,13 @@ python -m http.server 8766     # http://127.0.0.1:8766/
 
 Faster iteration: `--country US --country JP` to limit scope, `--dry-run` to
 skip the LLM and just inspect candidate fetching.
+
+Run the tests (filter pipeline, source quota, parsers — all network-free):
+
+```bash
+pip install -r requirements-dev.txt
+pytest -q
+```
 
 **Keys** come from env vars (or gitignored `key.txt` / `youtube_key.txt` /
 `reddit_key.txt`):
