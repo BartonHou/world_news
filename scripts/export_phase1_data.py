@@ -5,8 +5,17 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 from pathlib import Path
 from typing import Any
+
+
+def redact_secrets(text: str) -> str:
+    """Last line of defense: never let an API key reach public/data, even if
+    upstream probe output somehow contains one (e.g. in an error message)."""
+    text = re.sub(r"(?i)(key|api[_-]?key|token|secret)=[^&\s\"']+", r"\1=REDACTED", text)
+    text = re.sub(r"AIza[0-9A-Za-z_\-]{20,}", "REDACTED", text)
+    return text
 
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -208,7 +217,8 @@ def build_layer_records(cards: list[dict[str, Any]], layer: str) -> list[dict[st
 
 def write_json(path: Path, payload: Any) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(payload, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    text = redact_secrets(json.dumps(payload, indent=2, ensure_ascii=False))
+    path.write_text(text + "\n", encoding="utf-8")
 
 
 def main() -> int:

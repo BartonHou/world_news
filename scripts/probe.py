@@ -206,6 +206,14 @@ def parse_args() -> argparse.Namespace:
     return parser.parse_args()
 
 
+def redact_secrets(text: str) -> str:
+    """Strip API keys from any string before it can be stored/serialized.
+    Error messages from requests can embed the full request URL (with ?key=...)."""
+    text = re.sub(r"(?i)(key|api[_-]?key|token|secret)=[^&\s\"']+", r"\1=REDACTED", text)
+    text = re.sub(r"AIza[0-9A-Za-z_\-]{20,}", "REDACTED", text)
+    return text
+
+
 def now_utc() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
@@ -788,7 +796,7 @@ def fetch_youtube_candidates(
     try:
         payload = request_json(source_url, timeout=timeout)
     except Exception as exc:  # noqa: BLE001
-        return [], {"source": "youtube_trending", "status": "error", "message": str(exc)}
+        return [], {"source": "youtube_trending", "status": "error", "message": redact_secrets(str(exc))}
 
     candidates: list[TrendCandidate] = []
     seen: set[str] = set()
